@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar 
+  xmlns="http://relaxng.org/ns/structure/1.0"
+  xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+  datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
+  ns="http://www.tei-c.org/ns/1.0" 
+  xml:lang="fr"
+  >
+  <include href="../../teibook/teibook.rng">
+    <define name="div">
+      <element name="div">
+        <attribute name="xml:id">
+          <data type="ID">
+            <param name="pattern">mdf_[0-9]{4}-[0-9]{2}-[0-9]{2}_p[0-9]+([a-z])?</param>
+          </data>
+        </attribute>
+        <ref name="byline"/>
+        <ref name="head"/>
+        <ref name="bibl"/>
+        <zeroOrMore>
+          <choice>
+            <ref name="p"/>
+            <ref name="quote-p"/>
+          </choice>
+        </zeroOrMore>
+        <optional>
+          <ref name="listBibl"/>
+        </optional>
+      </element>
+    </define>
+  </include>
+</grammar>
