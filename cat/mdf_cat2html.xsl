@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:transform version="1.1" 
+<xsl:transform version="1.0" 
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
   xmlns:tei="http://www.tei-c.org/ns/1.0"
   xmlns="http://www.w3.org/1999/xhtml"
 >
   <!--
   <xsl:output encoding="UTF-8" indent="yes" method="xml" omit-xml-declaration="yes"/>
+     doctype-system="about:legacy-compat"
   -->
   <xsl:output
      method="html"
-     doctype-system="about:legacy-compat"
      encoding="UTF-8"
      indent="yes"
   />
@@ -36,10 +36,10 @@
             <tbody>
               <xsl:for-each select="/*/tei:text/tei:body/*">
                 <tr>
-                  <td>
+                  <td class="no">
                     <xsl:number/>
                   </td>
-                  <td>
+                  <td class="author">
                     <xsl:choose>
                       <xsl:when test="tei:byline/tei:docAuthor">
                         <xsl:apply-templates select="tei:byline/tei:docAuthor[1]/node()"/>
@@ -49,10 +49,10 @@
                       </xsl:otherwise>
                     </xsl:choose>
                   </td>
-                  <td>
+                  <td class="date">
                     <xsl:value-of select="substring-before(substring-after(@xml:id, '_'), '_')"/>
                   </td>
-                  <td>
+                  <td class="title">
                     <a href="#{@xml:id}">
                       <xsl:apply-templates select="tei:head/node()"/>
                     </a>

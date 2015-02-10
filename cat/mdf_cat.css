@@ -5,6 +5,7 @@ table.sortable thead  div {position: fixed; top: 0;}
 table.sortable thead  div:before{ content:'▼'}
 table.sortable thead  div:after{ content:'▲'}
 table.sortable tbody { padding-top: 2em;}
+td.date { white-space: nowrap; }
 #main { width: 40rem; margin-left: auto; margin-right: 0; }
 article h1 { margin: 0; color: #000080; font-weight: normal; }
 table.sortable { font-size: 12px; }
