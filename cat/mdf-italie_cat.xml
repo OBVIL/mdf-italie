@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" href="mdf-italie_cat.rng" ?>
-<!-- ? type="text/xsl" href="../teipub/xsl/tei2html.xsl" ? -->
-<!--odt2tei: 2015-01-24T16:35:32+01:00-->
+<?xml-stylesheet type="text/xsl" href="mdf_cat2html.xsl" ?>
 <TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -300,14 +299,14 @@
         <p><hi rend="i">La Fille de Iorio</hi>, tragédie pastorale en trois actes, de G. D’Annunzio (trad. G. Hérelle) est à l’affiche au Théâtre de l’Oeuvre. H. rend compte de la nouveauté de cette pièce dans la production de D’Annunzio : les héros sont des paysans, de nombreuses scènes violentes engendrent l’horreur chez le spectateur. Cependant, H. ne peut s’empêcher d’exprimer un doute : « Et ne serait-ce pas, après tout, par un excès de raffinement, avec une étrange volupté, que G. D’Annunzio a écrit la <hi rend="i">Fille de Iorio</hi> ? » (p. 132). En effet, ces héros « populaires » parlent parfois un langage mystérieux. On pourrait même facilement imaginer cette tragédie mise en musique. L’ensemble montre une indéniable maîtrise des effets scéniques, mais l’auteur « n’a pas su renoncer au goût qu’il a pour les morceaux de bravoure » (p. 133). Le compte rendu de la représentation se termine par des éloges à Lugné-Poe et aux acteurs de sa troupe (Suzanne Després, dans le rôle de Mila et M. Saillard, dans le rôle d’Aligi).</p>
       </div>
       <div xml:id="mdf_1905-03-15_p233">
-        <byline><hi rend="sc">Deledda Grazia</hi>, (trad. E. Albertini et Ed. Maynial)</byline>
+        <byline><docAuthor>Deledda Grazia</docAuthor>, (trad. E. Albertini et Ed. Maynial)</byline>
         <head>Les Tentations, <hi rend="i">nouvelle sarde (première partie)</hi></head>
         <bibl>15-III-1905, T. LIV, n. 186, p. 233-249.</bibl>
         <p>Félix Nurroi avait une grande crainte de Dieu. Sa bergerie était près du fleuve Tirso, dans les <hi rend="i">tancas</hi> ……</p>
         <p>Première partie de la traduction française de ……… (qui sera publiée en volume dans les éditions du « Mercure de France », en ……)</p>
       </div>
       <div xml:id="mdf_1905-04-01_p380">
-        <byline><hi rend="sc">Deledda Grazia</hi>, (trad. E. Albertini et Ed. Maynial)</byline>
+        <byline><docAuthor>Deledda Grazia</docAuthor>, (trad. E. Albertini et Ed. Maynial)</byline>
         <head>Les Tentations, <hi rend="i">nouvelle sarde, (deuxième et dernière partie)</hi></head>
         <bibl>1-IV-1905, T. LIV, n. 187, p. 380-403.</bibl>
         <p>Dernière partie de la traduction française de ……… (qui sera publiée en volume dans les éditions du « Mercure de France », en ……)</p>
