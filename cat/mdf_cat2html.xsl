@@ -110,6 +110,19 @@
       <xsl:apply-templates/>
     </u>
   </xsl:template>
+  <xsl:template match="tei:quote">
+    <blockquote>
+      <xsl:apply-templates/>
+    </blockquote>
+  </xsl:template>
+  <xsl:template match="tei:l">
+    <div class="l">
+      <xsl:apply-templates/>
+    </div>
+  </xsl:template>
+  <xsl:template match="tei:lb">
+    <br/>
+  </xsl:template>
   <xsl:template match="tei:docAuthor">
     <span class="author">
       <xsl:apply-templates/>
@@ -135,7 +148,11 @@
       <xsl:apply-templates/>
     </li>
   </xsl:template>
-  
+  <xsl:template match="tei:title">
+    <em class="title">
+      <xsl:apply-templates/>
+    </em>
+  </xsl:template>
     <!-- <*>, modèle par défaut d'interception des éléments non pris en charge -->
   <xsl:template match="*">
     <div>
