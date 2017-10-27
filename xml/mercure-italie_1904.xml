@@ -28,11 +28,11 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mdf-italie/annee-1904/</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mdf-italie/annee-1904.xml</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mdf-italie/annee-1904.html</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mdf-italie/annee-1904.epub</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mdf-italie/annee-1904.txt</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/xml/mdf-italie/annee-1904/</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/xml/mdf-italie/annee-1904.xml</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/xml/mdf-italie/annee-1904.html</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/xml/mdf-italie/annee-1904.epub</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/xml/mdf-italie/annee-1904.txt</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
