@@ -29,10 +29,10 @@
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1904/</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1904.xml</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1904.html</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1904.epub</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1904.txt</idno>
+        <idno type="tei">http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1904.xml</idno>
+        <idno type="html">http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1904.html</idno>
+        <idno type="epub">http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1904.epub</idno>
+        <idno type="txt">http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1904.txt</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -773,20 +773,20 @@
           <index>
             <term type="id">article-1904-11_447A</term>
             <term type="author">Barthélemy, Edmond (1868-1911?)</term>
-            <term type="signed">Edmond Barthélemy</term>
+            <term type="signed">Edmond Barthèlemy</term>
             <term type="section">Histoire</term>
             <term type="title">Histoire</term>
             <term type="date">1904-11</term>
             <term type="ref">Tome LII, numéro 179, novembre 1904, p. 446-456 [447-455]</term>
           </index>
-          <byline>Edmond Barthélemy.</byline>
+          <byline>Edmond Barthèlemy.</byline>
           <bibl>Tome LII, numéro 179, novembre 1904, p. 446-456 [447-455].</bibl>
           <div>
             <head>Achille Luchaire : <hi rend="i">Innocent III, Rome et l’Italie</hi> ; Hachette.</head>
             <index>
               <term type="id">article-1904-11_447a</term>
               <term type="author">Barthélemy, Edmond (1868-1911?)</term>
-              <term type="signed">Edmond Barthélemy</term>
+              <term type="signed">Edmond Barthèlemy</term>
               <term type="section">Histoire</term>
               <term type="title">Achille Luchaire : <hi rend="i">Innocent III, Rome et l’Italie</hi> ; Hachette</term>
               <term type="date">1904-11</term>
@@ -803,7 +803,7 @@
             <index>
               <term type="id">article-1904-11_448</term>
               <term type="author">Barthélemy, Edmond (1868-1911?)</term>
-              <term type="signed">Edmond Barthélemy</term>
+              <term type="signed">Edmond Barthèlemy</term>
               <term type="section">Histoire</term>
               <term type="title">Pierre Gauthiez : <hi rend="i">Lorenzaccio (Lorenzino de Médicis, 1514-1548)</hi> ; Fontemoing</term>
               <term type="date">1904-11</term>
@@ -824,7 +824,7 @@
             <index>
               <term type="id">article-1904-11_453</term>
               <term type="author">Barthélemy, Edmond (1868-1911?)</term>
-              <term type="signed">Edmond Barthélemy</term>
+              <term type="signed">Edmond Barthèlemy</term>
               <term type="section">Histoire</term>
               <term type="title">André Lebey : <hi rend="i">Le Connétable de Bourbon, 1490-1527</hi> ; Perrin et Cie</term>
               <term type="date">1904-11</term>

@@ -29,10 +29,10 @@
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1907/</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1907.xml</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1907.html</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1907.epub</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1907.txt</idno>
+        <idno type="tei">http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1907.xml</idno>
+        <idno type="html">http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1907.html</idno>
+        <idno type="epub">http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1907.epub</idno>
+        <idno type="txt">http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1907.txt</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -64,13 +64,13 @@
           <index>
             <term type="id">article-1907-01-01_123</term>
             <term type="author">Barthélemy, Edmond (1868-1911?)</term>
-            <term type="signed">Edmond Barthélemy</term>
+            <term type="signed">Edmond Barthèlemy</term>
             <term type="section">Histoire</term>
             <term type="title">G. Ferrero : <hi rend="i">Grandeur et Décadence de Rome</hi>, t. IV : <hi rend="i">Antoine et Cléopâtre</hi> ; Plon-Nourrit.</term>
             <term type="date">1907-01-01</term>
             <term type="ref">Tome LXV, numéro 229, 1<hi rend="sup">er</hi> janvier 1907, p. 123-129 [123-126]</term>
           </index>
-          <byline>Edmond Barthélemy.</byline>
+          <byline>Edmond Barthèlemy.</byline>
           <bibl>Tome LXV, numéro 229, 1<hi rend="sup">er</hi> janvier 1907, p. 123-129 [123-126].</bibl>
           <p>En même temps qu’il faisait son Cours du Collège de France, M. Guglielmo Ferrero publiait le t. IV de son histoire romaine : <hi rend="i">Antoine et Cléopâtre</hi>. Il comprend les événements qui se succèdent depuis la fin de la guerre de Pérouse jusqu’à la chute d’Alexandrie. Aux dernières pages de son précédent volume, où il a donné toute son importance à la figure d’Antoine, M. Ferrero nous montrait celui-ci méditant la mise à exécution de la dernière grande pensée de César : la conquête de la Perse. Seul celui qui accomplirait cette conquête serait assez puissant pour dominer les événements, et faire sortir quelque chose de la dissolution où les guerres civiles et le gouvernement violent et stérile du triumvirat avaient jeté le monde romain. L’historien continue presque exclusivement de ce point de vue l’étude du rôle d’Antoine. Le roman d’amour avec Cléopâtre passe au second plan. Antoine avait avant tout besoin de l’énorme trésor des Lagides pour ses ambitieux projets en Perse. Il y eut d’abord entre le triumvir et la reine d’Égypte une association d’intérêts politiques.</p>
           <p>On vient de voir en quoi ils consistaient pour Antoine. Du côté de Cléopâtre, il s’agissait d’affermir un trône doublement menacé, à l’extérieur par la domination romaine, à l’intérieur par de nombreux mécontentements. L’historien insiste sur ce dernier fait, qu’il rapporte d’après Dion Cassius, et qui lui paraît expliquer toute la conduite de Cléopâtre. Le « coup de foudre » initial, sur le Cydnus, est une belle chose ; mais M. Ferrero, qui a déjà écarté bien des explications simplistes, n’était pas homme à se contenter de celle-ci non plus, qui lui semble avoir été inventée <quote>« pour cacher une lutte beaucoup plus sérieuse d’intérêts politiques »</quote>. Du traité de Brindes jusqu’à l’accord de Tarente, période remplie par les premières phases de la lutte entre Octave et Antoine, celui-ci, constate M. Ferrero, <quote>« vécut trois années loin de Cléopâtre »</quote>. Il pouvait donc se passer d’elle. <quote>« Et il revenait à elle, qui était la reine du seul pays d’Orient que les guerres civiles n’eussent pas encore ruiné, au moment où il avait pour son entreprise un si grand besoin d’argent qu’il était obligé de céder une partie de sa flotte à son collègue. »</quote></p>
@@ -1165,13 +1165,13 @@
           <index>
             <term type="id">article-1907-04-15_728</term>
             <term type="author">Barthélemy, Edmond (1868-1911?)</term>
-            <term type="signed">Edmond Barthélemy</term>
+            <term type="signed">Edmond Barthèlemy</term>
             <term type="section">Histoire</term>
             <term type="title">Émile Bourgeois et E. Clermont : <hi rend="i">Rome et Napoléon III</hi> ; Armand Colin</term>
             <term type="date">1907-04-15</term>
             <term type="ref">Tome LXVI, numéro 236, 15 avril 1907, p. 725-730 [728-730]</term>
           </index>
-          <byline>Edmond Barthélemy.</byline>
+          <byline>Edmond Barthèlemy.</byline>
           <bibl>Tome LXVI, numéro 236, 15 avril 1907, p. 725-730 [728-730].</bibl>
           <p>L’histoire des rapports de l’ultramontanisme et du second Empire, déjà éparse en maints ouvrages et dans les documents officiels, a été systématiquement étudiée par MM. Émile Bourgeois et E. Clermont dans les trois moments où elle tient presque tout entière : l’expédition de Rome en 1849 ; la Convention du 15 septembre 1864, définissable comme une tentative pour laisser s’arranger entre elles Rome et l’Italie, en se bornant à maintenir la garnison française de Civita-Vecchia ; enfin l’essai de triple alliance franco-italo-autrichienne, en 1869 et en 1870, essai que la question romaine fit, d’après les apparences, échouer. M. E. Clermont est l’auteur des deux premières parties de l’ouvrage, relatives à l’expédition de Rome et à la Convention de 1864. M. Émile Bourgeois s’est réservé de conclure, en étudiant de son côté l’essai de triple alliance de l’Empire finissant.</p>
           <p>Dans son histoire de l’expédition de Rome, M. E. Clermont a examiné, en reproduisant les pièces diplomatiques, les circonstances qui aboutirent à la restauration du pouvoir temporel de Pie IX dans des conditions outrepassant certainement les intentions premières du gouvernement français, lequel se trouva engagé de telle sorte que le maintien du Pape à Rome devint un des objets principaux de sa politique. Telle fut l’origine de la politique ultramontaine du second Empire. Tandis qu’en Italie le général Oudinot, envoyé comme médiateur armé entre le Pape et le peuple romain, se voyait poussé, par un entourage ultramontain, à prendre Rome, à détruire le gouvernement républicain de Mazzini et à couper court aux négociations patientes de notre ambassadeur, M. de Lesseps (on sait que c’est à la suite de ses déboires d’alors que celui-ci quitta la diplomatie et entreprit de percer le canal de Suez) ; tandis que ceci se passait à Rome, en France les élections du 13 mai 1849 grandissaient le pouvoir du parti catholique dont la prépondérance s’imposait au Prince-Président, tenu d’approuver la tournure prise par les événements de la Péninsule. Le Pape revint, bien guéri de sa chimère libérale, plein d’idées absolutistes, réfractaire à tout tempérament, à toute politique modérée qui eût pu, pour plus tard, faire espérer un certain accommodement entre lui et la monarchie piémontaise. L’illusion de ce <hi rend="i">modus vivendi</hi> se retrouve cependant au fond de la Convention de 1864. Lassé, cherchant à se dégager, Napoléon III aurait bien voulu renvoyer en quelque sorte dos à dos le pape et le roi. On sait que Mentana mit fin à ces velléités (1867). Notre corps expéditionnaire occupa Rome.</p>
@@ -1526,13 +1526,13 @@
           <index>
             <term type="id">article-1907-06-01_506</term>
             <term type="author">Barthélemy, Edmond (1868-1911?)</term>
-            <term type="signed">Edmond Barthélemy</term>
+            <term type="signed">Edmond Barthèlemy</term>
             <term type="section">Histoire</term>
             <term type="title">Memento [extrait]</term>
             <term type="date">1907-06-01</term>
             <term type="ref">Tome LXVII, numéro 239, 1<hi rend="sup">er</hi> juin 1907, p. 502-506 [506]</term>
           </index>
-          <byline>Edmond Barthélemy.</byline>
+          <byline>Edmond Barthèlemy.</byline>
           <bibl>Tome LXVII, numéro 239, 1<hi rend="sup">er</hi> juin 1907, p. 502-506 [506].</bibl>
           <p>D’une étude historique et doctrinale sur <hi rend="i">le Procès de Galilée</hi>, par M. Gaston Sortais (Bloud), nous citons cette conclusion, qui indique très nettement les points sur lesquels ont portée l’examen et les appréciations de l’auteur : <quote>« Les congrégations romaines et les papes Paul V et Urbain VIII se sont trompés en condamnant Galilée. »</quote> (Conclusion générale, mais voici le point de vue spécial :) <quote>« Qu’importe, cependant, au point de vue doctrinal, le seul qui nous préoccupe actuellement, puisque les sentences des congrégations sont réformables et que, dans l’espèce, les papes Paul V et Urbain VIII n’ont pas parlé <hi rend="i">ex-cathedrâ</hi>, c’est-à-dire n’ont point imposé une doctrine à la croyance de l’Église universelle. L’infaillibilité pontificale est donc hors de cause. »</quote></p>
           <p>[…]</p>
@@ -2044,13 +2044,13 @@
           <index>
             <term type="id">article-1907-08-01_512</term>
             <term type="author">Barthélemy, Edmond (1868-1911?)</term>
-            <term type="signed">Edmond Barthélemy</term>
+            <term type="signed">Edmond Barthèlemy</term>
             <term type="section">Histoire</term>
             <term type="title">Maurice Vitrac : <hi rend="i">Philippe-Égalité et Monsieur Chiappini</hi> ; M. Daragon</term>
             <term type="date">1907-08-01</term>
             <term type="ref">Tome LXVIII, numéro 243, 1<hi rend="sup">er</hi> août 1907, p. 508-513 [512-513]</term>
           </index>
-          <byline>Edmond Barthélemy.</byline>
+          <byline>Edmond Barthèlemy.</byline>
           <bibl>. Tome LXVIII, numéro 243, 1<hi rend="sup">er</hi> août 1907, p. 508-513 [512-513]</bibl>
           <p>Ce pauvre Louis-Philippe, dont la situation, comme on vient de le voir, ne fut en vérité que trop malaisée, eut encore, par-dessus le marché, maille à partir, après sa mort, avec les Naundorffistes, qui, s’ils ont octroyé à Naundorff le droit de porter le nom de Bourbon, ont refusé au fils de Philippe-Égalité le droit de porter le nom d’Orléans. Celui-ci ne serait autre que le fils d’un certain Chiappini, geôlier italien. Substitution d’enfants. Ce que c’est tout de même ! Le duc de Chartres (plus tard Philippe-Égalité) et la duchesse, voulant absolument un héritier mâle, auraient fait le troc d’une fille, au jour de la naissance, contre un autre enfant, un garçon, le fils du Chiappini en question, né vers le même temps. Cette fille, baptisée Marie-Stella Chiappini et devenue lady Newborough, aurait découvert le faux, et elle prétendit effectivement, — munie d’un jugement qui mentionnait bien le fait d’une substitution d’enfants, lequel semble avéré, mais sans nommer le moins du monde le duc de Chartres (et pour cause) comme le complice de Chiappini dans cette substitution, — elle prétendit, disons-nous, prendre, dans la maison d’Orléans, le rang que Louis-Philippe, vulgaire Chiappini (!), y usurpait. Croira-t-on que l’affaire fit du bruit à l’époque ? Le parti Naundorffiste s’est appliqué à continuer et à grossir ce bruit. <quote>« Les écrivains orléanistes, dit M. Maurice Vitrac, avaient de bonnes raisons de douter que Naundorff fût Louis XVII, n’était-il pas de bonne guerre que le parti Naundorffiste s’efforçât d’établir que Louis-Philippe, étant né d’un geôlier italien, les prétentions de la Maison d’Orléans à la couronne de France étaient ridicules ? »</quote> M. Duquesne, parent des Naundorff, a publié, sous le pseudonyme de Paul Dumont, un ouvrage destiné à prouver le bon droit de Lady Newborough. C’est cet ouvrage que réfute M. Vitrac, en établissant, d’une part, qu’à la date de la substitution Chiappini, en Italie, le duc et la duchesse de Chartres se trouvaient en France, et, d’autre part, que le complice de Chiappini était un certain comte Battaglini. La discussion de fait occupe les deux derniers chapitres et un appendice. Les premiers chapitres recomposent la vie du duc de Chartres à l’époque de son mariage avec M<hi rend="sup">lle</hi> de Bourbon-Penthièvre, et depuis, jusqu’à la naissance de M. de Valois (le futur Louis-Philippe). Ce sont les pages les plus agréables à lire, et puisque la question Chiappini nous a valu ce tableau de la société du Palais-Royal, félicitons-nous qu’elle ait existé, quelque oiseuse qu’elle soit, d’autant qu’elle n’existe certainement plus après l’exposé péremptoire de M. Maurice Vitrac.</p>
         </div>
@@ -2802,20 +2802,20 @@
           <index>
             <term type="id">article-1907-10-15_704A</term>
             <term type="author">Barthélemy, Edmond (1868-1911?)</term>
-            <term type="signed">Edmond Barthélemy</term>
+            <term type="signed">Edmond Barthèlemy</term>
             <term type="section">Histoire</term>
             <term type="title">Histoire</term>
             <term type="date">1907-10-15</term>
             <term type="ref">Tome LXIX, numéro 248, 15 octobre 1907, p. 704-709 [704-705, 705-707]</term>
           </index>
-          <byline>Edmond Barthélemy.</byline>
+          <byline>Edmond Barthèlemy.</byline>
           <bibl>Tome LXIX, numéro 248, 15 octobre 1907, p. 704-709.</bibl>
           <div>
             <head>Charles Benoist : <hi rend="i">Le Machiavélisme</hi>, I : <hi rend="i">Avant Machiavel</hi>, Plon</head>
             <index>
               <term type="id">article-1907-10-15_704a</term>
               <term type="author">Barthélemy, Edmond (1868-1911?)</term>
-              <term type="signed">Edmond Barthélemy</term>
+              <term type="signed">Edmond Barthèlemy</term>
               <term type="section">Histoire</term>
               <term type="title">Charles Benoist : <hi rend="i">Le Machiavélisme</hi>, I : <hi rend="i">Avant Machiavel</hi>, Plon</term>
               <term type="date">1907-10-15</term>
@@ -2831,7 +2831,7 @@
             <index>
               <term type="id">article-1907-10-15_705</term>
               <term type="author">Barthélemy, Edmond (1868-1911?)</term>
-              <term type="signed">Edmond Barthélemy</term>
+              <term type="signed">Edmond Barthèlemy</term>
               <term type="section">Histoire</term>
               <term type="title">Philippe Monnier : <hi rend="i">Venise au XVIII<hi rend="sup">e</hi> siècle</hi>, Perrin</term>
               <term type="date">1907-10-15</term>
@@ -5957,13 +5957,13 @@
           <index>
             <term type="id">article-1907-12-01_496</term>
             <term type="author">Barthélemy, Edmond (1868-1911?)</term>
-            <term type="signed">Edmond Barthélemy</term>
+            <term type="signed">Edmond Barthèlemy</term>
             <term type="section">Histoire</term>
             <term type="title">Guglielmo Ferrero : <hi rend="i">Grandeur et Décadence de Rome</hi>. Tome V : <hi rend="i">La République d’Auguste</hi>. Plon-Nourrit</term>
             <term type="date">1907-12-01</term>
             <term type="ref">Tome LXX, numéro 251, 1<hi rend="sup">er</hi> décembre 1907, p. 496-500</term>
           </index>
-          <byline>Edmond Barthélemy.</byline>
+          <byline>Edmond Barthèlemy.</byline>
           <bibl>Tome LXX, numéro 251, 1<hi rend="sup">er</hi> décembre 1907, p. 496-500.</bibl>
           <p>Dans ses leçons du Collège de France, il y a un an, M. Guglielmo Ferrero avait tracé le programme des nouveaux travaux dont il nous livre aujourd’hui, avec ce premier tome sur Auguste, une importante partie. Ce portrait d’Auguste est bien tel que le faisait prévoir l’esquisse tracée devant le public du Collège de France. Les controverses qu’ont suscitées les précédentes parties de l’œuvre vont sans doute reprendre ici sur nouveaux frais. Car c’est fini de la légende de l’ambitieux hypocrite et secret, du tyran rusé qui, autant que César, a la passion du pouvoir absolu, et qui, bien plus que lui, a la science insidieuse des moyens à longue portée. Ce portrait de despote cauteleux, maniant avec une adresse consommée le dangereux glaive à deux tranchants de la puissance césarienne, un tel portrait, celui de la tradition, était généralement adopté. Et malgré ce qu’il avait de fuyant, malgré cette pose de trois-quarts où se dérobait et s’atténuait le terrible masque césarien, il n’était pas sans grandeur, sans éclat. On pouvait lui associer les idées d’empire, de souveraineté, de domination monarchique dont il est difficile de se déprendre à ce moment de l’histoire de Rome. Eh bien ! l’originalité paradoxale du nouveau portrait d’Auguste, du portrait signé Ferrero, c’est… sa modestie même, voulue ; il y a comme un parti-pris de touches ternes, de traits étroits. Ce n’est pas un pauvre homme, il s’en faut, que l’historien nous présente là ; mais c’est un homme positif, désenchanté, jusqu’à la platitude ; revenu de toute idée de grandeur et de puissance, à la fois en ce qui concerne Rome et lui-même ; ayant tous les côtés prosaïques de la sagesse politique sans rien de l’ampleur de vues que cette sagesse peut se permettre à Rome ; poussant le sentiment des difficultés de la vie jusqu’au doute quant à la puissance romaine et jusqu’à l’égoïsme bourgeois quant à lui-même ; non pas épouvanté, mais dénigrant, à force de sens rassis, devant la proportion impériale où tendent les choses, à Rome et dans sa destinée ; et menant les affaires mondiales et sa propre existence souveraine d’un train mesquin de gagne-petit.</p>
           <p>Parti-pris du portraitiste, qui ne verrait dans Auguste que le restaurateur têtu et besogneux d’une république sage ? ou discernement de ce que l’histoire contiendrait ici de plus certain ? C’est la question qu’on se posera, c’est sur ce point que portera la discussion. Mais ce que pouvait ou voulait faire Auguste dépendait bien plus de l’état de Rome que de sa propre volonté. Voilà le point de vue bien simple qui s’indique d’abord quand il faut apprécier la manière dont l’historien a compris le caractère d’Auguste. Or, le monde romain était-il mûr, ou non, pour une conception monarchique de l’autorité ? Quelle est là-dessus l’opinion de M. Ferrero ?</p>

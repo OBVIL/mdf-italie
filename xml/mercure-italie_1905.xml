@@ -29,10 +29,10 @@
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2017"/>
         <idno>http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1905/</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1905.xml</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1905.html</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1905.epub</idno>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1905.txt</idno>
+        <idno type="tei">http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1905.xml</idno>
+        <idno type="html">http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1905.html</idno>
+        <idno type="epub">http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1905.epub</idno>
+        <idno type="txt">http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1905.txt</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -1645,13 +1645,13 @@
           <index>
             <term type="id">article-1905-08-15_590</term>
             <term type="author">Barthélemy, Edmond (1868-1911?)</term>
-            <term type="signed">Edmond Barthélemy</term>
+            <term type="signed">Edmond Barthèlemy</term>
             <term type="section">Histoire</term>
             <term type="title">G. Ferrero : <hi rend="i">Grandeur et Décadence de Rome</hi>, tome I : <hi rend="i">La Conquête</hi> ; tome II : <hi rend="i">Jules César</hi> ; Plon-Nourrit</term>
             <term type="date">1905-08-15</term>
             <term type="ref">Tome LVI, numéro 196, 15 août 1905, p. 590-599 [590-594]</term>
           </index>
-          <byline>Edmond Barthélemy.</byline>
+          <byline>Edmond Barthèlemy.</byline>
           <bibl>Tome LVI, numéro 196, 15 août 1905, p. 590-599 [590-594].</bibl>
           <p>Nous avons dû attendre jusqu’à ce jour pour parler du grand ouvrage dont l’éminent historien italien, M. Guglielmo Ferrero, vient de publier, dans notre langue, le deuxième volume. Paru vers la fin de l’année dernière, le premier volume avait un caractère fragmentaire qui rendait malaisée la critique. Et en effet, de ces deux premiers volumes d’une œuvre qui s’annonce considérable, si le premier nous donne les idées de l’auteur sur l’histoire romaine, le second contient la mise en pratique de ces idées, et c’est dans cette partie démonstrative que le public savant voudra probablement apprécier leur portée. Nous ne nous engagerons pas ici dans cette discussion de doctrine, dont il nous suffit de déterminer l’objet (tome II, <hi rend="i">Jules César</hi>). M. Ferrero, d’ailleurs, ne s’est pas dépensé en considérations sur l’état général de la science touchant l’histoire romaine, chose qu’il eût au moins pu faire, comme Duruy pour son <hi rend="i">Histoire</hi>, en tant que le rapport de ses idées avec cet état général avait besoin d’être marqué par lui-même. Son avertissement est donc insuffisant. Mais hâtons-nous d’ajouter qu’à défaut d’une vraie préface les cinq premiers chapitres du tome I peuvent, aux restrictions près indiquées ci-dessus, tenir lieu d’introduction. On pourra s’y renseigner, en y ajoutant le dernier chapitre du même tome et tout le tome II, sur la méthode de l’auteur.</p>
           <p>Après avoir assez heureusement montré comment le petit noyau social du début était une communauté aristocratique-agricole où tout un système d’observances, de surveillances, etc., entretenait une rigidité quasi-monacale et le ressort de l’action, l’auteur, à propos de l’expansion militaire et mercantile de Rome dans la Méditerranée au lendemain de la seconde guerre punique, indique nettement le point de vue économique et sociologique d’où il suivra constamment le développement gigantesque qui aboutit à l’Empire. Il se réclame en ceci de Polybe qu’il déclare <quote>« le plus profond historien de l’antiquité »</quote>. Il s’empare, par exemple, des mémorables indications données par l’ami de Scipion l’Africain sur le capitalisme qui se développa dans la première moitié du second siècle avant J.-C., à la suite des premiers grands succès de Rome. Il pousse hardiment dans la voie suggérée par ce célèbre passage <quote>« qui est un des documents les plus importants sur l’histoire de l’impérialisme romain »</quote>.</p>
@@ -2092,13 +2092,13 @@
           <index>
             <term type="id">article-1905-10-15_589</term>
             <term type="author">Barthélemy, Edmond (1868-1911?)</term>
-            <term type="signed">Edmond Barthélemy</term>
+            <term type="signed">Edmond Barthèlemy</term>
             <term type="section">Histoire</term>
             <term type="title">M. Guglielmo Ferrero et Lucullus</term>
             <term type="date">1905-10-15</term>
             <term type="ref">Tome LVII, numéro 200, 15 octobre 1905, p. 589-595 [589-590]</term>
           </index>
-          <byline>Edmond Barthélemy.</byline>
+          <byline>Edmond Barthèlemy.</byline>
           <bibl>Tome LVII, numéro 200, 15 octobre 1905, p. 589-595 [589-590].</bibl>
           <p>Nos lecteurs se souviennent sans doute de la critique que nous avait suggérée l’interprétation du rôle de Lucullus<note place="bottom"><hi rend="i">Mercure de France</hi> du 15 août 1905.</note> par l’éminent historien italien dans son Histoire Romaine. On lira avec intérêt la réponse suivante de M. Ferrero à nos objections. Elle fixe un des points les plus curieux et les plus importants de la thèse historique de l’auteur touchant le développement de Rome et les artisans de ce développement.</p>
           <quote>
