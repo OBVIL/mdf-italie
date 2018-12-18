@@ -87,11 +87,10 @@
           <bibl>Tome LXXXIX, numéro 325, 1<hi rend="sup">er</hi> janvier 1911, p. 47-62
             [61-62].</bibl>
           <p>[…]</p>
-          <p><hi rend="i">Jean Moréas a composé des épigrammes et principalement des distiques ,
-              qu’il lançait un soir au café et qui couraient bientôt de bouche en bouche. À vrai
-              dire , il y en avait qui étaient insignifiantes et sans prétention. Mais d’autres
-              méritaient d’être retenues</hi><hi rend="b"> . </hi><hi rend="i">Voici celles que j’ai
-              recueillies</hi> :</p>
+          <p rend="i">Jean Moréas a composé des épigrammes et principalement des distiques, qu’il
+            lançait un soir au café et qui couraient bientôt de bouche en bouche. À vrai dire, il y
+            en avait qui étaient insignifiantes et sans prétention. Mais d’autres méritaient d’être
+            retenues. Voici celles que j’ai recueillies :</p>
           <p><hi rend="i">Sur Ricciotto Canudo, après sa dispute avec Casanova</hi>.</p>
           <quote>
             <label type="head">(D’après Musset)</label>
@@ -1013,7 +1012,7 @@
               Voici le début de ces, notes curieuses, qui réjouiront les stendhaliens :</p>
             <quote>
               <label type="head">A JOURNAL OF A TOUR TO VENEZIA AND PADOVA <lb/>(June 1815).</label>
-              <label type="dateline">Padoue, le 17 juillet 1815.</label>
+              <label type="dateline" rend="n">Padoue, le 17 juillet 1815.</label>
               <p>Je commence ce journal à cause de la jolie anecdote que m’a contée avant-hier M. le
                 comte Br…, et que je commence presque à oublier. Ne l’ayant pas écrite sur-le-champ,
                 il ne me reste que le squelette.</p>
@@ -2702,15 +2701,15 @@
               abonde en miracles autant que celles qui l’ont précédé.</p>
           </quote>
           <p>Sur ce dernier point, je suis de l’avis de M. le D<hi rend="sup">r</hi> Le Bon. Je l’ai
-            déjà d’ ailleurs exprimé maintes fois. Mais je ne crois pas qu’il faille voir
-            uniquement, dans les phénomènes spiristes, « le produit d’illusions pures ».</p>
+            déjà d’ailleurs exprimé maintes fois. Mais je ne crois pas qu’il faille voir uniquement,
+            dans les phénomènes spiristes, « le produit d’illusions pures ».</p>
         </div>
       </div>
       <div>
         <head>Tome XC, numéro 330, 16 mars 1911</head>
         <div>
           <head>Il Giorgione (<hi rend="i">Suite</hi>) [II]<note place="bottom">Voy. <hi rend="i"
-                >Mercure de France</hi>, nº 329.</note></head>
+                >Mercure de France</hi>, n° 329.</note></head>
           <index>
             <term type="id">article-1911-03-16_330</term>
             <term type="author">Erlande, Albert (1878-1934)</term>
@@ -4234,7 +4233,7 @@
           </index>
           <byline>Gaston Danville.</byline>
           <bibl>Tome XC, numéro 330, 16 mars 1911, p. 381-388 [382-386].</bibl>
-          <p>Dans <hi rend="i">Scientia</hi> (Alcan), 1911, nº XVIl-1, un article de E. Rignano, <hi
+          <p>Dans <hi rend="i">Scientia</hi> (Alcan), 1911, n° XVIl-1, un article de E. Rignano, <hi
               rend="i">De l’origine et de la nature mnémonique des tendances affectives</hi>,
             propose une solution du problème finaliste de la vie en attribuant à la matière
             organisée une propriété mnémonique, la différenciant de la matière inorganique et
@@ -4382,7 +4381,7 @@
             été amené à reconnaître dans un buste du Louvre catalogué comme œuvre de l’école
             française de la seconde moitié du <num>xvii<hi rend="sup">e</hi></num> siècle l’œuvre du
             brillant Italien<note place="bottom">On trouvera le détail de son argumentation, très
-              persuasive, dans le nº 5 de 1910 du <hi rend="i">Bulletin des Musées de
+              persuasive, dans le n° 5 de 1910 du <hi rend="i">Bulletin des Musées de
               France</hi>.</note>. Ce n’est d’ailleurs pas une de ses plus caractéristiques (de là
             vient qu’on ne l’ait pas reconnue jusqu’ici), car elle n’est que la transposition d’une
             œuvre peinte, le sculpteur ayant dû se contenter, comme modèle, du triple portrait peint
@@ -4418,7 +4417,7 @@
         <head>Tome XC, numéro 331, 1<hi rend="sup">er</hi> avril 1911</head>
         <div>
           <head>Il Giorgione (<hi rend="i">Suite</hi>) [III]<note place="bottom">Voy. <hi rend="i"
-                >Mercure de France</hi>, nº<hi rend="sup">S</hi> 329, 330.</note></head>
+                >Mercure de France</hi>, n°<hi rend="sup">S</hi> 329, 330.</note></head>
           <index>
             <term type="id">article-1911-04-01_553</term>
             <term type="author">Erlande, Albert (1878-1934)</term>
@@ -5561,14 +5560,14 @@
             647].</bibl>
           <div>
             <head>André Michel : <hi rend="i">Histoire de l’Art</hi>, tome IV : <hi rend="i">La
-                Renaissance en Italie</hi> (A. Colin, in-4º, 10 fr.)</head>
+                Renaissance en Italie</hi> (A. Colin, in-4°, 10 fr.)</head>
             <index>
               <term type="id">article-1911-04-01_643a</term>
               <term type="author">Klingsor, Tristan (1874-1966)</term>
               <term type="signed">Tristan Leclère</term>
               <term type="section">Art ancien</term>
               <term type="title">André Michel : <hi rend="i">Histoire de l’Art</hi>, tome IV : <hi
-                  rend="i">La Renaissance en Italie</hi> (A. Colin, in-4º, 10 fr.)</term>
+                  rend="i">La Renaissance en Italie</hi> (A. Colin, in-4°, 10 fr.)</term>
               <term type="date">1911-04-01</term>
               <term type="ref">Tome XC, numéro 331, 1<hi rend="sup">er</hi> avril 1911,
                 p. 643-644</term>
@@ -7296,7 +7295,7 @@
             <l>C’est celluy qui [nous] donne joye.</l>
             <l>C’est celluy qui tous biens envoye.</l>
             <l>C’est celluy qui trestout a fait…<note place="bottom">Nouvelles acquisitions
-                françaises Ms 1051 fº 29 rº et vº. Je rajeunis un peu l’orthographe.</note>.</l>
+                françaises Ms 1051 f° 29 r° et v°. Je rajeunis un peu l’orthographe.</note>.</l>
           </quote>
           <p rend="noindent">etc., etc., il n’y a pas de raison pour que cela s’arrête ; aussi cela
             ne s’arrête-t-il point !</p>
@@ -9709,7 +9708,7 @@
               <term type="ref">Tome XCIII, numéro 341, 1<hi rend="sup">er</hi> septembre 1911,
                 p. 193</term>
             </index>
-            <p>[…] <hi rend="i">les Musées de France</hi>, nº 4, avec planche. — On trouvera dans
+            <p>[…] <hi rend="i">les Musées de France</hi>, n° 4, avec planche. — On trouvera dans
               cette même livraison et dans la précédente la reproduction hors texte de la <hi
                 rend="i">Madone</hi> de Neroccio di Bartolommeo dont nous avons parlé dans notre
               dernier article, commentée par M. André Pératé, et la reproduction des œuvres
@@ -9942,7 +9941,7 @@
             le bureau des cannes et parapluies et s’informaient de la situation du salon carré.
             C’est à de tels néophytes qu’il faut demander des lumières. Il y aura une belle
             discussion là-dessus à la Chambre. On pourrait en profiter pour classer en plusieurs
-            catégories les députés : 1º ceux qui ne sont jamais entrés au Louvre ; 2º ceux qui n’y
+            catégories les députés : 1° ceux qui ne sont jamais entrés au Louvre ; 2° ceux qui n’y
             sont entrés qu’une fois. Voilà les gens compétents à la fois en peinture et en
             administration. Laissons-les faire.</p>
         </div>
@@ -10039,17 +10038,17 @@
               rend="b">l’Amateur d’autographes</hi>, le catalogue descriptif tel qu’il fut rédigé
             par Cordier. On regrettera que le consciencieux M. Paupe n’ait pas vérifié les notices
             de Cordier, qui ne semblent pas toutes exactes. M. Paupe en pourra juger par la
-            description du <hi rend="i">Couvent de Baïano</hi> (nº 13 de son catalogue), dont nous
+            description du <hi rend="i">Couvent de Baïano</hi> (n° 13 de son catalogue), dont nous
             avons un exemplaire sous les yeux :</p>
           <quote>
             <p><hi rend="i">Couvent de Baïano</hi> (Le), chronique du seizième siècle, extraite des
               Archives de Naples et traduite littéralement de l’italien par M. J… C… O. ; précédée
               de recherches sur les Couvents au seizième siècle, par M. P.- L. Jacob, bibliophile.
               Paris, H. Fournier jeune, 1829, in-8. C’est un volume de <num>xii</num>-260 pages, qui
-              se compose de cinq parties : 1º Avant-propos, <num>iv-xii</num> ; 2º Recherches sur
+              se compose de cinq parties : 1° Avant-propos, <num>iv-xii</num> ; 2° Recherches sur
               les couvents au <num>xvi<hi rend="sup">e</hi></num> siècle 1-80, signé P.-L. Jacob,
-              éditeur des <hi rend="i">Soirées de Walter Scott</hi> ; 3º le couvent de Baïano, récit
-              81-122 ; 4º Chronique, 123-234 (y compris 4 pages d’index) ; 5º Notes, 235-260 (y
+              éditeur des <hi rend="i">Soirées de Walter Scott</hi> ; 3° le couvent de Baïano, récit
+              81-122 ; 4° Chronique, 123-234 (y compris 4 pages d’index) ; 5° Notes, 235-260 (y
               compris 2 p. blanches).</p>
           </quote>
           <p>Le <hi rend="i">Récit</hi> est-il de Stendhal ? La traduction de la <hi rend="i"
@@ -10059,11 +10058,11 @@
               >Chroniques italiennes</hi>, ou ailleurs ? Pourquoi n’est-il mentionné nulle part ? Ce
             serait, semble-t-il, un des plus rares de la collection Stendhalienne. J’espère que les
             amateurs stendhaliens voudront résoudre ce point.</p>
-          <p>Le Catalogue comprend 20 numéros. Le plus intéressant est le nº 19, qui contient les
+          <p>Le Catalogue comprend 20 numéros. Le plus intéressant est le n° 19, qui contient les
             annotations de Stendhal. Cordier le présente ainsi :</p>
           <quote>
             <p>19 — <hi rend="sc">Nibby</hi>. — <hi rend="i">Roma nell’anno MDCCCXXXVIII descritta
-                da Antonio Nibby</hi>, 1 vol. grand in-8º de 402 p., 9 gravures hors texte. Rome,
+                da Antonio Nibby</hi>, 1 vol. grand in-8° de 402 p., 9 gravures hors texte. Rome,
               1839.</p>
             <p>« Stendhal a lu ce livre avec grande attention ; il est surchargé de notes et de
               traits au crayon, memento pour les passages qui l’avaient frappé. Jusqu’à ses derniers
@@ -10096,11 +10095,11 @@
             <p>« 14 octobre.</p>
             <p>« Vu la galerie Borghese. Compte 5 et 7 ou 50, 60. Lu <hi rend="i">Rome antique</hi>
               de Nibby, fort estimée par l’auteur du moins, <hi rend="i">by</hi> Mingres. »</p>
-            <p>III. — Cette note très nette est très difficile à lire ; comme le nº II, elle est
+            <p>III. — Cette note très nette est très difficile à lire ; comme le n° II, elle est
               datée du 14 octobre 1841. Stendhal, le 30 octobre suivant, quittera l’Italie pour n’y
               plus revenir. (A. C.)</p>
-            <p>« Ce premier volume doit être beaucoup plus ennuyeux que les autres : 1º à cause de
-              l’historique peu intéressant ou obscur des églises ; 2º à cause des noms de 2 ou
+            <p>« Ce premier volume doit être beaucoup plus ennuyeux que les autres : 1° à cause de
+              l’historique peu intéressant ou obscur des églises ; 2° à cause des noms de 2 ou
               300 mauvais peintres ou plats sculpteurs que le pauvre Nibby ne pouvait guère se
               dispenser d’insérer. Mais, outre les noms de ces artistes médiocres, il se croit
               obligé de faire connaître la page des plates histoires qui en parlent. Par ces raisons
@@ -10255,7 +10254,7 @@
               personnel. En cas de fautes, le directeur propose des sanctions ; aussitôt le syndicat
               des gardiens intervient, la politique s’en mêle, tout s’arrange, mais l’autorité
               supérieure s’en trouve diminuée<note place="bottom">Interview publiée par <hi rend="i"
-                  >le Temps</hi> (nº du 4 septembre).</note>. »</quote> Qui ne voit, maintenant, à
+                  >le Temps</hi> (n° du 4 septembre).</note>. »</quote> Qui ne voit, maintenant, à
             qui incombe en réalité la responsabilité de l’anarchie dont on se plaint ? Qu’espérer du
             Louvre, même gouverné par les meilleurs administrateurs, si ces mœurs continuent ? Tous
             les inspecteurs des Finances réunis — on voit mal, d’ailleurs, pour quelles raisons on a
@@ -11459,7 +11458,7 @@
               maintenant épuisé toutes les pistes et qu’il ne faille plus attendre que d’un hasard
               heureux un indice qui mette sur la trace du précieux chef-d’œuvre et de son ravisseur.
               Pour aider à les découvrir, un membre anonyme de la Société des Amis du Louvre avait
-              envoyé au <hi rend="i">Temps</hi><note place="bottom">Nº du 29 septembre 1911.</note>
+              envoyé au <hi rend="i">Temps</hi><note place="bottom">N° du 29 septembre 1911.</note>
               une lettre pleine de réflexions judicieuses où, par une suite de raisonnements
               logiquement déduits, il concluait que le voleur (ou son complice) avait dû être
               employé au Louvre postérieurement à la mise sous verre des tableaux et devait être au
@@ -12045,7 +12044,7 @@
           <bibl>Tome XCIV, numéro 347, 1<hi rend="sup">er</hi> décembre 1911, p. 644-649
             [647-648].</bibl>
           <p>La luxueuse <hi rend="i">Zeitschrift für Bücherfreunde</hi> publie dans deux fascicules
-            (nº 7 et nº 8) des documents inédits sur les <hi rend="i">Dernières années de la vie de
+            (n° 7 et n° 8) des documents inédits sur les <hi rend="i">Dernières années de la vie de
               Casanova</hi>, dus à la plume de M. Gustave Gugitz de Vienne. L’auteur a découvert,
             dans la bibliothèque du Musée royal de Prague, la correspondance échangée entre le comte
             Max de Lamberg, le spirituel auteur des <hi rend="i">Mémoires d’un Mondain</hi>, et un

@@ -2061,14 +2061,14 @@
         </div>
         <div>
           <head>Lettres allemandes. <lb/>Heinrich Steinitzer : <hi rend="i">Vita Santa</hi> ;
-            Berlin, Egon Fleischel u. Cº, M. 3,50</head>
+            Berlin, Egon Fleischel u. C°, M. 3,50</head>
           <index>
             <term type="id">article-1914-02-16_860</term>
             <term type="author">Albert, Henri (1869-1921)</term>
             <term type="signed">Henri Albert</term>
             <term type="section">Lettres allemandes</term>
             <term type="title">Heinrich Steinitzer : <hi rend="i">Vita Santa</hi> ; Berlin, Egon
-              Fleischel u. Cº, M. 3,50</term>
+              Fleischel u. C°, M. 3,50</term>
             <term type="date">1914-02-16</term>
             <term type="ref">Tome CVII, numéro 400, 16 février 1914, p. 858-862 [860]</term>
           </index>
@@ -2120,7 +2120,7 @@
         <head>Tome CVIII, numéro 401, 1<hi rend="sup">er</hi> mars 1914</head>
         <div>
           <head>Les Stella-Lucente (<hi rend="i">fin</hi>) [II]<note place="bottom">Voy. <hi
-                xml:lang="es" rend="i">Mercure de France</hi>, nº 400.</note></head>
+                xml:lang="es" rend="i">Mercure de France</hi>, n° 400.</note></head>
           <index>
             <term type="id">article-1914-03-01_110</term>
             <term type="author">Erlande, Albert (1878-1934)</term>
@@ -2910,10 +2910,10 @@
             Aurora. Je lui avais écrit :</p>
           <p>
             <hi rend="i">Si mon message vous parvient sans accident, le soir, à partir de dix
-              heures, élevez, par trois fois , l a lampe de notre chambre. Si je dois tenter quoi
+              heures, élevez, par trois fois, la lampe de notre chambre. Si je dois tenter quoi
               que ce soit pour votre délivrance laissez brûler la lampe : si nous ne devons plus
-              compter que sur la pitié de Dieu, après l’ avoir élevée, éteign ez-la brusquement.
-              Renouvelez, pendant deux jou rs, ce si gnal que je ferai l’ impossible pour
+              compter que sur la pitié de Dieu, après l’avoir élevée, éteignez-la brusquement.
+              Renouvelez, pendant deux jours, ce si gnal que je ferai l’impossible pour
               apercevoir.</hi>
           </p>
           <p>Je m’étais posté sur une éminence. Je distinguais le château dans le lointain. Entre
@@ -3233,7 +3233,7 @@
         <head>Tome CVIII, numéro 403, 1<hi rend="sup">er</hi> avril 1914</head>
         <div>
           <head>Ethnographie, folklore. <lb/>Estella Cangiani et Eleanour Rohde : <hi rend="i"
-              >Piedmont</hi>, in-4º, rel., 50 pl. en coul. et nombre ill. en noir, Londres, Chatto
+              >Piedmont</hi>, in-4°, rel., 50 pl. en coul. et nombre ill. en noir, Londres, Chatto
             et Windus, 1913, 21 sh.</head>
           <index>
             <term type="id">article-1914-04-01_590</term>
@@ -3241,7 +3241,7 @@
             <term type="signed">A. Van Gennep</term>
             <term type="section">Ethnographie, folklore</term>
             <term type="title">Estella Cangiani et Eleanour Rohde : <hi rend="i">Piedmont</hi>,
-              in-4º, rel., 50 pl. en coul. et nombre ill. en noir, Londres, Chatto et Windus, 1913,
+              in-4°, rel., 50 pl. en coul. et nombre ill. en noir, Londres, Chatto et Windus, 1913,
               21 sh.</term>
             <term type="date">1914-04-01</term>
             <term type="ref">Tome CVIII, numéro 403, 1<hi rend="sup">er</hi> avril 1914, p. 587-592
@@ -3648,8 +3648,8 @@
             [666-667]</bibl>
           <p>Nous recevons de M. Auguste Marguillier la lettre suivante.</p>
           <quote>
-            <label type="dateline">Paris, 19 mars 1914.</label>
-            <label type="salute">Mon cher Directeur,</label>
+            <label type="dateline" rend="n">Paris, 19 mars 1914.</label>
+            <label type="salute" rend="n">Mon cher Directeur,</label>
             <p>Voulez-vous me permettre une simple observation intéressant l’histoire de l’art au
               sujet des réflexions suggérées à M. R. de Bury, dans le <hi rend="i">Mercure de
                 France</hi> du 1<hi rend="sup">er</hi> mars (p. 185), par les dithyrambes de Coppée
@@ -3811,14 +3811,14 @@
         <head>Tome CIX, numéro 405, 1<hi rend="sup">er</hi> mai 1914</head>
         <div>
           <head>Littérature. <lb/>Stendhal : <hi rend="i">Vies de Haydn, de Mozart et de
-              Métastase</hi>, 1 vol. in-8º, Champion</head>
+              Métastase</hi>, 1 vol. in-8°, Champion</head>
           <index>
             <term type="id">article-1914-05-01_149</term>
             <term type="author">Gourmont, Jean de (1877-1928)</term>
             <term type="signed">Jean de Gourmont</term>
             <term type="section">Littérature</term>
             <term type="title">Stendhal : <hi rend="i">Vies de Haydn, de Mozart et de
-              Métastase</hi>, 1 vol. in-8º, Champion</term>
+              Métastase</hi>, 1 vol. in-8°, Champion</term>
             <term type="date">1914-05-01</term>
             <term type="ref">Tome CIX, numéro 405, 1<hi rend="sup">er</hi> mai 1914, p. 149-153
               [149-152]</term>
@@ -4605,7 +4605,7 @@
             J. Rozez. Notre distingué collègue Ettore Mola s’en est aperçu en même temps que nous,
             et cette constatation lui a dicté un article des plus judicieux, inséré dans
             l’excellente feuille littéraire si répandue en Italie : la <hi rend="i">Fanfulla della
-              Domenico</hi><note place="bottom">Nº 39, daté du 29 septembre 1912.</note>. M. Mola
+              Domenico</hi><note place="bottom">N° 39, daté du 29 septembre 1912.</note>. M. Mola
             déplore que personne n’ait encore songé à écrire <quote>« une histoire complète des
               éditions des <hi rend="i">Mémoires</hi> casanoviens, et l’explication des différences
               que l’on rencontre dans les divers remaniements »</quote>. Il s’inscrit en faux contre
@@ -4850,7 +4850,7 @@
               de feuilleter à loisir, profitant, d’un élan de générosité dont l’actuelle maison
               Brockhaus n’est guère prodigue<note place="bottom"><hi rend="i">Comment furent publiés
                   les</hi> Mémoires <hi rend="i">de Casanova</hi>, article du journal <hi rend="i"
-                  >Il Marzocco</hi>, de Florence, nº 46 (13 novembre 1910).</note>. Soit. Mais Ravà
+                  >Il Marzocco</hi>, de Florence, n° 46 (13 novembre 1910).</note>. Soit. Mais Ravà
               pardonne-t-il à Schütz d’avoir escamoté tous les épisodes génois de Marcoline et de
               l’abbé Gaetano (frère de Casanova), de la blonde Annette et de M<hi rend="sup"
                 >lle</hi> Crozin, la prétendue nièce ? Qu’il compare le premier chapitre, si court,
@@ -5044,7 +5044,7 @@
             ans avant <hi rend="i">Alceste</hi>, au sujet d’un <hi rend="i">Attilio Regolo</hi>, met
             en pleine lumière l’esprit novateur du musicien. Les conseils qu’il donne peuvent se
             résumer ainsi :</p>
-          <p>1º Suprématie de la poésie sur la musique : <quote>« les traits du visage »</quote>,
+          <p>1° Suprématie de la poésie sur la musique : <quote>« les traits du visage »</quote>,
             c’est la poésie ; <quote>« les parures brillantes »</quote>, c’est la musique.
               <quote>« La musique doit suivre les mots, avait déjà proclamé Scheibe, dans son <hi
                 rend="i">Critischer Musicus</hi>… On doit, par la musique, non pas affaiblir les
@@ -5097,7 +5097,7 @@
                 raison<note place="bottom"><hi rend="i">Écrits de musiciens</hi>,
               p. 379-380.</note>.</p>
           </quote>
-          <p>3º Caractère psychologique attribué à l’orchestre. La symphonie, écrit Métastase à
+          <p>3° Caractère psychologique attribué à l’orchestre. La symphonie, écrit Métastase à
             Hasse, <quote>« exprime les réflexions, les doutes, les troubles de Regulus »</quote>.
             Ici, Métastase émet bien probablement une idée nouvelle à l’époque où il écrit : Scheibe
             ne dit rien de tel, et ne reconnaît pas encore ce pouvoir <quote>« à la bonne musique de
@@ -5155,7 +5155,7 @@
                   un récitatif rapide, mais noble et expressif du genre ; enfin des morceaux de
                   notre récitatif françois de la plus parfaite déclamation : des airs dansants de la
                   plus grande variété, d’un genre neuf et de la plus agréable fraîcheur ; des chœurs
-                  , des duos, des trios, des quatuors également expressifs, touchants et déclamés ;
+                 , des duos, des trios, des quatuors également expressifs, touchants et déclamés ;
                   la prosodie de la langue scrupuleusement observée, tout, dans cette composition
                   (il s’agit d’<hi rend="i">Iphigénie en Aulide</hi>), m’a paru dans notre
                   genre… »</quote> (<hi rend="i">Mercure de France</hi>, octobre 1772, Lettre de
@@ -5533,7 +5533,7 @@
           </quote>
           <p>C’est en ces termes que M. Julien Luchaire annonce la fusion de <hi rend="i"
               >France-Italie</hi> avec son aînée : <hi rend="i">La Revue d’Italie</hi>.</p>
-          <p>Le nº 1 de la nouvelle publication (1<hi rend="sup">er</hi> juillet) contient, sous ce
+          <p>Le n° 1 de la nouvelle publication (1<hi rend="sup">er</hi> juillet) contient, sous ce
             titre : « le Dernier d’Annunzio », un portrait exceptionnellement bien venu de
             l’admirable auteur de <hi rend="i">l’Enfant de la Volupté</hi> et du fameux éleveur de
             lévriers de course.</p>

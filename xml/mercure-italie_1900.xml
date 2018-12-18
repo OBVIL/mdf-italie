@@ -109,7 +109,7 @@
             sous l’arc du sourcil.</p>
           <p>Paysan, Claude Gellée l’est jusqu’à la méconnaissance, jusqu’à l’ingratitude, jusqu’à
             l’incompréhension.</p>
-          <p>£</p>
+          <p/>
           <p>Un val étroit au fond duquel coule la rivière bordée de roseaux, ensablée d’îles, de
             graviers qui miroitent sous l’eau vive ; des arbres en longs chapelets qui découpent des
             prairies, grasses de sainfoin et de trèfles ; des <hi rend="i">jours</hi> de terre clos
@@ -255,7 +255,7 @@
             corporations des verriers, des presses de Jacobi, la Lorraine de la <hi rend="i"
               >Rusticiade</hi> et de la <hi rend="i">Nancéide</hi>, — la Lorraine du bon poète
             Pierre Gringore.</p>
-          <p>£</p>
+          <p/>
           <p>Quand il débarqua à Nancy, il n’était pas beaucoup plus vieux que la ville neuve.</p>
           <p>Enserrée en ses murs réguliers, coupée en deux parties inégales rejointes par un étroit
             pont fortifié, la petite cité grise avait l’air d’un énorme scarabée tombé dans la
@@ -932,7 +932,7 @@
           <byline><hi rend="sc">Charles-Henry Hirsch</hi>.</byline>
           <bibl>Tome XXXIII, numéro 122, 1<hi rend="sup">er</hi> février 1900, p. 496-504
             [504].</bibl>
-          <p><hi rend="b">Revue des Deux-Mondes</hi>. — […] (Nº du 1<hi rend="sup">er</hi> janvier.)
+          <p><hi rend="b">Revue des Deux-Mondes</hi>. — […] (N° du 1<hi rend="sup">er</hi> janvier.)
               <hi rend="i">Le Doge maudit. La contre-légende de Marino Falier</hi>, par M. Paul
             Hervieu, très compacte étude qui devra lui assurer le suffrage des historiens à la
             prochaine élection académique.</p>
@@ -977,7 +977,7 @@
             alors cardinal-ministre, qui écrivit à François II, capitaine, marquis et duc de
             Mantoue, la caractéristique lettre suivante :</p>
           <quote>
-            <label type="salute">« Mon Serénissime Seigneur très honoré,</label>
+            <label type="salute" rend="n">« Mon Serénissime Seigneur très honoré,</label>
             <p>» Pierre-Paul Rubens, peintre flamand, pour se conformer à l’ordre qu’il dit avoir eu
               de Votre Altesse, retourne à Mantoue. Mais, comme il laisse imparfait le tableau qu’il
               faisait ici pour la nouvelle église, en ce sens que, jusqu’à présent, il n’a pas été
@@ -986,7 +986,7 @@
               permettre qu’une fois expédiées les choses de son service il revienne de nouveau à
               Rome à cet effet, au moins pour quelques jours. Que Votre Altesse soit persuadée que
               je tiendrai cette permission en particulière grâce. Et je lui baise les mains.</p>
-            <label type="dateline">» De Rome, le 11 juin 1607.</label>
+            <label type="dateline" rend="n">» De Rome, le 11 juin 1607.</label>
             <p rend="right">» De Votre Altesse <lb/>» Le très affectionné serviteur, <lb/>» LE
               CARDINAL BORGHÈSE. »</p>
           </quote>
@@ -1744,18 +1744,18 @@
                 <l>Or d’une corde d’une toise</l>
                 <l>Saura mon col que mon cul poise.</l>
               </quote>
-              <p rend="noindent">qui est une preuve curieuse de l’indifférence des criminels en face
+              <p>qui est une preuve curieuse de l’indifférence des criminels en face
                 du supplice. Dans son Grand Testament il dépeint la vie des prostituées et se
                 dépeint lui-même comme entremetteur, avec d’ignobles détails dont la morale au fond
                 est celle-ci :</p>
               <quote>
                 <l>Il n’est trésor que de vivre à son aise</l>
               </quote>
-              <p rend="noindent">mais qui pour nous sont précieux pour montrer la complète analogie
+              <p>mais qui pour nous sont précieux pour montrer la complète analogie
                 entre la prostitution et le crime :</p>
               <quote>
                 <l>Je suis paillard, la paillarde me duit :</l>
-                <l>L’ung vaut l’autre : c’est à mau chat mau rat ;</l>
+                <l>L’ung vaut l’autre : c’est à mlau chat mau rat ;</l>
                 <l>Ordure avons et ordure nous suyt,</l>
                 <l>Nous deffuyons honneur et il nous fuit,</l>
                 <l>En ce bourdel où tenon nostre état<note place="bottom">Je certifie de nouveau aux
@@ -2181,7 +2181,7 @@
           </index>
           <byline><hi rend="sc">Mercure</hi> [Rédaction].</byline>
           <bibl>Tome XXXV, numéro 128, 1<hi rend="sup">er</hi> août 1900, p. 568-572 [571].</bibl>
-          <p>Le nº du 5 juillet de la revue italienne <hi rend="i">Flegrea</hi> contient, <hi
+          <p>Le n° du 5 juillet de la revue italienne <hi rend="i">Flegrea</hi> contient, <hi
               rend="i">en français</hi>, un important article de Remy de Gourmont : <hi rend="i"
               >Marginalia sur Edgard Poe et sur Baudelaire</hi>.</p>
         </div>
@@ -2836,7 +2836,7 @@
             la collection de manuscrits de Christine de Suède ; découverts par le D<hi rend="sup"
               >r</hi> Reitzenstein, ils furent révélés parle D<hi rend="sup"
               >r</hi> Strzijgowski<note place="bottom"><hi rend="i">Kunstchronik</hi>, 21<hi
-                rend="sup">e</hi> année, nº 28. — Ces dessins ont été reproduits avec ceux provenant
+                rend="sup">e</hi> année, n° 28. — Ces dessins ont été reproduits avec ceux provenant
               de la collection Hamilton dans une belle édition due aux soins de Friedrich Lipmann :
                 <hi rend="i">Zeichnungen von S. Botticelli zu Dante’s Göttlicher Komödie</hi>,
               Berlin, 1887. Les feuilles sont hautes de 32 centimètres environ et larges de 47 cent.
@@ -3814,7 +3814,7 @@
             étendu déjà, mais fait des traditions mourantes de Lebrun, de Jouvenet, de Rigaud, des
             audaces peu pénétrées de Watteau et de Chardin, de la grâce trop absorbée de Boucher. Il
             faut, pour la trouver dans ses premières œuvres, la chercher patiemment la précieuse
-            indication, la promesse d’où va germer <hi rend="b">l’</hi>enchantement et la joie, — le
+            indication, la promesse d’où va germer l’enchantement et la joie, — le
             soleil d’Italie aidant, et aussi des hasards heureux, à son retour. La genèse de
             Fragonard sera longue, son inquiétude, ses incertitudes se prolongeront : son esprit
             mobile et primesautier y aidera, — et peut-être, une certaine indifférence, une
@@ -3822,7 +3822,7 @@
             voie : c’est la plus périlleuse qui soit, il y faut plus de génie qu’en aucune autre. Il
             y réussira merveilleusement, et dans aucune école aucun peintre ne sera capable de l’y
             égaler.</p>
-          <p>£</p>
+          <p/>
           <p>Le 24 novembre 1756, Natoire écrivait à Marigny :</p>
           <quote>
             <p>« … Je viens de recevoir deux nouveaux pensionnaires ; l’un est peintre et l’autre
@@ -3982,7 +3982,7 @@
             doit bien aussi lui prendre quelque temps…</p>
           <p>Enfin, voici le premier envoi :</p>
           <quote>
-            <label type="dateline">« 3 mai 1758.</label>
+            <label type="dateline" rend="n">« 3 mai 1758.</label>
             <p>« Voilà le rouleau que j’ay l’honneur de vous envoyer des études de trois
               pensionnaires nommés Monnet, Flagonard (<hi rend="i">sic</hi>) et Brunet. Je
               souhaitterois fort qu’elles fussent au point de vous faire oublier par leurs mérites
@@ -3999,7 +3999,7 @@
               ses desseins, qu’on trouve dessinés avec finesse et vérité »</quote>.</p>
           <p>Ce à quoi Natoire répond :</p>
           <quote>
-            <label type="dateline">« 30 août 1758.</label>
+            <label type="dateline" rend="n">« 30 août 1758.</label>
             <p>« … Je suis charmé que les remarques que vous avez faittes se rapportent parfaitement
               à ce que je leur avois dit. J’espère qu’ils en profiteront… Flagonard, avec des
               dispositions, est d’une facilité étonnante à changer de party d’un moment à l’autre,
@@ -4009,7 +4009,7 @@
           </quote>
           <p>Le voici maintenant aux prises avec Cortone.</p>
           <quote>
-            <label type="dateline">« Octobre 1758.</label>
+            <label type="dateline" rend="n">« Octobre 1758.</label>
             <p>« … Le sieur Flagonard avance celle qu’il fait d’après Pietre de Cortone au Capucin.
               Ce jeune artiste a un peu de peine à peindre les chairs et à donner le vray caractère
               des airs de teste. Je l’héxhorte à ne point se lasser pour la retoucher de nouveau,
@@ -4239,7 +4239,7 @@
           <p>Une seconde fois Frago sollicita une prolongation de séjour et l’obtint, malgré de
             grosses difficultés.</p>
           <quote>
-            <label type="dateline">De Natoire à Marigny, de 18 mars 1761.</label>
+            <label type="dateline" rend="n">De Natoire à Marigny, de 18 mars 1761.</label>
             <p>« … J’ay fait parts aux s<hi rend="sup">rs</hi> Flagonard et Monet de ce que vous
               voulez bien leur accorder la continuation des prérogatives de pensionnaires jusqu’à
               l’arrivée des nouveaux : ils vous sont infiniment obligés de votre bonté. Le s<hi

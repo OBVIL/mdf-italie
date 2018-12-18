@@ -1918,7 +1918,7 @@
           <bibl>Tome LXXVII, numéro 280, 16 février 1909, p. 760-768 [766-767].</bibl>
           <p>M. Ricciotto Canudo nous adresse la lettre suivante :</p>
           <quote>
-            <label type="salute">Mon cher Directeur,</label>
+            <label type="salute" rend="n">Mon cher Directeur,</label>
             <p>Je lis dans le dernier numéro du <hi rend="i">Mercure</hi> un écho fort intéressant
               sur les représentations sacrées d’Oberammergau, le village des Alpes Bavaroises où la
               grande tradition des Mystères médiévaux est intacte et se manifeste
@@ -2000,7 +2000,7 @@
               l’esprit tragique chrétien qui soit encore vivant dans une multitude. Cet esprit,
               certes point merveilleux mais significatif, est celui des Mystères médiévaux,
               c’est-à-dire de tout le théâtre chrétien, populaire et pathétique.</p>
-            <label type="salute">À vous.</label>
+            <label type="salute" rend="n">À vous.</label>
             <p rend="right">RICCIOTTO CANUDO.</p>
           </quote>
         </div>
@@ -2474,10 +2474,10 @@
               peu de publicité, n’en est pas moins intéressant. En voici quelques extraits, cités au
               hasard :</p>
             <quote><p>« Le but final de <hi rend="i">l’Énerguménisme</hi> (nom de la nouvelle
-                doctrine) est la réalisation du désordre trépidant, par les moyens suivants : 1º
-                destruction radicale du Cosmos, tel qu’il existe actuellement ; 2º reconstitution
+                doctrine) est la réalisation du désordre trépidant, par les moyens suivants : 1°
+                destruction radicale du Cosmos, tel qu’il existe actuellement ; 2° reconstitution
                 d’un monde nouveau sans aucun plan préconçu (pourquoi les planètes sont-elles
-                rondes ? ne peuvent-elles adopter la forme qu’elles préfèrent ?) ; 3º confusion
+                rondes ? ne peuvent-elles adopter la forme qu’elles préfèrent ?) ; 3° confusion
                 complète de toutes les lois physiques et chimiques en une seule force qui sera
                 l’anarchie tonitruante sous la direction du moto-anthrope ou
               homme-automobile. »</p></quote>
@@ -3686,7 +3686,7 @@
                 >Cœnobium</hi>, Lugano<note place="bottom">[NdE] Critique française : Jean de
                 Gourmont, « Littérature. <hi rend="i">Ce qu’ils lisent. Cent-dix-sept réponses à
                   l’Enquête sur la Bibliothèque d’un libre cénobite avec une préface
-                  explicative</hi> par Adolphe Ferrière, 1 vol. in-8º, édition du <hi rend="i"
+                  explicative</hi> par Adolphe Ferrière, 1 vol. in-8°, édition du <hi rend="i"
                   >Cœnobium</hi>, Lugano », tome LXXX, numéro 292, p. 699-700.</note></head>
             <index>
               <term type="id">article-1909-05-01_179a</term>
@@ -4399,7 +4399,7 @@
               100 planches avec notices, table et p. d’introd.) Ce livre de dessins, si précieux
               pour la connaissance des origines de la peinture vénitienne, fut acquis en 1884 par le
               Louvre grâce à la perspicacité de Courajod. Il se compose de 95 feuillets en parchemin
-              (sauf celui qui porte le nº 15) offrant, tracés à la plume, à la pointe d’argent, ou
+              (sauf celui qui porte le n° 15) offrant, tracés à la plume, à la pointe d’argent, ou
               plus rarement à la pierre d’Italie, de grandes compositions mythologiques, historiques
               ou religieuses, des portraits, des études d’animaux, de nombreux motifs de sculpture
               ou d’architecture, où se trahit sans cesse l’artiste épris de l’art antique que fut
@@ -4696,7 +4696,7 @@
             <p>Si mon aimable confrère tient à être renseigné, d’une façon précise, sur
               l’authenticité des <hi rend="i">Mémoires de Casanova</hi>, je l’engage à se procurer,
               et au besoin je tiens à sa disposition, l’étude qu’un casanovien passionné, M. Octave
-              Uzanne, a consacrée à cette question dans l’Ermitage, nº du 15 août 1906, pp. 80-90 ;
+              Uzanne, a consacrée à cette question dans l’Ermitage, n° du 15 août 1906, pp. 80-90 ;
               elle dissipe tous les doutes et réduit à néant la collaboration de Stendhal.</p>
           </quote>
           <p>Il était bon de savoir à qui revenait la gloire de cette bévue : il n’y manquait que la
@@ -6044,7 +6044,7 @@
                     <num>xvi<hi rend="sup">e</hi></num> siècle, dans Mazzetti, <hi rend="i"
                   >Repertorio de professori della Universita di Bologna</hi>, 1848, p. 141.</note>,
               lequel, pour sa courtoisie, s’escartoit bien souvent pour aller consoler les
-                dames<note place="bottom">Éd. d’Anvers. 1564, fol. 53 vº.</note>. »</quote> Peu
+                dames<note place="bottom">Éd. d’Anvers. 1564, fol. 53 v°.</note>. »</quote> Peu
             importe d’ailleurs ! Ce que nous avons cherché dans ces lettres, ce ne sont pas des
             renseignements sur la vie d’un Garganello ; c’est l’Avignon de son temps où le désir
             d’épuiser les jouissances de la vie semblait fouetté par la peur instinctive des
@@ -7167,7 +7167,7 @@
               la fenêtre.</p>
             <p>Ce geste d’énergie avait remonté Bélisaire, qui, bravement, se mit à explorer
               l’obscurité. Il finit pas trouver un couloir, de la lumière, beaucoup d’assurance et,
-              par une chance providentielle, le nº 23, juste devant son nez.</p>
+              par une chance providentielle, le n° 23, juste devant son nez.</p>
             <p>Au milieu du vestibule aux portières de brocatelle rouge, en loques, comme à l’étage
               inférieur, brûlait, sur un guéridon, un candélabre où trois chandelles baveuses et mal
               d’aplomb balançaient aux courants d’air leurs flammes d’église. Bélisaire y alluma son
@@ -8840,7 +8840,7 @@
             Franzesco suppliant, gémissant dans sa démence amoureuse : « Anna ! Princesse
             Anna ! »</p>
           <p>Geraldini s’effraya soudain à la pensée que le duc, de ses fenêtres, pouvait voir cette
-            parodie. Il courut vers le groupe, et’ l’épée haute cria : « Descendez, faquins ! » Des
+            parodie. Il courut vers le groupe, et l’épée haute cria : « Descendez, faquins ! » Des
             poings se levèrent, il y eut des cris de colère et en un clin d’œil les comédiens
             disparurent.</p>
           <p>La fontaine fut à nouveau déserte, avec ses quatre lions qui bâillaient toujours et
@@ -8981,7 +8981,7 @@
               rend="i">La Galerie Querini-Stampalia à Venise</hi>, par M. Emil Jacobsen ; — (mai) :
               […]<hi rend="i">La Nouvelle Pinacothèque du Vatican</hi> 3, par M. Maurice Pernot ;
             […].</p>
-          <p>Dans le <hi rend="i">Bulletin des Musées de France</hi> […] ([1909,] nº 2) : <hi
+          <p>Dans le <hi rend="i">Bulletin des Musées de France</hi> […] ([1909,] n° 2) : <hi
               rend="i">la Tristesse de Mona Lisa</hi>, par M. Salomon Reinach : l’auteur résume les
             commentaires infiniment divers et souvent étranges qu’a suscités le tableau de <hi
               rend="i">la Joconde</hi> et ajoute une hypothèse nouvelle à celles qu’a déjà suscitées
@@ -8999,7 +8999,7 @@
             le Musée de Naples ; — (novembre) : <hi rend="i">Le Musée des Thermes de
             Dioclétien</hi>, par M. Jean de Foville […].</p>
           <p>[…]</p>
-          <p>Dans la revue genevoise <hi rend="i">Nos anciens et leurs œuvres</hi> (1908, nº 2) :
+          <p>Dans la revue genevoise <hi rend="i">Nos anciens et leurs œuvres</hi> (1908, n° 2) :
             étude, illustrée d’excellentes reproductions, de M. Georges Nicole sur la collection
             d’antiques de M. Étienne Duval, à Pregny, près Genève, réunion de beaux marbres acquis
             jadis à Rome par le possesseur, et où se trouve une réplique remarquable de l’<hi
@@ -9013,7 +9013,7 @@
         <head>Tome LXXXII, numéro 298, 16 novembre 1909</head>
         <div>
           <head>La princesse Anna fut.. .. (<hi rend="i">Suite</hi><note place="bottom">Voy. <hi
-                rend="i">Mercure de France</hi>, nº 297.</note>) [II]</head>
+                rend="i">Mercure de France</hi>, n° 297.</note>) [II]</head>
           <index>
             <term type="id">article-1909-11-16_293</term>
             <term type="author">Salten, Felix (1859-1945)</term>

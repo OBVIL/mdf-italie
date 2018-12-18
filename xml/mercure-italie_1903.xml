@@ -602,7 +602,7 @@
           </index>
           <byline>Remy de Gourmont.</byline>
           <bibl>Tome XLV, numéro 159, mars 1903, p.  743‑750 [744].</bibl>
-          <p>9 — Voici un livre d’érudition à la fois et de charme, <hi rend="i">Les Femmes dans
+          <p>— Voici un livre d’érudition à la fois et de charme, <hi rend="i">Les Femmes dans
               l’œuvre de Dante</hi>. Elles y sont bien plus nombreuses qu’on ne le croit. Dante
             n’aima pas que Béatrice. Je ne parle pas des femmes en lesquelles il voulut
             personnifier, comme en Mathilde, quelque vertu, ou des héroïnes du devoir ou de la
@@ -626,14 +626,14 @@
           <byline>Henry-D. Davray.</byline>
           <bibl>Tome XLV, numéro 159, mars 1903, p. 829‑838 [834‑835].</bibl>
           <div>
-            <head>Maurice Hewlett : <hi rend="i">Little Novels of Italy</hi>, cr. 8º,
+            <head>Maurice Hewlett : <hi rend="i">Little Novels of Italy</hi>, cr. 8°,
                 <num>viii</num>-364 p., 6 s., Macmillan</head>
             <index>
               <term type="id">article-1903-03_834a</term>
               <term type="author">Davray, Henry D. (1873-1944)</term>
               <term type="signed">Henry-D. Davray</term>
               <term type="section">Lettres anglaises</term>
-              <term type="title">Maurice Hewlett : <hi rend="i">Little Novels of Italy</hi>, cr. 8º,
+              <term type="title">Maurice Hewlett : <hi rend="i">Little Novels of Italy</hi>, cr. 8°,
                   <num>viii</num>-364 p., 6 s., Macmillan</term>
               <term type="date">1903-03</term>
               <term type="ref">Tome XLV, numéro 159, mars 1903, p. 834‑835</term>
@@ -658,14 +658,14 @@
               lecteur…</p>
           </div>
           <div>
-            <head>Katharine Hooker : <hi rend="i">Wayfarers in Italy</hi>, cr. 8º,
+            <head>Katharine Hooker : <hi rend="i">Wayfarers in Italy</hi>, cr. 8°,
               <num>viii</num>-309 p., 12 s. 6 d.</head>
             <index>
               <term type="id">article-1903-03_835</term>
               <term type="author">Davray, Henry D. (1873-1944)</term>
               <term type="signed">Henry-D. Davray</term>
               <term type="section">Lettres anglaises</term>
-              <term type="title">Katharine Hooker : <hi rend="i">Wayfarers in Italy</hi>, cr. 8º,
+              <term type="title">Katharine Hooker : <hi rend="i">Wayfarers in Italy</hi>, cr. 8°,
                   <num>viii</num>-309 p., 12 s. 6 d.</term>
               <term type="date">1903-03</term>
               <term type="ref">Tome XLV, numéro 159, mars 1903, p. 835</term>
@@ -832,14 +832,14 @@
           <bibl>Tome XLV, numéro 162, juin 1903, p. 774‑779.</bibl>
           <div>
             <head>Vittorio Pica, <hi rend="i">Attraverso gli Albi e le Carterelle</hi>, 3 fasc.
-              in-4º</head>
+              in-4°</head>
             <index>
               <term type="id">article-1903-06_774a</term>
               <term type="author">Gourmont, Remy de (1858-1915)</term>
               <term type="signed">R. de Bury</term>
               <term type="section">Notices bibliographiques</term>
               <term type="title">Vittorio Pica, <hi rend="i">Attraverso gli Albi e le
-                  Carterelle</hi>, 3 fasc. in-4º, Bergame, Istituto italiano d’arte grafiche</term>
+                  Carterelle</hi>, 3 fasc. in-4°, Bergame, Istituto italiano d’arte grafiche</term>
               <term type="date">1903-06</term>
               <term type="ref">Tome XLV, numéro 162, juin 1903, p. 774‑778</term>
             </index>
@@ -948,7 +948,7 @@
             </quote>
           </div>
           <div>
-            <head><hi rend="i">L’Arte decorativa all’ Esposizione di Torino</hi>, 4 fasc. in-4º,
+            <head><hi rend="i">L’Arte decorativa all’ Esposizione di Torino</hi>, 4 fasc. in-4°,
               Bergame, Istituto italiano d’arte grafiche</head>
             <index>
               <term type="id">article-1903-06_778</term>
@@ -956,7 +956,7 @@
               <term type="signed">R. de Bury</term>
               <term type="section">Notices bibliographiques</term>
               <term type="title">Vittorio Pica, <hi rend="i">L’Arte decorativa all’ Esposizione di
-                  Torino</hi>, 4 fasc. in-4º, Bergame, Istituto italiano d’arte grafiche</term>
+                  Torino</hi>, 4 fasc. in-4°, Bergame, Istituto italiano d’arte grafiche</term>
               <term type="date">1903-06</term>
               <term type="ref">Tome XLV, numéro 162, juin 1903, p. 778‑779</term>
             </index>
@@ -2261,7 +2261,7 @@
               sur le personnage, M. Ch. Henry, que des préoccupations scientifiques entraînaient,
               alors, dans une autre voie que celle que je suivais, me fit don d’un manuscrit
               précieux, relié et portant sur son dos :</p>
-            <p>                                       À LEONARD SNETLAGE, J. CASANOVA.</p>
+            <p rend="center noindent">LEONARD SNETLAGE, J. CASANOVA.</p>
             <p>« C’était la copie exacte, page pour page et ligne pour ligne avec tous les signes
               accessoires dessinés dans la publication, d’un curieux ouvrage de l’aventurier, que
               M. Charles Henry avait fait copier à la Bibliothèque de Dresde, et dont il n’existe

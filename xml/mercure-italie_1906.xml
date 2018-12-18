@@ -3637,7 +3637,7 @@
             <p>L’Assassinat de l’Espagnole, par le Mendiant, son amant puni parce que la victime
               appartenait à l’Espagne, colère de l’Ambassadeur borgne.</p>
             <p>
-              <hi rend="i">Placer cela dans la 4 <hi rend="sup">e</hi>   édition s ’ il y en a.</hi>
+              <hi rend="i">Placer cela dans la 4 <hi rend="sup">e</hi>   édition s’il y en a.</hi>
             </p>
             <p>Pour délasser du cliquetis, placer 10 descriptions d’une page ou d’une demie
               page.</p>
@@ -4817,19 +4817,19 @@
           <p>Voici quelques fragments inédits de son Journal où l’on voit l’idée poindre, se
             préciser, s’affermir :</p>
           <quote>
-            <label type="dateline">Milan, le 29 octobre 1811.</label>
+            <label type="dateline" rend="n">Milan, le 29 octobre 1811.</label>
             <p>… J’ai lu à la chambre… 150 pages de Lanzi<note place="bottom">Auteur, très estimé
                 alors, d’une Histoire de la peinture italienne, qui, plus tard, fut plusieurs fois
                 traduite en France et en Angleterre.</note>, qui, au milieu de son bavardage
               critique, historique, et timide, sent bien les arts, en sa qualité d’Italien. Il n’a
               pas autant de superlatifs que je le craignais……</p>
             <p><hi rend="i">I have thought t o translate La nzi   ; he has 19 00   page s ; and to m
-                ake of that 2  vol of 450 . That would advantage, I thought , of dictating the
-                french to m y Mancas and to spend to that 30 ou 40   days</hi><note place="bottom"
+                ake of that 2  vol of 450. That would advantage, I thought, of dictating the
+                french to my Mancas and to spend to that 30 ou 40   days</hi><note place="bottom"
                 >Je rétablis tant bien que mal ce passage peu lisible, et dont le sens serait :
                   <quote>« J’ai pensé à traduire Lanzi (il a 1900 pages), et à faire de cela un vol.
                   de 450 (pages). Cela m’amuserait, je pense, de dicter le français à mon Mancas
-                  (son copiste ?), et de dépenser à cela 30 ou 40 jours. »</quote></note> . </p>
+                  (son copiste ?), et de dépenser à cela 30 ou 40 jours. »</quote></note>. </p>
           </quote>
           <p>Le premier projet était modeste : il ne s’agissait que de faire, du fatras de Lanzi,
             une traduction abrégée à l’usage des Français. Stendhal pensait n’y mettre que quelques
@@ -4839,16 +4839,16 @@
           <quote>
             <p>Hier, dernier jour d’octobre, attendant in the chamb. j’ai écrit la lettre
               suivante :</p>
-            <quote><label type="dateline">« Bologne, 25 octobre 1811<note place="bottom">Stendhal
+            <quote><label type="dateline" rend="n">« Bologne, 25 octobre 1811<note place="bottom">Stendhal
                   est à Milan, mais il a l’innocente manie de dérouter son lecteur.</note>.</label>
-              <label type="salute">« Messieurs,</label>
+              <label type="salute" rend="n">« Messieurs,</label>
               <p>« J’ai composé en 2 volumes l’hist. de la peinture en Italie depuis la renaissance
                 de l’art vers la fin du <num>xiii<hi rend="sup">e</hi></num> siècle jusqu’à nos
                   jours<note place="bottom">C’est à peu près le titre même de Lanzi.</note>. Cet
                 ouvrage est le fruit de 3 années de voyages et de recherches. L’histoire de M. Lanzi
                 m’a été fort utile.</p>
               <p>« J’envoie mon ouvrage à Paris pour l’y faire imprimer. On me conseille de vous
-                prier de l’annoncer. Il paraîtra en 2 vol. in-8º à la fin de 1812.</p>
+                prier de l’annoncer. Il paraîtra en 2 vol. in-8° à la fin de 1812.</p>
               <p>« Si l’article suivant ne convenait pas, je vous supplie, Messieurs, de le
                 corriger… »</p></quote>
           </quote>
@@ -4912,9 +4912,9 @@
             <p>Je compte un jour retourner en Italie et la voir à mon aise : il y a 4 choses à
               observer : la nature du sol, le climat, et les beautés naturelles, comme la vallée
               d’Izelles, la vue du Vésuve, etc.,</p>
-            <p>2º Le caractère des habitants ;</p>
-            <p>3º La peinture et les autres arts du dessin ;</p>
-            <p>4º La musique.</p>
+            <p>2° Le caractère des habitants ;</p>
+            <p>3° La peinture et les autres arts du dessin ;</p>
+            <p>4° La musique.</p>
             <p>Pour avoir du plaisir par ces deux derniers moyens, j’avais besoin d’étudier ces
               arts, et <hi rend="i">d’avoir pour la peinture un indicateur fait par moi</hi>, afin
               que les sentiments d’un auteur quel qu’il fût ne vinssent pas troubler les miens, et
@@ -5086,7 +5086,7 @@
           <quote>
             <p>Plus d’happiness for me, without Travail<note place="bottom">Plus de bonheur pour moi
                 sans travail.</note>.</p>
-            <label type="dateline">14 août 14, 1000 ans. [Milan]</label>
+            <label type="dateline" rend="n">14 août 14, 1000 ans. [Milan]</label>
           </quote>
           <bibl>(<title>Man. inéd.</title>)</bibl>
           <p>Dans sa terreur de l’ennui, il se hâte ; il ne lui laisse pas le temps de le saisir.
@@ -5148,7 +5148,7 @@
             <p><hi rend="i">To <lb/>the everlasting Memory <lb/> of Milady Alexandra   Z. <lb/> even
                 in our ashes, Love</hi><note place="bottom"><quote>« À la Mémoire éternelle de
                   Milady Alexandra Z. Amour jusque dans la mort. »</quote> (Collect. Chaper,
-                inéd.)</note> . </p>
+                inéd.)</note>. </p>
           </quote>
           <p>Pourtant le nom de la boutiquière milanaise comme celui de la baronne impériale ne
             devaient pas rester sur l’œuvre définitive. Quand elle paraîtra, la morte et la vivante
