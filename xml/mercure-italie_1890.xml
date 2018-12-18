@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2018-12-18T10:39:43+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Articles du <hi rend="i">Mercure de France</hi>, année 1890</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Marguerite Bordry </name>
+          <resp>Relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Éric Thiébaud </name>
+          <resp>OCR, Stylage sémantique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Sorbonne Université, Labex OBVIL</publisher>
+        <date when="2018"/>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1890.xml</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1890.html</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1890.epub</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1890.txt</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : 	« Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1890"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Tome I, numéro 3, mars 1890</head>
+      <div>
+        <head>Le Salon des XX. Bruxelles [extrait]</head>
+        <index>
+          <term type="id">article-1890-03_088</term>
+          <term type="author">Daland</term>
+          <term type="signed">Daland</term>
+          <term type="section">none</term>
+          <term type="title">Le Salon des XX. Bruxelles [extrait]</term>
+          <term type="date">1890-03</term>
+          <term type="ref">Tome I, numéro 3, mars 1890, p. 87-91 [88]</term>
+        </index>
+        <byline>Daland.</byline>
+        <bibl>Tome I, numéro 3, mars 1890, p. 87-91 [88].</bibl>
+        <p>[…]</p>
+        <p>À côté d’un <hi rend="i">Crépuscule</hi> pastichant Millet, et de <hi rend="i">Mai</hi>, une exquise aquarelle, M. Segantini expose un mâle hymne à l’Existence : <hi rend="i">Une fleur des Alpes</hi>, avec cette épigraphe :</p>
+        <quote>
+          <l>J’ai rencontré en haut, près des glaciers, une fleur étonnante.</l>
+          <l>Qu’elle était belle et harmonieusement douce au soleil !</l>
+          <l>J’ai tâché d’en donner une transcription en formes humaines.</l>
+        </quote>
+        <p>Un chant de chair, de matériel amour, de jeune vie et de suprême harmonie, ce maître tableau que semble avoir inspiré l’âme du Vinci.</p>
+        <p>[…]</p>
+      </div>
+    </body>
+  </text>
+</TEI>

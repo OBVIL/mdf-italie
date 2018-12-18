@@ -1,0 +1,2485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2018-12-18T10:40:53+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Articles du <hi rend="i">Mercure de France</hi>, année 1898</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Marguerite Bordry </name>
+          <resp>Relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Éric Thiébaud </name>
+          <resp>OCR, Stylage sémantique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Sorbonne Université, Labex OBVIL</publisher>
+        <date when="2018"/>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1898.xml</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1898.html</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1898.epub</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1898.txt</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’OBVIL, selon les termes de la licence Creative Commons :
+              « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
+              (CCBY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+              Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+              électronique, notamment en intégrant toutes les contributions extérieures, la
+              diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1898"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Tome XXV, numéro, 97, janvier 1898</head>
+        <div>
+          <head>Psychologie. <lb/>Michel-Ange Vaccaro : <hi rend="i">L’Évolution de l’Amour</hi>,
+            Société Libre d’Édition, 2 fr.</head>
+          <index>
+            <term type="id">article-1898-01_240</term>
+            <term type="author">Danville, Gaston (1870-1933)</term>
+            <term type="signed">Gaston Danville</term>
+            <term type="section">Psychologie</term>
+            <term type="title">Michel-Ange Vaccaro : <hi rend="i">L’Évolution de l’Amour</hi>,
+              Société Libre d’Édition, 2 fr.</term>
+            <term type="date">1898-01</term>
+            <term type="ref">Tome XXV, numéro, 97, janvier 1898, p. 240-244 [240-241]</term>
+          </index>
+          <byline><hi rend="sc">Gaston Danville</hi>.</byline>
+          <bibl>Tome XXV, numéro, 97, janvier 1898, p. 240-244 [240-241].</bibl>
+          <p>M. Michel-Ange Vaccaro en conclusion à son étude, <hi rend="b">L’Évolution de
+              l’Amour</hi>, nous présente au contraire le mariage d’amour comme l’avenir le meilleur
+            à réaliser. Reprenant un historique déjà fait par de nombreux écrivains, cet auteur nous
+            montre la lente transformation à travers les espèces de l’instinct sexuel en amour, et
+            regrette que chez les hommes, où l’instinct se rehausse de sentiment et d’intelligence,
+            les lois, les coutumes, les mœurs s’unissent encore pour alourdir les bras des amants de
+            tant d’entraves et violer une fois de plus les lois de nature.</p>
+          <p>Certes, les mariages dits de « convenance », « de raison » ou « d’argent » sont trop
+            nombreux dans les sociétés actuelles, et l’on ne peut entièrement donner tort à
+            M. Vaccaro sur ce point. Peut-être, néanmoins, conviendrait-il de se demander si les
+            contractants de telles unions seraient susceptibles d’en accomplir d’autres ? et,
+            peut-être n’est-il point téméraire d’affirmer que pour beaucoup, l’Amour n’existe guère
+            qu’en tant que fiction poétique ? Sans doute, il s’en trouvera peu qui ignorent le désir
+            physique, la sensation d’amour-propre flatté que procure la possession d’une belle
+            maîtresse… mais l’amour, tel que le décrit M. Vaccaro, <hi rend="i">Amor Alma è del
+              mondo</hi><note place="bottom">Le Tasse, <hi rend="i">Rimes</hi>.</note> ? Et si l’on
+            veut bien considérer avec nous<note place="bottom">Gaston Danville, <hi rend="i"
+                >Psychologie de l’Amour</hi> (Alcan).</note> l’amour comme un sentiment qui ne peut
+            se manifester qu’à l’occasion de la rencontre d’un individu réalisant un idéal
+            inconscient préformé, l’on sera moins surpris de sa réelle rareté, et l’on s’étonnera
+            moins de la fréquence des mariages, inspirés par un tout autre mobile que l’amour.</p>
+        </div>
+        <div>
+          <head>Romania, folklore. <lb/>Pierre de Nolhac : <hi rend="i">Érasme en Italie</hi>, étude
+            sur un épisode de la Renaissance suivie de douze Lettres inédites d’Érasme,
+            G. Klincksieck</head>
+          <index>
+            <term type="id">article-1898-01_267</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">J. Drexelius</term>
+            <term type="section">Romania, folklore</term>
+            <term type="title">Pierre de Nolhac : <hi rend="i">Érasme en Italie</hi>, étude sur un
+              épisode de la Renaissance suivie de douze Lettres inédites d’Érasme,
+              G. Klincksieck</term>
+            <term type="date">1898-01</term>
+            <term type="ref">Tome XXV, numéro, 97, janvier 1898, p. 266-268 [267]</term>
+          </index>
+          <byline><hi rend="sc">J. Drexelius</hi> [Remy de Gourmont].</byline>
+          <bibl>Tome XXV, numéro, 97, janvier 1898, p. 266-268 [267].</bibl>
+          <p>Voici un excellent chapitre d’histoire littéraire, <hi rend="i">Érasme en Italie</hi>,
+            amusant et savant, gonflé d’anecdotes aussi bien que de références et de documents. Le
+            séjour d’Érasme à Venise chez Alde Manuce est particulièrement curieux par l’effroi que
+            cause au bon mangeur hollandais la sobriété, un peu avaricieuse, de la famille de
+            l’imprimeur. On lui met sous presse ses <hi rend="i">Adages</hi>, mais on le nourrit de
+            feuilles de laitues, comme un lapin ; il réclame au moins du poulet. Érasme aimait le
+            grec, mais aussi la bonne chère, et de parler la langue de Lascaris ne le nourrissait
+            pas suffisamment. On ne parlait que grec chez les Alde, par une singulière affectation ;
+            mais en 1508 Venise était toute remplie de Grecs et le grec était encore la langue de
+            l’Orient. Dans le reste de l’Italie et même à Rome le séjour d’Érasme fut moins
+            fructueux : il ne semble avoir <hi rend="i">vu</hi> aucun monument ancien ou moderne,
+            aucune statue, aucun tableau ; c’était exclusivement l’homme du livre. L’énorme tome des
+              <hi rend="i">Adages</hi> avait été imprimé en huit mois, Érasme composant à mesure :
+            prodigieuse érudition servie par une imprimerie comme il n’y en a plus.</p>
+        </div>
+        <div>
+          <head>Les Revues. <lb/>Memento [extrait]</head>
+          <index>
+            <term type="id">article-1898-01_282</term>
+            <term type="author">Souza, Robert de (1864-1946)</term>
+            <term type="signed">Robert de Souza</term>
+            <term type="section">Les Revues</term>
+            <term type="title">Memento [extrait]</term>
+            <term type="date">1898-01</term>
+            <term type="ref">Tome XXV, numéro, 97, janvier 1898, p. 277-283 [282]</term>
+          </index>
+          <byline><hi rend="sc">Robert de Souza</hi>.</byline>
+          <bibl>Tome XXV, numéro, 97, janvier 1898, p. 277-283 [282].</bibl>
+          <p>[…]</p>
+          <p><hi rend="b">Anthologie-Revue de France et d’Italie</hi> (10 nov.).— Un somptueux
+            article de Laurent Tailhade à propos des <hi rend="i">Soliloques du Pauvre</hi>, de
+            Jehan Rictus : de justes considérations d’Edward Sansot-Orland sur <hi rend="i">Gabriele
+              d’Annunzio et le théâtre d’Albano</hi>.</p>
+          <p>[…]</p>
+        </div>
+        <div>
+          <head>Publications d’art. <lb/>Ugo Ojetti : <hi rend="i">L’Arte Moderna a Venezia</hi> :
+            Roma, Enrico Voghera</head>
+          <index>
+            <term type="id">article-1898-01_318</term>
+            <term type="author">Rambosson, Yvanhoé (1872-1943)</term>
+            <term type="signed">Yvanhoé Rambosson</term>
+            <term type="section">Publications d’art</term>
+            <term type="title">Ugo Ojetti : <hi rend="i">L’Arte Moderna a Venezia</hi> : Roma,
+              Enrico Voghera</term>
+            <term type="date">1898-01</term>
+            <term type="ref">Tome XXV, numéro, 97, janvier 1898, p. 313-322 [318]</term>
+          </index>
+          <byline><hi rend="sc">Yvanhoé Rambosson</hi>.</byline>
+          <bibl>Tome XXV, numéro, 97, janvier 1898, p. 313-322 [318].</bibl>
+          <p>Je ne fais que signaler pour mémoire le livre d’Ugo Ojetti. Je l’ai reçu, mais le
+            compte rendu en a déjà été fait dans les <hi rend="i">Lettres Italiennes</hi> du
+            précédent numéro.</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome XXV, numéro 98, février 1898</head>
+        <div>
+          <head>Lettres italiennes</head>
+          <index>
+            <term type="id">article-1898-02_647</term>
+            <term type="author">Zùccoli, Luciano (1868-1929)</term>
+            <term type="signed">Luciano Zùccoli</term>
+            <term type="section">Lettres italiennes</term>
+            <term type="title">Lettres italiennes</term>
+            <term type="date">1898-02</term>
+            <term type="ref">Tome XXV, numéro, 98, février 1898, p. 647-654</term>
+          </index>
+          <byline><hi rend="sc">Luciano Zùccoli</hi>.</byline>
+          <bibl>Tome XXV, numéro, 98, février 1898, p. 647-654.</bibl>
+          <div>
+            <head>Une épidémie littéraire</head>
+            <index>
+              <term type="id">article-1898-02_647a</term>
+              <term type="author">Zùccoli, Luciano (1868-1929)</term>
+              <term type="signed">Luciano Zùccoli</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">Une épidémie littéraire</term>
+              <term type="date">1898-02</term>
+              <term type="ref">Tome XXV, numéro, 98, février 1898, p. 647-654 [647-649]</term>
+            </index>
+            <p>M. Gabriel d’Annunzio n’est plus une célébrité ; c’est une épidémie. Les jeunes
+              littérateurs italiens ont aujourd’hui à livrer cette rude bataille : démontrer que
+              même sans M. d’Annunzio ils savent écrire, ils peuvent s’exprimer, ils ont le talent
+              de présenter une idée ou un personnage quelconque. C’est, à sa première vue, une
+              démonstration très facile, n’est-ce pas ? Au contraire. La critique italienne, et
+              hélas, même l’étrangère, ont été pour le moment atteintes par l’épidémie de
+              M. d’Annunzio. Les critiques voient le jeune maître partout ; à travers les pages des
+              autres, surtout. Il suffit d’employer un adjectif qui sente l’épidémie, pour être
+              classé parmi les suivants de l’auteur de <hi rend="i">l’Intrus</hi>. Je connais, par
+              exemple, un jeune romancier d’un talent vif et original, qui a eu le malheur de
+              laisser échapper l’adjectif : <hi rend="i">imperioso</hi> (impérieux). Il écrivait à
+              propos du héros de son dernier roman : « Monsieur Tel descendait d’une famille <hi
+                rend="i">impérieuse</hi>… » Croyez-vous ? On est parti de là pour conclure sans
+              appel que le jeune écrivain est un suivant aveugle de M. d’Annunzio : le mot était
+              épidémique ; l’adjectif <hi rend="i">imperioso</hi> est un des préférés de
+              M. d’Annunzio ; donc celui qui s’en emparait ne pouvait être qu’un imitateur. Le pire,
+              je dirais le comique dans cette tragédie de paroles, c’est que le jeune romancier,
+              piqué par le reproche, a eu la faiblesse d’en tenir compte ; et voilà que dans la
+              seconde édition de son roman on lit : « M. Tel descendait d’une famille <hi rend="i"
+                >aristocratique</hi>… » !</p>
+            <p>J’ai dit que la critique étrangère ne sait pas se soustraire à cette fascination ;
+              j’en ai eu des preuves récentes ; même les critiques qui ne sont pas trop ferrés sur
+              cette petite affaire de la langue italienne s’en mêlent : ce qui est étonnant, il faut
+              l’avouer, parce que pour juger la question il est nécessaire d’avoir une connaissance
+              parfaite, profonde, exquise de la langue ; on doit comparer, on doit connaître les
+              sources de certains mots anciens, que M. d’Annunzio a époussetés et réexposés dans sa
+              vitrine étincelante. On ne sait rien de tout cela, on ne sait distinguer une
+              expression du <num>xiv<hi rend="sup">e</hi></num> siècle d’une périphrase née
+              avant-hier ; mais on juge, et on passe. C’est moi, qui ne passe pas, pour le moment ;
+              parce que le phénomène est trop intéressant et actuel pour le négliger dans mes notes
+              sur le mouvement littéraire italien.</p>
+            <p>On ne soupçonne les jeunes littérateurs que d’une imitation formelle ; il serait
+              difficile de soupçonner autre chose, à vrai dire, parce qu’il est presque impossible
+              de voler à M. d’Annunzio une seule pensée qui ne soit pas de Frédéric Nietzsche ou de
+              quelque auteur classique. Toutefois, comme M. d’Annunzio est un artiste exquis, les
+              malheureux auteurs qui tremblent à l’idée de se voir mis à la queue de ses petits
+              pages, font un effort surhumain pour fuir le soupçon de l’épidémie ; ils n’ont pas
+              encore compris la portée de cette chasse féroce aux imitateurs vrais ou supposés ; ils
+              pensent tout bonnement que ça ne pourra jamais finir. Ça finira, mon Dieu, j’en
+              réponds ; on fera place à tous, on classera les œuvres et les auteurs à leurs rangs ;
+              on saura distinguer l’influence de l’un et de l’autre, l’importance de celui-ci pour
+              ses belles paroles et de celui-là pour ses belles pensées ; ce qui est nécessaire,
+              c’est de nous goûter les uns les autres.</p>
+            <p>Toujours est-il qu’on est arrivé au moment où l’on voit que ce cadeau d’une forme
+              pure et noble, souple et harmonieuse, qui est un des titres les plus incontestables de
+              M. d’Annunzio à la reconnaissance de son pays, — est un cadeau joliment dangereux. On
+              ne peut pas y toucher sans se teindre. C’est le vase de Pandore ; il y a des pierres
+              précieuses et des parfums enivrants là-dedans ; si on le découvre, c’est le poison qui
+              sort ! M. d’Annunzio élève la langue italienne à une grande hauteur ; mais gare à qui
+              tâche d’y arriver avec lui ! M. d’Annunzio a remis en honneur maintes expressions
+              oubliées, et entrelacé une couronne de mots rares, subtils, suggestifs, pompeux et
+              pimpants… Mais, puisqu’ils ont servi au jeune maître, défense de s’en servir à notre
+              tour ; ils sont sacrés ; nous sommes dans une Galerie d’art ancien et moderne :
+              messieurs les visiteurs sont priés de ne pas toucher… Ça ne valait pas le prix payé à
+              la porte.</p>
+            <p>Il faut ajouter à cette sommaire exposition de dégâts épidémico-linguistiques que ses
+              critiques n’arrivent qu’à la surface des questions d’art ; la langue, pour eux, c’est
+              le style : la forme c’est l’idée ; mais vis-à-vis de l’idée, ils ôtent poliment leur
+              chapeau et ils s’en vont : ça n’est pas dans leur calendrier.</p>
+            <p>En attendant qu’ils reviennent, nous passerons à l’examen des œuvres dont l’hiver, ce
+              printemps de la littérature en tout pays, nous a régalés. Je me bornerai comme
+              d’habitude aux plus remarquables, ou pour le sujet ou pour le nom de l’auteur, ou pour
+              le succès qu’elles ont rencontré parmi le public.</p>
+          </div>
+          <div>
+            <head>F. de Roberto : <hi rend="i">Gli Amori</hi></head>
+            <index>
+              <term type="id">article-1898-02_649</term>
+              <term type="author">Zùccoli, Luciano (1868-1929)</term>
+              <term type="signed">Luciano Zùccoli</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">F. de Roberto : <hi rend="i">Gli Amori</hi></term>
+              <term type="date">1898-02</term>
+              <term type="ref">Tome XXV, numéro, 98, février 1898, p. 647-654 [649-650]</term>
+            </index>
+            <p>L’amour c’est sans doute une matière superbe à traiter non moins dans les livres que
+              dans la vie ; on en parle depuis des siècles et le thème n’est pas encore épuisé. Que
+              dirai-je ? Tous ceux qui aiment ou qui ont aimé trouvent qu’entre la théorie et la
+              pratique il y a heureusement un abîme : chaque amoureux sent que son cœur, que ses
+              sentiments n’ont pas encore été sondés. M. Federico de Roberto, un romancier sicilien
+              d’un beau talent, un travailleur silencieux, probe, aristocratique, s’est plu à
+              étudier l’amour en philosophe et en artiste. Il y a deux ans il publiait un gros
+              volume, l’<hi rend="i">Amore</hi> (Milan, Galli édit.), quelque peu trop lourd et trop
+              savant, à vrai dire, mais qui doit lui avoir coûté bien des recherches et des
+              fatigues. L’amour y était considéré scientifiquement dans ses lois, dans ses
+              exceptions, dans ses perversions ; les pauvres dames qui ont été attirées par le titre
+              du livre ne doivent pas y avoir compris grand-chose ; mais l’œuvre a étonné pour son
+              érudition solide les critiques qui considèrent un artiste comme un <hi rend="i">quid
+                medium</hi> entre l’improvisateur et l’ignorant ; Dieu sait s’il y en a ! Ce premier
+              volume, M. de Roberto le fait maintenant suivre d’un second, <hi rend="b">Gli
+                Amori</hi> (Milan, casa editrice Galli), qui en est l’illustration et le
+              commentaire. Il s’agit d’un recueil plus gai ; c’est une suite de lettres à une
+              comtesse (je souhaite à M. de Roberto qu’elle existe réellement, à Sienne, cette femme
+              spirituelle), où l’on traite des cas amoureux, où l’on fait enfin de l’amour pratique
+              autant que la méthode épistolaire le permet. L’auteur avait dans l’<hi rend="i"
+                >Amore</hi> établi certaines lois physiologiques et psychologiques de ce sentiment ;
+              il veut avec <hi rend="i">Gli Amori</hi> nous prouver maintenant que ses lois sont
+              justes. Il faut le croire sur parole ; sa démonstration nous laisse embarrassés, parce
+              que nous n’en avons pas le contrôle. Les épisodes que M. de Roberto nous raconte n’ont
+              aucune valeur historique, en effet ; ce ne sont pas ces pièces justificatives que tout
+              lecteur est en droit d’attendre. Je peux croire qu’il s’agit de personnages de roman ;
+              je peux croire qu’il y a là quelque événement de la vie réelle, revécu dans le cerveau
+              et à travers le tempérament de l’auteur ; enfin, il n’y a pas de documents, de
+              preuves, mais des variations aimables.</p>
+            <p>D’ailleurs, je ne suppose pas que l’auteur tienne absolument à terrasser les
+              adversaires de ses théories ; il y serait mieux arrivé en découpant les <hi rend="i"
+                >faits divers</hi> des journaux et en les mettant sous le nez des incrédules.
+              M. de Roberto a pensé et composé un livre d’aventures amoureuses qui ont tout
+              l’attrait de la vraisemblance. Pas d’imitation de M. d’Annunzio ; nous en sommes
+              loin ; un esprit d’observation clair, aigu, une logique impitoyable, qui, en thème
+              d’amour, est quelquefois excessive, une haute causerie de viveur sceptique, imparfait,
+              et froid. Voici la forme et la substance de cette œuvre, qui porte la marque du talent
+              et le goût de cet écrivain ; il n’arrivera, de mon avis, jamais au chef-d’œuvre, mais
+              tous ses livres se recommandent par une noble indépendance, par une sévère
+              aristocratie de méthode.</p>
+          </div>
+          <div>
+            <head>Paolo Mantegazza : <hi rend="i">L’Amore</hi></head>
+            <index>
+              <term type="id">article-1898-02_650</term>
+              <term type="author">Zùccoli, Luciano (1868-1929)</term>
+              <term type="signed">Luciano Zùccoli</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">Paolo Mantegazza : <hi rend="i">L’Amore</hi></term>
+              <term type="date">1898-02</term>
+              <term type="ref">Tome XXV, numéro, 98, février 1898, p. 647-654 [650-651]</term>
+            </index>
+            <p>Entre ce jeune philosophe de l’amour moderne et le sénateur Paolo Mantegazza, qui
+              traite le même argument (<hi rend="b">L’Amore</hi>, Milan, Treves), il y a quelque
+              différence de vues. M. Paolo Mantegazza ne suppose pas un amour <hi rend="i"
+                >moderne</hi> qui puisse servir de pendant à l’amour d’autrefois ; pour lui, il n’y
+              a que l’amour, ce bon diable avec un bandeau sur les yeux, qui s’amuse à enfiler les
+              cœurs sur sa broche. Ici l’auteur, qui est un savant et d’une renommée européenne,
+              nous sert les paralipomènes de ses recherches ; la littérature lui doit déjà une
+              Physiologie de l’Amour et ces deux volumes <hi rend="i">Gli amori degli uomini</hi>
+              qui ont eu un succès tapageur. Je n’ai jamais compris, entre nous, à quoi pouvait
+              servir ce recueil d’usages amoureux de toutes les nations ; il y en avait de drôles,
+              il faut le dire, de si drôles, que l’œuvre a excité un bruit énorme ; le public avait
+              de quoi s’emplir jusqu’à la gorge ; on criait au scandale, mais on lisait avec
+              emportement ; enfin, il s’agissait de choses scientifiques. La science avant tout ! Il
+              y a des occasions où tous sentent un besoin insupportable de devenir des savants :
+              c’est généralement, lorsque la science est un peu cochonne. Et les deux volumes cités
+              répondaient rudement bien à l’argument. M. Paolo</p>
+            <p>Mantegazza nous apprend, d’ailleurs, dans la Préface à l’<hi rend="i">Amore</hi>, que
+              ses <hi rend="i">Amori degli uomini</hi> ont été admis dans la littérature
+              scientifique de tous les pays ; ça me prouve une fois de plus qu’en fait de science je
+              ne suis pas connaisseur.</p>
+            <p>Mais avec les paralipomènes, que la maison Treves vient de publier, l’auteur continue
+              ses causeries philosophiques sur le sentiment immortel, sans trop d’histoire naturelle
+              comparative, M. Mantegazza est un ami de la femme, à la Michelet ; il pense toujours
+              qu’on peut tirer quelque chose de bon de cet admirable joujou, et il tient bravement à
+              l’idée symétrique d’en faire le meilleur compagnon de l’homme. Chamfort n’était pas de
+              son avis. Cependant, M. Mantegazza n’est pas aveugle ; il a un penchant pour la femme,
+              en homme de science qui en connaît toutes les faiblesses physiques et morales, mais il
+              n’encourage personne à s’y fier trop. Avec ce dernier livre, il nous permet d’admirer
+              encore son style nerveux, brillant, riche de comparaisons et d’images. L’œuvre est
+              complétée par l’Anthologie de l’Amour, une collection internationale de chansons et de
+              poésies érotiques, quelques-unes assez bêtes.</p>
+            <p>Il reste toujours à dire que sur cette question colossale des instincts et des
+              sentiments personne jusqu’ici n’a dépassé Schopenhauer ; sa théorie est encore le
+              dernier mot du problème : sa franchise, sa clairvoyance, sa limpidité d’exposition
+              n’ont pas encore de rivales. Si l’amour va de ce côté, qui est le bon, peut troubler
+              les âmes tendres et les cœurs romantiques, la faute n’en est pas à moi.</p>
+          </div>
+          <div>
+            <head>A. Fogazzaro : <hi rend="i">Poesie Scelte</hi></head>
+            <index>
+              <term type="id">article-1898-02_651</term>
+              <term type="author">Zùccoli, Luciano (1868-1929)</term>
+              <term type="signed">Luciano Zùccoli</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">A. Fogazzaro : <hi rend="i">Poesie Scelte</hi></term>
+              <term type="date">1898-02</term>
+              <term type="ref">Tome XXV, numéro, 98, février 1898, p. 647-654 [651-652]</term>
+            </index>
+            <p>Glissons ; les tendances nouvelles ne sont pas favorables à Schopenhauer. En Italie,
+              l’école mystique, pure, idéaliste jusqu’aux dernières conséquences, a des champions
+              excellents. Il suffit de nommer M. Antonio Fogazzaro ; on le regarde comme le chef de
+              cette littérature qui s’oppose au sensualisme de M. d’Annunzio ; son talent nous
+              présente bien la seconde face de l’âme italienne toujours oscillante entre
+              l’épicurisme et le mysticisme ; M. le vicomte de Vogüé le remarquait fort adroitement,
+              à l’occasion de l’enquête du <hi rend="i">Marzocco</hi> dont je parlerai plus loin.
+              Mais c’est dommage que peu à peu M. Fogazzaro nous ait conduits au catholicisme vieux
+              style ; il y a du danger là-dessous, pour l’Italie ; l’odeur d’encens nous offense ;
+              les personnages de M. Fogazzaro sont trop enclins à la sacristie ; ses femmes sont
+              raides, arquées par la vertu chrétienne poussée aux dernières bornes. Il ne faut pas
+              moins que l’art de M. Fogazzaro pour nous faire accepter ce monde naïf, douillet et
+              surprenant, à sa manière ; je crois que les imitateurs ne pourront qu’éveiller une
+              cordiale antipathie. D’ailleurs, la source remonte à Alexandre Manzoni, le Maître
+              inégalable ; hormis l’auteur de <hi rend="i">Daniel Cortis</hi>, les suivants de cette
+              école sont restés bien au-dessous du modèle ; on n’est pas simple lorsqu’on veut, et
+              Manzoni avait la simplicité du génie. M. Fogazzaro vient de publier ses poésies (<hi
+                rend="b">Poesie Scelte</hi>, Milan, Galli edit.), qui ont tous les mérites et les
+              défauts de sa personnalité artistique. Les vers, souvent durs, nous donnent une
+              harmonie à laquelle nos oreilles ne sont pas habituées ; le dédain pour la forme, qui
+              caractérise les romans de M. Fogazzaro, et qui, jusqu’à un certain point, est une
+              originalité, nous frappe ici comme une note choquante : l’Italie se vante de maîtres
+              trop connus pour la magie des sons et des rythmes ; elle ne peut accepter sans
+              hésitations un art poétique qui se passe facilement des bonnes règles de l’harmonie.
+              Ce défaut, est encore plus sensible, si on pense que les sujets traités par
+              M. Fogazzaro sont tout à fait spéciaux, de ce mysticisme décidément catholique dont
+              j’ai parlé ; pour un païen, — et j’en suis un, — la forme seule pourrait les rendre
+              vifs et intéressants. On ne conçoit pas un cantique à Notre-Dame, à la <hi rend="i"
+                >Madonna</hi>, si la souplesse et la nouveauté du rythme ne savent pas le faire
+              pardonner. En se promenant par le vieux arsenal des légendes religieuses il faut être
+              pourvu d’une torche flamboyante, qui donne de l’éclat même à la rouille de ces pauvres
+              harnais. M. Fogazzaro se contente d’une bougie. Et il n’y a dans mon jugement, quoique
+              très franc, d’une franchise démodée, aucune pensée irrespectueuse pour notre grand
+              écrivain : je trouve qu’après tout il faut lire ce petit recueil de vers lyriques ; ça
+              ne pourra que faire aimer davantage les romans de M. Fogazzaro.</p>
+          </div>
+          <div>
+            <head>E. Panzacchi : <hi rend="i">Rime Novelle</hi></head>
+            <index>
+              <term type="id">article-1898-02_652</term>
+              <term type="author">Zùccoli, Luciano (1868-1929)</term>
+              <term type="signed">Luciano Zùccoli</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">E. Panzacchi : <hi rend="i">Rime Novelle</hi></term>
+              <term type="date">1898-02</term>
+              <term type="ref">Tome XXV, numéro, 98, février 1898, p. 647-654 [652-653]</term>
+            </index>
+            <p>Je dois à M. Enrico Panzacchi quelques heures délicieuses : il nous présente les <hi
+                rend="b">Rime novelle</hi> (Bologna, Ditta Zanichelli édit.), des poésies très
+              fines, charmantes, mélodiques. <hi rend="i">La Caccia di Nemrod</hi>, entre autres, me
+              semble un petit chef-d’œuvre pour l’originalité de la vision, pour la puissance de la
+              forme, et elle justifie bien le succès dont on l’a saluée à son apparition dans une
+              brochure à part. Mais les compositions qui lui font couronne maintenant ne sont guère
+              indignes de cette rivale dangereuse. M. Panzacchi demeure un artiste de premier ordre
+              en dépit de la politique, qui a réclamé sa présence à la Chambre. Il a ce goût naturel
+              de la mesure, du <hi rend="i">modus in rebus</hi>, qui est absolument rare
+              aujourd’hui ; et sa lyrique se tient à l’écart des raffinements exagérés aussi bien
+              que des platitudes inesthétiques. Nous pouvons admirer ici un tact délicat de poète,
+              même là où la matière était difficile et âpre à dompter ; <hi rend="i">Terra
+                immite</hi> (Terre inclémente), qui forme la dernière partie du recueil, nous en
+              donne un exemple ; c’est de la poésie civique, des Souvenirs saignants de la campagne
+              d’Afrique, cette campagne qui a été la négation journalière de Machiavel et de sa
+              science infaillible. Le poète nous transporte avec un élan tout à fait remarquable et
+              il sait se faire aimer.</p>
+          </div>
+          <div>
+            <head>G. Rovetta : <hi rend="i">L’Idolo</hi></head>
+            <index>
+              <term type="id">article-1898-02_653a</term>
+              <term type="author">Zùccoli, Luciano (1868-1929)</term>
+              <term type="signed">Luciano Zùccoli</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">G. Rovetta : <hi rend="i">L’Idolo</hi></term>
+              <term type="date">1898-02</term>
+              <term type="ref">Tome XXV, numéro, 98, février 1898, p. 647-654 [653]</term>
+            </index>
+            <p>Je dépêcherai en deux mots le nouveau roman, l’<hi rend="b">Idolo</hi>, de
+              M. Rovetta. Cet auteur veut produire trop, et ça déprécie la marque de fabrique ; la
+              confection de ses livres est vertigineusement rapide ; coup sur coup il nous lance à
+              la tête des romans, des drames, des nouvelles ; seule la poésie a pu échapper à ce
+              massacre, et je l’en félicite de tout mon cœur. L’<hi rend="i">Idolo</hi> appartient à
+              la vieille école du réalisme misérable et plat ; pas de forme, pas de décor, pas de
+              nouveauté de moyens et de types ; surtout, pas une idée. Contre cette littérature, une
+              tasse de thé bouillant est très recommandable ; se coucher au plus tôt, et tâcher de
+              transpirer, comme si l’on continuait la lecture de l’<hi rend="i">Idolo</hi>.</p>
+          </div>
+          <div>
+            <head>Marginalia</head>
+            <index>
+              <term type="id">article-1898-02_653b</term>
+              <term type="author">Zùccoli, Luciano (1868-1929)</term>
+              <term type="signed">Luciano Zùccoli</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">Marginalia</term>
+              <term type="date">1898-02</term>
+              <term type="ref">Tome XXV, numéro, 98, février 1898, p. 647-654 [653-654]</term>
+            </index>
+            <p>La <hi rend="i">Commission pour les critiques d’art</hi> de l’Exposition de Venise
+              vient de décerner ses prix : 1.500 fr. à M. Primo Levi pour une série d’articles parus
+              dans un journal florentin ; 1.000 fr. à M. Vittorio Pica et autant à M. Ugo Ojetti
+              pour les deux livres dont j’ai parlé dans le <hi rend="i">Mercure</hi> de décembre ;
+              500 fr. à M. Antonio Munaro pour un volume et autant à M. Ugo Fleres pour deux
+              articles. Ce dernier, évidemment, est un élève de Jules César : <hi rend="i">venit,
+                vidit</hi>, et <hi rend="i">vicit</hi>… son prix, dans un clin d’œil.</p>
+            <p>L’<hi rend="i">enquête du Marzocco</hi> sur la littérature et l’art italien à
+              l’étranger a rassemblé des réponses nombreuses et importantes. Parmi les écrivains et
+              les artistes qui ont fait bon accueil au questionnaire du journal littéraire de
+              Florence, je citerai, au hasard de la mémoire, MM. Coppée, Zola, Lemaître, Claretie,
+              de Vogüé, de Gourmont, Hérelle, Brunetière, Max Liebermann, Carolus Duran, Puvis de
+              Chavannes, P. Adam, William Ritter, Barrès, J. Case, de Hérédia, Rod, Ouida, Müntz,
+              Walter Crane, Paul Heyse, Fulda, M. Rossetti, Symons, Khnopff, etc. ; les Français
+              sont en majorité, preuve de cette heureuse sympathie qui va chaque jour se fortifiant
+              entre les deux nations, je ne pourrais pas rapporter les réponses, même en me bornant
+              aux plus intéressantes ou aux plus singulières. Il s’agissait de dire quelle
+              importance, quel rang, quelles tendances on attribue, à l’Étranger, à la littérature
+              et à l’art italien. En général, d’après l’enquête actuelle on apprend que la langue
+              italienne est très peu cultivée à l’Étranger, et qu’on ne connaît de cette littérature
+              que les œuvres traduites ; de là, une incertitude à la juger, et quelquefois
+              l’impossibilité absolue d’exprimer une opinion quelconque. De là, aussi, la
+              concordance des citations : presque tous les interrogés citent les noms de d’Annunzio,
+              Fogazzaro, pour la littérature, de Segantini, Michetti, Sartorio, pour l’art, de
+              Verdi, Puccini, pour la musique. Mais l’opinion étrangère est énormément plus
+              favorable à la littérature italienne, — dont on remarque avec plaisir la vigoureuse
+              renaissance, — qu’à l’art, auquel on reproche d’avoir oublié les traditions
+              immortelles des écoles florentine et vénitienne. Toujours est-il que, à mon avis, les
+              littérateurs et les artistes italiens ont encore à faire la conquête définitive de
+              l’Étranger. Ça peut donner aux jeunes un élan heureux, si l’on pense spécialement que
+              lorsqu’une littérature est riche, puissante, nourrie, l’étude de sa langue s’impose
+              aux publics intellectuels. Je crois donc que l’enquête du <hi rend="i">Marzocco</hi>
+              peut avoir un contrecoup très favorable sur la société des jeunes hommes de lettres
+              italiens ; ils doivent imiter Mahomet et aller à la montagne puisque la montagne
+              hésite à venir à eux. Dans l’attente, il est à souhaiter que le goût pour la langue de
+              Dante et de Boccace se répande et qu’on puisse se passer des traductions. Il est en
+              effet plus facile de bien traduire un auteur, que de bien le choisir parmi ceux qui
+              méritent d’être traduits.</p>
+          </div>
+          <div>
+            <head>Memento</head>
+            <index>
+              <term type="id">article-1898-02_654</term>
+              <term type="author">Zùccoli, Luciano (1868-1929)</term>
+              <term type="signed">Luciano Zùccoli</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">Memento</term>
+              <term type="date">1898-02</term>
+              <term type="ref">Tome XXV, numéro, 98, février 1898, p. 647-654 [654]</term>
+            </index>
+            <p>F. de Roberto, <hi rend="i">Gli Amori</hi> (Milano, Casa editrice Galli). — Girolamo
+              Rovetta, <hi rend="i">L’Idolo</hi>, romanzo (Milano, Casa editrice Galli). — G. Sergi,
+                <hi rend="i">Arii e italici</hi> (Torino, Fratelli Bocca, édit.). — Zino Zini, <hi
+                rend="i">Proprietà individuale o collettiva</hi> ? (Torino, Fratelli Bocca). — Prof.
+              Ruggero Oddi, <hi rend="i">L’inibizione</hi> (Torino, Fratelli Bocca). — Diego
+              Garoglio, <hi rend="i">Due Anime</hi> (Firenze, R. Bemporad e figlio). — Paolo
+              Mantegazza, <hi rend="i">L’Amore, paralipomeni</hi> (Milano, Fratelli Treves). — Carlo
+              Piacci, <hi rend="i">Mondo Mondano</hi> (Milano, Fratelli Treves). — <hi rend="i">Come
+                devo seriveri le mie lettere</hi> ? (Milano, U. Hoepli). — E. Panzacchi, <hi
+                rend="i">Rime Novelle</hi> (Bologna, Ditta Zanichelli, edit.).</p>
+          </div>
+        </div>
+      </div>
+      <div>
+        <head>Tome XXV, numéro 99, mars 1898</head>
+        <div>
+          <head>Les Théâtres. <lb/>Renaissance, 21 janvier. <hi rend="i">La Ville morte</hi>,
+            tragédie moderne en cinq actes, de M. Gabriel d’Annunzio</head>
+          <index>
+            <term type="id">article-1898-03_922</term>
+            <term type="author">Herold, André-Ferdinand (1865-1940)</term>
+            <term type="signed">A.-Ferdinand Herold</term>
+            <term type="section">Les Théâtres</term>
+            <term type="title">Renaissance, 21 janvier. <hi rend="i">La Ville morte</hi>, tragédie
+              moderne en cinq actes, de M. Gabriel d’Annunzio</term>
+            <term type="date">1898-03</term>
+            <term type="ref">Tome XXV, numéro 99, mars 1898, p. 918-931 [922-925]</term>
+          </index>
+          <byline><hi rend="sc">A.-Ferdinand Herold</hi>.</byline>
+          <bibl>Tome XXV, numéro 99, mars 1898, p. 918-931 [922-925].</bibl>
+          <p><hi rend="sc">Renaissance</hi>. 21 janvier : Première représentation de <hi rend="b">La
+              Ville morte</hi>, tragédie moderne en cinq actes, de M. Gabriel d’Annunzio. — En
+            écrivant la <hi rend="i">Ville morte</hi>, M. d’Annunzio a fait la tentative dramatique
+            la plus curieuse que nous ayons vue depuis longtemps. Dans la ville même des Atrides,
+            Mycènes, il anime des personnages contemporains, et, reprenant la composition austère et
+            la noblesse verbale des tragédies antiques, il nous montre ces modernes en proie aux
+            passions excessives des héros légendaires dont ils ont retrouvé les sépulcres et les
+            cadavres, les spectres d’Agamemnon, de Cassandre et de Clytemnestre, devenus, pour ainsi
+            dire, tangibles, dominent l’action, dont les héros vivants s’appellent Anne et
+            Blanchemarie, Léonard et Alexandre. Mais les modernes n’ont pas la férocité simple des
+            Atrides ; et c’est par des raffinements de pensée qu’ils en arrivent à commettre les
+            mêmes crimes. Léonard ne peut vaincre son violent amour pour Blanchemarie, sa sœur :
+            mais d’elle il veut garder un souvenir pur et beau, et c’est pour cela que, sans l’avoir
+            possédée, il la noie dans les ondes de la fontaine Perséia. C’est aussi pour
+            qu’Alexandre et lui ne soient pas divisés, à jamais : car Alexandre aime Blanchemarie,
+            et pour elle il oublie Anne, sa femme, la voyante aveugle prête à se sacrifier au
+            bonheur de celui qu’elle chérit. N’est-ce pas enfin pour que, dans la Ville morte, il
+            n’y ait plus personne qui aspire à la vie ? Car Blanchemarie n’aime pas Mycènes ni sa
+            campagne aride et poussiéreuse, et elle regrette les beaux jardins fertiles où il y a de
+            larges fleurs et où mûrissent des fruits voluptueux. Si donc les actes des héros de la
+              <hi rend="i">Ville morte</hi> rappellent ceux des descendants de Pélops ou de
+            Labdacos, leurs sentiments sont bien différents. Si l’amour de l’archéologie ne les
+            avait pas conduits à Mycènes, ils n’auraient pas souffert de la résurrection des
+            instincts primitifs, et ils ne seraient sans doute pas devenus criminels. C’est parce
+            qu’il est un raffiné que Léonard assassine, comme Égisthe assassinait parce qu’il était
+            un sauvage. Mais, du jour où ils ont habité la Ville morte, ces civilisés ont été soumis
+            à l’antique fatalité, et ils en sont les victimes.</p>
+          <p>Comme Cassandre voyait l’avenir, Anne devine ce que voudraient cacher ceux qui lui sont
+            chers ; elle sait le mutuel amour d’Alexandre et de Blanchemarie : d’ailleurs, loin
+            d’être farouche comme la fille de Priam, elle aspire au sacrifice. Mais, comme Cassandre
+            encore, à qui Loxias Apollon avait refusé le don d’être crue, elle est maudite, et le
+            Destin lui a ôté la vue. Aussi ignore-t-elle l’amour monstrueux de Léonard pour
+            Blanchemarie, et sa grandeur d’âme est impuissante à conjurer le malheur et la mort. En
+            ouvrant le tombeau des Atrides, Léonard a attiré sur soi et ses amis les vieilles
+            malédictions, et la Ville morte a tué celle qui voulait vivre.</p>
+          <p>Il est dommage que cette tragédie, dont la donnée est si curieuse, ne soit pas vivante,
+            à la scène. Certes, la composition en est harmonieuse, et la langue en est belle, bien
+            qu’assez peu personnelle : au reste, il ne faut pas oublier que M. d’Annunzio, écrivant
+            la <hi rend="i">Ville morte</hi> directement en français, n’écrivait pas dans sa langue
+            maternelle, et je sais bien des auteurs français, et des plus applaudis, à qui cet
+            Italien pourrait donner des leçons de style. Mais cette composition régulière et ce
+            style lyrique conviennent-ils à des personnages aussi complexes que ceux de la <hi
+              rend="i">Ville morte</hi> ? La régularité et le lyrisme de la tragédie antique
+            convenaient aux héros d’Eschyle et de Sophocle qui, psychologiquement, sont très
+            simples ; mais peuvent-ils convenir aux héros de M. d’Annunzio qui, par le fait même
+            qu’ils sont nos contemporains et qu’ils en arrivent à agir comme les rois homériques,
+            sont des êtres d’exception ? Je considère l’essai de M. d’Annunzio comme un des plus
+            nobles qui aient été tentés en ce temps, mais la réussite complète en était, je crois,
+            impossible. Un récit, si long et si détaillé qu’il soit, ne suffit pas à nous faire
+            comprendre l’état d’esprit de Léonard ; et comment garder une attitude constamment calme
+            à des personnages tourmentés de sentiments contradictoires ? D’ailleurs, les anciens
+            mêmes étaient moins scrupuleux que M. d’Annunzio, et l’on peut, dans la tragédie
+            antique, citer maintes scènes troublées et violentes. La <hi rend="i">Ville morte</hi>
+            eut certainement gagné à être moins simplement composée.</p>
+          <p>Il n’empêche que la <hi rend="i">Ville morte</hi> ne soit digne de la plus haute
+            estime. C’est une œuvre très originale de conception et, souvent, d’exécution. Il est
+            certain qu’Anne, assez souvent, parle un peu comme une héroïne de M. Maeterlinck : mais,
+            au lieu de s’attarder à chercher des réminiscences, il vaut mieux signaler des passages
+            que, seul, M. d’Annunzio eût pu écrire. Dans l’<hi rend="i">Enfant de Volupté</hi>,
+            comme dans l’<hi rend="i">Intrus</hi> et le <hi rend="i">Triomphe de la Mort</hi>,
+            M. d’Annunzio excelle à rendre le charme des fruits et des fleurs, la volupté des
+            saveurs et des parfums : et il y a dans la <hi rend="i">Ville morte</hi> quelques
+            couplets lyriques sur les oranges, les myrtes, et aussi sur l’eau, qui sont des poèmes
+            exquis.</p>
+          <p>À la Renaissance, la <hi rend="i">Ville morte</hi> a été bien montée et, dans
+            l’ensemble, assez bien jouée. Mme Sarah Bernhardt a été admirable dans le rôle d’Anne :
+            dès l’ouverture du rideau, elle a su, par le son même de la voix, pour ainsi dire,
+            suggérer qu’elle était aveugle ; elle a eu les cris de douleur les plus tragiques, et
+            aussi les plus doux murmures d’amour et de tendresse ; et je ne crois pas qu’on oublie
+            jamais la gaieté caressante, enfantine, et un peu mélancolique, avec laquelle elle
+            raconte à sa nourrice la légende d’Io. Auprès d’elle, Mlle Blanche Dufrêne a bien
+            interprété le personnage de Blanchemarie ; elle a été dramatique, et a su, comme il
+            fallait, garder toujours une attitude élégante et jolie. Mais, malheureusement,
+            MM. Deval et Brémond ont joué Léonard et Alexandre avec quelque insuffisance.</p>
+          <p>22 janvier-1<hi rend="sup">er</hi> février : <hi rend="i">La Ville morte.</hi>
+            — 24 février : Relâche.</p>
+        </div>
+        <div>
+          <head>Publications d’art. <lb/>Memento [extrait]</head>
+          <index>
+            <term type="id">article-1898-03_952</term>
+            <term type="author">Rambosson, Yvanhoé (1872-1943)</term>
+            <term type="signed">Yvanhoé Rambosson</term>
+            <term type="section">Publications d’art</term>
+            <term type="title">Memento [extrait]</term>
+            <term type="date">1898-03</term>
+            <term type="ref">Tome XXV, numéro 99, mars 1898, p. 949-953 [953]</term>
+          </index>
+          <byline><hi rend="sc">Yvanhoé Rambosson</hi>.</byline>
+          <bibl>Tome XXV, numéro 99, mars 1898, p. 949-953 [953].</bibl>
+          <p>[…]</p>
+          <p><hi rend="b">Natura ed Arte</hi> (1<hi rend="sup">er</hi> février). — Article documenté
+            sur Antonio Canova par Vittorio Malamani.</p>
+          <p>[…]</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome XXVI, numéro 100, avril 1898</head>
+        <div>
+          <head>Les Revues. <lb/>Memento [extraits]</head>
+          <index>
+            <term type="id">article-1898-04_273</term>
+            <term type="author">Hirsch, Charles-Henry (1860-1948)</term>
+            <term type="signed">Charles-Henry Hirsch</term>
+            <term type="section">Les Revues</term>
+            <term type="title">Mémento [extraits]</term>
+            <term type="date">1898-04</term>
+            <term type="ref">Tome XXVI, numéro 100, avril 1898, p. 268-274 [273, 275]</term>
+          </index>
+          <byline><hi rend="sc">Charles-Henry Hirsch</hi>.</byline>
+          <bibl>Tome XXVI, numéro 100, avril 1898, p. 268-274 [273, 275].</bibl>
+          <p>[…]</p>
+          <p><hi rend="b">Revue des Revues</hi>. — […] Une étude sur le <hi rend="i">Mouvement
+              littéraire en Italie</hi>, par M. Ugo Ojetti.</p>
+          <p>[…]</p>
+          <p><hi rend="b">La Revue Générale</hi>. —<hi rend="i">Pise</hi>, par M. Arnold Goffin.</p>
+          <p>[…]</p>
+        </div>
+        <div>
+          <head>Art moderne. <lb/>Zandomeneghi</head>
+          <index>
+            <term type="id">article-1898-04_297</term>
+            <term type="author">Fontainas, André (1865-1948)</term>
+            <term type="signed">André Fontainas</term>
+            <term type="section">Art moderne</term>
+            <term type="title">Zandomeneghi</term>
+            <term type="date">1898-04</term>
+            <term type="ref">Tome XXVI, numéro 100, avril 1898, p. 295-300 [297]</term>
+          </index>
+          <byline><hi rend="sc">André Fontainas</hi>.</byline>
+          <bibl>Tome XXVI, numéro 100, avril 1898, p. 295-300 [297].</bibl>
+          <p>Pour M. <hi rend="b">Zandomeneghi</hi>, la première de ses qualités, à coup sûre
+            louable, est une admiration sans bornes pour l’art merveilleux, unique, de M. Degas. Il
+            n’a pas la sûreté de l’œil du maître, il n’a pas la virtuosité magique de son métier.
+            Tout est plein d’excellentes intentions, la réalisation est bien au-dessous. En
+            certaines toiles parmi celles qui sont exposées chez Durand-Ruel, en dépit d’une
+            affectation d’élégance n’aboutissant qu’à de la brutale inharmonie, à de la lourdeur
+            maladroite, des morceaux paraissent plus habilement traités. Dans le <hi rend="i">Square
+              de la Place d’Anvers</hi>, par exemple, les attitudes des promeneurs, le geste des
+            enfants sont fixés agréablement, mais, en dépit de la dimension du tableau, il n’est
+            rien qu’une réunion de croquis, car rien n’y établit l’indispensable unité, sans
+            laquelle nulle impression ne se communique au spectateur ; il semble qu’il n’y ait pas
+            lieu pour ce tableau d’exister. Ailleurs, une femme dans un fauteuil s’étire avec une
+            pose tragique et apprêtée, c’est désagréable et faux, mais il y a un fond de tentures,
+            de feu et d’étoffes assez joliment réussi. Les chairs sont pesantes partout, sans vie et
+            sans accent.</p>
+        </div>
+        <div>
+          <head>Art ancien. <lb/>La Madone de Piero della Francesca</head>
+          <index>
+            <term type="id">article-1898-04_301</term>
+            <term type="author">Josz, Virgile (1859-1904)</term>
+            <term type="signed">Virgile Josz</term>
+            <term type="section">Art ancien</term>
+            <term type="title">La Madone de Piero della Francesca</term>
+            <term type="date">1898-04</term>
+            <term type="ref">Tome XXVI, numéro 100, avril 1898, p. 301-305</term>
+          </index>
+          <byline><hi rend="sc">Virgile Josz</hi>.</byline>
+          <bibl>Tome XXVI, numéro 100, avril 1898, p. 301-305.</bibl>
+          <p>Les Ombriens sont dans l’école italienne des <num>xiv<hi rend="sup">e</hi></num> et
+                <num>xv<hi rend="sup">e</hi></num> siècles ceux qui étaient désignés pour être les
+            peintres de la Vierge. De ce sanctuaire d’Assise où venaient, malgré les guerres et les
+            pestes, les multitudes pressées, il semble qu’un envoûtement rayonne, qui frappe les
+            populations immédiates et les entraîne vers un idéal ascétique tout particulier qui
+            influera sur la vie publique et différenciera si profondément Pérouse, désintéressée,
+            dévouée et chevaleresque, de sa voisine Florence. Dans cette école ombrienne, qui partit
+            de Gualdo et des San Severino pour se dévoyer complètement et se perdre en Raphaël,
+            Piero della Francesca semble être le dernier mystique, un mystique qu’est venu troubler
+            si curieusement la préoccupation de faire vrai et que le réel hante en chacune de ses
+            œuvres. Piero della Francesca est un sommet : il est l’ultime dépositaire de la haute
+            idée ; c’est le dernier communiant. Après lui, les yeux et les cerveaux changent, la
+            pente commence qui aboutira par Pietro Vannucci à Raphaël, dont le génie ignore
+            complètement l’austère vision du maître de Borgo-san-Sepolcro.</p>
+          <p>La madone de Francesca que le Louvre vient d’acquérir synthétise éloquemment ces
+            tendances. La figure, sans être comme dans quelques-unes de ses œuvres absolument cernée
+            de noir, est accusée d’un trait net, rigide, précis ; le pli des lèvres est
+            mélancolique, le regard est grave, les mains sont bien d’un réaliste, un peu grosses et
+            sans élégance convenue. Il l’a voulue blonde, comme Nicéphore Callixte, et il lui a
+            fait, sous le fuazzuolo léger, des cheveux par petites boucles claires, ainsi qu’il aime
+            à les peindre. Le costume lui-même est sévère : manteau simple, robe rouge aux manches
+            fondues, rattachées aux poignets, laissant voir la seconde robe qui est blanche, — et le
+            Bambino qui déroule sa bandelette et la tend à sa mère n’a pas la joliesse de ceux des
+            Saintes Familles gaies qui viendront plus tard. Tout cela est d’un ordre très noble. Le
+            paysage aux lignes géométriques et à la perspective implacable, et qui a si curieusement
+            tourné avec le temps, le poncis du dessin qui transparaît sous la couleur froide, le
+            blafard des clairs, le grain très gris des ombres, toute cette exécution qui sent la
+            fresque donne à ce panneau une haute saveur. Ah ! que nous voilà loin des matrones de
+            l’école romaine, des Vénus et des Dianes des Grecs, de ces étranges figures noires,
+            splendides et ruisselantes d’or et de gemmes des Byzantins ! Il suffit, pour bien voir
+            la place que tient Francesca, de faire le tour de cette petite salle des Primitifs
+            italiens : ils sont là, caractéristiques : c’est Cimabue, Massone, graves et byzantins,
+            c’est Fredi, avec ses curieuses figures vieillottes, ridées, aux yeux si blancs sous les
+            paupières plissées, c’est Lippi et ses lourdes Vierges glorieuses, c’est Gozzoli avec sa
+            tête ingénue et sans dessous, c’est Bastiano Mainardi avec sa Vierge-aux-lys, si
+            coquette malgré les efforts de l’artiste, c’est Giovanni Bellini avec déjà tout le
+            soleil de l’école vénitienne, c’est le Pérugin, enfin c’est Botticelli. Ah, celui-là !…
+            le regard de l’enfant, si inexprimablement émouvant dans sa tendresse de tout-petit, et
+            ce fond génial, tout en ciel, où se profilent ces arbres ébranchés et ces roses… Et la
+            bleue et rose apothéose de rêve de l’Angélico… Seule, la Vierge du Ghirlandajo, en dépit
+            de l’orchestration aveuglante de <hi rend="i">Visitation</hi>, a quelque peu de la
+            sévérité de celle de Francesca.</p>
+          <p>Il convient de féliciter hautement le Louvre et ses Amis de cette acquisition,</p>
+          <p>L’homme et l’œuvre sont considérables : il remplit sa vie d’un labeur superbe, avec la
+            fougue de ces magnifiques qui avaient double sève. Mathématicien, il dicte, alors
+            qu’aveugle il ne peut plus peindre, des traités qui sont à la Bibliothèque du Vatican et
+            dont Luca Paccioli parle comme de pures merveilles dans son livre des <hi rend="i">Cose
+              d’Architetture</hi> ; maître, il fait Lorentino d’Angelo, Melozzo da Forlì, Luca del
+            Borgo, et il ouvre la route au Pérugin et au Signorelli, ce disciple formidable qui
+            devait monter plus haut que lui. Réaliste, épris de nature, il enferme la pensée
+            mystique qui le guide dans le corps des hommes et des femmes qu’il a sous la main : la
+            fille du peuple qui a quelque peu de front pose une Vierge, — sa <hi rend="i"
+              >Vierge</hi> d’Arezzo, — le premier montagnard venu un Christ : celui de sa fresque du
+            Mont-de-Piété a le nez cylindrique, les lèvres épaisses d’un maure, les yeux caves et
+            les extrémités grosses et communes, — mais le peintre, en dépit de ces réalités qui
+            s’imposaient à lui, a su le rendre formidable et impressionnant quand même. Il y a
+            beaucoup d’action dans ses compositions ; ses personnages, qu’il modelait en terre et
+            revêtissait d’étoffes lourdes avant de les peindre, sont bien dans l’air, les groupes
+            sont heureux, vivants, ses animaux sont notés avec une rare justesse ; le premier, il
+            met en œuvre l’architecture avec une sûreté de lignes qu’on n’a pas dépassée, ses
+            perspectives sont implacables, comme celles de Flamands de Bruges, — enfin il pressentit
+            le clair-obscur, et dans certaines de ses fresques, des figures même sont lumineuses :
+            l’ange de la <hi rend="i">Vision de Constantin</hi>.</p>
+          <p>Ses œuvres, si nombreuses qu’elles aient été, sont rarissimes. Elles ont disparu, comme
+            presque toutes les œuvres simplistes et claires des Primitifs, par la volonté des <hi
+              rend="i">amateurs</hi> d’autrefois qui les détruisirent pour les remplacer par les
+            fougueuses féeries des maîtres de la Renaissance. Et cependant Florence, Rome, Rimini,
+            Ferrare, Urbin se le disputèrent. Que reste-t-il ? Quelques fresques à demi effacées,
+            quelques portraits aux Offices, deux têtes et deux ébauches à la National Gallery, — et
+            la <hi rend="i">Vierge</hi> du Louvre.</p>
+          <p>À Florence, il passe seulement, au sortir de l’atelier du vieux Veneziano ; puis, c’est
+            Rome où Nicolas V, ce grand bâtisseur, lui fait peindre les chambres de son palais. Mais
+            si ce pape <quote>« aveva, col suo modo di fabricare, messo tutta Roma sotto
+              sopra »</quote>, un autre devait venir qui aimait fort à bousculer : Jules II. Prenant
+            prétexte que ce Juif d’Alexandre Borgia avait empoisonné tous ses appartements, le <hi
+              rend="i">Miracle de Bolsenne</hi> et la <hi rend="i">Prison de Saint-Pierre</hi>
+            remplacèrent les fresques de Francesca, — que nous retrouvons à Rimini, auprès du
+            duc.</p>
+          <p>Quoiqu’il eût vu, à n’en pas douter, de bien singulières choses à la cour de Nicolas V,
+            il dut être fortement intéressé par celle de Sigismondo Pandolfo Malatesta. Cet homme de
+            sang, qui restera comme le type le plus achevé du condottière, ce soldat féroce et
+            déloyal, tour à tour gonfalonier de l’Église et excommunié par le pape, à la solde de
+            Sienne, de Naples, de Rome ou d’Aragon, de deux et de trois à la fois, trompant tout le
+            monde dans l’occasion, dépouillant ses alliés et ses ennemis, chercheur avide des plus
+            basses débauches, contempteur de ce qui n’est pas la force, ce génial ingénieur
+            militaire, cet amoureux des Lettres, fondateur de bibliothèques richement dotées, ce
+            bâtisseur de palais qu’il comble d’objets d’art, ce poète, cette <hi rend="i">mauvaise
+              tête</hi>, voulut se faire peindre par Francesca, dans sa chapelle, à genoux devant
+            son saint patron, Sigismond de Bourgogne.</p>
+          <p>Le Borghèse trouva à Rimini Matteo Pasti, le Pisanello, Gentile da Fabriano<note
+              place="bottom">Voir au Louvre le curieux petit panneau, où il a peint Pandolfo
+              agenouillé devant la Vierge.</note>, et surtout Léon Battista Alberti qui entourait
+            l’église Saint-François d’une longue file d’arcades, au centre desquelles il ménageait
+            une magnifique chapelle où devait reposer Izotta dei Atti, — cette Izotta de Rimini, qui
+            était la maîtresse du duc. Pour elle, Sigismond avait déjà empoisonné sa première femme,
+            Geneviève d’Este, comme il devait, dans peu, étrangler sa seconde, Polyxène Sforza. Elle
+            lui tenait au cœur cette Izotta, cette petite créature. Elle seule savait le calmer
+            alors qu’il rentrait farouche dans sa Rocca Malatestiana, humilié et saignant de quelque
+            blessure profonde ; elle feignait d’ignorer ses épouvantables débauches, ses fureurs de
+            luxure et ses sauvageries ; et, douce, elle le rafraîchissait d’une chanson ou d’un
+            sonnet. Pour elle, il fit composer, par des rimeurs à gages, ces <hi rend="i"
+              >Isottei</hi> où figurent plusieurs pièces de lui et commanda son buste à Mino de
+            Fiesole : Matteo Pasti fit sept médailles d’elle ; le Pisanello, une. Francesca dut la
+            peindre, naturellement. Il l’admit à la voir le jour où il créait chevalier le frère de
+            sa maîtresse, Antonio dei Atti. Ah, la jolie scène !… La cour du palais est pleine des
+            nobles et des citoyens de Rimini. Sur l’estrade, à côté de lui, est Polyxène Sforza. Et
+            devant la duchesse, devant le peuple, Bagnoli, le scribe, lit la sentence ; il fait
+            attacher les éperons à Antonio par le comte d’Urbin, lui donne l’accolade, lui octroie
+            des bourgs et des terres, lui fait remettre des draps de soie et de velours, des pièces
+            d’orfèvrerie, — pendant qu’Izotta se lève et vient offrir à son frère, d’un geste
+            charmant, les deux cents ducats d’or dans la tasse d’argent…</p>
+          <p>Le portrait que le Borghèse nous en a laissé est aujourd’hui à Londres. Il l’a
+            représentée de profil. Le dessin a la pureté et la fermeté de ligne d’une médaille du
+            Pisanello ; le front est haut et large, la bouche sensuelle, intelligente et tenace : la
+            robe de brocart rehaussée de broderies d’or, est d’une exécution plus large, qui ne lui
+            est pas habituelle.</p>
+          <p>Francesca ne resta pas longtemps à la cour de Rimini ; le duc Borgo l’appela à
+            Ferrare.</p>
+          <p>Là, il peint à fresque des salles entières du palais de la Schifanoïa, détruites plus
+            tard sous le règne du duc Ercole ; puis il va décorer la chapelle des Bacci, à
+            Saint-François d’Arezzo, fait un <hi rend="i">Christ en croix</hi> et une <hi rend="i"
+              >Madeleine</hi> à la Cathédrale, et rentre à Borgo. Il y était fort occupé à une <hi
+              rend="i">Assomption</hi>, lorsque la Confrérie du <hi rend="i">Corpus Domini</hi>
+            d’Urbin, le prie de se rendre en cette ville, pour y exécuter un tableau d’autel.
+            Francesca vint donc à Urbin. Mais le duc ne lui laissa le loisir d’accomplir sa
+            promesse, en l’obligeant à faire son portrait, celui de Battista Sforza, sa femme, et
+            leur Triomphe à tous les deux.</p>
+          <p>Frederico de Montefeltro, duc par Sixte IV, cultivant les lettres grecques et latines,
+            amant passionné des arts, avait fait de la « petite et saine Urbin » une véritable
+            Athènes. Luciano Lauranna, réunissant deux collines, lui élevait un palais, une de ces
+            belles demeures d’Italie, aux murs clairs, tout en colonnades légères, en portiques
+            aériens, en escaliers savants, en voûtes, en berceaux aux rosaces d’or, en galeries
+            plaquées de marbres, en façades timbrées de trophées, demeure dont Baroccio, de Milan,
+            sculptait les chambranles des portes et des fenêtres, dont maëstro Jacomo, de Florence,
+            faisait les marqueteries, où Giorgo Andreoli, de Gubbio, modelait, dans la chapelle, un
+            autel en terre cuite avec des hauts reliefs colorés.</p>
+          <p>L’honneur était grand pour Francesca de peindre un prince qui avait attiré près de lui
+            maître Juste de Gand, et qui conservait comme une merveille, dans sa bibliothèque, le
+              <hi rend="i">Bain des femmes</hi> de Van Eyck. Il semble qu’il y ait mis toute sa
+            science : c’est véritablement un morceau de maître où on retrouve, dans l’ombre des
+            chairs, le ton brun lumineux du Masaccio. Il l’a représenté de profil, Montefeltro ayant
+            perdu un œil dans un tournoi ; au revers, se trouve le Triomphe. Le portrait de Battista
+            Sforza a la même ordonnance.</p>
+          <p>Voici ce que l’on trouve dans le livre B, de la confrérie du <hi rend="i">Corpus
+              Domini</hi> :</p>
+          <quote>
+            <p>« 1469 aprile 8. Bolognini io dati a Giovanni di Santi da Colbordolo per fare la
+              spese a Maestro Piero del Borgo ch’era venuto a vedere la tavola per forla a conto
+              della Fraternità. »</p>
+          </quote>
+          <p>Ce fut donc chez Giovanni Santi qu’il descendit, chez le père de Raphaël qui dorait des
+            statues et peignait des vierges si roides et si dures, tout en écrivant sa Chronique
+            Rimée.</p>
+          <p>Il s’est promené souvent dans le petit jardin de la maison la rue Contrada del Monte,
+            devant la Madone à fresque dont Santi avait décoré le mur, dans cet enclos, fleuri
+            d’oliviers, de pampres et de roses, dont la terrasse basse dominait la ville, d’où on
+            voyait la campagne, blonde de blés mûrissants, les crêtes aiguës et dentelées des
+            derniers Apennins, tout au loin, sous le ciel léger, un pan de mer profonde, — petit
+            jardin symbolique où, bien peu d’années après, Raphaël enfant devait jouer.</p>
+        </div>
+        <div>
+          <head>Chronique de Bruxelles. <lb/>[Le Salon de la <hi rend="i">Libre Esthétique</hi>,
+            extrait]</head>
+          <index>
+            <term type="id">article-1898-04_311</term>
+            <term type="author">Eekhoud, Georges (1854-1927)</term>
+            <term type="signed">Georges Eekhoud</term>
+            <term type="section">Chronique de Bruxelles</term>
+            <term type="title">[Le Salon de la <hi rend="i">Libre Esthétique</hi>, extrait]</term>
+            <term type="date">1898-04</term>
+            <term type="ref">Tome XXVI, numéro 100, avril 1898, p. 311-315 [311]</term>
+          </index>
+          <byline><hi rend="sc">Georges Eekhoud</hi>.</byline>
+          <bibl>Tome XXVI, numéro 100, avril 1898, p. 311-315 [311].</bibl>
+          <p>[…]</p>
+          <p>Parmi les étrangers, c’est Fritz Thaulow, avec trois œuvres admirables : la <hi
+              rend="i">Nuit à Amiens</hi>, le <hi rend="i">Quartier des Pauvres</hi> à Venise, et
+              « <hi rend="i">Il Cavallo</hi> » à Venise. Coloriste tragique, Thaulow résume et
+            condense la tristesse farouche, la menace des quais excentriques et des lagunes
+            stagnantes. Sa <hi rend="i">Nuit à Amiens</hi> me fait songer à certains coins de notre
+            banlieue bruxelloise, à ce qu’on peut apercevoir, par-dessus le garde-fou d’un pont, de
+            la Senne roulant ses eaux d’égoût et usinières entre de hautes murailles lépreuses.</p>
+          <p>[…]</p>
+        </div>
+        <div>
+          <head>Lettres italiennes</head>
+          <index>
+            <term type="id">article-1898-04_325</term>
+            <term type="author">Zùccoli, Luciano (1868-1929)</term>
+            <term type="signed">Luciano Zùccoli</term>
+            <term type="section">Lettres italiennes</term>
+            <term type="title">Lettres italiennes</term>
+            <term type="date">1898-04</term>
+            <term type="ref">Tome XXVI, numéro 100, avril 1898, p. 325-330</term>
+          </index>
+          <byline><hi rend="sc">Luciano Zùccoli</hi>.</byline>
+          <bibl>Tome XXVI, numéro 100, avril 1898, p. 325-330.</bibl>
+          <div>
+            <head>Guglielmo Ferrero : <hi rend="i">Il Militarismo</hi></head>
+            <index>
+              <term type="id">article-1898-04_325a</term>
+              <term type="author">Zùccoli, Luciano (1868-1929)</term>
+              <term type="signed">Luciano Zùccoli</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">Guglielmo Ferrero : <hi rend="i">Il Militarismo</hi></term>
+              <term type="date">1898-04</term>
+              <term type="ref">Tome XXVI, numéro 100, avril 1898, p. 325-330 [325-327]</term>
+            </index>
+            <p>Et voilà un livre sur lequel on pourrait discuter longtemps, en relevant les fautes,
+              les paradoxes et les conclusions arbitraires dont il est tout plein. Mais <hi rend="i"
+                >non est hic locus</hi>, et, d’ailleurs, M. Guglielmo Ferrero, élève de M. Lombroso,
+              est parfaitement sûr de soi et de ses travaux. <hi rend="b">Il Militarismo</hi>
+              (Milan, Treves), œuvre contre la guerre et les sociétés militaires, répond à un
+              certain sentiment pacifique de la foule, laquelle n’a pas ménagé les approbations
+              bruyantes à M. Ferrero. Il est toujours agréable d’entendre un jeune philosophe qui
+              vous promet la paix universelle et la fin de la guerre, pourvu qu’on reste
+              tranquille ! Les mots ne coûtent rien, et, après tout, la littérature politique de
+              M. Ferrero n’a été jusqu’à présent qu’un défilé de paroles. Lorsqu’il s’agit de
+              fortifier les jugements et les opinions avec des faits, M. Ferrero contraint les faits
+              à démontrer ce qui lui est nécessaire ; et avec cette méthode, il est difficile
+              d’avoir tort. Plus qu’ailleurs, ce système est remarquable dans le chapitre qui traite
+              de Napoléon et qui en esquisse la psychologie à la Lombroso. M. Ferrero, un Benjamin
+              Constant en retard de quatre-vingt-trois ans, trouve des ressemblances formidables
+              entre Napoléon et Attila ; il le compare à Jules César, en concluant que celui-ci
+              était un personnage <hi rend="i">respectable</hi> (voilà un compliment assez curieux
+              pour un grand capitaine !), et qu’il ne faisait que des guerres <hi rend="i"
+                >gaies.</hi> Je commence à soupçonner M. Ferrero d’avoir oublié son histoire
+              romaine ; à moins qu’il ne trouve gaies la guerre civile et les batailles de Pharsale,
+              de Thapso, de Munda, avec les 15,000 cadavres de la première, et les 10,000 de la
+              seconde, et les 33,000 de la dernière. Tout ça doit être d’une gaîté désopilante pour
+              l’élève de M. Lombroso, qui, décidé à engloutir Napoléon, ne s’arrête guère à ces
+              petitesses. La physiologie napoléonienne de M. Ferrero montre qu’il a puisé à des
+              sources historiques fort peu sérieuses, et les inexactitudes fourmillent. Il en est
+              toujours à Madame de Rémusat et à Bourrienne, sans même supposer que la Rémusat des
+                <hi rend="i">Mémoires</hi> est démentie, par la Rémusat des <hi rend="i"
+                >Lettres</hi>, et que les <hi rend="i">Mémoires</hi> de Bourrienne sont, en tout ou
+              en partie, apocryphes. Il nous parle de la simplicité extérieure de Napoléon, ce qui
+              donnerait un autre point de contact entre Attila et l’Empereur ; une simplicité qui
+              serait le comble de l’orgueil méprisant. Mais M. Ferrero ne connaît que l’Empereur à
+              la capote grise et au petit chapeau ; n’a-t-il jamais eu sous les yeux une
+              reproduction des tableaux de David, d’Appiani, d’Isabey ? N’a-t-il jamais entendu
+              parler de la Cour impériale, de ces titres des grands officiers du Palais ? ou du
+              Sacre à Notre-Dame ? ou de la Cérémonie du Champ de Mai ? Et lorsqu’il nous présente
+              Napoléon comme usé après la campagne de 1812, M. Ferrero oublie que la campagne de
+              France a été un chef-d’œuvre de stratégie ! Et lorsqu’il parle des projets du jeune
+              Bonaparte en Orient, comme des vagues rêveries d’un esprit ambitieux et oisif,
+              M. Ferrero ignore que même Pitt s’en inquiétait et donnait l’alarme au Parlement
+              anglais ! Enfin, je crois que je pourrais continuer de cette manière pendant trois ou
+              quatre pages, et j’ai promis de ne pas discuter ; je me réserve de faire ailleurs et à
+              mon aise maintes interrogations à M. Ferrero. Je me borne ici à constater, une fois de
+              plus, que l’école lombrosienne habitue ses élèves à tirer des conclusions
+              extraordinaires de petits faits, souvent peu fondés, quelquefois tout à fait
+              insignifiants. D’où, les voilà à nous présenter un Jules César déguisé en <hi rend="i"
+                >Ecce Homo</hi>, et un Napoléon avec le manteau de Diogène ; ou à négliger la
+              bibliographie napoléonienne qui compte des œuvres précieuses ; ou, dans un tableau des
+              sociétés militaires, à citer comme une source historique les <hi rend="i"
+                >Mémoires</hi>… de d’Artagnan ! Je ne veux pas nier le talent de M. Guglielmo
+              Ferrero, ni contester une certaine importance à son livre ; il y a de la chaleur, de
+              la sincérité ; mais les applaudissements tapageurs, les éloges exagérés, les conseils
+              d’une presse toujours fanatiques risquent de l’acheminer par une fausse route, et ils
+              l’ont déjà habitué à se croire le révélateur d’un monde nouveau. Vis-à-vis de l’art,
+              par exemple, il est <hi rend="i">aveniriste</hi> comme Max Nordau (pour lequel il a
+              une admiration presque sans bornes), ou comme Tolstoï ; il prêche la puissance des
+              ténèbres, la mort de l’art, le triomphe du crétinisme ; et le pire, c’est qu’il y
+              croit de tout son cœur. Ces opinions malheureuses expliquent son dédain pour toute
+              forme littéraire ; <hi rend="i">Il Militarismo</hi> n’est aucunement l’œuvre d’un
+              artiste ; un journaliste des plus médiocres pourrait y mettre sa signature, et avec
+              quelque grimace, encore.</p>
+          </div>
+          <div>
+            <head>Gabriele d’Annunzio : <hi rend="i">La Città morta</hi></head>
+            <index>
+              <term type="id">article-1898-04_327a</term>
+              <term type="author">Zùccoli, Luciano (1868-1929)</term>
+              <term type="signed">Luciano Zùccoli</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">Gabriele d’Annunzio : <hi rend="i">La Città morta</hi></term>
+              <term type="date">1898-04</term>
+              <term type="ref">Tome XXVI, numéro 100, avril 1898, p. 325-330 [327]</term>
+            </index>
+            <p>Pour passer à une atmosphère littérairement plus pure, voici <hi rend="b">La Città
+                Morta</hi> par Gabriele d’Annunzio, (Milan, Treves), que, pour le titre de la <hi
+                rend="i">Ville Morte</hi> les Parisiens connaissent tant et mieux que les
+              compatriotes de l’auteur. C’est pourquoi je me borne à en noter la forme exquise,
+              riche, cristalline, et quant à ses mérites dramatiques je m’en remets à la critique
+              française qui l’a jugée à sa juste valeur. C’est, dans les projets de M. d’Annunzio,
+              le premier pas vers son théâtre tragique d’Albano ; un rêve encore lointain, pour
+              lequel travaillent et le poète de la <hi rend="i">Ville Morte</hi> et des jeunes
+              auteurs enchantés de cette renaissance magique.</p>
+          </div>
+          <div>
+            <head>Ugo Ojetti : <hi rend="i">Il Vecchio</hi></head>
+            <index>
+              <term type="id">article-1898-04_327b</term>
+              <term type="author">Zùccoli, Luciano (1868-1929)</term>
+              <term type="signed">Luciano Zùccoli</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">Ugo Ojetti : <hi rend="i">Il Vecchio</hi></term>
+              <term type="date">1898-04</term>
+              <term type="ref">Tome XXVI, numéro 100, avril 1898, p. 325-330 [327-328]</term>
+            </index>
+            <p>M. Ugo Ojetti avant de partir pour l’Égypte dans un voyage d’études et d’agrément, a
+              publié son roman, <hi rend="b">Il Vecchio</hi> (Milan, Galli). Je crois que M. Ojetti
+              n’a jamais donné rien de plus fort et de plus sérieux ; il a travaillé longtemps à
+              cette œuvre comme qui voudrait livrer une bataille suprême, et, s’il n’est pas arrivé
+              à la victoire complète, il a réussi à planter de plus en plus haut son drapeau. Je dis
+              que la victoire n’est pas complète, parce que, malgré ses efforts les plus évidents,
+              M. Ojetti n’a pas su encore s’arracher à une certaine imitation formelle et phonique
+              de son ami d’Annunzio ; peu de chose, sans doute, mais un lecteur attentif ne s’y
+              trompe pas. Ce sont des nuances, à peine, ce je ne sais pas quoi, que Nietzsche
+              appelait le <hi rend="i">tempo</hi> : chaque auteur a son <hi rend="i">tempo</hi>,
+              comme en musique, et sait le varier. Machiavel était inégalable pour dire des choses
+              terribles dans un <hi rend="i">tempo</hi> gai et moqueur. Or, le <hi rend="i"
+                >tempo</hi> de M. Ojetti ressemble bien souvent au <hi rend="i">tempo</hi> solennel,
+              polyphonique et cadencé de M. d’Annunzio.</p>
+            <p><hi rend="i">Il Vecchio</hi>, le vieillard, c’est Alexandre Zeno, qui, arrivé à ses
+              derniers jours, rêve les joies terrestres les plus belles et les plus fières : la paix
+              des Sages, l’attitude des Athlètes, l’allégresse des Amants ; mais, tout à coup, la
+              pensée de la mort imminente vient le troubler, et il en est poursuivi sans cesse, et
+              son âme en subit le poison subtil, et, entouré par des images de jeunesse, d’avenir,
+              de vie, il sent partout la Mort, la Mort, la Mort ! Ce sentiment finit par altérer
+              tous les autres, même les plus doux ; le vieillard ne voit plus en son fils André le
+              jeune homme aimable et l’artiste de talent, mais celui qui vivra, qui a un avenir, qui
+              l’oubliera bientôt dans l’ivresse des jouissances désormais inconnues et immémorables
+              pour lui. Il en arrive à déchirer le portrait de sa femme dont le jeune André lui
+              avait fait cadeau ; sa femme est morte, et ce tableau, toujours devant ses yeux, lui
+              rappelle l’au-delà formidable ; il est mesquin, gauche et tragique, ce pauvre
+              vieillard ; M. Ojetti a vécu son personnage. Peu à peu, par cette réaction naturelle
+              des pensées dominantes, la paix vient éclairer encore l’âme d’Alexandre Zeno ; il a
+              compris le mystère, il se sent fort, il trouve que la vie est partout, puisqu’elle
+              n’est que le changement infatigable de la matière ; et même en mourant on peut nier la
+              mort… Un soir de printemps, le petit Gino monte dans la chambre du vieillard, et il
+              voit Alexandre sur son lit, le visage calme, comme apaisé dans un sommeil sans rêves ;
+              l’enfant l’appelle en vain, et il lui touche la main ; elle est froide… Sans plus
+              oser, le petit Gino se détourne, redescend, et il annonce à la famille : — Grand-père
+              dort !</p>
+            <p>J’ai oublié naturellement une foule d’épisodes, qui sont la partie vive et
+              entraînante du livre, pour en donner le thème nu et simple. Toujours est-il que
+              l’œuvre de M. Ojetti est un peu lourde, profondément sombre. L’auteur a voulu sans
+              doute montrer tout le sérieux de son esprit philosophique, et il est philosophe à
+              donner des frissons. Je ne pouvais, en lisant, me défendre de comparer M. Ojetti à un
+              compagnon de joie qui s’est fait capucin ; dans un élan de repentance, il a tiré son
+              capuchon presque sur son nez… Cela ne durera pas longtemps les jolies Égyptiennes (les
+              Égyptiennes sont toujours jolies) sauront arracher le froc à M. Ojetti en présence des
+              Pyramides et de leurs quarante siècles.</p>
+          </div>
+          <div>
+            <head>G. P. Lucini : <hi rend="i">Il Libro delle imagini terrene</hi></head>
+            <index>
+              <term type="id">article-1898-04_329a</term>
+              <term type="author">Zùccoli, Luciano (1868-1929)</term>
+              <term type="signed">Luciano Zùccoli</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">G. P. Lucini : <hi rend="i">Il Libro delle imagini
+                terrene</hi></term>
+              <term type="date">1898-04</term>
+              <term type="ref">Tome XXVI, numéro 100, avril 1898, p. 325-330 [329]</term>
+            </index>
+            <p>Il y a des auteurs qui comptent sur l’ignorance du public ; M. Ferrero en est un ; il
+              y en a d’autres qui supposent dans le public une clairvoyance et un esprit de
+              pénétration vraiment inadmissibles ; M. G. P. Lucini est de ces derniers. Son recueil
+              de poésies, <hi rend="b">Il Libro delle imagini terrene</hi> (le livre des images
+              terrestres ; Milan, Galli) est moins obscur que <hi rend="i">Il Libro delle
+                figurazioni ideali</hi> (le livre des figurations idéales) dont il est le pendant ;
+              mais tous les deux sont assez difficiles, nuageux, bizarres. Je n’en fais pas un
+              reproche au poète ; il dédaigne les gros succès, en pensant justement qu’il suffit
+              quelquefois d’avoir un gentil lecteur qui nous comprenne et nous admire… mais il ne
+              faut pas pousser les choses au point que ce seul lecteur soit l’auteur même… M. Lucini
+              n’en est pas encore à ce comble de l’art aristocratique, et il doit s’en garder pour
+              l’avenir, en cherchant à rendre ses symboles et ses images tout à fait
+              compréhensibles. Sa poésie est harmonieuse, souple, riche de vibrations ; quoique de
+              temps à autre le goût pour la rime excentrique l’emporte, et c’est le poète alors qui
+              court après la rime, au lieu que ce soit la rime qui obéisse au poète. Toutefois, même
+              en faisant leur part aux défauts, il serait injuste de dénier à M. Lucini une trempe
+              d’artiste original ; ses défaillances sont l’effet de sa jeunesse ; d’ici à quelque
+              temps, il marchera franchement, libre des préjugés d’école, en suivant sa fraîche
+              inspiration.</p>
+          </div>
+          <div>
+            <head>Ciro Annovi : <hi rend="i">Per la storia d’un’ anima</hi></head>
+            <index>
+              <term type="id">article-1898-04_329b</term>
+              <term type="author">Zùccoli, Luciano (1868-1929)</term>
+              <term type="signed">Luciano Zùccoli</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">Ciro Annovi : <hi rend="i">Per la storia d’un’ anima</hi></term>
+              <term type="date">1898-04</term>
+              <term type="ref">Tome XXVI, numéro 100, avril 1898, p. 325-330 [329]</term>
+            </index>
+            <p>Au mois de juin, on fêtera en Italie le premier centenaire de la naissance de Giacomo
+              Leopardi, le prince de nos poètes modernes. Avide d’amour, il n’a connu que des
+              amourettes insignifiantes et incomplètes ; avide de gloire, la gloire est venue tard,
+              lorsqu’il en était déjà désillusionné ; avide de beauté il n’a eu que la beauté de ses
+              rêves incomparables… Il ne fut pas moins grand que malheureux, et à ce double titre sa
+              mémoire éveille une admiration profonde et un profond respect. J’ai fini à peine de
+              lire une petite brochure de M. Ciro Annovi, <hi rend="i">Per la storia d’un’
+                anima</hi> (pour l’histoire d’une âme), qui, à l’aide des sources historiques les
+              plus importantes, nous donne une excellente biographie de Leopardi. M. Annovi. — c’est
+              la première fois que je lis son nom, — est simple dans son exposition, mais efficace
+              et communicatif. Il suit son personnage pas à pas, il nous donne des renseignements
+              sur sa famille, sur ses travaux, sur sa vie intime, sur ses douloureuses aventures,
+              jusqu’à ses derniers jours ; et bien que, je le répète, le style de M. Annovi soit
+              loin de toute forme recherchée, il n’atteint pas moins son but de faire revivre la
+              figure si humaine et touchante du poète immortel.</p>
+          </div>
+          <div>
+            <head>Memento</head>
+            <index>
+              <term type="id">article-1898-04_329c</term>
+              <term type="author">Zùccoli, Luciano (1868-1929)</term>
+              <term type="signed">Luciano Zùccoli</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">Memento</term>
+              <term type="date">1898-04</term>
+              <term type="ref">Tome XXVI, numéro 100, avril 1898, p. 325-330 [329-330]</term>
+            </index>
+            <p><hi rend="i">Il Militarismo</hi>, par Guglielmo Ferrero (Milan, Treves). <hi rend="i"
+                >La Città Morta</hi>, par Gabriele d’Annunzio (Milan, Treves). <hi rend="i">Il Libro
+                delle imagini terrene</hi>, par G. P. Lucini (Milan, Galli). <hi rend="i">Per la
+                storia d’un’ anima (biografia di Giacomo Leopardi</hi>), par Ciro Annovi (Città di
+              Castello, S. Lapi). <hi rend="i">Discorsi d’Arte</hi>, par Maria A. Brunamonti (Città
+              di Castello, S. Lapi). <hi rend="i">Il Vecchio</hi>, roman, par Ugo Ojetti (Milan,
+              Galli). <hi rend="i">L’Esca</hi>, roman, par Ottorino Novi (Milan, Galli).</p>
+          </div>
+        </div>
+      </div>
+      <div>
+        <head>Tome XXVI, numéro 101, mai 1898</head>
+        <div>
+          <head>Felice Cavallotti</head>
+          <index>
+            <term type="id">article-1898-05_349</term>
+            <term type="author">Zùccoli, Luciano (1868-1929)</term>
+            <term type="signed">Luciano Zùccoli</term>
+            <term type="section">none</term>
+            <term type="title">Felice Cavallotti</term>
+            <term type="date">1898-05</term>
+            <term type="ref">Tome XXVI, numéro 101, mai 1898, p. 349-355</term>
+          </index>
+          <byline><hi rend="sc">Luciano Zùccoli</hi>.</byline>
+          <bibl>Tome XXVI, numéro 101, mai 1898, p. 349-355.</bibl>
+          <p>Les journalistes de la démagogie ressemblent à des barbares, qui dansent la pyrrhique
+            autour d’un cercueil. Il y a plus d’un mois que Felice Cavallotti est mort, et le flot
+            désordonné des tirades monte toujours. La richesse phraséologique des rhéteurs
+            populaires est vraiment incroyable ; ils arrivent à dégrader la tragédie et à troubler
+            la solennité calme de la mort.</p>
+          <p>Felice Cavallotti était un homme de parti, et tout un parti s’est dressé soudainement à
+            pleurer sa perte. C’est juste, mais il faudrait être assez païen pour constater que
+            rarement un personnage a su disparaître si à propos de la scène, à l’heure même où son
+            rôle allait perdre toute signification. À la prochaine crise, et on sait si une crise
+            politique se fait attendre en Italie et ailleurs, Felice Cavallotti aurait eu un
+            portefeuille. Voit-on ce poète du peuple et de la République dans les fonctions de
+            ministre du Roi ? Les journalistes à la danse pyrrhique pouvaient le sommer de renverser
+            Roi et royaume d’un seul coup de main.</p>
+          <p>Le duel avec le comte Ferruccio Macola a dénoué le problème avant même qu’il se
+            présentât. Le député Felice Cavallotti a disparu d’une mort logique, et la mort est si
+            stupidement déraisonnable, qu’il faut signaler l’exception et en tenir compte. Du reste,
+            dans ce cas, ceux qui se battaient étaient des hommes qui aimaient tour à tour à écrire,
+            à discuter, à donner ou à recevoir des coups d’épée. Cavallotti, avant le dernier, avait
+            eu trente-deux duels ; son adversaire, comme plus jeune, quinze ; un des témoins,
+            cinquante. Il ne fallait pas moins que la débonnaireté de la presse pour ne pas
+            s’attendre à ce que, à la longue, quelqu’un de ces chevaliers finît par y rester.</p>
+          <p>La cause était futile, sans doute : une dépêche de Rome publiée dans la <hi rend="i"
+              >Gazzetta di Venezia</hi>, que le comte Macola dirige, et qui avait déplu à
+            Cavallotti. Mais y a-t-il des causes sans importance, des querelles sans conséquences
+            entre deux hommes qui représentent deux partis opposés, qui ont chacun pour soi ou
+            contre soi toute une presse, toute une classe ? La politique n’est désormais, — et quand
+            donc a-t-elle été autre chose ? — qu’une lutte sans trêve et sans scrupules : même avec
+            la plume, on ne se bat pas, on s’assomme ; dans un homme on écrase une faction, et le
+            pêle-mêle des haines, des accusations, des calomnies, des intrigues est tel, que qui en
+            sort l’honneur intact peut remercier son bon génie.</p>
+          <p>La popularité dont Felice Cavallotti jouissait en toute l’Italie avait sa raison d’être
+            dans cet esprit de combativité poussé à la dernière exagération. Homme exubérant,
+            passionné, redoutable, il pouvait inspirer des dévouements singuliers ou une aversion
+            invincible, parce qu’il n’oubliait jamais d’être un homme de parti, ni à la Chambre, ni
+            dans ses œuvres littéraires, ni dans ses lettres, ni dans ses articles. Là où il jouait
+            un rôle quelconque, toute sérénité disparaissait comme par magie. Il était presque
+            impossible de ne pas voir derrière lui la foule qui s’exaltait et la foule qui
+            l’attaquait. Après sa mort, bien des critiques, en croyant porter sur lui leur propre
+            jugement, ne firent que répéter l’opinion d’une de ces deux foules passionnées,
+            notamment de la première.</p>
+          <p>Comme écrivain, il était médiocre. Ses œuvres nombreuses ne lui survivront pas, après
+            la hausse du moment, n’ayant artistiquement aucun intérêt. Ce gladiateur était en poésie
+            un romantique en retard, et il embarquait sa muse sur le navire vermoulu de la
+            rhétorique, avec une lourde charge d’idéal sucré. La Grèce ancienne lui inspira
+            plusieurs pièces de théâtre : <hi rend="i">Alcibiade, La femme de Ménéclès,
+              Nycarete</hi>, etc., où rien ne manque, hormis la Grèce et les Grecs, qui lui ont
+            soigneusement caché leur âme et leur esprit. Ses comédies modernes, généralement des
+            levers de rideau comme <hi rend="i">La fille de Jephté, La lune de miel, Sic vos non
+              vobis</hi>, étaient l’œuvre d’un homme qui, en compensation à un excès de violence,
+            s’abandonnait à un excès de douceur, imaginant des personnages naïfs et poétiques,
+            pèlerins égarés d’un monde irréel. À travers le tempérament littéraire de Cavallotti,
+            l’amour même se présentait comme un dieu larmoyant et asexué, le dieu de ces chevaliers
+            hyperboliques qui se contentaient d’un mot, d’un souris, d’un regard.</p>
+          <p>Mais le succès presque constant de ce théâtre deviendrait mystérieux si on refusait à
+            Cavallotti la connaissance de son public. Peu lui importait l’opinion de l’élite
+            intellectuelle, le jugement de la critique désintéressée. Il écrivait pour une
+            démocratie littéraire, qui, vis-à-vis par exemple de la Grèce, n’exerçait aucun
+            contrôle, de sorte qu’Alcibiade et Nicarète et Ménéclès et tous ces, héros en papier
+            mâché allaient intrépidement à la conquête d’un public facile. Enfin, Cavallotti ne
+            voyait dans l’art qu’un moyen ; insensible à toute évolution et à toute recherche, il se
+            conservait aujourd’hui tel qu’au temps de sa jeunesse. Les éloges que lui prodiguent ses
+            amis sont déplacés ; il n’avait pas de génie et sa muse était loin du rare ou du
+            sublime ; mais il laissait librement déborder son inspiration, et ainsi arrivait de
+            temps à autre à une certaine originalité. Vouloir le comparer, c’est le détruire.
+            Lui-même, d’ailleurs, ne considérait la littérature que comme un épisode de sa vie
+            d’action. Un duel, un procès, un discours à la Chambre, une poésie ou une pièce de
+            théâtre, voilà les étapes habituelles de son chemin.</p>
+          <p>Toutefois, il faut être juste : de belles pages marquent la carrière politique de
+            Cavallotti. En 1860, à dix-huit ans, il était dans les rangs de Garibaldi et il se
+            battait à Milan et au Volturno ; en 1866, il prenait part à la Campagne du Tyrol ; en
+            1884, pendant le choléra terrible de Naples, il enrôlait des volontaires et volait au
+            secours de la ville malheureuse. Trois dates, trois actes de bravoure.</p>
+          <p>Tout le reste rentre dans la politique intérieure de l’Italie et manque de cette calme
+            lumière du dévouement. À Milan, un journal, le <hi rend="i">Gazzettino Rosa</hi>, est
+            demeuré célèbre pour les articles que Cavallotti y publiait en 1867 en attaquant tout et
+            tous, en faisait un charivari à abasourdir ; le régiment de cavalerie des hussards de
+            Plaisance y vit des allusions à ses officiers et immédiatement ce fut une grêle de défis
+            et de duels ; entre deux duels, Cavallotti continuait ses articles tapageurs ; souvent,
+            entre un duel et l’autre, il n’avait que le temps de refermer ses blessures ; ses duels
+            finis, voilà des procès dont cinq sur trente lui valurent des condamnations. De quoi
+            parlait-il ? Quelles sortes de choses épouvantables sortaient de sa plume ? Il serait
+            difficile de le dire, parce que tout devenait épouvantable et violent à travers son
+            naturel irascible. Il lui fallait l’attaque à la baïonnette ; lorsqu’il n’y avait pas
+            d’ennemi, il fondait sur le vide, sur des moulins à vent, pour le goût d’entreprendre
+            une course folle et de jeter des cris. Il aurait inventé le Minotaure pour jouer le rôle
+            de Thésée, et son Minotaure était pour le moment la Monarchie ; demain peut-être la
+            République l’aurait vu parmi ses adversaires les plus acharnés.</p>
+          <p>C’est pourquoi son œuvre politique ne lui survivra pas ; il l’a mortellement blessée de
+            sa propre main. Il n’avait pas de programme simple, limpide, et positif : la critique
+            l’absorbait tout entier et de sa critique on ne saurait même extraire un principe.
+            Dernièrement, Cavallotti s’était attaché à la question morale avec la ténacité d’un
+            homme qui a trouvé enfin son filon. D’une activité fiévreuse, il inondait ses journaux,
+              <hi rend="i">Il Secolo</hi> et <hi rend="i">Don Chisciotte</hi>, l’un à Milan, l’autre
+            à Rome, de lettres politiques hérissées de pointes, de sarcasmes et de déclamations. Son
+            but, l’épuration du monde parlementaire ; ses armes, toutes celles que l’occasion lui
+            offrait. La haine qu’il avait vouée à Crispi dépassait toutes les bornes du
+            vraisemblable ; il ne lui reconnaissait plus aucun mérite, il niait même le rôle notoire
+            et lumineux que Crispi a joué dans les fastes de l’indépendance italienne : le
+            vocabulaire des invectives paraissait trop pauvre à Cavallotti pour accabler ce
+            vieillard de soixante-quinze ans, dont il avait été l’ami, et qui restait debout avec sa
+            belle énergie d’ancien combattant. Le résultat le plus sûr de cette campagne,
+            aveuglement rancunière et nécessairement impuissante, fut une réaction de sympathie
+            envers sa victime ; encore un peu, et Cavallotti aurait naïvement préparé le retour de
+            Crispi au pouvoir.</p>
+          <p>Du reste, quant au flair politique de Cavallotti, il est permis de douter. Ce vétéran
+            de l’opposition systématique n’a eu d’indulgence que pour les ministres les plus
+            testiculairement impuissants qu’on ait jamais vus sous la voûte du ciel ; pour les
+            esprits mesquins soutenus par la fortune et ahuris eux-mêmes de l’importance des
+            fonctions dont on les supposait capables, il avait des tendresses fraternelles. Ce
+            mirage de la politique vertueuse avait fini par offusquer complètement l’ancien
+            pamphlétaire du <hi rend="i">Gazzettino Rosa</hi>. Il ne voulait que des hommes
+            honnêtes, et il chérissait souvent d’honnêtes imbéciles.</p>
+          <p>D’autre part, les intempérances habituelles de son style, l’exagération journalière des
+            dangers qu’il voyait partout en Italie, rapetissaient l’œuvre du tribun populaire. Il
+            est bien vrai qu’il n’y a que deux moyens pour charmer la foule : les gros mots ou la
+            libéralité princière ; des deux, Cavallotti avait adopté le premier, et en jouait
+            intarissablement, semant les mêmes fleurs de rhétorique, tulipes vulgaires, pour
+            repousser une loi qu’il croyait nuisible ou pour révéler des commérages d’antichambre.
+            Sa politique aigrissait les caractères les plus paisibles, grâce à l’outrecuidance avec
+            laquelle ses journaux attaquaient et blessaient ses adversaires.</p>
+          <p>On peut donc penser que, si cette vie encore pleine de sève n’eût pas été tragiquement
+            tronquée, Cavallotti aurait eu des biographes froidement sévères. L’issue malheureuse du
+            duel avec le comte Macola a apprivoisé la critique, en laissant à l’histoire, quand elle
+            s’en mêlera, le soin de rétablir les proportions de cet homme, maintenant grandi à
+            l’excès par ses coreligionnaires.</p>
+          <p>Entré à la Chambre en 1873, ses vingt-cinq ans de vie parlementaire se sont écoulés
+            sans rien créer de durable ; même la question morale a fini par une bulle de savon,
+            après un débat très long et sauvagement acharné. Les factions les plus avancées ne
+            pouvaient pas reconnaître un chef dans Cavallotti ; il était simplement démocratique et
+            républicain ; or, les socialistes ne se soucient guère de la république, qui pour eux
+            est un rêve déjà trop insignifiant, et ils se seraient gardés de répondre aux ordres
+            d’un homme que l’opinion publique désignait comme le ministre du lendemain. Les
+            conservateurs, à leur tour, n’auraient pas facilement oublié son passé éperdument
+            antidynastique. Seule la démocratie, — un mot assez vague, après tout, — voyait en
+            Cavallotti son paladin et son barde, en attendant le jour de le désavouer quand, au
+            pouvoir, il aurait dû marcher franchement contre ses opinions de jadis.</p>
+          <p>Dans ces circonstances, le duel fatal survint.</p>
+          <p>Le comte Ferruccio Macola n’a pas encore quarante ans, mais son expérience de la vie
+            publique lui ouvrit de bonne heure les portes du Parlement, où il montra un esprit froid
+            et équilibré. Maintes fois, le journal qu’il dirige risqua l’impopularité par sa manière
+            personnelle d’envisager certaines questions de politique intérieure. Au demeurant, il y
+            avait entre Macola et Cavallotti un contraste bien marqué. Autant celui-là est calme et
+            inaccessible aux impressions soudaines, autant celui-ci était prompt, ardent passionné.
+            Même au physique, Cavallotti était de taille moyenne, trapu, sanguin ; Macola est grand,
+            souple, nerveux. Ils n’avaient pour points de contact qu’un courage à toute épreuve et
+            une rare énergie.</p>
+          <p>Le 6 mars, à trois heures, les deux adversaires avec leurs témoins se rencontraient à
+            la Villa Cellere, hors de Porta Maggiore, à Rome, dans un endroit délicieusement
+            pittoresque. À trois heures et demie, le duel commençait ; au troisième assaut, le comte
+            Macola, qui se bornait à se défendre, en voyant l’adversaire se jeter sur lui, se hâta
+            de l’éloigner en détendant le bras. Cavallotti ne s’étant pas arrêté, le sabre de Macola
+            lui entra dans la bouche, coupa la langue et s’enfonça dans la gorge. Quelques minutes
+            après, il était mort.</p>
+          <p>Toute une carrière extraordinairement active, indéniablement remarquable se concluait
+            de cette manière émouvante et sombre.</p>
+          <p>Cavallotti était un homme qui aurait pu marcher libre et tout seul. Il voulut conduire
+            un parti et il eut en commun avec celui-ci les faiblesses, les erreurs, les excès qui
+            distinguent les factions populaires. Lentement il se laissait gagner par cet aveugle
+            exclusivisme qui illustra les petites républiques du moyen âge, et son action perdait en
+            valeur ce qu’elle gagnait en violence.</p>
+          <p>Toujours est-il qu’en disant qu’il est mort sur la brèche, l’épée à la main, ses
+            biographes futurs ne feront pas une métaphore surannée.</p>
+          <dateline>Florence, avril.</dateline>
+        </div>
+        <div>
+          <head>Voyages, archéologie. <lb/>Dom Guéranger : <hi rend="i">Sainte Cécile et la société
+              romaine aux deux premiers siècles</hi>, V. Retaux, 2 vol., 7 fr.</head>
+          <index>
+            <term type="id">article-1898-05_564</term>
+            <term type="author">Merki, Charles (18..-19..)</term>
+            <term type="signed">Charles Merki</term>
+            <term type="section">Voyages, archéologie</term>
+            <term type="title">Dom Guéranger : <hi rend="i">Sainte Cécile et la société romaine aux
+                deux premiers siècles</hi>, V. Retaux, 2 vol., 7 fr.</term>
+            <term type="date">1898-05</term>
+            <term type="ref">Tome XXVI, numéro 101, mai 1898, p. 564-569 [564-566]</term>
+          </index>
+          <byline><hi rend="sc">Charles Merki</hi>.</byline>
+          <bibl>Tome XXVI, numéro 101, mai 1898, p. 564-569 [564-566].</bibl>
+          <p>Nous avons commencé ce mois par de pieuses lectures ; grâces en soient rendues à la
+            librairie Retaux qui met en vente une huitième édition du livre plusieurs fois remanié
+            de Dom Guéranger, défunt abbé de Solesmes sur <hi rend="b">Sainte Cécile et la Société
+              Romaine aux deux premiers siècles</hi>. — Sous sa forme primitive et en des
+            proportions plus modestes, <hi rend="i">Sainte Cécile</hi> par Dom Guéranger était une
+            histoire simplement édifiante. Appuyé sur les travaux archéologiques de M. de Rossi et
+            du comte de Richemont<note place="bottom">Cf. <hi rend="i">La Roma Sotterranea</hi>, del
+              cav. G. B. de Rossi ; <hi rend="i">Le Cimetière de Calliste devant l’histoire</hi>,
+              par le comte Desbassayns de Richemont, 1869 ; <hi rend="i">Les Catacombes de
+              Rome</hi>, par le comte H. de l’Épinois.</note> qui explorèrent laborieusement les
+            catacombes de Rome, le savant abbé en tira un traité d’histoire religieuse, et de
+            nouveau raconta « la conquête du monde romain au profit du Christ par ses apôtres et
+            leurs successeurs, la fondation de l’Église chrétienne qui est notre mère, et enfin la
+            vie d’une sainte que nous vénérons sur les autels ». L’histoire de Cécile, vierge et
+            martyre, et patronne de la musique sans qu’on sache pourquoi — n’est donc plus ici qu’un
+            épisode ; même l’intérêt ne nous prend qu’aux détails de son histoire posthume ; au
+            récit de son invention par le pape Pascal qui la retrouva au Cimetière de Calliste ; à
+            sa seconde exhumation, au <num>xvi<hi rend="sup">e</hi></num> siècle, quand après
+            quatorze cents ans le corps de la sainte, tiré des caves de sa basilique, apparut
+            entier, en la pose de son agonie, et selon les plus incontestables témoignages exhalant
+            une odeur de rose et de lis si pénétrante qu’on s’abstint de brûler de l’encens dans la
+            chapelle où il fut déposé. — Il faut ajouter que le tableau de la société romaine que
+            nous annonçait le titre, et où nous pensions trouver la vie des premiers chrétiens selon
+            les écrits si nombreux des pères de l’Église, ne fut point davantage mis en valeur au
+            cours de ces deux volumes. Dom Guéranger se contenta d’établir par les inscriptions que
+            telle famille de l’aristocratie romaine avait été chrétienne ; que telle autre pouvait
+            bien, selon toute hypothèse, avoir donné l’un ou l’autre de ses membres à la communauté.
+            — C’est qu’il s’agissait d’abord de répondre à des assertions, de prouver que les
+            premiers chrétiens n’étaient point uniquement la populace de Rome ; qu’il y avait parmi
+            eux des patriciens, des hommes de savoir et de jugement, lesquels ne devaient point
+            accepter à la légère la nouvelle doctrine. Tout auteur catholique a du polémiste ; et le
+            monde catholique, alors que Dom Guéranger refaisait son livre, s’égosillait devant
+              <quote>« l’audace inouïe de la critique allemande »</quote>. On ne parle point ici de
+            Renan, le défroquat et « la vieille vache pourrie » ; mais l’école de Tubingue en de
+            lourds bouquins discutait les actes des apôtres et jusqu’à la venue de saint Pierre à
+              Rome<note place="bottom">Cf. <hi rend="i">Les Actes des Apôtres</hi>, par A. Stap,
+              dans <hi rend="i">la Revue Germanique</hi>, 1861 ; Lipsius, <hi rend="i">Les sources
+                de la légende relative au séjour de saint Pierre à Rome</hi>, 1872 ; et E. Zeller,
+                <hi rend="i">La légende de saint Pierre premier évêque de Rome</hi>, trad. Marchand,
+              1876.</note> ; Dom Guéranger déclare dans sa préface que « le rôle de Cécile sous les
+            Antonius n’a pu être pleinement apprécié qu’à la suite d’un récit rétrospectif ». Avec
+            nombre d’ecclésiastiques, dont les produits moins heureux gisent dans la poussière des
+            quais, il refait ainsi l’histoire du christianisme à ses débuts, insiste sur les
+            premiers papes et sur les martyrs, et la suprématie de l’église de Rome déjà acceptée
+            par le monde chrétien. — Il faudrait discuter ailleurs les raisons de chacun et des
+            documents qui ne valent que par l’interprétation. Nous nous contenterons de dire que
+            pour qui s’inquiète de la tradition catholique, ou simplement rechercher un peu de
+            vérité, le présent livre reste des plus estimables. Les chapitres consacrés à Rome
+            souterraine et aux découvertes de la commission d’archéologie sacrée sont d’une
+            érudition louable ; nous ne saurions assez regretter dès lors que les éditeurs n’aient
+            point cru convenable de joindre au présent tirage quelques planches donnant la
+            topographie des catacombes et de Rome chrétienne aux premiers siècles. — Mais ne
+            serait-ce point trop vouloir que de leur réclamer des « illustrations » où elles
+            paraissent susceptibles de contribuer à l’élucidation du texte ?</p>
+        </div>
+        <div>
+          <head>Les Revues. <lb/><hi rend="i">La Quinzaine</hi> [les <hi rend="i">Odi navali</hi> de
+            Gabriele d’Annunzio]</head>
+          <index>
+            <term type="id">article-1898-05_574</term>
+            <term type="author">Hirsch, Charles-Henry (1860-1948)</term>
+            <term type="signed">Charles-Henry Hirsch</term>
+            <term type="section">Les Revues</term>
+            <term type="title"><hi rend="i">La Quinzaine</hi> [les <hi rend="i">Odi navali</hi> de
+              Gabriele d’Annunzio]</term>
+            <term type="date">1898-05</term>
+            <term type="ref">Tome XXVI, numéro 101, mai 1898, p. 569-576 [574-575]</term>
+          </index>
+          <byline><hi rend="sc">Charles-Henry Hirsch</hi>.</byline>
+          <bibl>Tome XXVI, numéro 101, mai 1898, p. 569-576 [574-575].</bibl>
+          <p>M. François Descotes donne « d’après une traduction inédite » des extraits des <hi
+              rend="i">Odi navali</hi> composées par M. Gabriel d’Annunzio en l’honneur de l’amiral
+            de Saint-Bon, de la marine italienne <hi rend="b">(La Quinzaine)</hi> :</p>
+          <quote>
+            <p>« Armée d’Italie !</p>
+            <p>» Au nom de l’Italie, de Dieu et du Roi, dans notre foi catholique, <hi rend="sc"
+                >Simon de Saint-Bon</hi> est mort. Le Grand Amiral en ce jour est mort. Navires à
+              l’ancre, navires veillant en armes sur nos eaux ; et vous, qui portez aux fils
+              éloignés le salut de la Mère ; — et vous aussi, immobiles dans les vastes arsenaux
+              bruissants, étincelants de feu dans la profondeur des forges où se trempe votre
+              force ; — vous tous qu’il aima, qu’il eut pour unique amour, que ses grands yeux de
+              lion virent pour la dernière fois scintiller dans le golfe où Gênes resplendit (un
+              rêve fit scintiller autre chose en son âme héroïque) ; vous tous, navires, descendez
+              vos drapeaux à mi-hampe ! Que le marteau ne frappe plus l’acier nouveau qui résonne ;
+              que s’éteignent les feux des arsenaux î Silence et douleur ! Il est mort. Le Grand
+              Amiral en ce jour est mort….</p>
+            <p>» Au nom de l’Italie, de Dieu et du Roi, ayant défait les forces ennemies, coulé à
+              pic dans la bataille quinze navires, en ayant capturé dix, les autres en fuite,
+              réduits au silence, suivis de près et mis en péril, étant resté maître de la mer,
+              Simon de Saint-Bon, déjà blessé au moment où le sort restait incertain et pourtant
+              toujours debout, admirable à voir, enfin est tombé sur son pont de commandement, dans
+              son sang et dans les plis du drapeau victorieux. Il est mort. Le Grand Amiral, en ce
+              jour, est mort. Par sa volonté il sera enseveli dans la mer. Les ancres et les chaînes
+              des dix navires prisonniers, par un droit sacré, avec lui, descendront dans la
+              mer. »</p>
+          </quote>
+        </div>
+        <div>
+          <head>Lettres anglaises. <lb/>Memento [extrait]</head>
+          <index>
+            <term type="id">article-1898-05_625</term>
+            <term type="author">Davray, Henry D. (1873-1944)</term>
+            <term type="signed">Henry-D. Davray</term>
+            <term type="section">Lettres anglaises</term>
+            <term type="title">Memento [extrait]</term>
+            <term type="date">1898-05</term>
+            <term type="ref">Tome XXVI, numéro 101, mai 1898, p. 623-627 [625]</term>
+          </index>
+          <byline><hi rend="sc">Henry-D. Davray</hi>.</byline>
+          <bibl>Tome XXVI, numéro 101, mai 1898, p. 623-627 [625].</bibl>
+          <p><hi rend="b">The Saturday Review</hi> (19 février). — […] un article sur le <hi
+              rend="i">Portrait d’Amerigo Vespucci</hi> par Ghirlandajo, récemment découvert.</p>
+          <p>[…]</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome XXVI, numéro 102, juin 1898</head>
+        <div>
+          <head>Lettres italiennes</head>
+          <index>
+            <term type="id">article-1898-06_917</term>
+            <term type="author">Zùccoli, Luciano (1868-1929)</term>
+            <term type="signed">Luciano Zùccoli</term>
+            <term type="section">Lettres italiennes</term>
+            <term type="title">Lettres italiennes</term>
+            <term type="date">1898-06</term>
+            <term type="ref">Tome XXVI, numéro 102, juin 1898, p. 917-923</term>
+          </index>
+          <byline><hi rend="sc">Luciano Zùccoli</hi>.</byline>
+          <bibl>Tome XXVI, numéro 102, juin 1898, p. 917-923.</bibl>
+          <div>
+            <head>F. Cavallotti : <hi rend="i">Italia e Grecia</hi></head>
+            <index>
+              <term type="id">article-1898-06_917a</term>
+              <term type="author">Zùccoli, Luciano (1868-1929)</term>
+              <term type="signed">Luciano Zùccoli</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">F. Cavallotti : <hi rend="i">Italia e Grecia</hi></term>
+              <term type="date">1898-06</term>
+              <term type="ref">Tome XXVI, numéro 102, juin 1898, p. 917-923 [917-918]</term>
+            </index>
+            <p><hi rend="b">Italia e Grecia</hi> (Catane, Giannota), de Felice Cavallotti, vient
+              d’avoir, par la mort soudaine de l’auteur, une importance qu’en tout autre moment on
+              ne lui aurait pas reconnue. Ce petit livre contient les discours que Cavallotti
+              prononçait au Parlement et dans les réunions publiques au sujet de la dernière guerre
+              turco-grecque, et les épitaphes dictées par le député de la gauche extrême pour les
+              malheureux Italiens qui ont bien voulu se faire tuer comme volontaires. Je ne
+              m’exprime par sur les mérites de ces plaidoyers ; politiquement, ils offrent un
+              témoignage frappant de l’importance que Cavallotti croyait pouvoir donner à cette
+              échauffourée ridicule. Au demeurant, il n’était pas seul à s’abuser sur une affaire de
+              Bourse déguisée en guerre d’indépendance, et son livre reste comme un signe de ces
+              temps, naïfs quand même.</p>
+          </div>
+          <div>
+            <head>C. Lombroso : <hi rend="i">In Calabria</hi></head>
+            <index>
+              <term type="id">article-1898-06_918a</term>
+              <term type="author">Zùccoli, Luciano (1868-1929)</term>
+              <term type="signed">Luciano Zùccoli</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">C. Lombroso : <hi rend="i">In Calabria</hi></term>
+              <term type="date">1898-06</term>
+              <term type="ref">Tome XXVI, numéro 102, juin 1898, p. 917-923 [918]</term>
+            </index>
+            <p><hi rend="b">In Calabria</hi> (Catane, Giannotta) présente bon nombre d’observations
+              curieuses que M. Cesare Lombroso, se trouvant il y a trente-cinq ans en Calabre,
+              recueillait sur les mœurs, la littérature, les traditions de cette province. Plusieurs
+              de ces études ont un remarquable intérêt, notamment là où M. Lombroso nous donne des
+              spécimens du dialecte des anciennes colonies grecques établies en Calabre. Mais c’est
+              dommage qu’il n’ait pas été tenté de faire plus long et qu’il ait traité des matières
+              si disparates et si importantes qu’une seule aurait pu suffire à son œuvre. Il nous
+              entretient pêle-mêle de questions littéraires, de la pathologie, de la criminalité, de
+              l’hygiène et du <hi rend="i">folklore</hi> du pays ; ce qui, à la longue, nous donne
+              l’impression d’un travail, sans un but bien clair.</p>
+          </div>
+          <div>
+            <head>L. Capuana : <hi rend="i">L’Isola del sole</hi></head>
+            <index>
+              <term type="id">article-1898-06_918b</term>
+              <term type="author">Zùccoli, Luciano (1868-1929)</term>
+              <term type="signed">Luciano Zùccoli</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">L. Capuana : <hi rend="i">L’Isola del sole</hi></term>
+              <term type="date">1898-06</term>
+              <term type="ref">Tome XXVI, numéro 102, juin 1898, p. 917-923 [918]</term>
+            </index>
+            <p><hi rend="b">L’Isola del sole</hi> (Catane, Giannotta), de M. Luigi Capuana, nous
+              porte plus au midi de l’Italie, en Sicile. Il n’est que trop vrai que nous ayons sur
+              cette île du soleil quelques préventions défavorables ; même les Italiens qui voyagent
+              peu ou qui voyaient mal, sont portés à faire une seule et même chose du paysan
+              sicilien et du brigand ; on voit ce peuple à travers les nouvelles mélodramatiques des
+              vieilles écoles italienne et française, et on fait souvent une règle de l’exception.
+              M. Capuana, qui avec MM. Verga et De Roberto forme l’illustre triade littéraire de la
+              Sicile, lève enfin la voix en faveur de ce pays pittoresque et méconnu ; dans
+              plusieurs chapitres chauds et brillants, s’il n’efface pas complètement la légende, il
+              la réduit à des proportions qui mettent l’île du soleil sur le pied de tout autre
+              pays, où l’on vole et l’on tue de temps à autre, sans en faire une spécialité
+              ethnographique. Le livre de M. Capuana est mouvementé et riche d’anecdotes ; on le lit
+              donc avec plaisir et non sans profit.</p>
+          </div>
+          <div>
+            <head>M. Morasso : <hi rend="i">Uomini e idee del domani</hi></head>
+            <index>
+              <term type="id">article-1898-06_918c</term>
+              <term type="author">Zùccoli, Luciano (1868-1929)</term>
+              <term type="signed">Luciano Zùccoli</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">M. Morasso : <hi rend="i">Uomini e idee del domani</hi></term>
+              <term type="date">1898-06</term>
+              <term type="ref">Tome XXVI, numéro 102, juin 1898, p. 917-923 [918-920]</term>
+            </index>
+            <p><hi rend="b">Uomini e idee del domani</hi> (Turin, Bocca), par M. Mario Morasso, est
+              l’œuvre d’un talent encore jeune, âpre et désordonné, quoique singulièrement conscient
+              et robuste ; le défaut le plus dangereux de cet écrivain, c’est la foi dans un avenir
+              social trop absolument dissemblable du présent et du passé. <hi rend="i"
+                >L’égoarchie</hi>, c’est-à-dire le sentiment de soi-même, la personnalité érigée en
+              religion jalouse et fière, c’est le fond de ce livre comme c’est le fond de l’âme du
+              jeune penseur qui l’a dicté ; mais serré dans un monde plat, utilitaire, insouciant et
+              mou, serré enfin dans la société moderne, M. Morasso a pour le moment toute l’allure
+              d’un réactionnaire, ce qui peut inspirer des antipathies plutôt que d’aider à la cause
+              qu’il prêche. Comme le titre du livre nous le révèle, l’auteur tâche d’insuffler la
+              vie à des aspirations nouvelles, encore vagues, encore faibles, encore pâles ; il
+              marche donc forcément dans un pays de brouillard, où plusieurs se refuseraient à le
+              suivre. Il est pourtant assez remarquable qu’il ne se soit pas complètement égaré et
+              que son talent jette parfois une lumière vive sur les problèmes qu’il affronte. Son
+              œuvre est le résultat de sérieuses études, et en effet, lorsqu’il se borne à la partie
+              positive, à l’origine des races européennes, à l’art primitif, à la physiologie du
+              métier des armes, à la question sexuelle, etc., ses vues sont claires, maintes fois
+              hardies et originales. Le défaut, je le répète, c’est l’avenir calculé et prophétisé
+              sur cette base positive. Mes convictions, ou mieux mon scepticisme, tendent à me faire
+              croire qu’il n’y a pas d’avenir pour l’âme, couleuvre douloureuse qui se replie
+              infatigablement sur elle-même. Non pour l’âme, mais pour la collectivité, il y a ce
+              qui s’appelle naïvement progrès, le chemin de fer au lieu de la diligence, le
+              télégraphe au lieu du messager, la lumière électrique au lieu d’une chandelle de
+              suif ; dans ce genre, nous avons aussi un avenir, la machine à voler, les aérostats
+              dirigeables, tout ce qui, enfin peut faire le bonheur de M. Guglielmo Ferrero. Mais
+              cela n’intéresse pas l’âme, pour laquelle les siècles futurs passeront en vain. Or,
+              M. Morasso a l’air de croire vraiment à quelque mutation radicale de la Société, basée
+              sur des mutations radicales de l’âme et sur la religion du <hi rend="i">moi</hi>, sur
+              l’égoarchie, en un mot : c’est-à-dire que M. Morasso prévoit la dissolution de la
+              société pour l’avantage exclusif de l’individu. S’il est permis d’exprimer encore mon
+              opinion personnelle, je crois qu’il y a ici un effet de fascination ; les philosophes
+              modernes croient que la répétition d’une idée finit par lui donner de l’importance. Au
+              fond, l’égoarchie n’offre rien de nouveau ; c’est de l’égoïsme conscient, décidé et
+              volontaire ; Napoléon et Goethe étaient deux égoarchistes, mais comme Nietzsche
+              n’était alors pas encore né, personne ne pensait à exploiter les sentiments directifs
+              de ces deux grands hommes pour en établir une religion philosophique, impraticable,
+              puisque les égoïstes, les forts, les dominateurs, les volontaires naissent et ne se
+              fabriquent pas, ou se forment graduellement par la déception, par le mépris. Le culte
+              du moi est donc un phénomène isolé, et, surtout, inavoué par ceux qui savent le
+              pratiquer sérieusement ; ni César Borgia, ni Napoléon, ni Goethe n’ont jamais déclaré
+              au monde qu’ils travaillaient pour leur profit, mais ils tâchaient de trouver toujours
+              un point de départ avouable, généreux, héroïque, pour les spectateurs. Les théories
+              philosophiques sont de belles choses sur le papier, mais elles sont belles justement
+              parce qu’elles sont sur le papier, et quatre-vingt-dix-neuf fois sur cent, si on
+              essaie de les mettre en pratique, elles échouent. On comprend parfaitement Frédéric
+              Nietzsche qui, dans une série de travaux violents et personnels, prêche l’avent des
+              « lions qui rient », mais on ne comprendrait pas un homme d’État, un politicien, même
+              un simple bourgeois, qui poseraient carrément en lions de l’avenir, à moins qu’ils ne
+              voulussent jouer le rôle de cet autre animal, qui du lion n’avait que la peau. À mon
+              avis, donc, M. Morasso, tout en marchant par une voie parfaitement opposée et dans un
+              but social et politique décidément contraire à celui de M. Ferrero, présente le défaut
+              de ce dernier, que je remarquai il y a quelques mois à propos du <hi rend="i"
+                >Militarismo</hi> : une confiance aveugle dans un avenir, que M. Morasso rêve et
+              souhaite comme le triomphe de l’individualisme le plus effréné, et que M. Ferrero
+              attend et invoque comme la réalisation de la paix universelle. Doué d’un talent réel
+              et d’une culture très appréciable, M. Morasso a devant soi une carrière brillante ;
+              son âme est pleine d’idéal, débordante de jeunesse. J’aime à croire qu’il sera plus
+              prudent la prochaine fois ; et cependant il faut reconnaître qu’il nous a donné une
+              œuvre forte, après tout, et aristocratique, laquelle doit éveiller l’attention, en
+              suscitant des polémiques élégantes.</p>
+          </div>
+          <div>
+            <head>E. Corradini : <hi rend="i">La Verginità</hi>.</head>
+            <index>
+              <term type="id">article-1898-06_920</term>
+              <term type="author">Zùccoli, Luciano (1868-1929)</term>
+              <term type="signed">Luciano Zùccoli</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">E. Corradini : <hi rend="i">La Verginità</hi></term>
+              <term type="date">1898-06</term>
+              <term type="ref">Tome XXVI, numéro 102, juin 1898, p. 917-923 [920-922]</term>
+            </index>
+            <p><hi rend="b">La Verginità</hi> (Florence, au <hi rend="i">Marzocco</hi>), par
+              M. Enrico Corradini, montre que ce jeune littérateur est admirablement doué pour les
+              études d’âme et pour le drame passionnel, qu’il sait traiter avec souplesse, en
+              choisissant heureusement les détails, sans jamais se distraire de son but. <hi
+                rend="i">La Gioia</hi>, le roman qui a précédé celui dont je m’occupe aujourd’hui,
+              tout en révélant une personnalité fine et un talent plein de goût, n’était pas
+              complet : une suite de scènes charmantes qui manquaient d’un fort lien ; l’épine
+              dorsale du livre était à peine marquée. <hi rend="i">La Verginità</hi> décèle au
+              contraire une préparation longue et mûre, tandis que l’action se développe avec une
+              rapidité énergique : en effet, tout le roman ne tient que deux cent trente pages, mais
+              savoir être bref et pourtant significatif, c’est un secret des plus rares. Il ne
+              s’agit pas de la virginité féminine ; sans doute, celle-ci est attrayante et
+              mystérieuse, mais elle est désormais si commune, j’entends dans le roman, qu’il faut
+              vraiment passer dans l’autre camp, chez l’autre sexe, pour trouver du nouveau. La
+              vierge, c’est donc un jeune homme, Attilio Palagonia, qui entre dans la vie par la
+              porte tout ouverte de la grande passion. Plus heureux que tant d’autres, qui
+              apprennent l’amour et la femme dans des lieux à peine tolérables, Attilio trouve sur
+              sa voie une grande actrice, une grande dépravée esthétique, Saveria, qui, à son tour,
+              est liée d’une liaison faite de souvenirs et de vices, de désirs et d’émotions, de
+              haine et de nécessité physique, à Ercole Grabba, le cousin d’Attilio. Avec une
+              habileté de psychologue consommé, M. Corradini suit la naissance à la vie sentimentale
+              et l’essor du jeune homme : il en fait un type inoubliable, violent et doux, puéril et
+              impérieux. Mais, en le plaçant dans la vie ardente et mouvementée des hommes de
+              lettres et des gens de théâtre, l’auteur se garde de donner à son protagoniste un rôle
+              inactif. Loin de là, cette virginité psychologique d’Attilio est une force qui agit
+              plus qu’elle n’obéit à l’action du milieu. Saveria, la jeune actrice, en subit tout
+              l’attrait ; et, profondément troublée par la foi dont Attilio l’entoure, elle devient
+              à son tour l’esclave de l’homme conquis. Ils vivent, les deux amoureux, dans une villa
+              aux environs de Florence, dans cette campagne toscane qui offre à l’artiste un sujet
+              inépuisable de tableaux délicats ; et Ercole Grabba, l’homme blasé, l’écrivain célèbre
+              dont l’amour sauvage pour Saveria représente peut-être le dernier motif de vie,
+              survient tout à coup. Comme en pleine idylle, M. Corradini a su choisir des couleurs
+              riantes, pleines de lumières, pour la scène entre Ercole et Saveria ; il y a des
+              traits singulièrement vigoureux ; cet homme qui hait et qui aime, qui veut arracher
+              l’enfant naïf aux tendresses empoisonnées de la femme et la femme aux transports
+              fiévreux de l’enfant, est une figure puissante, magistrale. Il est d’ailleurs
+              impossible que je tâche avec des adjectifs de montrer la beauté de ces pages et
+              d’autres ; on ne raconte ni l’eurythmie, ni les détails d’une œuvre littéraire : il
+              faut se borner à une constatation. C’est pourquoi j’arrive rapidement au suprême
+              moment du drame. La victoire d’Ercole Grabba est de courte durée ; il entraîne avec
+              lui Attilio, et dans un de ces élans qui peuvent faire sourire ceux qui sont en dehors
+              de la folie amoureuse, les deux cousins, les deux victimes se promettent d’oublier la
+              joie enchanteresse dont ils se sont enfin séparés ; ils détruisent tout ce qui reste
+              de leurs amours, jusqu’aux portraits de Saveria. Puis, ils vont braver leur passion ;
+              ils partent pour l’étranger où Saveria a repris sa carrière de triomphes
+              éblouissants ; mais Ercole n’a plus cette vertu inquiétante et féroce de la première
+              jeunesse, qui s’attache et s’arrache avec la même promptitude, qui se donne et se
+              reprend à temps. Des deux, Ercole est le plus faible ; Attilio revoit Saveria avec
+              plaisir, peut-être avec amour, mais il est encore maître de soi et désireux de vivre ;
+              Ercole paye de la vie son illusion de liberté… Le roman de M. Corradini est tout là :
+              une lutte d’âmes acharnée, presque sauvage, toujours extrêmement intéressante, étudiée
+              avec une patience infinie et un art peu commun. Je pense aussi que la langue dont
+              l’auteur se sert a beaucoup gagné, en oubliant complètement et définitivement les
+              exemples de d’Annunzio, tout en se conservant riche, flexible, cristalline. Il est
+              donc à souhaiter que M. Corradini sache se soustraire aux habitudes d’une paresse
+              toute toscane pour se taire moins souvent et pour continuer ses succès.</p>
+          </div>
+          <div>
+            <head>Marginalia</head>
+            <index>
+              <term type="id">article-1898-06_922a</term>
+              <term type="author">Zùccoli, Luciano (1868-1929)</term>
+              <term type="signed">Luciano Zùccoli</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">Marginalia</term>
+              <term type="date">1898-06</term>
+              <term type="ref">Tome XXVI, numéro 102, juin 1898, p. 917-923 [922]</term>
+            </index>
+            <p>Pendant les fêtes d’avril pour le centenaire d’Amerigo Vespucci, on a joué à Florence
+              le <hi rend="i">Plutus</hi> d’Aristophane, traduit et par malheur forcément expurgé
+              par M. Augusto Franchetti. Quoique cette comédie ne soit pas des plus caractéristiques
+              du grand satirique, elle a eu beaucoup de succès ; la reconstitution a été d’ailleurs
+              parfaite ; la scène était fixe et en relief ; les personnages portaient les masques
+              grecs. Je ne comprends pas trop, toutefois, pourquoi on a confié les rôles à des
+              étudiants, la comédie étant traduite en bon et sonore italien. Toujours est-il que les
+              acteurs se sont fait honneur, et lorsque la reine est arrivée à Florence, elle a fait
+              répéter le spectacle et, à ce qui paraît, l’a vivement goûté.</p>
+            <p>À Milan, on a pensé à élever un monument à la mémoire de l’abbé Giuseppe Parini, né
+              en 1729, mort en 1799, un des plus illustres entre nos poètes satiriques, et dont les
+              œuvres ont une très haute portée nationale. Cela est parfaitement juste ; mais on a
+              choisi dans ce but la nouvelle place Elliptique, où les partisans de Cavallotti
+              voulaient à leur tour élever un monument à ce dernier. Après un débat non sans chaleur
+              et non sans une pointe de comique, les admirateurs de Parini l’ont emporté, et la
+              place Elliptique reste au grand poète. Les amis de Cavallotti se proposant de prendre
+              leur revanche, projettent maintenant de planter sa statue à côté de l’autre, et quand
+              on pense que non loin de là s’élève aussi sur cette place un monument à Garibaldi, on
+              se prend à souhaiter que les admirateurs de Cavallotti renoncent à cette prétention,
+              dans l’intérêt même de la mémoire qu’ils veulent honorer.</p>
+          </div>
+          <div>
+            <head>Memento</head>
+            <index>
+              <term type="id">article-1898-06_922b</term>
+              <term type="author">Zùccoli, Luciano (1868-1929)</term>
+              <term type="signed">Luciano Zùccoli</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">Memento</term>
+              <term type="date">1898-06</term>
+              <term type="ref">Tome XXVI, numéro 102, juin 1898, p. 917-923 [922-923]</term>
+            </index>
+            <p>M. Morasso : <hi rend="i">Uomini e idee del domani</hi> (Turin, Flli. Bocca).
+              — G. Trespioli, <hi rend="i">L’Atteso</hi>, roman (Parme, R. Pellegrini).
+              — C. Lombroso, <hi rend="i">In Calabria</hi> ; F. Cavallotti, <hi rend="i">Italia e
+                Grecia</hi> ; L. Capuana, <hi rend="i">L’Isola del Sole</hi> (Catane, Giannotta).
+              — E. Corradini, <hi rend="i">La Verginità</hi>, roman ; Th. Neal, <hi rend="i">Studi
+                di litterature e d’arte</hi> (Florence, éditions du <hi rend="i">Marzocco</hi>).
+              — T. Giordana, <hi rend="i">La Fiamma e l’Ombra</hi> (Turin, Roux).</p>
+          </div>
+        </div>
+      </div>
+      <div>
+        <head>Tome XXVII, numéro 103, juillet 1898</head>
+        <div>
+          <head>Les Romans. <lb/>A. Butti et Lécuyer, <hi rend="i">L’Automate</hi>, « Mercure de
+            France », 3.50</head>
+          <index>
+            <term type="id">article-1898-07_229</term>
+            <term type="author">Rachilde (1860-1953)</term>
+            <term type="signed">Rachilde</term>
+            <term type="section">Les Romans</term>
+            <term type="title">A. Butti et Lécuyer, <hi rend="i">L’Automate</hi>, « Mercure de
+              France », 3.50</term>
+            <term type="date">1898-07</term>
+            <term type="ref">Tome XXVII, numéro 103, juillet 1898, p. 227-233 [229]</term>
+          </index>
+          <byline><hi rend="sc">Rachilde</hi>.</byline>
+          <bibl>Tome XXVII, numéro 103, juillet 1898, p. 227-233 [229].</bibl>
+          <p><hi rend="b">L’Automate</hi>, par B. A. Butti, traduit de l’italien par M. Lécuyer.
+            L’histoire d’un homme, sans plus. Ce n’est pas flatteur pour les hommes. Très bons
+            premiers chapitres où l’on voit l’enfance du petit Attilio développer tout ce qu’il sera
+            plus tard, en quelque sorte malgré lui. Langue agréable et fort française.</p>
+        </div>
+        <div>
+          <head>Histoire, sociologie [extraits]</head>
+          <index>
+            <term type="id">article-1898-07_233</term>
+            <term type="author">Collière, Marcel (1863-1932)</term>
+            <term type="signed">Marcel Collière</term>
+            <term type="section">Histoire, sociologie</term>
+            <term type="title">Histoire, sociologie [extraits]</term>
+            <term type="date">1898-07</term>
+            <term type="ref">Tome XXVII, numéro 103, juillet 1898, p. 233-240 [239]</term>
+          </index>
+          <byline><hi rend="sc">Marcel Collière</hi>.</byline>
+          <bibl>Tome XXVII, numéro 103, juillet 1898, p. 233-240 [239].</bibl>
+          <div>
+            <head>H. Tolra : <hi rend="i">Saint Pierre Orséolo</hi>, Fontemoing, 7.50</head>
+            <index>
+              <term type="id">article-1898-07_239a</term>
+              <term type="author">Collière, Marcel (1863-1932)</term>
+              <term type="signed">Marcel Collière</term>
+              <term type="section">Histoire, sociologie</term>
+              <term type="title">H. Tolra : <hi rend="i">Saint Pierre Orséolo</hi>, Fontemoing,
+                7.50</term>
+              <term type="date">1898-07</term>
+              <term type="ref">Tome XXVII, numéro 103, juillet 1898, p. 233-240 [239]</term>
+            </index>
+            <p>Les personnes qui s’intéressent à l’hagiographie médiévale liront avec fruit
+              l’ouvrage documenté et développé que M. Tolra a consacré à <hi rend="b">Saint Pierre
+                Orséolo</hi>, doge de Venise du <num>x<hi rend="sup">e</hi></num> siècle, qui acheva
+              sa vie dans un monastère bénédictin des Pyrénées.</p>
+          </div>
+          <div>
+            <head>J. de Crozals : <hi rend="i">L’Unité italienne</hi>, L.-H. May</head>
+            <index>
+              <term type="id">article-1898-07_239b</term>
+              <term type="author">Collière, Marcel (1863-1932)</term>
+              <term type="signed">Marcel Collière</term>
+              <term type="section">Histoire, sociologie</term>
+              <term type="title">J. de Crozals : <hi rend="i">L’Unité italienne</hi>,
+                L.-H. May</term>
+              <term type="date">1898-07</term>
+              <term type="ref">Tome XXVII, numéro 103, juillet 1898, p. 233-240 [239]</term>
+            </index>
+            <p>Le livre de M. J. de Crozals, <hi rend="b">l’Unité Italienne</hi>, est un utile
+              manuel, qui embrase toute l’histoire de la péninsule de 1815 à 1870. Un grand nombre
+              de portraits, de reproductions de monuments en augmentent l’attrait. Et il n’est pas
+              sans intérêt de relire comment la monarchie de Savoie s’est fondée, au moment
+              peut-être où on est appelé à voir comment elle va disparaître.</p>
+          </div>
+        </div>
+        <div>
+          <head>Musique. <lb/>Opéra-Comique : <hi rend="i">La Vie de Bohème</hi>, drame lyrique de
+            MM. Giacosa et Illica, musique de M. G. Puccini</head>
+          <index>
+            <term type="id">article-1898-07_273</term>
+            <term type="author">Bréville, Pierre de (1861-1949)</term>
+            <term type="signed">Pierre de Bréville</term>
+            <term type="section">Musique</term>
+            <term type="title">Opéra-Comique : <hi rend="i">La Vie de Bohème</hi>, drame lyrique de
+              MM. Giocosa et Illinois, musique de M. G. Puccini</term>
+            <term type="date">1898-07</term>
+            <term type="ref">Tome XXVII, numéro 103, juillet 1898, p. 270-278 [270-278]</term>
+          </index>
+          <byline><hi rend="sc">Pierre de Bréville</hi>.</byline>
+          <bibl>Tome XXVII, numéro 103, juillet 1898, p. 270-278 [270-278].</bibl>
+          <p><hi rend="b">La Vie de Bohème</hi>, de MM. Giacosa, Illica et du maestro Puccini, qui
+            vient d’être représentée à l’Opéra-Comique avec un brillant succès, n’est pas un de ces
+            ouvrages profonds et complexes qui nécessitent de subtiles analyses. Drame et musique y
+            sont également superficiels. L’épisode sentimental, le roman de Mimi et de Rodolphe qui
+            en est le vrai sujet, remplit à peine trois scènes, et le reste, cadre disproportionné à
+            cette miniature, consiste exclusivement en une succession de tableaux mouvementés,
+            sortes de pantomimes où disparaît l’action et auxquelles la musique demeure étrangère.
+            Pour la plus grande partie de l’œuvre, l’intérêt réside dans le décor et la figuration,
+            et le véritable auteur, le véritable triomphateur du second acte et de la moitié du
+            troisième, c’est le metteur en scène extraordinairement habile qu’est M. A. Carré.</p>
+          <p>Tout le monde a lu le roman de Mürger d’où est tiré ce drame ; les héros en sont si
+            populaires que les librettistes n’ont voulu se passer d’aucun d’eux, et, dès le lever du
+            rideau, ils nous présentent Schaunard, Colline et Marcel, puis M. Benoît, Le <hi
+              rend="sc">Propriétaire</hi>, cette incarnation non encore démodée, assure-t-on, de
+              l’<hi rend="sc">Infâme capital</hi>. Ces personnages nous sont montrés constamment,
+            quoique purement épisodiques, car, de même que la foule qui s’esbat dans la rue, la nuit
+            du réveillon, de même que les bourgeois, les grisettes, le juif marchand de bric-à-brac,
+            les garçons de cafés aux chemises ornées de jabot, le tambour-major, les soldats, les
+            sapeurs, les bonnes et les enfants du second acte, de même que le prêtre qui conduit ses
+            écoliers, les balayeurs de Gentilly, le pauvre transi de froid, les douaniers, le
+            facteur, l’éteigneur de quinquets, le chien du régiment et l’âne de la maraîchère du
+            troisième : Schaunard, Colline, Marcel et aussi Musette ne sont là que pour justifier le
+            titre choisi, et mettre du bruit et du mouvement autour des amoureux. Ceux-ci se
+            rencontrent à la fin du premier acte. Rodolphe, dans sa mansarde, travaille au coin de
+            son… froid, car il n’a « plus de feu ». À Mimi, dont la « chandelle est morte » il ouvre
+            sa « porte » ; le reste se devine. Les jeunes gens trouvent la bande joyeuse des
+            Bohèmes, ainsi que Musette — une camarade devenue grande dame momentanée — au café
+            Momus, tandis que « la folie agite ses grelots ». Puis Mimi, abandonnée pendant
+            l’entracte, attend son amant, sous la neige qui tombe, près d’un autre café, à la
+            barrière. C’est là que, pauvre poitrinaire en plein vent, elle tousse pour la première
+            fois. Elle revient à la mansarde des artistes, et les mains dans un manchon (emprunté à
+            Francine, sa voisine de chapitre), elle meurt en chantant, comme la Traviata, comme
+            toutes nos phtisiques de roman qui vont en Italie consulter des musiciens.</p>
+          <p>Celui auquel elle s’est adressée, M. Puccini, a certainement été touché par sa jeunesse
+            et par son charme ingénu ; il l’a traitée avec amour. Les meilleures pages de sa
+            partition se rapportent à elle : la scène dernière du premier acte, où les deux amoureux
+            « échangent leurs serments », et aussi le dénouement, la mort de Mimi qui passe
+            doucement, dans un petit souffle. Pour le reste, il s’est trop souvent laissé aller à
+            cette exubérance quelconque, à ces oppositions de couleurs criardes, à cet
+            impressionnisme parfois grossier que certains confondent avec la peinture de la vie. Il
+            possède, cela est indéniable, le sens du mouvement, mais cette bousculade perpétuelle
+            des personnages, des thèmes, des tonalités et des instruments où il se complaît finit
+            par lasser ; on souhaiterait qu’il s’arrêtât, et fît à la musique une place, fût-elle
+            restreinte. Bizet, dans la scène des Arènes, de <hi rend="i">Carmen</hi>, d’Indy dans la
+            Fête du <hi rend="i">Chant de la Cloche</hi>, Wagner dans le finale du second acte des
+              <hi rend="i">Maîtres Chanteurs</hi> ont prouvé que la construction musicale, la
+            conception d’un grand tableau symphonique n’était pas incompatible avec l’animation
+            d’une foule chorale. Avec M. Puccini, l’apport de la musique à l’agitation générale
+            n’est que de bruit et de rythme, et l’effet <hi rend="i">réel</hi> est obtenu simplement
+            par des tambours et des clairons entendus d’abord de loin, puis se rapprochant peu à peu
+            pour s’éloigner de nouveau.</p>
+          <p>Cependant, M. Puccini ne renie pas le chant, le <hi rend="i">bel canto</hi> ; il est
+            Italien, il veut l’être, et veut surtout qu’on le sache bien. Aussi, quoiqu’il connaisse
+            ce qui se passe au-delà des Alpes et en ait fait son profit, quoiqu’il ait réprouvé les
+            trilles, vocalises et points d’orgue, qu’il fasse risette au leitmotiv et ait affranchi
+            son harmonie<note place="bottom">Pour le bien prouver, M. Puccini s’amuse, un peu
+              puérilement, à faire le contraire des règles, écrivant sans aucune raison apparente,
+              de pénibles et obstinées successions de <hi rend="i">quintes</hi>.</note>, il n’hésite
+            pas parfois devant ces cantilènes intempestives et devant les ensembles vocaux
+            traditionnels, comme dans le <hi rend="i">quatuor</hi> du troisième acte où Mimi,
+            Musette, Rodolphe et Marcel, quoique de sentiments très dissemblables, s’efforcent à
+            l’unisson vers les notes suraiguës.</p>
+          <p>Mais n’y a-t-il pas quelque injustice à juger avec notre manière particulière de sentir
+            cet art spécial qui dérive d’un tempérament si différent du nôtre, cet art auquel le
+            climat ensoleillé du midi qui fait la vie facile et tout en dehors, qui excuse la
+            crudité des couleurs et entraîne aux gestes excessifs, apporte lui aussi son influence.
+            En outre, les accents des mots italiens sur lesquels M. Puccini a modelé sa musique ne
+            légitimeraient-ils pas bien souvent pour nous certaines extériorisations qui, avec les
+            mots français, si malencontreusement prosodiés, nous semblent inexplicables ?</p>
+          <p>Quoi qu’il en soit, le public a chaleureusement accueilli cet ouvrage. Il n’a pas
+            ménagé ses applaudissements à Mlle Guiraudon qui joue et chante en artiste de premier
+            ordre, à M. Maréchal qui fait entendre une voix de ténor au timbre exquis, à MM. Fugère,
+            Bouvet et Isnardon qui peignent, chantent, font de l’escrime, boivent et dansent avec
+            une inaltérable gaîté ; il a aussi acclamé l’auteur, et M. Carré qui fort ingénieusement
+            a donné à <hi rend="i">Fervaal</hi> des lendemains d’une si piquante opposition.</p>
+          <p>Ce succès s’explique de lui-même. À entendre la <hi rend="i">Vie de Bohème</hi> on ne
+            se fatigue pas ; c’est bien la partition destinée à ceux pour qui la musique ne peut
+            être qu’un art d’agrément, qu’un simple délassement. Ce n’est pas là un de ces ouvrages
+            hautement artistiques, qui imposent les fécondes réflexions, et dont il est dit qu’ils
+            font penser… Le spectacle est varié ; aux bouffonneries succèdent avec symétrie les
+            scènes sentimentales dont certaines sont empreintes d’un charme touchant et vraiment
+            particulier. Après avoir ri, on peut aussi pleurer.</p>
+          <p>La <hi rend="i">Vie de Bohème</hi> s’adresse donc à des spectateurs trop nombreux pour
+            n’en pas attirer un grand nombre, pendant longtemps.</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome XXVII, numéro 104, août 1898</head>
+        <div>
+          <head>Épilogues. <lb/>Conseils de guerre italiens</head>
+          <index>
+            <term type="id">article-1898-08_513</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">Remy de Gourmont</term>
+            <term type="section">Épilogues</term>
+            <term type="title">Conseils de guerre italiens</term>
+            <term type="date">1898-08</term>
+            <term type="ref">Tome XXVII, numéro 104, août 1898, p. 509-514 [513]</term>
+          </index>
+          <byline><hi rend="sc">Remy de Gourmont</hi>.</byline>
+          <bibl>Tome XXVII, numéro 104, août 1898, p. 509-514 [513].</bibl>
+          <p>Les huis-clos ayant acquis depuis quelque temps une assez mauvaise réputation, les
+            militaires italiens ont jugé au grand jour leurs récentes victimes. Deux atténuations
+            seulement à ce grand jour : tous les journaux de l’opposition avaient été supprimés
+            d’avance, et les défenseurs des accusés étaient des officiers sous les ordres du
+            président, — sous ses ordres, puisque ses inférieurs en grade. On dit que ces jeunes
+            lieutenants ont plaidé avec une certaine énergie pour leurs clients. C’est possible,
+            mais de telles pratiques n’en sont pas moins indignes et elles présagent pour demain de
+            cruelles et justes représailles. Il est également monstrueux de soumettre au jugement
+            des sabreurs des théories sociales et des polémiques de presse. Qu’ils se jugent entre
+            eux, qu’ils se condamnent les uns les autres, selon leurs usages secrets, mais qu’on ne
+            soumette jamais à leur appréciation les actes et les idées des hommes libres. On ne
+            s’est guère indigné en France de la répression sauvage qui a suivi les bénignes révoltes
+            de Milan. Vous avez insulté l’armée par vos cris ! La pauvre femme interpellée par le
+            militaire répond : J’ai crié « du pain ! du pain ! » Cinq ans de réclusion. Des
+            centaines de femmes, d’ouvriers sans travail, ont été ainsi envoyées au bagne, en
+            compagnie d’une quantité de journalistes. Où est l’Italie des Îles Borromées ?</p>
+        </div>
+        <div>
+          <head>Les Théâtres. <lb/>Représentations italiennes de M. Ermete Novelli</head>
+          <index>
+            <term type="id">article-1898-08_566</term>
+            <term type="author">Herold, André-Ferdinand (1865-1940)</term>
+            <term type="signed">A.-Ferdinand Herold</term>
+            <term type="section">Les Théâtres</term>
+            <term type="title">Représentations italiennes de M. Ermete Novelli</term>
+            <term type="date">1898-08</term>
+            <term type="ref">Tome XXVII, numéro 104, août 1898, p. 563-566 [566]</term>
+          </index>
+          <byline><hi rend="sc">A.-Ferdinand Herold</hi>.</byline>
+          <bibl>Tome XXVII, numéro 104, août 1898, p. 563-566 [566].</bibl>
+          <p>16 juin : <hi rend="i">La Morte civile</hi>. — 18 juin : Première représentation de <hi
+              rend="b">Michele Perrin</hi>, commedia in due atti, di Bayard. — 18 juin : Première
+            représentation de <hi rend="b">la prima Volta</hi>, commedia in uno atto, di Giannino
+            Antona-Traversi. — 20 juin : Première représentation de <hi rend="b">Spettri</hi>,
+            dramma in tre atti, d’Ibsen. — 21 juin : Première représentation d’<hi rend="b">Un
+              dramma nuovo</hi>, dramma in tre atti, di Tamayo e Baus, riduzione di Ermete Novelli.
+            — 23 juin : Première représentation d’<hi rend="b">Alleluja</hi>, dramma in tre atti, di
+            Marco Praga.</p>
+        </div>
+        <div>
+          <head>Lettres anglaises. <lb/>Revues [extrait]</head>
+          <index>
+            <term type="id">article-1898-08_591</term>
+            <term type="author">Davray, Henry D. (1873-1944)</term>
+            <term type="signed">Henry-D. Davray</term>
+            <term type="section">Lettres anglaises</term>
+            <term type="title">Revues [extrait]</term>
+            <term type="date">1898-08</term>
+            <term type="ref">Tome XXVII, numéro 104, août 1898, p. 583-591 [591]</term>
+          </index>
+          <byline><hi rend="sc">Henry-D. Davray</hi>.</byline>
+          <bibl>Tome XXVII, numéro 104, août 1898, p. 583-591 [591].</bibl>
+          <p>[…]</p>
+          <p><hi rend="b">The Bookman</hi> (juillet). — […] une étude sur Fogazzaro par Helen
+            Zimmern, des portraits de Stevenson, George Moore, d’après Manet, Hermann Sudermann,
+            Fogazzaro.</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome XXVII, numéro 105, septembre 1898</head>
+        <div>
+          <head>Les Journaux. <lb/>Les Esclaves en Italie (<hi rend="i">Bulletin de la Société
+              contre la mendicité des enfants</hi>, août)</head>
+          <index>
+            <term type="id">article-1898-09_832</term>
+            <term type="author">Bury, R. de (18..-19..)</term>
+            <term type="signed">R. de Bury</term>
+            <term type="section">Les Journaux</term>
+            <term type="title">Les Esclaves en Italie (<hi rend="i">Bulletin de la Société contre la
+                mendicité des enfants</hi>, août)</term>
+            <term type="date">1898-09</term>
+            <term type="ref">Tome XXVII, numéro 105, septembre 1898, p. 831-837 [832-833]</term>
+          </index>
+          <byline><hi rend="sc">R. de Bury</hi>.</byline>
+          <bibl>Tome XXVII, numéro 105, septembre 1898, p. 831-837 [832-833].</bibl>
+          <p>L’esclavage, maintenant borné aux enfants, est resté bien traditionnel en Italie ; on
+            n’y conçoit guère autrement le travail des mines. Un jeune esclave, destiné au métier de
+              <hi rend="i">caruso</hi>, de porteur de minerai, vaut en Sicile de 50 à 300 lires,
+            selon l’âge et la force. M. Rossi descendit, il y a quelques années, avec un député,
+            dans une mine de soufre et voici ses impressions vraiment infernales :</p>
+          <quote>
+            <p>« Tous deux aperçurent, en arrivant, une collection de nains entièrement nus, au dos
+              rond, aux jambes torses et aux petits visages de vieux. C’étaient les <hi rend="i"
+                >carusi</hi> d’une usine occupant treize cents ouvriers. Deux de ces enfants prirent
+              des lampes et servirent de guides aux visiteurs.</p>
+            <p>» Nous commençâmes à descendre, dit M. Rossi, en nous courbant et en nous accrochant
+              des mains à la voûte. Les degrés, creusés dans le sol, sont très irréguliers, tantôt
+              hauts et tantôt bas, humides et glissants. Nous vîmes les <hi rend="i">carusi</hi> qui
+              remontaient, ployés sous leur charge de soufre. Puis, nous entendîmes des gémissements
+              angoissés. C’étaient les plaintes de ces misérables, qui devenaient plus distinctes à
+              mesure que nous nous rapprochions ; c’étaient les gémissements de jeunes créatures
+              haletantes et oppressées, qui n’avaient plus la force de marcher, et qui devaient
+              cependant avancer coûte que coûte, de peur que le mineur ne vînt les stimuler à coups
+              de bâton ou en leur brûlant les mollets avec une lampe. Nous arrêtâmes quelques-uns de
+              ces enfants, et nous constatâmes qu’ils avaient la peau des épaules et toute l’échine
+              excoriées, rouges et couvertes de calus, de cicatrices et de meurtrissures. »</p>
+          </quote>
+          <p>M. Rossi entendit l’un d’eux dire en pleurant à un camarade :</p>
+          <quote>
+            <p>« Je suis si las que je ne peux plus ; je vais jeter mon sac par terre ! Et, en
+              effet, il était vaincu par la fatigue. Ayant déposé sa charge, il pleurait
+              silencieusement, accroupi sur une marche. Il avait les yeux bleuis, les paupières
+              rougies, et de grosses larmes roulaient sur ses joues livides.</p>
+            <p>» Dans ma carrière de journaliste, dit M. Rossi, dans mes voyages, j’ai vu fusiller,
+              pendre, lyncher, massacrer ; j’ai vu des scènes horribles en tout genre et des morts
+              de toute espèce : je n’ai rien vu qui m’ait tant impressionné !</p>
+            <p>» Les pauvres petits essaient souvent de s’enfuir. Malheur à celui que son maître
+              rattrape ! Plus d’un <hi rend="i">caruso</hi> meurt assommé, et les autres ouvriers
+              n’interviennent pas. “C’est le droit du maître !” disaient les mineurs à M. Rossi, qui
+              s’indignait de leur impassibilité. »</p>
+          </quote>
+        </div>
+        <div>
+          <head>Publications d’art. <lb/>Les Revues : <hi rend="i">L’Œuvre d’Art</hi>
+            [extrait]</head>
+          <index>
+            <term type="id">article-1898-09_848</term>
+            <term type="author">Rambosson, Yvanhoé (1872-1943)</term>
+            <term type="signed">Yvanhoé Rambosson</term>
+            <term type="section">Publications d’art</term>
+            <term type="title">Les Revues : <hi rend="i">L’Œuvre d’Art</hi> [extrait]</term>
+            <term type="date">1898-09</term>
+            <term type="ref">Tome XXVII, numéro 105, septembre 1898, p. 846-850 [848]</term>
+          </index>
+          <byline><hi rend="sc">Yvanhoé Rambosson</hi>.</byline>
+          <bibl>Tome XXVII, numéro 105, septembre 1898, p. 846-850 [848].</bibl>
+          <p><hi rend="b">L’Œuvre d’Art</hi> (20 juillet). — […] Le même numéro se rachète par
+            d’intéressantes notes sur <hi rend="i">Benvenuto Cellini à la Cour de France</hi>
+            […]</p>
+        </div>
+        <div>
+          <head>Lettres anglaises. <lb/>Revues [extrait]</head>
+          <index>
+            <term type="id">article-1898-09_865</term>
+            <term type="author">Davray, Henry D. (1873-1944)</term>
+            <term type="signed">Henry-D. Davray</term>
+            <term type="section">Lettres anglaises</term>
+            <term type="title">Revues [extrait]</term>
+            <term type="date">1898-09</term>
+            <term type="ref">Tome XXVII, numéro 105, septembre 1898, p. 861-867 [865]</term>
+          </index>
+          <byline><hi rend="sc">Henry-D. Davray</hi>.</byline>
+          <bibl>Tome XXVII, numéro 105, septembre 1898, p. 861-867 [865].</bibl>
+          <p><hi rend="b">Cosmopolis</hi> (août). — Une étude très remarquable sur <hi rend="i"
+              >Gabriele d’Annunzio</hi>, par Mrs. Virginia M. Crawford […]</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome XXVIII, numéro 106, octobre 1898</head>
+        <div>
+          <head>Épilogues. <lb/>De la stupidité des assassins</head>
+          <index>
+            <term type="id">article-1898-10_194</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">Remy de Gourmont</term>
+            <term type="section">Épilogues</term>
+            <term type="title">De la stupidité des assassins</term>
+            <term type="date">1898-10</term>
+            <term type="ref">Tome XXVIII, numéro 106, octobre 1898, p. 193-199 [194-196]</term>
+          </index>
+          <byline><hi rend="sc">Remy de Gourmont</hi>.</byline>
+          <bibl>Tome XXVIII, numéro 106, octobre 1898, p. 193-199 [194-196].</bibl>
+          <p>Je ne crois pas beaucoup au type de l’homme criminel, imaginé par Lombroso ; cependant
+            il y a certainement un caractère commun à tous les criminels, la stupidité. La
+            psychologie de Luccheni ne semble pas démentir cet horoscope. On pourrait, il est vrai,
+            soutenir qu’il a marqué dans l’élection de sa victime un rudiment d’intelligence, car il
+            est plus facile, certainement, de poignarder une femme qui se promène toute seule que
+            l’empereur d’Allemagne, moins enclin à fréquenter incognito les bateaux du lac Léman. Le
+            choix de la proie élève considérablement Luccheni au-dessus de la panthère et de l’ours
+            gris, mais la panthère a des excuses et l’ours gris des prétextes supérieurs aux mobiles
+            qui ont agité et guidé les pauvres muscles de ce compagnon du tiers-point. Nous savons
+            pourquoi il a tué l’impératrice d’Autriche : « Je l’ai tuée parce qu’elle ne travaillait
+            pas. » Voilà. Grizzly aurait répondu : « Je l’ai tuée parce que j’avais faim. Il m’était
+            bien indifférent qu’elle fût impératrice et que par conséquent elle n’allât pas laver
+            son linge à la rivière. J’eusse même préféré qu’elle fût cuisinière et plus
+            appétissante. » Voilà des paroles raisonnables. Celles de Luccheni ne le sont pas. Mais
+            à expliquer le genre de stupidité qu’elles dénotent, on irait un peu loin et on serait
+            forcé de constater qu’une bonne partie de l’humanité pense, exactement, comme
+            l’assassin, que les gens qui ne travaillent pas, et notamment les femmes qui n’ont pas
+            les yeux rouges et les mains noires, sont indignes de vivre. Il y a des hommes qui ne
+            travaillent pas ; je crois qu’il y en a peu, car ne rien faire est encore peut-être,
+            pour un homme, de tous les métiers le plus dur et le plus fastidieux. Il y a les hommes
+            qui travaillent peu et volontairement ; mais au lieu de les tuer, il faut les considérer
+            comme un idéal ; ils sont un exemple et non un obstacle. Si tout le monde travaillait
+            dix heures par jour, Paris serait Belleville ou Charonne : c’est sans doute le rêve
+            socialiste, ce n’est pas le mien. Quant aux femmes, il n’est pas exagéré de dire que
+            l’oisiveté est la mère de toutes leurs vertus. La femme est absolument faite pour ne pas
+            travailler et, contrairement à l’homme, elle ne vit pleinement sa vie que si elle ne
+            travaille pas. C’est à ne rien faire qu’elle fleurit de toutes ses fleurs. Les femmes
+            qui ne travaillent pas sont la beauté du monde et la terre ne sera habitable que lorsque
+            aucune femme n’aura de labeurs que ceux qu’elle s’imposera elle-même, par instinct, pour
+            avoir toujours plus de grâce et plus de charme.</p>
+          <p><hi rend="i">Note</hi>. — Le mot <hi rend="i">travail</hi> ayant cinq ou six cents
+            significations différentes, on ne peut l’écrire sans être obscur. Tel travaille en
+            regardant pousser la vrille des vignes et tel ne travaille pas en cassant des
+            cailloux.</p>
+        </div>
+        <div>
+          <head>Voyages, archéologie. <lb/>P. de Lauribar : <hi rend="i">Douze ans en
+            Abyssinie</hi>, Flammarion, 3.50</head>
+          <index>
+            <term type="id">article-1898-10_221</term>
+            <term type="author">Merki, Charles (18..-19..)</term>
+            <term type="signed">Charles Merki</term>
+            <term type="section">Voyages, archéologie</term>
+            <term type="title">P. de Lauribar : <hi rend="i">Douze ans en Abyssinie</hi>,
+              Flammarion, 3.50</term>
+            <term type="date">1898-10</term>
+            <term type="ref">Tome XXVIII, numéro 106, octobre 1898, p. 218-228 [221-224]</term>
+          </index>
+          <byline><hi rend="sc">Charles Merki</hi>.</byline>
+          <bibl>Tome XXVIII, numéro 106, octobre 1898, p. 218-228 [221-224].</bibl>
+          <p>Ces atrocités ne nous éloignent point trop de l’Abyssinie dont on a fort parlé en ces
+            derniers temps, bien au hasard et avec un enthousiasme quasiment inutile, selon qu’il
+            appert du tome publié chez Flammarion : <hi rend="b">Douze ans en Abyssinie</hi>, <hi
+              rend="i">souvenirs d’un officier</hi>, par P. de Lauribar. — M. P. de Lauribar,
+            paraît, il, est une dame. Cela ne me déplaît point, d’ailleurs ; les femmes ont si peu
+            coutume de fournir une lecture substantielle qu’on est heureux, une fois au moins, d’en
+            trouver une qui vaille de s’y arrêter. Son livre ensuite arrive à point pour nous
+            fournir sur le négus Ménélik et la campagne d’Érythrée et le pays même une documentation
+            jusqu’ici plutôt rudimentaire dans les articles de journaux et revues dont nous nous
+            sommes contentés. — L’Abyssinie, pendant longtemps, n’intéressa que les Anglais ; elle
+            fut d’actualité au moment de leur guerre avec le Négus Théodoros ; mais déjà en 1770,
+            James Bruce avait traduit les <hi rend="i">Annales Abyssines</hi> qui sont probablement
+            le fatras connu sous le nom de <hi rend="i">Chronique d’Axoum</hi>, la ville sacrée des
+            Abyssins, bâtie <quote>« par les enfants de Chus quelque temps avant la naissance
+              d’Abraham »</quote> ; chacun pourrait se procurer aussi, dans la collection du journal
+              l’<hi rend="i">Isthme de Suez</hi>, un petit travail de M. de Lesseps, — à qui Dieu
+            pardoint — relatant les <hi rend="i">Principaux faits de l’Histoire d’Abyssinie</hi>.
+            — Le volume de M. P. de Lauribar, écrit <hi rend="i">de visu</hi> et d’après les
+            témoignages des officiers italiens est heureusement d’un autre intérêt<note
+              place="bottom">Cf. sur l’Abyssinie les Voyages de Guillaume Lejean.</note> ;
+            l’histoire de la conquête et de la guerre y tient une large place, mais on y a consigné
+            des faits nombreux sur les régions diverses du Tigré et de l’Érythrée, les habitants et
+            les mœurs : et les Abyssins apparaissent ici ce qu’ils sont très réellement,
+            c’est-à-dire un peuple primitif et guerrier, haineux, fourbe et cruel, ayant certes les
+            qualités de ses défauts, la bravoure, le dévouement parfois à des chefs choisis, une
+            endurance extrême aux fatigues de ses expéditions continuelles, l’amour de
+            l’indépendance et du sol. Mais de ce que l’empereur Ménélik, en nègre rusé, fit
+            confectionner des timbres et des monnaies en France, accorda quelques concessions de
+            chemins de fer et montra un peu d’amitié pour deux ou trois Européens, on nous
+            représentait volontiers l’Abyssinie « revendiquant sa place parmi les nations
+            civilisées », selon la formule du Protocole. Il en faut bien rabattre. Les chefs chouans
+            qui condamnèrent les douze cents ascaris des bataillons indigènes faits prisonniers à la
+            bataille d’Adoua <quote>« à subir l’amputation de la main droite et du pied gauche, en
+              ajoutant la prohibition absolue de porter secours aux mutilés, non seulement comme
+              médication, mais de leur donner la moindre nourriture ou même à boire »</quote>, ne
+            peuvent guère passer que pour des barbares. Il faut lire aussi les détails de
+            l’opération faite avec de mauvais couteaux, imaginer les membres jetés en tas, le
+            bourreau se trompant et taillant le pied et la main du même côté, puis ces malheureux
+            abandonnés à leurs tortures durant une semaine à côté des morts auxquels il était
+            interdit de donner la sépulture. On a la vision sanglante des vieilles guerres
+            asiatiques. On se rappelle l’Assyrie et l’Égypte ancienne, avec leurs rois féroces ; et
+            Ramsès III assistant au dénombrement des mains coupées (Medinet-Habou) ; et les
+            prisonniers empalés ou dépouillés de leur peau que nous montrent les bas-reliefs de
+            Ninive. — Notez que tout le secours qui pouvait être donné dans la circonstance
+            consistait en une cicatrisation au fer rouge ou l’immersion du membre amputé dans de
+            l’huile bouillante pour arrêter l’hémorragie, et que des douze cents suppliciés, trois
+            cents à peine survécurent. — On peut trouver que c’est encore un beau chiffre,
+            d’ailleurs ; mais les Abyssins paraissent avoir la vie dure. Le fer rouge, qu’ils
+            emploient dans les bronchites et rhumatismes, doit être cité comme leur remède
+            héroïque ; et j’avouerai facilement que le procédé m’a laissé rêveur : — <quote>« On
+              l’applique sur les côtes, sur la poitrine ou les omoplates ; le patient est étendu par
+              terre et vigoureusement maintenu par quatre personnes au moins ; le médecin alors
+              applique un fer rouge sur la partie malade en la faisant pénétrer dans les chairs avec
+              la plus barbare indifférence ; généralement cette application se fait en deux ou trois
+              points, jusqu’à ce que l’opérateur <hi rend="i">entende un bruit semblable à celui que
+                produit une vessie gonflée que l’on fait éclater par la pression</hi>. Le malade se
+              tord dans des spasmes d’agonie, l’écume jaillit de sa bouche, et enfin sous
+              l’impression de cette souffrance atroce dont la seule description fait dresser les
+              cheveux, perd connaissance ; cependant, ajoute notre texte, il n’hésite jamais à
+              recommencer l’opération si, quand ses blessures sont guéries, il ne se sent pas
+              soulagé du mal dont il souffrait. »</quote></p>
+          <p>Mais on pensera bien qu’il y a d’autres singularités dans les habitudes de ce peuple,
+            en majorité chrétien, et que des séries de pierres sonores entrechoquées appellent aux
+            offices ; qui possède des moines volontairement emmurés pour acquérir le titre de
+            saints ; qui croit au mauvais œil<note place="bottom">Tandis que l’officier boit, deux
+              soldats lui font un paravent de leur manteau ; nul ne doit voir le chef quand il boit,
+              par crainte du mauvais œil, p. 254.</note> ; dort dans une posture recroquevillée et
+            les genoux sous le menton<note place="bottom">Les serviteurs de l’un et l’autre sexe
+              couchent <hi rend="i">sous</hi> le lit du maître, et toujours dans la même posture,
+              qui pour nous représente avec raison le suprême du malcommode, p. 72.</note> ; se
+            nourrit d’une sorte de galette appelée <hi rend="i">sciro</hi>, faite pour les riches
+            avec de la farine de pois verts ou de lentilles, pour les pauvres avec de la farine de
+            fèves, de pois chiches ou le plus souvent de <hi rend="i">graine de lin</hi>. — À noter,
+            dans les curiosités des usages que le chef, aux jours de réception, doit offrir trois
+            fois plus de victuailles et de boissons qu’il n’est nécessaire ; par courtoisie les
+            invités engloutissent tout et arrivent ainsi au dernier degré de la plénitude ;
+            seulement il y a un maître des cérémonies dont la fonction consiste à maintenir la paix
+            et la tranquillité de l’assemblée ; il se met debout au centre de la pièce, tenant une
+            longue baguette, et crie à haute voix, de temps en temps : Toantè ! (silence)<note
+              place="bottom">Même usage mentionné pour certain pays d’Allemagne, au moyen âge.
+              — Pour les femmes en Abyssinie, voir le curieux chapitre : <hi rend="i">Madames des
+                officiers.</hi> — Les abyssines s’épilent dès le jeune âge ; et l’auteur affirme
+              qu’elles sont fidèles.</note>.</p>
+          <p>Quant à l’empereur Ménélik, que M. Buffet nous montrait au dernier Salon campé sur le
+            cheval du <hi rend="i">Maréchal Prim</hi>, c’est un gros homme chauve, très noir et très
+            grêlé, à la physionomie douce et intelligente, grand trousseur de filles devant
+            l’Éternel, l’air d’un bon vivant et d’un bavard, fort peu héroïque du reste, ayant en
+            horreur la guerre pour laquelle il ne se sent aucune aptitude, — et que nous trouvons
+            ici <quote>« s’agitant, on pourrait dire se roulant sur son divan, en montrant ses pieds
+              qui sont énormes et couverts de chaussettes en coton blanc »</quote>.— Sa qualité
+            dominante, ajoute notre narrateur, est la bonté. Nous le croirons sur parole, et
+            l’empereur sera bien ainsi l’être le plus extraordinaire de son empire.</p>
+          <p>Pour les faits de l’occupation depuis 1885, on voudra bien consulter le livre même de
+            M. de Lauribar. Mais on s’étonnera moins du désastre financier de l’Italie, engagée dans
+            cette misérable entreprise, en lisant ces quelques lignes relatives à l’expédition du
+            Tigré et à la marche sur Adoua :</p>
+          <quote>
+            <p>« La Colonie n’offrant absolument aucune ressource, tout, entièrement tout, devait
+              être emporté d’Italie, jusqu’à l’eau potable, qui était expédiée de Naples dans des
+              foudres de fer blanc faits exprès ; plusieurs navires étaient spécialement affectés à
+              ce service ; les expéditions d’eau avaient lieu tous les jours. L’eau à Massaouah est
+              peu abondante et mauvaise ; les troupes dirigées vers les hauts-plateaux avaient à
+              parcourir des régions complètement arides ; il fallait donc transporter des provisions
+              d’eau aussi bien que de vivres : tout cela se faisait à dos de mulet ; mais si on
+              réfléchit à ce que représente de besoins un simple corps de 10.000 hommes, par
+              exemple, en vivres, eau, vêtements, armes, munitions, nourriture et abreuvage des
+              quadrupèdes, tout cela transporté à des distances immenses, par des chemins offrant
+              des difficultés inouïes, on en demeure effaré. Quant aux prix de revient, ils
+              atteignaient des proportions fantastiques ; chaque balle de foin rendue à destination
+              des hauts-plateaux, achat, embarquement, transport, coûtait au gouvernement la somme
+              de 80 francs !… »</p>
+          </quote>
+        </div>
+      </div>
+      <div>
+        <head>Tome XXVIII, numéro 107, novembre 1898</head>
+        <div>
+          <head>Ésotérisme et spiritisme. <lb/><hi rend="i">Vade-Mecum de
+            l’Électro-homœopathie</hi>, par le Comte César Mattei, 1 vol. in-18 br, Bologne</head>
+          <index>
+            <term type="id">article-1898-11_478</term>
+            <term type="author">Brieu, Jacques</term>
+            <term type="signed">Jacques Brieu</term>
+            <term type="section">Ésotérisme et spiritisme</term>
+            <term type="title"><hi rend="i">Vade-Mecum de l’Électro-homœopathie</hi>, par le Comte
+              César Mattei, 1 vol. in-18 br, Bologne</term>
+            <term type="date">1898-11</term>
+            <term type="ref">Tome XXVIII, numéro 107, novembre 1898, p. 475-478 [478]</term>
+          </index>
+          <byline><hi rend="sc">Jacques Brieu</hi>.</byline>
+          <bibl>Tome XXVIII, numéro 107, novembre 1898, p. 475-478 [478].</bibl>
+          <p>Le <hi rend="b">Vade-Mecum</hi> du Comte Mattei est un véritable guide pour se traiter
+            soi-même par l’Électro-homœopathie. C’est un catalogue des maladies, avec, pour chacune
+            d’elles, l’indication des remèdes à employer. Il est précédé d’un exposé succinct des
+            Principes fondamentaux de l’Électro-homœopathie et d’une étude sur la sphère d’action
+            des remèdes, les doses et modes d’administration et sur les électricités et leur mode
+            d’emploi.</p>
+          <p><hi rend="sc">Memento.</hi> — […] <hi rend="i">L’Ode</hi> Alchimique, traduit de
+            l’italien […].</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome XXVIII, numéro 108, décembre 1898</head>
+        <div>
+          <head>Art ancien. <lb/>Le Bernin à Paris</head>
+          <index>
+            <term type="id">article-1898-12_808</term>
+            <term type="author">Josz, Virgile (1859-1904)</term>
+            <term type="signed">Virgile Josz</term>
+            <term type="section">Art ancien</term>
+            <term type="title">Le Bernin à Paris</term>
+            <term type="date">1898-12</term>
+            <term type="ref">Tome XXVIII, numéro 108, décembre 1898, p. 808-814</term>
+          </index>
+          <byline><hi rend="sc">Virgile Josz</hi>.</byline>
+          <bibl>Tome XXVIII, numéro 108, décembre 1898, p. 808-814.</bibl>
+          <p>L’Italie va célébrer le tri-centenaire du Cavalier Bernin, de ce Giovanni Lorenzo
+            Bernini qui fit oublier aux Italiens du <num>xvii<hi rend="sup">e</hi></num> siècle non
+            seulement Michel-Ange, mais les géniaux bâtisseurs qui avaient peuplé de merveilles
+            Rome, Florence, Milan, toutes les villes de la péninsule, et qui n’était, au demeurant,
+            qu’un piètre artiste dont l’œuvre plein d’afféteries, de boursouflures, de recherches
+            fatigantes et vaines, restera comme la réalisation la plus haute du pompeux dans le
+            mauvais goût, de la hardiesse dans la puérilité. Au surplus Lorenzo Bernini, le
+            Cavalier, est jugé depuis longtemps et il ne reste que comme une figure amusante,
+            indispensable, essentielle à cette seconde moitié de siècle. Ce fléau passa en France et
+            faillit y causer de grands ravages ; seul de lui reste un buste, qui donna naissance aux
+            frisures <hi rend="i">à la bernitte</hi>, morceau qu’il faudrait rechercher pour
+            Versailles s’il n’y était, et je ne sais quelle « figure du Roy à cheval » autour de
+            laquelle il s’était excité, appliqué, comprenant qu’elle « immortaliserait son nom »,
+            qu’il sculpta à Rome, qu’on fit venir de là-bas au prix de mille peines et dont le
+            marbre se fendille maintenant dans un mélancolique bosquet, à l’extrémité de la pièce
+            d’eau des Suisses.</p>
+          <p>Il faillit toucher à notre Louvre, au vieux et admirable Louvre des Netezeau, des
+            Du Cerceau, des Fournier, de Jehan Coing, de Pierre Lescot, de Jean Goujon et du
+            Primatice, de tant d’autres bons et grands besoigneurs, italiens de la bonne veine,
+            français non encore appauvris, à la vision nette et au cerveau fort. François I<hi
+              rend="sup">er</hi> avait appelé Serlio et le Primatice, Louis XIV fit mander à Rome le
+            Cavalier pour achever l’œuvre<note place="bottom">(1) Le duc de Créquy écrit à Colbert,
+              de Rome, le 25 novembre 1664 <quote>« Le cavalier Bernin me vint voir hier, et me fit
+                connoistre que M. le card. Chigi luy avoit parlé, mais, de la manière dont il m’a
+                dit la chose, je juge que ce card. ne luy a pas tout-a-fait parlé comme vous le
+                souhaittiez. Je l’iray voir jeudy, et par tous les moyens que je pourray, je
+                tascheray de le porter à faire plusieurs dessins pour le bastimen du
+                Louvre. »</quote> Et Créquy ne se trompe pas sur le malencontreux qu’il y a à
+              demander cette grave chose au Bernin, car il ajoute deux lignes plus bas…
+                <quote>« Cependant, je vous diray qu’après avoir veu tout ce qu’il va de plus beaux
+                bastimens icy, j’ai observé qu’il y a certaines choses où l’architecture italienne
+                ne se peut jamais accomoder avec la nostre, car ils font icy touttes leurs cours
+                extrêmement estroittes et même les escaliers fort obscurs. »</quote></note>. Le roi
+            en était au goût du colossal, de l’emphatique et du redondant ; les combles en saillie,
+            les vieux toits aux pentes aimables et à l’ardoise grise, ces grands combles aux profils
+            élégants étaient déjà d’un autre âge. Ces choses émouvantes qui caractérisent la maison
+            ancestrale et que Du Bellay chante si joliment :</p>
+          <quote>
+            <l rend="i">Plus me plaist le séjour qu’ont basty mes ayeux</l>
+            <l rend="i">Que des palais romains le front audacieux,</l>
+            <l rend="i">Plus que le marbre dur me plaist l’ardoise fine.</l>
+          </quote>
+          <p>Ces choses étaient solennellement condamnées comme « contraires à la bienséance ». Il
+            faut donc l’homme dont Paul V avait dit qu’il serait le Michel-Ange du siècle et qui
+            venait d’achever le baldaquin de Saint-Pierre, la fontaine de la place Navone, la
+            Baroccia, le Triton, les clochers du Panthéon, la façade de Barberini, la sainte Thérèse
+            de Comaro, l’homme que quatre papes s’étaient légués, que s’étaient disputé Philippe IV,
+              Charles I<hi rend="sup">er</hi> et le duc de Modène, qui, au grand contentement de
+            tous épandait la faconde prétentieuse, précieuse et encombrante de son particulier
+            génie, qu’Alexandre VII, escorté de seize cardinaux, allait visiter alors qu’il tenait
+            le lit et qui écrivait les comédies pendant ses convalescences. Qu’étaient auprès de lui
+            le vieux François Mansart et Libéral Bruant ?…</p>
+          <p>Cet homme-là n’était pas facilement déplaçable. Aussi, l’amener ne fut rien moins
+            qu’une affaire d’État, et une grave.</p>
+          <ab type="ornament">§</ab>
+          <p>Colbert vient d’acheter la charge de Ratabon. Il écrit au Bernin pour lui transmettre
+            le désir du roi d’avoir un dessin pour l’achèvement du Louvre, ceux qu’il possède ne le
+            satisfaisant pas. Craignant même de ne pas réussir, le ministre écrit également à Pierre
+            de Cortone, qui n’arrive à rien, car <quote>« <hi rend="i">le pouer huomo stropiato
+                della gotta</hi> »</quote>, à Raynaldi et à Candiani, <quote>« <hi rend="i"
+                >gentilhuomo assai intendente d’Architletura et di un gusto
+              straordinario</hi> »</quote>. Après des négociations longues et difficiles, l’envoi
+            d’un premier projet non accepté et enfin l’élimination des trois autres concurrents, le
+            Cavalier, ayant reçu une lettre de la main même de Louis XIV, se décide à venir à Paris.
+            Et c’est ici que cela devient intéressant.</p>
+          <p>Le roi avait, parmi ses maîtres d’hôtel, un certain Paul Fréart de Chantelou,
+            gouverneur du château du Loir, grand ami de Nicolas Poussin, qui avait été plusieurs
+            fois à Rome et y avait inévitablement rencontré le Cavalier, au faîte de sa renommée. Le
+              1<hi rend="sup">er</hi> juin 1665, un laquais de Colbert va le chercher de la part du
+            roi, et lui dire, ainsi qu’il l’a écrit, que <quote>« le roi m’avait choisi pour aller
+              recevoir le cavalier Bernin, non pas en qualité de maître d’hôtel, mais comme envoyé
+              pour l’entretenir et l’accompagner pendant qu’il serait en France »</quote>. Il est
+            fort embarrassé à cause de l’ambassadeur extraordinaire de Malte, qui arrive le
+            lendemain, que le roi traite et qu’il est seul à Saint-Germain pour cet extraordinaire.
+            Ma foi, Somellini sera reçu au petit bonheur ; lui, prend le carrosse de M. Colbert et
+            s’en va sur le chemin d’Essonne. Villejuif, la Saussaye, le parc de Chevilly,
+            Belle-Épine, la Vieille Poste, sont autant de relais que l’on brûle impatiemment. À la
+            sortie de Juvisy, voilà sur la route un équipage de voyage ; il fait signe d’arrêter :
+            d’une litière, un homme est descendu, d’une taille médiocre, maigre, au visage rougeaud,
+              <quote>« le poil des sourcils fort long, le front grand, un peu cavé vers le milieu et
+              relevé doucement au-dessus des yeux. Il est chauve et les cheveux qui lui restent sont
+              crépés et très blancs… »</quote>. C’est lui. Chantelou se précipite pour le
+            complimenter en français : l’autre ne comprend pas, — il le complimente alors en
+            italien, ils s’embrassent et les voilà dans le même carrosse, cette fois, qui font route
+            de compagnie.</p>
+          <p>De quoi croyez-vous que ces deux gaillards causent, l’envoyé du roi, l’ami du Poussin,
+            l’homme de goût, et le « divin maître » qui vient de traverser les graves et belles
+            provinces de France, à la vie si intense, si particulière et si nouvelle pour lui ; de
+            quoi croyez-vous qu’ils causent à cette heure aimable de l’accueil, par ce beau jour de
+            juin, au milieu des campagnes merveilleuses qui ourlent la rivière ? De ce Paris qui
+            gronde là-bas ? De ces maisons royales qui l’entourent ?… Ah, oui ! Ils causent du
+              <quote>« beau de l’architecture, qui consiste dans la proportion qu’on peut dire que
+              c’est une partie divine, puisqu’elle tient du corps d’Adam, que la variété des ordres
+              de l’Architecture a procédé de la différence du corps de l’homme et de la
+              femme… »</quote>. C’est exquis.</p>
+          <p>Le Bernin avait fait, au reste, à travers la France un voyage extraordinaire. Il était
+            venu de Turin à la Verpillère <hi rend="i">en chaise à porteurs</hi> ; un carrosse à six
+            chevaux l’amena de Saint-Laurent à Guillottière, et il fait son entrée à Lyon, le
+            22 mai, où les échevins le reçoivent en corps et lui offrent le <quote>« vin de la
+              ville »</quote>. Toute la route <quote>« fut fraische »</quote>. Esbaupin écrit à
+            Colbert :</p>
+          <quote>
+            <p>« Dans toutte la route jusques icy, il ne s’est trouvé de la glace qu’à Essaunne,
+              Fontainebleau et à Chastillon, qui appartient à M. le Mareschal d’Albret… il serait à
+              propos de tirer un ordre de mondit Mareschal, addressant à son concierge, de ne faire
+              aucune difficulté de délivrer de la glace lorsqu’on lui en demandera pour le service
+              de monsieur le cavalier Bernini, de laquelle on se servira pour ledit Montargis, me
+              faisant fort que la bonne quantité que je feray voitturer d’icy à Rouanne, pour mettre
+              dans le batteau, nous conduira jusqu’à Briare ; et ainsy toutte notre routte sera
+              fraische. »</p>
+          </quote>
+          <ab type="ornament">§</ab>
+          <p>Le lendemain de son arrivée, Colbert se présente chez lui, ne souffre pas qu’il se lève
+            et lui parle au lit ; le jour de la Fête-Dieu il voit le roi à Saint-Germain, à qui il
+            dit : <quote>« J’ai vu, sire, les palais des empereurs et des papes, ceux des princes
+              souverains qui se sont trouvés sur la route de Rome à Paris ; mais, il faut faire pour
+              un roi de France, un roi d’aujourd’hui, de plus grandes et magnifiques choses que tout
+              cela. »</quote> Puis il ajoute, en se tournant vers ceux qui faisaient cercle :
+              <quote>« Qu’on ne me parle pas de rien qui soit petit ! »</quote> Mais Louis XIV a
+            peur de ce démolisseur, il tient à conserver ce qu’ont fait ses prédécesseurs, il a à
+            cela quelque affection, et, assez inquiet, il le prie de faire grand <quote>« sans
+              abattre leur ouvrage »</quote>. Le Cavalier s’en retourne ravi de l’accueil et, en
+            plus, avec la permission de faire le fameux buste.</p>
+          <p>Puis, il visite Paris. Oh, peu de choses l’intéressent. Naturellement il s’extasie sur
+            la fresque Mignard au Val-de-Grâce, et dit des Tuileries. <quote>« Voilà une belle <hi
+                rend="i">petite</hi> chose. »</quote> Et pourtant il y a là, dans la Cité,
+            Notre-Dame, la Sainte-Chapelle, l’hôtel de Bretonvilliers et celui des Ursins, le Grand
+            Châtelet, Saint-Germain-d’Auxerre, combien de <quote>« bastimens curieux »</quote> du
+            Luxembourg à l’Hôtel Saint-Paul, de l’Hôtel de Luynes au Palais-Royal…</p>
+          <p>Le voilà au travail, décidé à frapper un grand coup. La cour du Louvre doit prendre la
+            forme d’une croix grecque ; ce que Lescot et Ponce ont édifié disparaît presque en
+            entier. L’aménagement intérieur du nouveau palais ne l’inquiète pas : c’est affaire
+              <quote>« au grand mareschal des logis »</quote>. Mais, la façade qu’il rêve s’élèvera,
+            l’effroyable et lourde façade d’une platitude et d’un manque de jet qui rappellent les
+            plus mauvaises constructions de la fin du Consulat et du commencement du Premier Empire,
+            ces maladroites, plates et gauches contrefaçons devant lesquelles se meuvent si
+            gentiment les incroyables de Carle Vernet : qu’on regarde avec attention les dessins qui
+            en sont restés, le médaillon d’or du Cabinet des Antiques. Et la <quote>« fasçade du
+              costé de l’eau »</quote> est toujours aussi plate, avec le même fenestrage stupide et
+            noir à force d’ouvertures, aux mezzanines trop hautes, aux antiques déclamatoires et
+            uniformes qui somment les balustres du faîtage. C’est aussi sot que la <quote>« chapelle
+              royalle en pyramide »</quote> que, l’an d’après, F. Dubois proposait d’élever au
+            milieu du Louvre.</p>
+          <p>Tout à ses importants travaux, il sort peu, mais il reçoit beaucoup. Après
+            M. de Benserade, menant Mme de Villars, jusqu’à Corneille, au Nonce et à
+            Mlle de Saint-Christophe qui vient lui chanter des airs français ; parfois le Cavalier
+            récite plusieurs endroits de ses comédies, et fort plaisamment, paraît-il. L’Académie
+            vient le voir, en corps. Et Chantelou écrit :</p>
+          <quote>
+            <p>« … Puis, ces messieurs s’en sont allés, le Cavalier les laissant au lieu où il était
+              allé les recevoir…. Quelques personnes ont dit que l’Académie s’etoit plainte de ce
+              qu’il ne l’avoit pas reconduite ; mais, il a traitée comme il fait des plus grands
+              seigneurs, et comme il a traité M. Colbert même. »</p>
+          </quote>
+          <p>Cependant son projet est prêt, et on va poser la première pierre que le roi scellera.
+            Auparavant, il gratte du canif dans les joints de Notre-Dame pour analyser le mortier,
+            qu’il trouve mauvais, et, comme il se défie des maçons parisiens, il fait venir
+            d’Italie, en grande hâte, des <hi rend="i">muratori</hi>. L’idée n’était pas heureuse.
+            Voici ce que rapporte Perrault dans ses Mémoires.</p>
+          <quote>
+            <p>« Les murateurs bâtirent à leur manière, deux murs de 5 à 6 pieds de haut, sur
+              lesquels ils firent une voûte de la même construction que les murs, c’est-à-dire des
+              moëllons posés à l’aventure. Nos entrepreneurs élevèrent des murs de la même hauteur
+              et construisirent au-dessus une voûte de la même forme et figure que celle des
+              Italiens avec les mêmes matériaux, mais employés à la manière qu’on le pratique en
+              France. L’hiver ayant passé sur ces deux édifices, la voûte italienne tomba
+              d’elle-même au premier dégel, et la française demeura ferme et se trouva plus forte
+              qu’elle n’était quand ils l’achevèrent. Les murateurs furent fort étonnés et ils s’en
+              prirent à la gelée, qui avait tout gâté, comme si c’était une chose fort
+              extraordinaire qu’il gelât en hyver. »</p>
+          </quote>
+          <p>Enfin, le 17 octobre, le roi descend dans les fondations creusées au Louvre ; le
+            Cavalier lui présente la truelle et le bassin d’argent où est le mortier, le roi scelle
+            la pierre qui recouvre la médaille de Varin et s’en va. Mais ici, il faut encore lire
+            Chantelou :</p>
+          <quote>
+            <p>« La cérémonie finie, le roi s’en est allé. Le Cavalier et le signor Mathie qui a
+              toujours été auprès de lui durant qu’elle a duré, s’en sont allés au carrosse avec
+              l’abbé Butti. Cependant il s’est élevé une contestation pour tous ces outilz. Pietro,
+              qui est au signor Mathie, les voulait avoir, tenant la truelle et tiraillant pour
+              avoir le marteau des mains de Villedot ; Bergeron voulait lui ôter cette truelle,
+              l’estafier du Cavalier l’en empêchait. Il est survenu force gens pour les
+              entrepreneurs. J’ai dit aux uns et aux autres que M. Colbert réglerait cela ; qu’ils
+              laissassent ces outilz aux mains du Cavalier, ce qu’ils refusoient de faire. Alors, je
+              leur ai dit de me les bailler à moi, comme en dépôt, en attendant que M. Colbert en
+              eut décidé. J’ai donc apporté ses outilz dans le carrosse du Cavalier. Après cette
+              contestation, il y en eut d’autres, car le roi ayant fait largesse, de cent pistoles,
+              en pièces de 50 s., de 15 s., et de 5 s., qui ont été jetées dans la fondation, ç’a
+              été une meslée furieuse de manœuvres, de travailleurs et mesme de soldats pour
+              ramasser cet argent. »</p>
+          </quote>
+          <p>Comment les Perrault, Le Vau, Le Brun s’assemblèrent pour hâter le départ du Bernin et
+            empêcher que son œuvre prît corps, cela est fort intéressant, mais dépasserait le cadre
+            de cet article. Quoi qu’il en fût c’est Perrault, <hi rend="i">lui-même</hi>, qui porta
+            au Cavalier, la veille de son départ, les trois mille louis d’or, en trois sacs, que
+            Louis XIV envoyait à l’architecte, cela en plus de la pension de 12.000 livres par an et
+            du brevet de 1.200 livres pour son fils.</p>
+          <p>De retour à Rome, il déclarait à Beneditti qu’il avait reçu plus en six mois du roi
+            qu’en vingt ans des papes : ce qui ne l’avait pas empêché de reprendre à ses gens les
+            gratifications royales, et de donner libéralement <hi rend="i">trente sous</hi> à la
+            vieille servante du Palais Mazarin pour la remercier de ses soins, et de ramasser
+            soigneusement la pièce que celle-ci, furieuse, lui avait jetée au nez.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

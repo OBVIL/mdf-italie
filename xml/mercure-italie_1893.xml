@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2018-12-18T10:40:13+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Articles du <hi rend="i">Mercure de France</hi>, année 1893</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Marguerite Bordry </name>
+          <resp>Relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Éric Thiébaud </name>
+          <resp>OCR, Stylage sémantique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Sorbonne Université, Labex OBVIL</publisher>
+        <date when="2018"/>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1893.xml</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1893.html</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1893.epub</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1893.txt</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : 	« Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1893"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Tome VII, numéro 37, janvier 1893</head>
+        <div>
+          <head>Journaux et revues [extrait]</head>
+          <index>
+            <term type="id">article-1893-01_088a</term>
+            <term type="author">Vallette, Alfred (1858-1935)</term>
+            <term type="signed">A. V.</term>
+            <term type="section">Journaux et revues</term>
+            <term type="title">Journaux et revues [extrait]</term>
+            <term type="date">1893-01</term>
+            <term type="ref">Tome VII, numéro 37, janvier 1893, p. 87-91 [88]</term>
+          </index>
+          <byline>A. V. [Alfred Vallette]</byline>
+          <bibl>Tome VII, numéro 37, janvier 1893, p. 87-91 [88].</bibl>
+          <p>Sous le titre de <hi rend="i">Piccoli aforismi</hi> M. Francesco Accinelli traduit en italien les <hi rend="i">Petits aphorismes</hi> de Louis Dumur. La <hi rend="b">Scuola Italiana</hi> de Gênes et le <hi rend="b">Corriere delle Puglie</hi> de Bari en ont publié déjà des fragments. Dans la <hi rend="i">Scuola Italiana</hi>, nous trouvons également le sonnet de Guido Mazzoni : <hi rend="i">Sul Laghetto di Arqua</hi>, dont le <hi rend="i">Mercure de France</hi> a eu l’an dernier la primeur.</p>
+        </div>
+        <div>
+          <head>Journaux et revues [extrait]</head>
+          <index>
+            <term type="id">article-1893-01_088b</term>
+            <term type="author">Zanoni, Alberto</term>
+            <term type="author">A. Z. [A. Zanoni]</term>
+            <term type="section">Journaux et revues</term>
+            <term type="title">Journaux et revues [extrait]</term>
+            <term type="date">1893-01</term>
+            <term type="ref">Tome VII, numéro 37, janvier 1893, p. 87-91 [88]</term>
+          </index>
+          <byline>A. Z. [A. Zanoni]</byline>
+          <bibl>Tome VII, numéro 37, janvier 1893, p. 87-91 [88].</bibl>
+          <p>La <hi rend="b">Scena Illustrata</hi>, de Florence, est une revue illustrée, d’un confortable luxe, qui se voue exclusivement, en principe, à l’art dramatique, — et cela depuis quelque trente ans. Comme le théâtre italien existe à peu près autant — et même moins — que le théâtre fuégien ou congolais, la <hi rend="i">Scena Illustrata</hi> publie des études sur le théâtre chez les anciens et les étrangers, des variétés, des pages de littérature, enfin de fort belles gravures sur bois.</p>
+        </div>
+        <div>
+          <head>Échos divers et communications [extrait]</head>
+          <index>
+            <term type="id">article-1893-01_095</term>
+            <term type="author">S., E.</term>
+            <term type="signed">E. S.</term>
+            <term type="section">Échos divers et communications</term>
+            <term type="title">Échos divers et communications [extrait]</term>
+            <term type="date">1893-01</term>
+            <term type="ref">Tome VII, numéro 37, janvier 1893, p. 93-96 [95]</term>
+          </index>
+          <byline>E. S.</byline>
+          <bibl>Tome VII, numéro 37, janvier 1893, p. 93-96 [95].</bibl>
+          <p>[…]</p>
+          <p>M. Ugo Valcarenghi, qui dirigea feu la <hi rend="i">Cronaca d’Arte</hi>, a fait à Milan, le 10 décembre dernier, une conférence ainsi annoncée : <hi rend="i">I veri decadenti del arte</hi>. M. Valcarenghi est un romancier de valeur et fort apprécié en Italie ; il a sur l’art des idées personnelles : mais il s en est trop peu souvenu dans sa conférence, à laquelle nous assistions, et il nous semble qu’il est passé à côté de son sujet.</p>
+          <p>[…]</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome VII, numéro 40, avril 1893</head>
+        <div>
+          <head>Littérature italienne. 
+<lb/>Note sur Gabriele d’Annunzio</head>
+          <index>
+            <term type="id">article-1893-04_374</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Littérature italienne</term>
+            <term type="title">Note sur Gabriele d’Annunzio</term>
+            <term type="date">1893-04</term>
+            <term type="ref">Tome VII, numéro 40, avril 1893, p. 374-376</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont].</byline>
+          <bibl>Tome VII, numéro 40, avril 1893, p. 374-376.</bibl>
+          <p>En une étude sur M. d’Annunzio, premières pages de <hi rend="i">Libri e Teatro</hi>, M. Luigi Capuana notait, à propos de <hi rend="i">Il Piacere</hi> : <quote>« Le prosateur, dans ce nouveau volume, est tout à fait dominé par le poète ; l’observateur y subit tout le temps la mainmise du coloriste et du styliste ; la vision nette et sincère de la réalité y est voilée par une importune nuée de lyrisme quiimpatiente et fatigue. »</quote> M. d’Annunzio est donc un écrivain lyrique et d’un lyrisme assez sensible, puisque M. Capuana, qui n’est pas hostile aux poètes, bien que romancier vériste ou naturaliste (c’est tout un), en a été choqué, — mais, voyez quel mauvais goût j’avoue et quelle âme malsaine, c’est précisément ce lyrisme un peu brumeux que j’aime en M. d’Annunzio. Le roman ne relève pas d’une autre esthétique que le poème ; le roman originel fut en vers : c’est l’Odyssée, roman d’aventures, c’est l’Énéide, roman de chevalerie ; les premiers romans français étaient, nul ne l’ignore, des poèmes, et ce n’est qu’assez tard qu’on les transposa en prose pour les accommoder à la paresse et à l’ignorance croissantes de lecteurs plus nombreux. De cette origine le roman garde la possibilité d’une certaine noblesse, et tout véritable écrivain, s’il s’en mêle, la lui rendra : à qui voudrait-on faire croire que <hi rend="i">Don Quichotte</hi> n’est pas un poème, que <hi rend="i">Pantagruel</hi> n’est pas un poème, que <hi rend="i">Stello</hi> n’est pas un poème, que <hi rend="i">Salammbô</hi> n’est pas un poème ? Le roman est un poème ; tout roman qui n’est pas un poème n’existe pas. Naïvement, intuitivement, les anciens rédacteurs du catalogue de la Bibliothèque royale avaient affirmé ces deux aphorismes en classant sous la même rubrique, sous la même lettre, les poèmes et les romans ; ils distinguèrent seulement la prose du vers par l’apposition au primordial Y d’un modeste exposant <hi rend="b">Y<hi rend="sup">2</hi></hi>. La leçon est claire ; qu’elle soit profitable, — et qu’on renonce à une distinction scandaleuse dont se prévalent un tas d’acéphales pour nous pousser sous les yeux leurs <hi rend="i">études</hi>, fruits d’une affligeante <hi rend="i">documentomanie</hi>.</p>
+          <p>Mais tout s’épuise : après les Halles, voici l’Église : après le bordel, le confessionnal ; des romanciers dont le naturalisme se patine d’hystérie et se verdegrise d’une couche élémentaire de mysticisme commercial (S’emploie à froid. — Exiger la signature et la bande intacte), donc — des romanciers vont nous initier, au moyen d’une intrigue facile à suivre, aux joies du catéchisme de persévérance, au mécanisme des pèlerinages nationaux, à la fabrication des cierges, et sans doute aux mystères parturiaux de la mule du pape, laquelle « porte » treize mois, ainsi qu’on me l’apprit dans mon enfance. J’attends ensuite le roman sur la hiérarchie céleste, fortement documenté par la lecture assidue des dictionnaires afférents de l’excellent abbé Migne (où M. Zola, avec peu de bonheur, s’instruisit et s’édifia pour son <hi rend="i">Rêve</hi>).</p>
+          <p>Là, que cela soit fini et que, l’ère du roman instructif étant close pour quelques lustres, on nous permette de nous amuser à des poèmes.</p>
+          <p>L’<hi rend="i">Innocente</hi><note place="bottom">L’<hi rend="i">Innocente</hi>, par <hi rend="sc">Gabriele d’Annunzio</hi>, con disegno di <hi rend="sc">G. A. Sartorio</hi> (Naples, Ferdinando Bideri).</note> de M. d’Annunzio, du moins, est une tentative de poème, où la vie nous apparaît doucement ou douloureusement lyrique, synthétisée par un épisode caractéristique. Un homme, fort coupable, lui aussi, envers sa femme, pardonne à la créature qui l’a trompé, mais ne peut pardonner à l’Innocent dont elle est la frauduleuse mère, — et, avec l’angoisse de commettre un crime, avec la joie de supprimer la tache et l’obstacle, il tue l’Innocent. Si le récit de si peu d’événements emplit près de quatre cents pages, c’est que l’auteur avait à dire, en même temps, tout ce que lui suggérait d’idées adventices cette brève tragédie. Le choix, sans doute, entre ces suggestions aurait pu être plus strict ; bien des détails auraient pu être indiqués seulement : le livre pêche par abondance, mais ce défaut semble voulu, l’auteur ayant prouvé maintes fois qu’il sait se restreindre et se délimiter. Peut-être a-t-il été fâcheusement influencé par la fluidique faconde du Tolstoï de la dernière heure, de l’insupportable prédicant de la <hi rend="i">Sonate à Kreuzer</hi> ; cette influence, du moins, ne s’est pas étendue au style, qui ne manque ni d’art ni de charme dans sa simplicité un peu rigoureuse.</p>
+          <p>En même temps que ce volume qui sort des limbes le roman néo-italien, M. d’Annunzio nous a fait parvenir ses agréables <hi rend="i">Élégies romaines</hi><note place="bottom"><hi rend="i">Elegie romane</hi>, 1887-1891 (Bologne, Zanichelli).</note>, œuvre d’un poète sûr et précieux. J’en traduis ceci : <hi rend="i">Midi</hi> :</p>
+          <quote>
+            <l>« C’était un silence affreux et lugubre ; le plus morne qui sur la terre</l>
+            <l>Fut jamais. Les tombes toutes semblaient ouvertes,</l>
+            <l>Sous ce ciel. Rien ne vivait. Nulle apparence</l>
+            <l>Terrestre n’était, en cette lumière infiniment égale.</l>
+            <l>Parmi son vaste cloître d’arbres le lac rayonnait,</l>
+            <l>Sacré, attendant la victime promise.</l>
+            <l>Soleil, tu étais vraiment au centre du ciel, quand</l>
+            <l>Je te la promis ! Tout était silence. »</l>
+          </quote>
+          <p>Voici, par une note trop courte, M. d’Annunzio pour la première fois annoncé en France. Je me figure qu’on reparlera de lui, un jour ou l’autre, et même souvent.</p>
+        </div>
+        <div>
+          <head>Journaux et revues [extrait]</head>
+          <index>
+            <term type="id">article-1893-04_382</term>
+            <term type="author">Zanoni, Alberto</term>
+            <term type="author">A. Z. [A. Zanoni]</term>
+            <term type="section">Journaux et revues</term>
+            <term type="title">Journaux et revues [extrait]</term>
+            <term type="date">1893-04</term>
+            <term type="ref">Tome VII, numéro 40, avril 1893, p. 381-382 [382]</term>
+          </index>
+          <byline>A. Z. [A. Zanoni]</byline>
+          <bibl>Tome VII, numéro 40, avril 1893, p. 381-382 [382].</bibl>
+          <p>[…]</p>
+          <p>La <hi rend="b">Gazzetta Letteraria</hi> a publié récemment une fort bonne étude, avec documents nouveaux, de Rodolfo Renier sur <hi rend="i">Salvatore Rosa</hi>.</p>
+          <p>Le numéro de la <hi rend="b">Vita Moderna</hi> du 12 février, doublé pour la circonstance, est entièrement consacré à Verdi : études sur le musicien, sur l’homme, autographes inédits, portraits caricatures ; puis des articles tels que le <hi rend="i">Type shakespearien de Fastaff</hi>, par Domenico Oliva, <hi rend="i">Verdi et Wagner</hi> ; <hi rend="i">une soirée à Dresde</hi>, par Ryno Le Clerc, etc.</p>
+          <p>La <hi rend="b">Critica sociale</hi> vient de clore par un quatrième article ses études sur <hi rend="b"><hi rend="i">La lutte des classes en Angleterre</hi></hi>.</p>
+          <p>Nous avons reçu <hi rend="b">Cuore ed Arte</hi>, de Gênes ; la <hi rend="b">Tavola Rotonda</hi>, de Naples ; <hi rend="b">Cronaca Nova</hi>, nouvelle revue sicilienne.</p>
+          <p>[…]</p>
+        </div>
+        <div>
+          <head>Choses d’art [extrait]</head>
+          <index>
+            <term type="id">article-1893-04_383</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Choses d’art</term>
+            <term type="title">Choses d’art [extrait]</term>
+            <term type="date">1893-04</term>
+            <term type="ref">Tome VII, numéro 40, avril 1893, p. 382-384 [383]</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont].</byline>
+          <bibl>Tome VII, numéro 40, avril 1893, p. 382-384 [383].</bibl>
+          <p>[…]</p>
+          <p>Au <hi rend="b">Louvre</hi> : nouvelle acquisition : une peinture, école italienne du <num>xv<hi rend="sup">e</hi></num> siècle, portrait de jeune femme attribué à Vittore Pisano, peintre, sculpteur et médailleur. Les œuvres de cet artiste sont fort rares : le Louvre ne possédait de lui que quelques dessins. Ce portrait semble représenter l’une des deux femmes de Lionel d’Este, duc de Ferrare, une pâle tête aux cheveux blonds relevés qui se profile sur un fond de ciel et de fleurs, œillets et ancolies ; tout autour, des vols de papillons.</p>
+          <p>[…]</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome VIII, numéro 41, mai 1893</head>
+        <div>
+          <head>Les Livres. 
+<lb/><hi rend="i">Distruzione ed altri Racconti</hi>, par Ugo Valcarenghi (Milan, libreria editrice Galli)</head>
+          <index>
+            <term type="id">article-1893-05_082</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Les Livres</term>
+            <term type="title"><hi rend="i">Distruzione ed altri Racconti</hi>, par Ugo Valcarenghi (Milan, libreria editrice Galli)</term>
+            <term type="date">1893-05</term>
+            <term type="ref">Tome VIII, numéro 41, mai 1893, p. 80-88 [82]</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont].</byline>
+          <bibl>Tome VIII, numéro 40, mai 1893, p. 80-88 [82].</bibl>
+          <p>Le récit qui donne son titre au volume est un agréable petit roman d’un naturalisme assez discret, avec assez de psychologie pour qu’on puisse le tenir pour une œuvre distinguée. Le style est bien un peu lâché, ou, du moins, la phrase est trop uniforme et trop calquée sur la phrase française — la phrase courante et type des Bourget et des Maupassant — mais enfin ce petit roman peut se lire. Il avait été remarqué, déjà, dans la <hi rend="i">Cronaca d’Arte</hi>, que l’auteur dirigeait alors avec soin et qui a malheureusement disparu.</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome IX, numéro 48, décembre 1893</head>
+        <div>
+          <head>Les Livres. 
+<lb/><hi rend="i">Atlantide</hi>, Poema di Mario Rapisardi (Catane, Niccolo Giannotta)</head>
+          <index>
+            <term type="id">article-1893-12_364</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. de Gourmont</term>
+            <term type="section">Les Livres</term>
+            <term type="title"><hi rend="i">Atlantide</hi>, Poema di Mario Rapisardi (Catane, Niccolo Giannotta)</term>
+            <term type="date">1893-12</term>
+            <term type="ref">Tome IX, numéro 48, décembre 1893, p. 360-368 [364]</term>
+          </index>
+          <byline><hi rend="sc">R. de Gourmont</hi>.</byline>
+          <bibl>Tome IX, numéro 48, décembre 1893, p. 360-368 [364].</bibl>
+          <p>M. Rapisardi est un poète malheureux et qui vient d’aggraver son infortune. Jadis Carducci, qui voyait en lui un rival, lui fit une guerre cruelle, et voilà qu’après, des poèmes tels que <hi rend="i">Giobbe</hi> et <hi rend="i">Lucifero</hi> (admirés de certains), il justifie par cette <hi rend="i">Atlantide</hi> l’attitude de ses ennemis. Ce poème devait être, selon l’auteur lui-même, une « satire lyrique » des mœurs contemporaines ; un tel genre de poème n’est pas inconnu dans la littérature italienne, et Dante en donna un exemplaire qui passe pour estimable. M. Rapisardi l’a pris sur un ton moins élevé, se bornant à rimer, trop richement, de lourdes railleries contre les carducciens, contre les femmes de lettres, etc., le tout orné d’invocations à Darwin, à la Justice, à la Loi, au Soleil, à Trieste, etc.</p>
+          <p rend="sc">R. de Gourmont.</p>
+        </div>
+        <div>
+          <head>Journaux et revues [extrait]</head>
+          <index>
+            <term type="id">article-1893-12_368</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">Remy de Gourmont</term>
+            <term type="section">Journaux et revues [extrait]</term>
+            <term type="title">Journaux et revues [extrait]</term>
+            <term type="date">1893-12</term>
+            <term type="ref">Tome IX, numéro 48, décembre 1893, p. 368-370 [368-369]</term>
+          </index>
+          <byline><hi rend="sc">Remy de Gourmont</hi>.</byline>
+          <bibl>Tome IX, numéro 48, décembre 1893, p. 368-370 [368-369].</bibl>
+          <p>[…]</p>
+          <p>Dans la <hi rend="b">Gazetta Letteraria</hi>, on lira volontiers les <hi rend="i">Souvenirs d’enfance et de jeunesse</hi> de Luigi Capuana.</p>
+          <p>La <hi rend="b">Vita Moderna</hi> nous apprend, que M. Riccardo Sonzogno vient de traduire, pour la première fois, les <hi rend="i">Fleurs du mal</hi>. On ne connaissait encore, en italien, que les <hi rend="i">Poèmes en prose</hi> que Ragusa Moleti avait traduits, puis imités.</p>
+          <p>Il ne faudrait pas croire que les poètes italiens aient attendu le bon vouloir de Sonzogno pour lire et même pour démarquer les vers de Baudelaire. Tandis que certains, comme Gabriele d’Annunzio, sans imiter Baudelaire, l’étudiaient et s’imprégnaient de son esprit, de plus hardis le pillaient tout bonnement, tels Emilio Praga, Olindo Guerrini, Stecchetti, ces deux derniers, il est vrai, de seconde, et même de troisième main. On ne peut pas dire, cependant, que l’influence de Baudelaire ait été bien appréciable en Italie, car, mis à part un Carducci ou un d’Annunzio, les baudelairiens italiens furent, sont et probablement seront d’une grande médiocrité.</p>
+          <p>La même revue a publié un article à signaler pour son incohérence. C’est intitulé : <hi rend="i">La Poésie française contemporaine. Les Symbolistes dans leurs œuvres</hi>. On y nomme pêle-mêle, parmi les symbolistes, Haraucourt et Henri de Régnier, René Ghil et Rimbaud ; on y lit : <quote>« Haraucourt et Rimbaud sont plus délicats, plus poètes… »</quote> ; on y apprend que M. de Régnier <quote>« pourrait bien être le continuateur de Laforgue »</quote>. L’auteur de cette timbale milanaise trouve que le mouvement poétique actuel en France est <quote>« bien complexe »</quote> : c’est sans doute une façon de s’excuser de n’y avoir rien compris.</p>
+          <p>L’Italie semble en être arrivée à ce degré de décadence littéraire et même intellectuelle où un peuple, ne produisant plus rien, est devenu par surcroît incapable de comprendre les productions des autres peuples ; à l’incapacité se joint la paresse. Et quel style ! un perpétuel décalque du français : on pourrait traduire en français l’italien moderne mot pour mot et « mot sous mot », on obtiendrait toujours une phrase française, mais une phrase courante, une phrase banale.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

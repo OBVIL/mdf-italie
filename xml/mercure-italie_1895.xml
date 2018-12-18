@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2018-12-18T10:40:25+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Articles du <hi rend="i">Mercure de France</hi>, année 1895</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Marguerite Bordry </name>
+          <resp>Relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Éric Thiébaud </name>
+          <resp>OCR, Stylage sémantique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Sorbonne Université, Labex OBVIL</publisher>
+        <date when="2018"/>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1895.xml</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1895.html</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1895.epub</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1895.txt</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’OBVIL, selon les termes de la licence Creative Commons :
+              « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
+              (CCBY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+              Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+              électronique, notamment en intégrant toutes les contributions extérieures, la
+              diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1895"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Tome XIII, numéro 62, février 1895</head>
+        <div>
+          <head>Essais de littérature italienne. <lb/>Giosuè Carducci</head>
+          <index>
+            <term type="id">article-1895-02_143</term>
+            <term type="author">Ferrero, Augusto (1866-1924)</term>
+            <term type="signed">Augusto Ferrero</term>
+            <term type="section">none</term>
+            <term type="title">Essais de littérature italienne. Giosuè Carducci</term>
+            <term type="date">1895-02</term>
+            <term type="ref">Tome XIII, numéro 62, février 1895, p. 143-151</term>
+          </index>
+          <byline><hi rend="sc">Augusto Ferrero</hi>.</byline>
+          <bibl>Tome XIII, numéro 62, février 1895, p. 143-151.</bibl>
+          <p>Le neuvième volume des <hi rend="i">Œuvres de Giosuè Carducci</hi> a dernièrement paru
+            à Bologne. L’illustre poète y a recueilli, dans un ordre nouveau, les <hi rend="i"
+              >Giambi ed Epodi</hi> et les <hi rend="i">Rime nuove</hi>, c’est-à-dire des poèmes
+            publiés durant une période de vingt-cinq ans. Vers les cinquante ou soixante ans,
+            l’homme se plaît à regarder les jours déjà écoulés de sa vie. On rassemble les feuilles
+            éparses, et l’on dresse, presque, l’inventaire de son activité, pour en laisser après
+            soi le témoignage authentique.</p>
+          <p>C’est donc en ces volumes qu’il est bon de rechercher la physionomie du poète, telle
+            qu’elle s’y dessine, dans des traits qui, vraisemblablement, n’auront pas à se modifier
+            plus tard.</p>
+          <p>Giosuè Carducci est le seul des poètes contemporains de l’Italie dont la renommée et
+            l’œuvre aient dépassé les frontières de son pays natal, en provoquantes louanges autant
+            que les critiques, en conviant des talents d’élite à une tâche de traduction souvent
+            malaisée ; en s’imposant, en somme, à l’attention et au respect, sinon toujours à
+            l’admiration des lettrés de l’étranger.</p>
+          <p>Le bruit que l’on fait à cette heure, en France surtout, autour de l’œuvre de Gabriele
+            d’Annunzio, ne peut nullement être comparé à l’accueil que reçurent, hors de l’Italie,
+            les poèmes de G. Carducci. Les revues et les feuilles quotidiennes n’ont fait connaître
+            de G. d’Annunzio, en général, que les romans. Sa poésie, dont le caractère saillant
+            réside plus dans la forme que dans le fond, n’a pas encore eu un réel retentissement
+            international, auquel, d’ailleurs, elle n’aurait que des titres limités…</p>
+          <ab type="ornament">§</ab>
+          <p>Giosuè Carducci est le poète national de l’Italie moderne. Il a été vraiment le produit
+            de son époque, dont il refléta tout le mouvement moral et politique. Le lettré studieux,
+            tout épris de la grandeur de l’ancien Latium, l’érudit qui s’était assimilé les façons
+            naïves, gracieuses et énergiques de nos poètes primitifs du treizième et du quatorzième
+            siècles, dès les origines jusqu’au <hi rend="i">dolce stil novo</hi>, et après jusqu’à
+            la fraîcheur polizianesque de la Renaissance, devait se servir de la forme empruntée à
+            l’ancien classicisme pour interpréter dans ses vers tous les besoins, les aspirations,
+            les revendications, les douleurs, les espoirs de son temps. L’impatience frémissante qui
+            naît d’une longue attente, le tressaillement qui salue l’heure convoitée, la révolte
+            fière et indomptable, les menaces aux hésitants, aux timides, aux tardifs, se mêlent,
+            dans cette poésie fiévreuse et emportée, à l’amertume qu’inspire la réalité si
+            différente du rêve.</p>
+          <p>À l’Italie moderne, un tel poète ne pouvait manquer. Il fut la voix grandiose et
+            vibrante de l’âme nationale. Et c’est bien l’âme de la nation qui passe dans ses
+            strophes : dans la vie qu’elle vécut à travers le passé, autant que dans la vie qu’elle
+            traverse aujourd’hui. Car à côté de l’intelligence sagace du temps moderne, il y a dans
+            Carducci une intuition merveilleuse et exacte des âges antérieurs. Il est le poète de
+            l’Italie, dans toute l’extension de sa géographie et de son histoire : et la géographie
+            et l’histoire nationales chantent dans ses vers avec une magnifique ampleur que l’on ne
+            connaissait guère plus depuis le Dante.</p>
+          <p>C’est bien ici, je crois, le caractère saillant de son œuvre. Carducci n’appartient pas
+            aux poètes universels, tels que, dans ce siècle, notre Leopardi, et, encore, Byron,
+            Goethe, de Musset, Lamartine. Une partie de son œuvre a, psychologiquement, une portée
+            générale ; mais les poèmes qui ont le plus de relief, et qui trouvèrent le plus d’écho,
+            sont bien des poèmes profondément, foncièrement italiens : de l’Italie romaine, de
+            l’Italie du Moyen Âge, ou de l’Italie moderne, mais toujours italiens.</p>
+          <p>Carducci lui-même le reconnaît. Il rappelle sa jeunesse lorsqu’il s’éloigna du charme
+            des vierges dansantes au soleil du printemps, lorsqu’il ouvrit son âme aux ardeurs
+            sévères de la liberté et de la Justice : <quote>« Et je croyais naître au nouvel âge,
+              poète de l’Italie, dont les strophes vibrent au ciel comme des épées rugissantes et
+              dont le chant, aile d’incendie, dévore les forêts, et va »</quote> :</p>
+          <quote>
+            <l>E uscir credeami italico vate a la nuova etade,</l>
+            <l>Le cui strofe al ciel vibrano, come rugghianti spade,</l>
+            <l>E il canto, ala d’incendio, divora i boschi e va.</l>
+          </quote>
+          <p>Les poésies publiées par Carducci dans ces dernières années, <hi rend="i">Piemonte, La
+              Bicocca, Cadore</hi>, sont encore des poésies nationales. Le poète y retrouve souvent
+            la flamme qui brûlait dans les vers composés par lui entre 1859 et 1870, c’est-à-dire
+            dans la période héroïque du <hi rend="i">Risorgimento</hi>.</p>
+          <p>Il débutait, à cette époque, par une foi illimitée en la dynastie de Savoie et dans le
+            rôle fatidique qu’elle était appelée à jouer dans l’histoire de la nation. <quote>« Que
+              Dieu te sauve, ô cher signe, notre amour et notre joie ! Croix blanche de Savoie, que
+              Dieu te sauve, et qu’il sauve le roi ! »</quote></p>
+          <quote>
+            <l>Dio ti salvi, o cara insegna,</l>
+            <l>Nostro amore e nostra gioia !</l>
+            <l>Bianca Croce di Savoia,</l>
+            <l>Dio ti salvi, e salvi il re !</l>
+          </quote>
+          <p>Mais plus tard les opinions du poète changèrent. La promesse de Napoléon III, « <hi
+              rend="i">L’Italie libre des Alpes à l’Adriatique</hi> », n’avait pas été accomplie.
+            Venise languissait encore sous le joug de l’Autriche. Quand, en 1866, elle fut rendue au
+            royaume d’Italie, c’était Trente et Trieste qui attendaient le jour de la
+            délivrance.</p>
+          <p>De plus — et c’était un point cardinal des revendications italiennes — Rome demeurait
+            toujours au pape : Rome, la capitale sacrée de l’Italie ; Rome qui par son nom, ses
+            traditions, personnifiait depuis les temps les plus reculés la grandeur et l’esprit
+            historiques du pays. Le gouvernement italien, qui avait les mains liées par la
+            Convention de Septembre 1864, ne pouvait songer, pour le moment, à réaliser cet article
+            suprême du programme national. Ainsi il fallait tolérer les répressions d’Aspromonte et
+            celles de Mentana, et les actes de dureté, et même de cruauté, par lesquels se signalait
+            le pouvoir agonisant des papes.</p>
+          <p>Esprit éminemment patriotique, Carducci se révolta contre l’acquiescement des
+            gouvernants qui proclamaient la nécessité d’atteindre le but désiré par les « voies
+            morales ». Le génie de Garibaldi — ce héros populaire, toujours prêt à donner son sang
+            pour la Justice et la Liberté, sans se soucier guère des convenances diplomatiques —
+            attira surtout notre poète national.</p>
+          <p>Il flétrit alors sans pitié, avec colère et sarcasme, les ministres qui résistaient aux
+            efforts du « parti de l’action », et, en même temps, il s’éloigna logiquement de la
+            dynastie, qui choisissait et gardait de tels ministres. La brèche de la <hi rend="i"
+              >Porta-Pia</hi>, qui rendit enfin la ville éternelle aux Italiens, n’apaisa pas le
+            dédain du poète. Il reprocha aux politiciens d’y être entrés presque en cachette, et
+            s’écria amèrement que, pendant que l’Italie demandait à grande voix Rome, on lui avait
+            donné Byzance ! Il n’épargna pas au peuple de son pays l’épithète de « lâche », et le
+            fustigea plus violemment encore pour avoir applaudi les débordements de son patriotisme
+            indigné.</p>
+          <p>Il condamna avec âpreté la courtisanerie sous toutes ses formes. L’institution d’une
+              <hi rend="i">Consulta araldica</hi>, pour contrôler et enrôler les titres de la
+            noblesse, provoqua sa colère. Il rêva d’atteindre toutes les iniquités, toutes les
+            tyrannies. Les protagonistes de la Révolution, et ses précurseurs philosophiques,
+            obtinrent dans ses vers l’apothéose. Voltaire, Kant furent exaltés par lui de même que
+            Robespierre, Saint-Just et Danton. Par contre, le roi Louis XIV, Napoléon III et le pape
+            Pie IX ne furent point ménagés par cette muse fougueuse qui ne connaissait d’obstacles
+            ni de brides. Aussi fut-il lui-même en butte aux attaques des modérés, autant dans le
+            champ de la politique que dans celui de la littérature.</p>
+          <p>En ces dernières années, on le sait, Giosuè Carducci s’est rapproché de la cour. Il est
+            rentré dans l’orthodoxie constitutionnelle ; il a accepté le titre de sénateur et a
+            renoncé aux élans turbulents de sa jeunesse. On a beaucoup insisté sur le rôle joué dans
+            une telle évolution par le charme de la reine Marguerite. Celle-ci est, certainement,
+            une femme supérieure, d’un esprit cultivé et érudit, quoique trop conservateur. Il ne
+            faudrait cependant voir là qu’un épisode et non la vraie cause de cette évolution… La
+            vérité, c’est que, à la longue, un ordre de choses régulier et normal s’est établi,
+            accepté par l’immense majorité des Italiens. Les fautes du passé, les divergences
+            d’opinion sur les moyens d’arriver au but, devaient peu à peu s’oublier, dès que ce but
+            a été atteint. L’opposition irréconciliable, et même la bouderie prolongée, eût été
+            contraire aux aspirations et aux nécessités nationales. C’eût été se condamner à un exil
+            moral tout d’impuissance et de stérilité. Les problèmes de l’heure actuelle ne sont
+            nullement les problèmes d’il y a vingt-cinq ans. À quoi bon alors rééditer les vieilles
+            querelles ?</p>
+          <p>C’est par ce même chemin qu’ont été ramenés à la monarchie bien d’autres éléments du
+            parti radical, dont le républicanisme n’avait pas été, cependant, moins bruyant ni moins
+            batailleur que celui de Carducci.</p>
+          <p>Quant aux problèmes du présent, ce ne sera pas la muse de Giosuè Carducci qui les
+            abordera. Il vient de le proclamer dans sa préface à la traduction par Sanfelice du <hi
+              rend="i">Prométhée délivré</hi> de P. S. Shelley. Dans ces pages, il dit que le
+            socialisme est une question sévère et terrifiante, et non pas un bibelot pour les vers
+            éclopés. Les événements de Sicile sont les symptômes d’un malaise qui ne peut pas être
+            guéri par la poésie.</p>
+          <p>Ce n’est pas le cas de discuter ici cette théorie.</p>
+          <p>Le même Carducci, d’ailleurs, n’effleurait-il pas la question sociale, quand il
+            préconisait les triomphes de l’avenir, qui ne seront plus les triomphes des rois, mais
+            les triomphes du peuple sur l’âge noir de la barbarie ? Et, de même, quand il composait
+            cette ode superbe : <hi rend="i">La Mère</hi>, pour un groupe du sculpteur Cecioni,
+            représentant une glaneuse qui caresse son enfant ? Le poète se plaisait à voir
+            personnifié dans ce marbre un grand espoir des siècles. <quote>« Quand le travail
+              sera-t-il joyeux ? Quand l’amour aura-t-il la quiétude ? »</quote></p>
+          <quote>
+            <l>Quando il lavoro sarà lieto ?</l>
+            <l>Quando securo sarà l’amore ?</l>
+          </quote>
+          <ab type="ornament">§</ab>
+          <p>Si la partie politique est la plus saillante dans l’œuvre de Carducci, et celle qui
+            l’empreint d’un caractère si national, elle est bien loin de la représenter tout
+            entière.</p>
+          <p>Carducci n’est pas seulement le poète du combat, l’amoureux enthousiaste de toutes les
+            libertés politiques, religieuses et morales. À côté du citoyen, l’homme point en lui,
+            l’homme qui aime le beau, la nature, le sourire des vierges, le soleil, l’azur, la mer,
+            les moissons flottantes dans les campagnes, les forêts qui bruissent au souffle du vent,
+            les neiges qui rayonnent de blancheur sur le haut des Alpes.</p>
+          <p>La nature : voilà le plus grand amour du poète. Un panthéisme sincère et profond passe
+            dans toute son œuvre, et l’anime par les accents éternels de l’harmonie des choses C’est
+            un panthéisme emprunté à la conception grecque de Géa, à la philosophie réaliste de
+            Lucrèce, à la poésie bucolique qui nous charme à toute heure chez Virgile, chez Horace,
+            chez Tibulle, chez Catulle. Anacréon et Mimnerme ont tenu sur les fonts baptismaux la
+            Muse d’<hi rend="i">Enotrio Romano</hi> — premier pseudonyme de Carducci. Dans la série
+            de poésies qu’il a nommées <hi rend="i">Printemps helléniques</hi>, nous revient encore
+            la grâce de Sapho, la noblesse d’Alcée, l’attrait impérissable des dieux de la Grèce,
+            qui ignorent le crépuscule, et qui dorment dans les troncs des arbres, dans les fleurs,
+            au-dessus des montagnes, des fleuves et des mers. Et dans un serein renouveau nous
+            voyons encore les mystiques Champs-Élysées, où les poètes et les belles s’en vont
+            errant, dans un murmure de voix paisibles.</p>
+          <p>Ainsi se succèdent dans ses strophes les paysages et les marines, le sourire du
+            printemps et la mélancolie rêveuse de l’automne, le réveil d’avril et la fécondité du
+            vital messidor. L’on entrevoit des églises agrestes perdues dans le silence de la
+            campagne, des cimetières où l’on envie le repos éternel, et la fumée fuyante des moulins
+            et des fouleies. Le cœur du poète s’attendrit à ces spectacles : l’amertume qui lui
+            vient de la vie, le désenchantement né de l’envolée de tant d’espoirs déçus, toute la
+            tristesse vague et indéfinie que les années apportent s’apaise soudain à la vue du doux
+            pays natal, des collines qui fument dans le brouillard, de la plaine souriante parmi la
+            pluie matinale.</p>
+          <quote>
+            <p>« À quoi bon, dit-il alors dans l’<hi rend="i">Idylle maremman</hi>, à quoi bon
+              poursuivre de mes vers les lâches de l’Italie ? »</p>
+          </quote>
+          <p>C’était bien mieux d’épouser Marie la blonde, et de rester à l’ombre des peupliers, sur
+            le parvis rustique, à dire des contes avec ses amis, dans le calme du midi.</p>
+          <p>Cette compréhension profonde et intellectuelle de la nature a rendu possible chez
+            Carducci son admirable divination du monde païen, grec et latin, qu’il ressuscite avec
+            intensité dans les <hi rend="i">Odi barbare</hi>. Si ces poésies ont marqué une
+            audacieuse tentative d’innovation métrique, ou, si l’on aime mieux, de retour à
+            l’antique, elles sont encore plus significatives par l’unité et la solidité de la
+            conception. La vie a été abreuvée de tristesse par la religion chrétienne, qui a
+            condamné le plaisir, imaginé que la beauté était la porte du diable, s’est acharnée
+            contre les monuments de l’art antique qui étaient dédiés à la glorification de la vie,
+            du plaisir, de la beauté. Depuis, un lourd cauchemar a hanté les esprits. Le soleil a
+            été banni des temples chrétiens : le Dieu crucifié a crucifié les hommes. Mais le poète
+            sent rejaillir des sources de son être toute la sérénité de ces âges disparus. Il
+            appelle l’âme humaine à la rescousse. « Les jours sombres sont passés : relève-toi et
+            règne ! » Le vin, l’amour, la joie, les attraits éternels de la nature ont droit au
+            partage de la vie de l’homme, laquelle doit se passer dans l’action et non pas dans
+            l’ennui stérile de toutes les choses de ce monde. C’est encore la voix de Satan, non la
+            conception diabolique de l’Église, mais la personnification de la matière qui se révolte
+            contre l’ascétisme.</p>
+          <p>À la religion de la nature le poète ajoute le culte des traditions de sa patrie. C’est
+            un esprit éminemment latin qui entrevoit l’<hi rend="i">Urbs</hi> éternelle dans tout ce
+            qui est grand, auguste. Rome, c’est la déesse mère de l’Italie, c’est la déesse mère de
+            tous les peuples : qui ne la reconnaît pas pour telle a le cœur plongé dans de froides
+            ténèbres.</p>
+          <ab type="ornament">§</ab>
+          <p>Nul ne peut disputer à Giosuè Carducci la première place parmi les poètes de l’Italie
+            contemporaine. Talent complexe et multiple, il a réussi dans la satire et le sarcasme
+            autant que dans le pathétique et dans le genre le plus naïf et délicat. Il est également
+            supérieur dans la violence et dans la tendresse. Ses ïambes politiques ont la vigueur
+            des vers de Victor Hugo et de Barbier, avec qui plus d’une fois il avoue sa parenté. Et
+            à côté l’on trouve l’inexprimable grâce des ballades du <hi rend="i">Trecento</hi> et du
+              <hi rend="i">Quattrocento</hi>, et on les dirait dictées pour les madones de Filippo
+            Lippi et de Sandro Botticelli.</p>
+          <p>Giosuè Carducci a depuis longtemps, du reste, conscience de sa valeur. Comme Horace
+            croyait le monument de ses <hi rend="i">Carmina</hi> plus immortel que l’airain, comme
+            le Dante se sentait appelé à dépasser la renommée de Guido Guinicelli, comme Alexandre
+            Manzoni pensait que son chant à Napoléon n’aurait pas à craindre l’oubli, de même Giosuè
+            Carducci, le poète des <hi rend="i">Primavere elleniche</hi>, se proclame <quote>« le
+              dernier fils des poètes sacrés Eolyens »</quote>. Et lorsqu’il passe en revue les
+            maîtres du sonnet, cette forme si pure de la poésie, il rappelle la perfection d’art que
+            lui apportèrent le Dante, Pétrarque, le Tasse, Alfieri, Foscolo, et déclare n’être non
+            pas le sixième, mais le dernier de cette glorieuse élite.</p>
+          <p>L’œuvre de Carducci, toutefois, comme toute œuvre humaine, n’est pas exempte de
+            défauts. On ne pourrait certes point considérer comme tels son classicisme de la forme
+            et son érudition riche et variée ; il n’en est pas moins vrai qu’il y a là un assez
+            grave obstacle à la diffusion de ses poèmes. Carducci appartient à l’aristocratie de
+            l’art. Son œuvre, au moins dans une certaine partie, n’est pas à la portée de tous, et
+            il est bien peu de gens qui peuvent parler avec compétence d’une telle poésie.</p>
+          <p>Ce que l’on peut lui reprocher, c’est, parfois, le baroque de certaines images, qui
+            nous ramènent au dix-septième siècle. Sa période est souvent tourmentée et obscure. Et
+            dans la lutte engagée avec tant de politiciens et de lettrés, il a dépassé plus d’une
+            fois la mesure et il en est arrivé à de véritables injustices, qu’il faut, il est vrai,
+            imputer à la fougue du combat.</p>
+          <p>Mais ce ne sont là que des détails. Giosuè Carducci n’en demeure pas moins le grand
+            poète de l’Italie contemporaine, et le dernier survivant de de la glorieuse pléiade
+            européenne à laquelle ont appartenu de nos jours Alfred Tennyson et Victor Hugo.</p>
+        </div>
+        <div>
+          <head>Les Ateliers [extrait]</head>
+          <index>
+            <term type="id">article-1895-02_197</term>
+            <term type="author">Bernard, Émile (1868-1941)</term>
+            <term type="signed">Émile Bernard</term>
+            <term type="section">none</term>
+            <term type="title">Les Ateliers [extrait]</term>
+            <term type="date">1895-02</term>
+            <term type="ref">Tome XIII, numéro 62, février 1895, p. 194-205 [197-199]</term>
+          </index>
+          <byline><hi rend="sc">Émile Bernard</hi>.</byline>
+          <bibl>Tome XIII, numéro 62, février 1895, p. 194-205 [197-199].</bibl>
+          <p>[…]</p>
+          <p>Michel-Ange débuta dans la boutique de Ghirlandajo, où il était presque valet. Il y
+            broyait les couleurs, dessinait les cartons, touchait à tout ce qui concernait le
+            métier, comme : marbre, terre, huiles, vernis, essences, poudres, etc. Raphaël fut élevé
+            dans l’atelier de son père, médiocre peintre — nous dit-on — dont il copia les tableaux,
+            puis entra chez le Pérugin.</p>
+          <p>Léonard de Vinci alla chez André Verrocchio, lequel avait aussi une boutique à icônes.
+            On raconte que trois ans après son initiation il peignit dans un tableau de son maître
+            un ange si plein de grâce que celui-ci ne voulut point le retoucher — il avait alors
+            quinze ans.</p>
+          <p>Voici trois faits des plus marquants. — J’ai pris ceux-là on comprend pourquoi :
+              <quote>« tout le monde étant maintenant d’accord sur la valeur de leur
+            génie »</quote>.</p>
+          <p>Or, qu’étaient Ghirlandajo, Pérugin et Verrocchio ? Des « peintres sacrés », dans la
+            « boutique » desquels on peignait tranquillement de douces madones en causant sans
+            doute, aux repos, de choses supérieures. Comment en effet concevoir qu’il en fût
+            autrement ? Ce n’est pas à force de logique froide ou de malice que l’on peut découvrir
+            la radieuse beauté spirituelle que Pérugin, personnellement, infiltra dans la face de
+            ses modèles ; et ce n’est pas, non plus, par simple goût que, comme Ghirlandajo, on
+            peint les célestes jardins. L’Étude de l’antique n’est pour rien en cela ; et fut-il
+            personne de moins antique à cette époque — peut-être — que ces deux maîtres ?</p>
+          <p>L’érudition n’entrant en cause ici, c’est donc à l’âme, à l’Esprit qu’il s’en faut
+            remettre de ces progrès rapides de l’élève dans l’application des moyens ; l’élève, par
+            une étude avant tout spirituelle, agrandissait sa conception du voisinage d’un génie ;
+            et la chose est si vraie que c’est plus à l’inspiration du Pérugin qu’à sa méthode que
+            Raphaël ressembla toujours. Ces vieux maîtres vivaient encore de traditions, ils
+            détenaient des secrets ; c’étaient les formules des byzantins insensiblement
+            naturalisées et peu à peu rendues terrestres par l’étude du modèle ; c’étaient aussi
+            leurs propres recherches et la connaissance qu’ils avaient acquise des sciences
+            naturelles, qui, plus tard, mal employées, « employées trop pour elles-mêmes », furent
+            le signal de la déchéance.</p>
+          <p>L’art devenant officiel, « sous les Pontifes et les Princes », l’esprit de gloriole et
+            de rivalité se substitua peu à peu à l’amour. Il se sépara de la Religion et devint une
+            chose de luxe.</p>
+          <p>Des intrigants comme Baccio Bandinelli, homme de talent encore, mais surtout homme
+            d’érudition, comme San Gallo, se dressant contre Michel-Ange, l’art est atteint dans son
+            développement et les écoles périclitent.</p>
+          <p>Le culte languissant viendra demander à ces ambitieux la représentation de ses saints
+            mystères, à ces ambitieux plus avides de plaisirs matériels que de pensées profondes, et
+            des maîtresses de peintre deviendront les madones que la foule vénère ; et la conception
+            grandiose de Marie sera traînée dans le ruisseau de la beauté vendue. Se ravalant
+            inconsciemment de plus en plus, le peintre s’adonnera lui-même aux saturnales<note
+              place="bottom">Cellini nous fait lui-même le récit d’un joyeux festin où il habilla en
+              femme son élève Diego et s’amusa des madrigaux et des baisers que lui adressait la
+              « brigande ».</note>, aux plaisirs malsains et proscrits, et ne sera plus qu’un
+            automate singeant toujours les mêmes formes, de son pinceau hâtif : c’est de cette
+            lassitude de ses nuits que naîtront les trucs, les malhonnêtetés, le trompe-l’œil, le
+            mensonge. Il satisfera à la lubricité de son amateur, il demandera à l’antiquité morte
+            le secret de ses sataniques séductions. Vénus apparaîtra de nouveau dans ses songeries,
+            mais ce ne sera pas cette Vénus céleste qu’aimèrent les Socrate et les Platon, non, mais
+            cette Vénus populaire qui vend des lambeaux, de sa chair aux carrefours battus de la
+            flamme des tavernes. Peu à peu l’effort d’une remontée de ce fleuve rapide du temps le
+            fatiguera ; il tombera dans la peinture, sans équivoque, des scènes modernes — sans en
+            lire le hautain caractère de désespoir ou l’ardente suggestion d’enfer ; — il s’enivrera
+            de cette apparence qu’il appelle la beauté, et qui ne sera plus en ses mains qu’une
+            forme vide semblable à un ballon qui, dégonflé, traîne à la surface du sol, raclant la
+            boue ; il se vouera à l’à-vau-l’eau de la mode et des offres ; il se prostituera corps
+            et âme au plus cynique des métiers.</p>
+          <p>Jean Antoine Pazzi, dit « il Sodoma », fut appelé dans un couvent pour y peindre la vie
+            de saint Benoît. Or, comme il peignait, il faisait mille folies, racontant aux bons
+            pères les histoires les plus scandaleuses et leur faisant à brûle-pourpoint les
+            propositions les plus incongrues, etc. Inutile de raconter à ce propos toutes les
+            histoires que tout le monde sait, de Marc-Aurèle, de Jules Romain, etc.</p>
+          <p>[…]</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome XIII, numéro 63, mars 1895</head>
+        <div>
+          <head>Théâtre et conférences. <lb/>Les Escholiers. <hi rend="i">L’Ami</hi>, pièce en un
+            acte, de M. Marco Praga (M. A. Thalasso <hi rend="i">trad.</hi>)</head>
+          <index>
+            <term type="id">article-1895-03_356</term>
+            <term type="author">Danville, Gaston (1870-1933)</term>
+            <term type="signed">Gaston Danville</term>
+            <term type="section">Théâtre et conférences</term>
+            <term type="title">Les Escholiers. <hi rend="i">L’Ami</hi>, pièce en un acte, de
+              M. Marco Praga (M. A. Thalasso <hi rend="i">trad.</hi>)</term>
+            <term type="date">1895-03</term>
+            <term type="ref">Tome XIII, numéro 63, mars 1895, p. 351-357 [356-357]</term>
+          </index>
+          <byline><hi rend="sc">Gaston Danville</hi>.</byline>
+          <bibl>Tome XIII, numéro 63, mars 1895, p. 351-357 [356-357].</bibl>
+          <p>De la pièce de M. Marco Praga, rien à dire sinon qu’il faut regretter la brusque
+            conversion d’une donnée intéressante, et qui eût pu fournir la matière d’un curieux
+            drame intime, en une situation outrageusement fausse, touchant à l’invraisemblable. Le
+            comte Georges, chargé par la mère de son ami intime, mort d’un accident de cheval, de
+            mettre ordre à ses papiers, se rencontre, au moment de l’accomplissement de cette tâche,
+            avec sa femme, qui fut la maîtresse du marquis et vient pour reprendre ses lettres. La
+            comtesse, dans son trouble, commet fautes sur fautes, au point que son mari, fortement
+            ébranlé, acquiert la définitive certitude en déchirant l’enveloppe d’un paquet contenant
+            la dangereuse correspondance, et sur lequel s’étalait cette maladroite suscription :
+              <quote>« À brûler sans ouvrir ! »</quote>… Pourquoi le marquis n’a-t-il-pas brûlé
+            lui-même ?</p>
+          <p>Sans doute pour permettre à M. Marco Praga un dénouement d’un pathétique douteux.</p>
+          <p>Mlle Gerfaut, MM. Paul Clerget et Ch. Krauss tentèrent de rendre acceptable cette
+            histoire pénible.</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome XIV, numéro 64, avril 1895</head>
+        <div>
+          <head>Journaux et revues [extrait]</head>
+          <index>
+            <term type="id">article-1895-04_118</term>
+            <term type="author">Vallette, Alfred (1858-1935)</term>
+            <term type="signed">A. Vallette</term>
+            <term type="section">Journaux et revues</term>
+            <term type="title">Journaux et revues [extrait]</term>
+            <term type="date">1895-04</term>
+            <term type="ref">Tome XIV, numéro 64, avril 1895, p. 116-126 [118-120]</term>
+          </index>
+          <byline>A. Vallette [Alfred Vallette]</byline>
+          <bibl>Tome XIV, numéro 64, avril 1895, p. 116-126 [118-120].</bibl>
+          <p>[…]</p>
+          <p>Dans la <hi rend="b">Revue des Revues</hi> du 15 mars, un curieux article du professeur
+            Guillaume Ferrero sur <hi rend="i">La Maladie mystique et la Littérature</hi>.</p>
+          <quote>
+            <p>« En dépit des machines, dit M. Ferrero, de la civilisation industrielle et des
+              progrès que les sciences accomplissent sans relâche, le mysticisme déborde de tous les
+              côtés dans la société européenne. Vous le trouvez sous toutes les formes, mysticisme
+              artistique, moral, social, religieux ; dans tous les pays, en Russie, en Allemagne, en
+              Angleterre, même chez ces races latines dont le scepticisme était devenu presque
+              proverbial, comme la France et l’Italie. La littérature et l’art en sont même pénétrés
+              de telle sorte que M. Max Nordau a cru devoir écrire un livre pour combattre cette
+              tendance, qui prêche à l’humanité une évolution à rebours : un retour des hommes
+              civilisés aux idées, aux coutumes, aux institutions des âges primitifs. Çà et là,
+              enfin, on constate des phénomènes sociaux et psychologiques qu’on aurait crus tout à
+              fait impossibles dans une civilisation comme la nôtre et qui cependant réapparaissent,
+              comme un réveil inattendu des siècles passés.</p>
+            <p>» Étudiez, par exemple, Tolstoï ! On croirait voir en lui le frère de saint François
+              d’Assise. Il n’existe peut-être pas dans l’histoire deux personnalités présentant
+              d’aussi frappantes ressemblances. »</p>
+          </quote>
+          <p>M. Ferrero poursuit ingénieusement le parallèle, puis il constate que si François
+            d’Assise bouleversa son temps, Tolstoï, <quote>« lu, discuté, admiré, critiqué par des
+              millions d’hommes, n’est suivi par personne »</quote>. Pourquoi ? La cause en est au
+            livre, <quote>« à tous ces moyens indirects de transmission de la pensée que la
+              civilisation a créés et qui ont ainsi modifié les rapports psychologiques entre maître
+              et disciples »</quote>. Selon M. Ferrero, c’est l’exemple donné qui, par sa toute
+            puissante suggestion, exerce le maximum d’influence, pendant que les autres moyens
+            indirects sont presque inutiles. Et voilà pourquoi saint François fit naître l’action
+            alors que Tolstoï fait seulement réfléchir.</p>
+          <p>C’est peut-être traiter bien sommairement d’une question qui, croyons-nous, est
+            autrement complexe. La dernière partie de l’article de M. Ferrero est au moins
+            inattendue : la littérature mystique ou « morbide » est un dérivatif qui sauve le monde
+            moderne. Le livre « morbide » y devient</p>
+          <quote>
+            <p>« la meilleure défense contre ces dangereuses épidémies psychiques qui, dans les âges
+              grossiers et ignorants où n’existait pas le dérivatif de la littérature, ont été une
+              des causes les plus puissantes des troubles sociaux. Il se transforme en remède contre
+              cette contagion dont il devait être le grand producteur, comme ces bacilles que la
+              médecine moderne injecte pour protéger l’organisme contre la maladie même dont ce
+              bacille est la cause. On lit le livre, on y trouve la satisfaction de ses propres
+              tendances, puis on le ferme, et la société poursuit son existence régulière, sans que
+              rien soit venu déranger sa marche normale vers l’avenir. Je crois qu’avec le nombre
+              immense et toujours croissant de névrosés, d’hystériques, de détraqués, de toqués qui
+              foisonnent dans la société contemporaine, la vie sociale serait souvent troublée de
+              manière profonde par les épidémies psychiques qui éclateraient par instants dans cette
+              foule de demi-malades, si, par bonheur, les livres ne venaient continuellement faire
+              dévier en tendances littéraires leurs penchants anormaux.</p>
+            <p>» Écrivez donc, Messieurs les malades de la littérature, symbolistes, préraphaélites,
+              parnassiens, tolstoïstes, mystiques de toute espèce et de toute école ! En écrivant
+              des livres malades, vous travaillez à maintenir dans un état de santé relative la
+              société moderne. »</p>
+          </quote>
+          <p><hi rend="i">Amen</hi> ! — On se demande un peu, par exemple, ce que les Parnassiens
+            font dans l’affaire, et si M. Guillaume Ferrero sait au juste ce que sont les
+            Symbolistes…</p>
+          <p>[…]</p>
+        </div>
+        <div>
+          <head>Journaux et revues [extrait]</head>
+          <index>
+            <term type="id">article-1895-04_123</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. de Gourmont</term>
+            <term type="section">Journaux et revues</term>
+            <term type="title">Journaux et revues [extrait]</term>
+            <term type="date">1895-04</term>
+            <term type="ref">Tome XIV, numéro 64, avril 1895, p. 116-126 [123-124]</term>
+          </index>
+          <byline><hi rend="sc">R. de Gourmont</hi> [Remy de Goumont].</byline>
+          <bibl>Tome XIV, numéro 64, avril 1895, p. 116-126 [123-124].</bibl>
+          <p>[…]</p>
+          <p>Le <hi rend="b">Convito</hi>, — c’est une nouvelle revue de grand luxe et de belle
+            littérature que, sous la direction de M. d’Annunzio, publie à Rome l’éditeur Adolfo de
+            Bosis ; elle paraîtra durant une seule année, en 12 fascicules de 80 pages gr. in-4<hi
+              rend="sup">0</hi>, sur merveilleux vergé à la cuve timbré au sceau du <hi rend="i"
+              >Convito</hi>, et ornée de riches planches d’art. M. d’Annunzio y publie un nouveau
+            roman, <hi rend="i">Les Vierges aux rochers</hi>, avec ce <hi rend="i">motto</hi> de
+            Léonard de Vinci : <quote>« Je ferai une fiction qui signifiera des choses
+              grandes »</quote>. Autre pensée de Léonard épinglée au premier chapitre : <quote>« On
+              ne peut avoir de plus grande seigneurie que celle de soi-même »</quote>. Voici, pour
+            donner une idée de l’esprit du <hi rend="i">Convito</hi>, l’analyse de la préface, <hi
+              rend="i">Prœmio</hi> :</p>
+          <quote>
+            <p>Quelques artistes, unis par un commun culte sincère et fervent pour toutes les plus
+              nobles formes de l’art, se proposent de publier leurs œuvres en un recueil imprimé
+              avec cette élégante simplicité qui est la parure et la décence des belles images et
+              des claires pensées. Ils ne se dissimulent pas les difficultés qu’ils vont rencontrer,
+              en un temps où semble aboli le culte des choses intellectuelles, et même ils les
+              affrontent, car ils n’entendent pas se confiner dans les offices secrets ou les
+              occultes messes mystiques : c’est en plein soleil qu’ils cultiveront, voulant en boire
+              et faire boire le vin, la vieille vigne italique.</p>
+            <p>L’Italie pourtant semble revenue aux plus obscurs temps des lourdes invasions, quand
+              les Barbares abattaient tous les simulacres de la Beauté et détruisaient tous les
+              vestiges de la Pensée. La différence est que la barbarie d’aujourd’hui est plus vile
+              que celle que grandissait au moins la force de ses aveugles violences Notre barbarie
+              n’est pas un ouragan d’éclairs et d’incendies, c’est une lente avalanche de
+              marécageuses putridités : — et pour comble de honte ce ruisseau de boue a pour source
+              Rome, cette troisième Rome qui devait se lever comme une gloire d’amour et qui croupit
+              cloaculaire.</p>
+          </quote>
+          <p>Après avoir exposé les causes de cette abjection, le <hi rend="i">Convito</hi>
+            ajoute :</p>
+          <quote>
+            <p>Il y a encore des hommes qui vivent et qui ne désespèrent pas, confiants dans la
+              force ascendante de l’idéalité des pères, dans le pouvoir indestructible de la Beauté,
+              dans la souveraine dignité de l’esprit, dans la nécessité des hiérarchies
+              intellectuelles, et enfin dans l’efficacité de la parole. Ils veulent en cette Rome si
+              triste, où jadis, par les rues papales, on portait en procession les beaux marbres
+              païens avec la même joie que le corps d’un protomartyr, — ils veulent qu’on y revoie
+              et qu’on y acclame le triomphe de <hi rend="i">Venus Victrix</hi> ; et, vainqueurs ou
+              vaincus, ils auront laissé trace de leur lutte. Le <hi rend="i">Convito</hi> sera le
+              char de triomphe ou le mausolée de ceux qui auront courageusement défendu contre les
+              Barbares les pénates intellectuelles de l’esprit latin.</p>
+          </quote>
+        </div>
+      </div>
+      <div>
+        <head>Tome XV, numéro 69, septembre 1895</head>
+        <div>
+          <head>La Passion de l’art [extraits]</head>
+          <index>
+            <term type="id">article-1895-09_312</term>
+            <term type="author">Bernard, Émile (1868-1941)</term>
+            <term type="signed">Émile Bernard</term>
+            <term type="section">none</term>
+            <term type="title">La Passion de l’art [extraits]</term>
+            <term type="date">1895-09</term>
+            <term type="ref">Tome XV, numéro 69, septembre 1895, p. 308-319 [312-313, 319]</term>
+          </index>
+          <byline><hi rend="sc">Émile Bernard</hi>.</byline>
+          <bibl>Tome XV, numéro 69, septembre 1895, p. 308-319 [312-313, 319].</bibl>
+          <p>[…]</p>
+          <ab type="ornament">§</ab>
+          <p>Les Romains, peuple guerrier, étaient peu aptes à l’art.</p>
+          <p>Ils lui donnèrent pourtant une empreinte nouvelle : le portrait.</p>
+          <p>Ce peuple avait coutume de promener aux pompes funèbres les portraits de la famille, de
+            là ce développement.</p>
+          <p>Les Étrusques furent les premiers artistes que virent les Romains, mais rien n’indique
+            que l’art qu’ils pratiquaient fût très vénéré ni très aimé.</p>
+          <p>Ce n’est que très tard, après la conquête de la Grèce, qu’ils commencèrent à se
+            préoccuper de la beauté ; ils transportèrent d’abord les statues et les peintures de
+            Syracuse, de Capoue, de Corinthe, de Carthage. Après la conquête de l’Asie mineure,
+            Rome, étant devenue maîtresse du monde, commença seulement à élever elle-même des
+            monuments ; ce fut l’architecture qui la première essora.</p>
+          <p>Certes, plusieurs de ces édifices furent grandioses, tel le Colysée, tel le palais des
+            Césars dont on voit encore les ruines, tel le théâtre de Pompée, avec son portique de
+            100 colonnes dont les intervalles étaient ornés de voiles attaliques. Sous Auguste, la
+            Rome de marbre remplaça celle de briques, mais à part quelques statues rien n’indique
+            chez les Romains un sentiment de divinité ou de passion.</p>
+          <p>La tyrannie plane partout, le mauvais goût bourgeois aussi.</p>
+          <p>Dès lors, ce n’est plus qu’une orgie où sombrent les, restants de l’art grec sous
+            l’iconoclastie des Caligula et des Tibère.</p>
+          <p>Néron, ce monstre fait homme, se croyant Dieu, veut se glorifier dans un colosse ;
+            seules la colonne trajane et la statue équestre de Marc-Aurèle indiquent que quelques
+            artistes vivent encore.</p>
+          <p>Les Romains, dans leur triomphe, ne furent que des iconoclastes et des rhéteurs. À
+            Rome, bien dire valait mieux que bien faire. La vulgarité de ce peuple est peinte sur
+            ces têtes sinistres qui garnissent les musées pour la glorification des Césars. Allez
+            les voir, car elles racontent leur histoire.</p>
+          <p>[…]</p>
+          <label type="head">NOTE</label>
+          <p>Ce serait, il nous semble, un oubli grave de ne pas écrire ici le nom de la noble
+            famille des Médicis. Je laisse à son sujet la parole à Alexandre Dumas père, auteur d’un
+            volume sur elle :</p>
+          <quote>
+            <p>« Mais c’est qu’il faut le dire, l’art s’est développé et est tombé avec cette
+              famille, et, chose étrange, a subi toutes les variations qu’elle eut à subir… etc.</p>
+            <p>» Ainsi, avec la grandeur ascendante d’Avérard, de Jean de Bicci et de Côme, le père
+              de la patrie, l’art monte avec Cimabue, Giotto, Masaccio ; avec Laurent le Magnifique,
+              l’art fait une pause pour représenter des forces : Léonard de Vinci, Fra Bartholomeo,
+              Michel-Ange, Titien, Raphaël, André del Sarto naissent ; sous Léon X, tout ce qui
+              promettait tient, tout ce qui était fleur devient fruit ; sous Côme I<hi rend="sup"
+                >er</hi> arrivé au sommet de la puissance, l’art arrive à son apogée, et l’art et
+              les Médicis, ne pouvant plus monter, commençant à descendre : les Médicis avec
+                Ferdinand I<hi rend="sup">er</hi>, Côme II et Ferdinand II ; l’art avec Vasari, le
+              Barroccio, l’Allori, Jean de San Giovanni et Mathieu Rosselli ; jusqu’à ce qu’enfin
+              ils tombent ensemble, l’art avec les Gabbiani et les Dandini, les Médicis avec
+              Côme III et Jean Gaston.</p>
+          </quote>
+          <quote>
+            <p>« Mais les Médicis — ajoute Dumas père — dorment en paix dans leurs tombeaux de
+              marbre et de porphyre ; car ils ont plus fait pour la gloire du monde que n’avaient
+              jamais fait avant eux, et que ne firent jamais depuis, ni princes, ni rois, ni
+              empereurs. »</p>
+          </quote>
+          <bibl>(<title>Les Médicis</title>, édition Michel Lévy, pages 268 et 269.)</bibl>
+          <quote>
+            <p>» Lorsque Dante quitta Florence, il se réfugia au château de Cane della
+              Scala-Gibelin. Voici ce que dit Sagacius Mutius Ganata sur ce château et l’hospitalité
+              que l’on y recevait :</p>
+            <quote><p>“Ceux qui venaient au château avaient différents appartements selon leurs
+                diverses conditions, et à chacun le magnifique seigneur avait donné des valets et
+                une table splendide ; les diverses chambres étaient indiquées par des devises et des
+                symboles divins : la Victoire pour les guerriers, l’Espérance pour les proscrits,
+                les Muses pour les poètes, Mercure pour la peinture, le Paradis pour les gens
+                d’église, et pendant les repas des bouffons, des musiciens et des joueurs de
+                gobelets parcouraient les appartements.</p>
+              <p>» Les salles étaient peintes par Giotto et les sujets qu’il avait traités avaient
+                rapport aux vicissitudes de la fortune humaine. Le seigneur traitait à sa table
+                Dante Alighieri, homme très illustre alors, et qu’il vénérait à cause de son
+                génie.” »</p></quote>
+            <bibl>(<title>Une année à Florence</title>, édition Michel Lévy, page 194.)</bibl>
+          </quote>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2018-12-18T10:40:31+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Articles du <hi rend="i">Mercure de France</hi>, année 1896</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Marguerite Bordry </name>
+          <resp>Relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Éric Thiébaud </name>
+          <resp>OCR, Stylage sémantique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Sorbonne Université, Labex OBVIL</publisher>
+        <date when="2018"/>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1896.xml</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1896.html</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1896.epub</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1896.txt</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : 	« Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1896"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Tome XVII, numéro 73, janvier 1896</head>
+        <div>
+          <head>Florence. Botticelli. <hi rend="i">La Primavera</hi></head>
+          <index>
+            <term type="id">article-1896-01_012</term>
+            <term type="author">Point, Armand (1860-1932)</term>
+            <term type="signed">Armand Point</term>
+            <term type="section">none</term>
+            <term type="title">Florence. Botticelli. <hi rend="i">La Primavera</hi></term>
+            <term type="date">1896-01</term>
+            <term type="ref">Tome XVII, numéro 73, janvier 1896, p. 12-16</term>
+          </index>
+          <byline><hi rend="sc">Armand Point</hi>.</byline>
+          <bibl>Tome XVII, numéro 73, janvier 1896, p. 12-16.</bibl>
+          <salute rend="i">À l’ami Stuart Merrill.</salute>
+          <epigraph>
+            <p>E per certo, se si riguarda in queste due arti bene e con sano giudizio, vi si vede così smisurata unione et congiunzione insieme d’affinità, che perciò si chiama.</p>
+            <p>« La Pittura, Poetica che tace »</p>
+            <p>« Poetica, Pittura che parla »</p>
+            <bibl>                                           <hi rend="sc">Armenino</hi>, 1530-1590</bibl>
+            <bibl>                    <hi rend="i">Dei veri Precetti della Pittura</hi>, libro I, Cap. <num>iii</num>.</bibl>
+          </epigraph>
+          <p>… Florence… la nuit… des étoiles… Un sillage de diamants et de perles resplendit au vol d’un grand Archange, tout vêtu de lumière, dont l’épée d’or flamboyante écrit dans l’azur noir : <hi rend="i">Beauté</hi> — <hi rend="i">Noblesse</hi> — <hi rend="i">Intelligence</hi> — <hi rend="i">Volonté</hi>. Tétragramme sacré, égide du Temple de l’Art, diadème de la capitale en Toscane.</p>
+          <p>À la porte de la ville, j’avais paré mon esprit et mon cœur de leurs joyaux les plus rares : je savais que les choses anciennes vous regardent et vous jugent avant de révéler le secret du Passé. Pour ceux qu’elles dédaignent, elles demeurent inutiles, indifférentes ou tristes : leurs mystérieuses paroles de Beauté ne répondent qu’à ceux qui interrogent.</p>
+          <p>Les yeux inquiets et tremblants de ma propre révélation devant l’inconnu s’ouvrirent, tout d’abord, pour la <hi rend="i">Primavera</hi> de Botticelli, tableau aimé par la gravure, et dont la séduction hantait mes désirs d’œuvre vers la grâce maladive des âmes fragiles, sœurs captivantes des iris frêles, qu’une caresse des lèvres fait mourir.</p>
+          <p>L’hésitation angoissante, devant un sanctuaire de silence, d’ombre et de recueillement, une seconde avait fait la nuit à ma pensée. Ne pouvant concevoir une désillusion, une non compréhension m’épouvanta.</p>
+          <p>L’Artiste étant androgyne, les perceptions de la couleur, toutes féminines, sont les premières à nous révéler l’âme d’une œuvre d’Art. Mes habitudes, mes prévisions, évoquées par ce mot délicieux : « la <hi rend="i">Primavera</hi> », étaient troublées à l’aspect sombre et monochrome du chef-d’œuvre de Botticelli. Deux notes puissantes résonnaient identiques, deux rouges, l’un au centre sur la Princesse, l’autre à l’extrémité gauche sur l’Adolescent ; le reste avait la couleur des roses blanches fanées ou des marbres anciens qui semblent s’être dorés, en mûrissant sous le soleil, comme de beaux fruits. Les arbres et la prairie se baignaient de la couleur silencieuse de la nuit, tandis que, sous une lumière descendue de l’Olympe, surgissaient en visions ces créatures d’un Rêve.</p>
+          <p>Le rayonnement animique de l’œuvre de Botticelli fécondait mon inexpérience et guidait mon esprit, car aucune des pensées qui accompagnent la création d’une œuvre ne se perd : les molécules de la matière les abritent, et au toucher délicat d’une âme elles revivent et parlent à l’amie visiteuse.</p>
+          <p>« Je chanterai la <hi rend="i">Primavera</hi>, avait dit le Peintre-Poète. Au jardin des Hespérides, je ravirai les arbres qui donnent les fruits d’or : comme les colonnes d’un temple, je les dresserai les uns près des autres, pour que l’ombre et le mystère soient propices aux êtres du Rêve que je vais évoquer. Il faut Ie parfum d’amour de leurs fleurs étoilées avec le charme du fruit que l’on peut cueillir. L’herbe sera un tapis, brodé des plantes de la prairie, épanouissant le rythme de leurs feuilles, au balancement des corolles, sur la courbe des tiges gracieuses, le ciel bleu et limpide comme les yeux d’une jeune vierge. Dans cette chapelle de fleurs et de verdure, j’évoquerai la <hi rend="i">Princesse du Rêve. Elle</hi>, très noble, belle et pudique ; sous la draperie de son manteau de pourpre royal, jailliront ses désirs secrets qui prendront corps autour d’elle, révélant l’intimité de sa rêverie amoureuse. Elle songe aux charmes des <hi rend="i">Grâces</hi>, balançant, en cadence grave et lente, la fragilité de leurs corps graciles, avec l’enlacement harmonieux de leurs mains. À la Vénus de Cléomène, je prendrai la suavité du rythme certain des nombres, car, seuls, les Grecs ont connu toute la Beauté ; trois jeunes filles, sœurs de l’Aphrodite, onduleront sous la blancheur des voiles transparents comme une nuée en septembre, symbole des frissons encore chastes de l’Âme sereine. Car sa pudeur n’ose rêver que de l’<hi rend="i">Adolescent</hi> timide et fier, qui triste cueillera la fleur d’amour pur, laissant de son casque ailé s’envoler sa pensée vers la <hi rend="i">Princesse du Rêve</hi> : il est l’âme sœur et ses épaules porteront le même manteau de pourpre.</p>
+          <p>» Sous les flèches de Cupidon, qui voltigera sur sa tête, les désirs plus ardents s’éveillent ; je les symboliserai par la <hi rend="i">Semeuse de Roses</hi>, dont les mains se noieront dans la douceur de la chair des roses : sur ses lèvres, le sourire aura le trouble presque pâmé, comme le cœur ouvert des roses, et ses yeux seront pervers et froids, car l’enlacement des caresses est cruel au cœur du Poète qui se couronne de roses.</p>
+          <p>» Redevenue naïve, elle sera la <hi rend="i">Nymphe des Prairies</hi>, souriante et frissonnante au souffle du mâle Zéphyr, et sa fuite ne sera qu’un jeu, et les fleurs écloses sur sa bouche diront son attente de la main qui gerbera les charmes de son corps fraîchement épanoui.</p>
+          <p>» Avec la science de l’harmonie des lignes, j’aurai chanté tout le poème de la <hi rend="i">Primavera</hi> lorsqu’elle arrive sur la terre dans son char, fait d’une églantine, qu’emportent les papillons parmi les lilas et les roses. »</p>
+          <p>Que j’étais loin du chatoiement frivole et sans pensée et sans forme de <hi rend="i">l’Art dit Moderne</hi>, de courte durée. Toute la puissance du <hi rend="i">sujet</hi> dans une œuvre m’était enseignée, car l’émotion, l’intelligence et le sublime de l’Artiste s’y gravent avec la précision d’un burin d’acier : ce n’est plus le mérite facile d’une petite sensation, notée au hasard de la rencontre, avec le plus ou moins d’habileté manuelle de l’ouvrier, c’est la manifestation d’un choix dans les trois grands domaines de la création, où notre esprit conçoit la loi de l’harmonie suprême ; le domaine de la matière brute, celui que vivifie le sentiment et le royaume que la pensée illumine pour percevoir Dieu. L’Art peut être purement matériel et c’est le naturalisme sans esprit, sans âme, l’art du morceau peint avec le plus de réalité possible, puis il s’élève à l’expression du sentiment par le choix de la couleur et du clair obscur, analysés et compris dans leurs pouvoirs, mais il plane dans l’azur, comme un grand aigle, lorsqu’il maîtrise la Forme pour animer sa pensée. La <hi rend="i">Forme</hi>, seule, a le pouvoir de contenir ce que l’homme conçoit de plus grand ; par elle, l’artiste, avec la parcelle de divinité que son âme renferme, retrouve la force créatrice première et pétrit à sa guise un monde plus beau. Il ose retrouver dans l’harmonie d’une humanité parfaite le symbole de Dieu lui-même. L’intelligence abstraite s’y matérialise dans un geste ou dans l’expression d’un visage, et la difformité, rancœur quotidienne de la vie, disparaît dans ce nouvel Éden.</p>
+          <p>Où est l’homme, où est la femme, qui oserait opposer, tout nus, leur corps et leur âme aux créations de <hi rend="i">Phidias</hi>, de <hi rend="i">Praxitèle</hi>, de <hi rend="i">Cléomène</hi> et de leurs descendants, <hi rend="i">Léonard</hi> et le <hi rend="i">Grand Michel-Ange</hi> ? Quelle mère orgueilleuse pourra crier avec la matière : « Mon ventre a créé un être plus parfait en Beauté que celui jailli du cerveau du génie ? »</p>
+          <p>De la compréhension de la Forme naît la connaissance de l’harmonie, seule manifestation de la Beauté ; et c’est aller aux confins de l’Esprit humain que de la saisir dans toute sa pureté, comme l’ont fait les génies de la Grèce. Mais aujourd’hui cette notion du Beau parait presque absente des esprits, si bien que le sens critique en est même disparu. Personne ne songe, en parlant d’une œuvre d’art, sauf de rares exceptions, à critiquer la réelle désharmonie d’une œuvre. Le langage de la ligne est devenu langue morte, et pourtant elle est la seule ossature résistante aux fluctuations de la mode.</p>
+          <p>Quand donc le public et les artistes ne s’intéresseront-ils plus à l’habileté clownesque du pinceau, soulignant le travail, au lieu de le faire disparaître devant l’expression de la Pensée, comme chez le Vinci et son école par la perfection même, ou chez les Primitifs, par une méthode simple, un dessin coloré, méthode qui s’est transmise, sans besoin de changement, depuis le Giotto jusqu’à Verocchio et ses élèves ?</p>
+          <p>Je sais tout le plaisir qu’il y a à étaler une touche grasse, à écraser deux tons harmonieux qui se fondent comme le jus de deux fruits savoureux, mais combien plus noble la recherche approfondie de l’expression d’un sentiment, d’une pensée, avec la modestie obéissante et sévère du métier chez le peintre ! C’est par pauvreté intellectuelle, étroitesse d’envergure, mollesse et manque d’activité, cupidité de la jouissance instantanée, qu’on s’abrite derrière le bouclier fallacieux. <hi rend="i">Il n’y a plus de croyance, la mysticité chrétienne est morte, avec elle la source de l’inspiration des grandes pensées s’est tarie : notre époque est de science, le scalpel a tué l’âme, seul l’amphithéâtre refait les miracles. Tout est positif. L’illusion, un mot désormais privé de sens : la réalité de la nature est évidente.</hi></p>
+          <p>Mensonge, hypocrisie. Rien n’existe que par l’objectivité plus ou moins raffinée de l’individu. Tout est mystère, car rien n’est prouvé et ne le sera jamais. Si des dogmes autrefois nourriciers du rêve sont usés, vieillis, l’esprit toujours jeune est vivant.</p>
+          <p>Déployons nos ailes très larges, l’azur est sans limite sur nos têtes. Élevons-nous jusqu’à la notion la plus parfaite de la Divinité ; aimons, désirons, comprenons <hi rend="i">et possédons</hi> l’Harmonie. Bâtissons un temple à la Beauté, la Beauté éternelle, immuable, qui vivifie et déifie la nature entière, à la Beauté, qui se manifeste depuis la plante, élevant vers le ciel, comme une prière, le rythme de ses feuilles, jusqu’à la créature humaine la plus parfaite, car il y a autre chose que l’aspect extérieur dans la nature, la lettre est animée du souffle de l’Esprit.</p>
+          <p>Au seuil du Temple, humble fidèle, à la Déesse Beauté j’adresse ici cette prière avec tout l’élan de mon Être : « Beauté, Phare étincelant où s’oriente l’Humanité en route vers le Meilleur,</p>
+          <p>» Étoile du Désert, qui mènes au sanctuaire, notre tombeau, où Dieu se révélera,</p>
+          <p>» Oriflamme du Désir, qui ravives la force dans les combats et gardes les Fiers des dangers du repos infécond,</p>
+          <p>» Princesse du Sourire le plus caressant, consolatrice du Présent, à toi qui exhales un baume sur le Futur,</p>
+          <p>» Gardienne de la Vérité, qui allumes une étoile au front de tes élus, rendant leur marche lumineuse, comme celle des astres sur le tapis bleu de l’insondable,</p>
+          <p>» À ton culte j’ai voué mon cœur et mon esprit.</p>
+          <p>» Donne un rayon de lumière à ma route.</p>
+          <p>» En toi seule j’ai foi.</p>
+          <p>» Par toi je m’écarterai du vulgaire et de l’éphémère : je sais la marche ascendante des Êtres, l’évolution des Cycles ; en haut de l’échelle de Jacob j’ai entrevu les Anges qui s’évanouissaient dans un éblouissement.</p>
+          <p>» Donne-moi la Persévérance et la Volonté, ces deux compagnes qui mènent à l’œuvre, sûrement,</p>
+          <p>» La Fierté, qui rend méprisable et impuissante toute chose vile et venant d’en bas,</p>
+          <p>» L’Entendement des lois secrètes par lesquelles tu gouvernes l’Univers entier.</p>
+          <p>» Et que l’arbre, le rocher, la fleur, le nuage, l’ombre et la lumière, la montagne et la mer, l’homme dans toute la nature, te révèlent toujours à mon regard adorant ! »</p>
+          <dateline rend="i">Florence — Janvier 1894 
+<lb/>(Notes de Voyage.)</dateline>
+        </div>
+      </div>
+      <div>
+        <head>Tome XVII, numéro 75, mars 1896</head>
+        <div>
+          <head>Medardo Rosso</head>
+          <index>
+            <term type="id">article-1896-03_378</term>
+            <term type="author">Sainte-Croix, Camille de (1859-1915)</term>
+            <term type="signed">Camille de Sainte-Croix</term>
+            <term type="section">none</term>
+            <term type="title">Medardo Rosso</term>
+            <term type="date">1896-03</term>
+            <term type="ref">Tome XVII, numéro 75, mars 1896, p. 378-391</term>
+          </index>
+          <byline><hi rend="sc">Camille de Sainte-Croix</hi>.</byline>
+          <bibl>Tome XVII, numéro 75, mars 1896, p. 378-391.</bibl>
+          <p>Medardo Rosso est né à Turin en 1861. C’est un gars à toison rousse et bouclée dru, festonnant sur un large front, haut des tempes ; les traits sont réguliers, le teint pur, les yeux grands et clairs, la bouche joyeuse sous a gauloise moustache forte et rouge ; — le menton nu, ferme, plein, volontaire. Le corps agile et solide a des mouvements souples et puissants de gros fauve ; au repos, c’est la carrure vaste de ces rudes hommes de pierre que le Piémont nous fournit pour les plus durs travaux de maçonnerie et de terrassement.</p>
+          <p>Medardo tient de cette bonne race et s’annonce par de belles promesses physiques d’attaque et de résistance sur le terrain de lutte ou il s’est placé. Fils de fonctionnaire, après avoir traîné dans les collèges jusqu’à dix-sept ans, il fut naturellement <hi rend="i">destiné à l’administration</hi>. Mais en plus d’une vocation, il avait une volonté. Rétif à la carrière qu’on lui traçait, il rêvait déjà vagabondage d’art, une escapade farouche vers les aventures intellectuelles, une chasse passionnée aux idées et aux impressions.</p>
+          <p>Impressions ? Toute sa vie ne tiendra-t-elle pas dans ce mot ?</p>
+          <p>Dès les premiers croquis de si libre allure et de si personnelle vision, la famille gronda. Non seulement Medardo ne serait pas fonctionnaire, non seulement il allait devenir un peintre, mais encore ce peintre compterait parmi ces énergumènes de l’art qui bousculent les traditions, narguent les rudiments, tournent le dos aux académies, ne veulent rien apprendre que par eux-mêmes pour ne rien créer que d’eux-mêmes. L’imprudent qui s’était découvert trop tôt dans la juvénile et sauvage franchise de son indiscipline radicale faillit du coup se voir barrer la route par l’inflexible opposition paternelle.</p>
+          <p>Effrayé d’avoir couru un tel risque, il dut en rabattre de la moitié au moins de ses velléités. Pour continuer à peindre, il affecta l’humeur douce et conciliante : si on le laissait à sa vocation, il s’engageait à réfréner ses tendances, à s’assagir, à poursuivre des études graphiques régulières et correctes, d’après les maîtres officiels et dans les ateliers classiques. C’est ainsi qu’il se fit admettre à l’École des Beaux-Arts de Milan.</p>
+          <p>Mais à peine l’indulgence familiale gagnée par cette concession, il s’agissait d’en être quitte le plus tôt possible et de ne pas s’attarder en ces cachots pédagogiques où il ne s’était constitué prisonnier qu’à contre-cœur. Travaillant à quadruples bouchées, il réussit par un prodige d’application et d’énergie à franchir coup sur coup tous les degrés. La marche régulière était de quatre ans : Rosso eut tout terminé en moins d’un an et demi. La famille n’avait plus rien à exiger ; le gaillard était en règle avec les académies.</p>
+          <p>Restait le service militaire. Il fit son temps dans un corps de sapeurs. Là, d’abord, il peignit des paysages, des intérieurs d’église, épris d’un art discret, tout d’enveloppe. Mais Rosso ne disposait d’aucun budget ; pour faire quelque argent et entretenir sa provision de couleurs, il se proposa comme ordonnance à un officier, lequel flaira l’artiste et l’envoya à l’école des brigadiers : or cela coûte de peindre, même à l’aquarelle. Fallait-il renoncer ? Allons donc ! N’y a-t-il pas la glaise, la bonne terre grasse dont on peut tirer des merveilles à bon compte ? Et Rosso s’improvisa sculpteur.</p>
+          <p>Ce fut une révélation, une ivresse.</p>
+          <p>Jamais la peinture ne lui avait donné telles satisfactions. L’impénétrabilité des toiles et des panneaux l’avait toujours déconcerté ; ses efforts s’y heurtaient comme à un mur : quelles délices après cela de manier la terre, de travailler cette matière souple qui se laisse pétrir, fouiller, creuser, qui comporte de vrais plans, nets et palpables.</p>
+          <p>Peinture ? Sculpture ? Il n’y a qu’un art, toujours même et indivisible. Le sculpteur qui n’est pas un peintre, c’est-à-dire qui sacrifie au fanatisme de la ligne tout souci d’atmosphère et de perspective, demeure irréel et médiocre ; et, d’autre part, tout grand peintre comporte un grand sculpteur. L’unité de l’Art ne tient-elle pas en cette définition : saisir et traduire les valeurs ? Velasquez, Rembrandt n’ont-ils pas traité leurs toiles comme ils eussent traité la glaise ? Combien d’autres, peignant à l’huile ou à l’eau, si doués fussent-ils en apparence, n’ont su donner, par le pinceau, que des à peu près d’expressions, — qui eussent plus fidèlement traduit leurs visions s’ils ne se fussent butés contre une surface plane rebelle malgré tous procédés, malgré toute technique, aux enfoncements, aux dépressions, aux perspectives parfaites ? Les coups de pouce créent des trous et des épaisseurs qui constituent des reliefs autrement puissants, autrement évidents que les trop difficilement illusoires taches du pinceau.</p>
+          <p>Dispute de métiers ? Non ! Querelle d’art essentielle, éternelle.</p>
+          <p>Rosso s’en pénétrait, s’en imprégnait à mesure qu’il se développait. Nature sensuelle et sentimentale, il ne pouvait se satisfaire que par le rendu des sentiments et des sensations, en leur immédiate et extrême acuité.</p>
+          <p>S’étant tiré des ennuis de caserne avec quelques portraits d’officiers, il avait vingt-trois ans, quand on le libéra. Alors il essaya consciencieusement de se parfaire chez quelques maîtres milanais, Magni, Calvi, Villa ; mais ne put s’accorder avec aucun. Rien de ce qu’il ébauchait personnellement ne leur plaisait ; rien de ce qu’ils lui faisaient faire ne le satisfaisait. Il vendit quelques études, prit un atelier et s’affranchit.</p>
+          <p>D’abord, répugnant à l’isolement, il fut saisi par une fièvre de prosélytisme qui le jeta dans l’apostolat. Ne mettant plus les pieds à l’École, il attendait ses camarades à la sortie des cours ; et, loquace, persuasif, les haranguait, les endoctrinait. Il réunit 250 signatures au bas d’une protestation typique qu’il avait rédigée contre l’enseignement officiel et dans laquelle il demandait entre autres réformes qu’on ne donnât pas toujours les mêmes modèles de nu, uniquement masculins ; qu’on admît aux séances des modèles femmes et enfants ; enfin que l’on cessât d’enseigner l’anatomie sur des bonshommes en carton pierre. Il y eut tumulte et bagarre. L’École fut fermée.</p>
+          <p>Alors les 250 signataires, peu rassurés sur les conséquences de leur mutinerie, lâchèrent peu à peu.</p>
+          <p>Rosso se retrouva bientôt seul, brouillé avec tous. Rebuté, le réfractaire ne voulut plus compter qu’avec lui-même. D’où lui venait donc cette foi intransigeante ? Quel maître s’était imposé à lui en dehors de ses professeurs académiques ? Aucun. Toutes ses connaissances en histoire de l’Art s’arrêtaient alors à Houdon et à Rude. Là-bas on n’enseignait pas même le nom de Carpeaux. Si Medardo avait ouï parler de Bonnington, il ignorait complètement Manet et ne pouvait même soupçonner qu’il existât par-delà les Alpes un Degas, déjà patriarche en ce domaine conquis de l’Art Impressionniste que le jeune Piémontais fruste et génial concevait personnellement dans son coin d’atelier.</p>
+          <p>Je le répète : il ignorait Carpeaux ; et cependant, il construisait déjà cette frétillante tête de <hi rend="i">Gavroche</hi> que les barnums d’art ont promenée à travers toute l’Europe, à Rome, à Vienne, à Londres, à Paris, — cette tête narquoise de brèche-dents aux yeux flambants, à la face ridée, plissée, convulsée par l’impitoyable éclat de rire, — ce petit masque sonore et cynique où tinte la blague amère du voyou puéril et profond qui a déjà souffert comme un vieillard, qui a jugé la farce humaine et sait que le mieux est de s en gausser pour s’y résigner.</p>
+          <p>Les deux essais qui suivirent menèrent Rosso à réaliser des effets de plein air : une <hi rend="i">Servante riant</hi> et une <hi rend="i">Vieille Femme campée au Soleil</hi>.</p>
+          <p>Une autre étude est, je crois, antérieure : <hi rend="i">La Mère et l’Enfant endormi</hi>, où se manifeste déjà la volonté de tout sacrifier à l’immédiate sensation. La mère penchée, figure contre figure, sur le bambino, s’efface, disparaît presque pour laisser toute la place dans le groupe au sujet qui a le plus frappé l’artiste : le visage du petit. Et c’est au point que celui-ci apparaît presque plus grand que le visage atténué de la mère.</p>
+          <p>Nous voici en 1884. Rosso ignore encore Daumier : et cependant il exécute le <hi rend="i">Chanteur sans engagement</hi>, autre recherche de plein air. Le cabotin raté est pris un soir, dans la rue, lamentable, éreinté, loqueteux, avec cependant une libre allure de bohème qui défie la mauvaise fortune. Puis vient une <hi rend="i">Impression de femme sous un parapluie</hi>. Puis deux morceaux de haute importance : la <hi rend="i">Maquerelle</hi> et l’<hi rend="i">Ivrogne</hi>, — celui-ci délicieux et sublime d’hébétude et d’effondrement, avec un peu de vigueur encore dans une touffe de cheveux qui ondule, vivace et drue ; tout le reste est éteint et flasque. Le regard des yeux meurt comme étouffé sous la lourdeur des paupières tombantes ; là déjà, sans le concours d’aucune patine, le maître peintre qu’a voulu rester Rosso sculpteur a su rendre saisissable par la mise en valeur l’éclat pourpré du nez en fraise, la violâtre bouffissure des joues.</p>
+          <p>Puis, la <hi rend="i">Juive</hi> : une tête d’amante reposant sur un oreiller de plaisir, le front charnu, la bouche tendre et molle, gonflée de volupté, bouche de baiseuse facile. Ce n’est qu’une figure, presque un profil noyé d’ombre ; mais toute la créature s’y résume de la tête aux pieds. À la contempler on se sent enveloppé d’une tiédeur de draps, bercé par un ronron de soupirs, étreint, routé, en traîné vers quelque momentané oubli de soi, sourdement animal.</p>
+          <p>À mesure que l’œuvre se poursuit et se tasse sous le travail acharné, les idées de l’artiste s’éclairent et mûrissent. Il perçoit plus nettement ses tendances instinctives. Il sait bien où il va. Pourquoi la plupart des ressources qu’offre l’art de sculpter ont-elles été dédaignées par tant de générations ? Pourquoi la sculpture n’a-t-elle été le plus souvent considérée que comme la science des traits arbitrairement figés, des formes enserrées en des conventions linéaires, — vaine méthode d’équilibrisme puéril et de manèges monotones ? La statuaire doit-elle donc se voir condamnée à demeurer une branche inférieure du métier décoratif ? Si les éternels néo-anciens s’obstinent à comprendre ainsi leur mission, ne faut-il pas les laisser à ce rang subalterne ? Et n’est-il pas manifeste qu’avec de la glaise, de la pierre, du bois, de la cire, du marbre, du bronze, l’artiste intelligent et sensible peut suivre les expressions de la réalité, les mouvements de la mécanique humaine, la coloration, le proportionnement des êtres et des choses selon leur place et leur attitude dans l’atmosphère ?</p>
+          <p>L’éternel « Nu » rigide des académies ne correspond qu’à un parti pris décoratif. Fougueusement emballé, Rosso chevauche ces théories d’avant-garde. Il ne veut plus considérer son atelier que comme un magasin de dépôt. Son champ de travail est ailleurs, en plein air, dans la rue. C’est ainsi qu’il exécute son <hi rend="i">Coup de Vent</hi>, un prêtre dont la robe est soulevée par une bourrasque et traité de dos, sans que le devant soit exécuté. L’artiste n’ayant vu que l’envers de son modèle, devait-il en modeler l’endroit ? Si l’impression a été bonne et si l’expression est fidèle, le reste ne doit-il pas se déduire naturellement ?</p>
+          <p>Tout un plan de vie artistique découle de cette première affirmation. Rosso ne traitera plus que ce qu’il aura <hi rend="i">vu</hi>. Il envoie à l’exposition de Milan ses premières études. Quelques partisans se prononcent : Mose Bianchi, Véla, l’auteur du Napoléon mourant de Versailles, et jusqu’à un professeur de l’Académie de Turin, Tabacchi. Sinon la faveur, au moins l’attention du public est acquise. Avec le peu d’argent que Rosso gagne en exécutant la médaille commémorative de l’Exposition, il part pour Rome. Un bronzier lui a fondu à crédit quelques épreuves. Il les expose et pour cela vide le fond de sa maigre bourse. Beaucoup de bruit, mais peu de vente. Tant que dure cette nouvelle exposition, le Piémontais va, chaque soir, coucher à la belle étoile parmi les ruines suggestives du Colisée. Il ne déjeune ou ne dîne que les jours où son renom naissant lui vaut quelque invitation. Sans un sou, n’ayant plus que son permis de retour, il rentre à Milan. Or il y trouve une lettre venue de Vienne depuis quinze jours et lui demandant le prix de tous ses ouvrages. Marché rapidement conclu. Rosso vend une épreuve de chacune de ses études. Au même moment un de ses amis, ingénieur à Paris, le prie de lui envoyer quelques pièces qu’il essaiera de placer. Bonnes nouvelles aussi, de ce côté. Thomas, l’éditeur du boulevard Malesherbes, qui a si vigoureusement poussé Carrière, s’intéresse à l’impressionniste piémontais et se déclare acquéreur. Sur ce nouvel argent, quelques dettes payées, Rosso prélève vingt-huit francs, obtient un permis d’aller et retour et vient à Paris. Il loue dans un garni de la rue Amelot, pour 50 centimes par jour, le droit de coucher sur une paillasse, sous un escalier. Le matin, il doit attendre que quelque chambre de passe soit vide de couples amoureux pour aller y faire sa sommaire toilette.</p>
+          <p>Il rêvait de Paris : il y est. Mais cette façon d’apparaître en notre capitale n’est pas la bonne pour s’y présenter. L’auteur du <hi rend="i">Gavroche</hi> s’en rendit si bien compte qu’il se borna à quelques tours dans les musées, et n’osa aller ni chez Thomas, ni chez Georges Petit, lequel venait pourtant de réunir quelques œuvres du Piémontais et de les exposer, <hi rend="i">proprio motu</hi>, chez lui.</p>
+          <p>Le séjour ne fut pas long. Revenant à Milan, Rosso rapportait de chez nous, outre un grand enthousiasme pour l’animation parisienne, la satisfaction d’avoir constaté que le niveau artistique de la Cité Transalpine, si monté fût-il, laissait encore de la marge aux révolutionnaires. Tout au moins le très particulier problème d’art qu’il s’était posé, lui, Rosso, n’avait-il pas encore été plus résolu par les artistes français que par les sculpteurs milanais. Il était donc encore possible de poursuivre les recherches premières, sans crainte d’avoir été devancé.</p>
+          <p>C’est seulement rentré chez lui que Rosso apprit que son ami de Paris avait, toujours à son insu, exposé ses cires et ses bronzes au Salon des Champs-Élysées et au Salon des Indépendants. Il sut même par quelques découpures de journaux qu’il n’était pas passe inaperçu de la critique. Tout cela n’est pas grand-chose encore mais c’est assez pour compter à Milan et à Vienne. Par un voyage en cette ville, Medardo peut constater que son marchand « <hi rend="i">tient à lui</hi> ». Le bon commerçant se met en quatre pour le recevoir, le nourrit, le loge et lui paye quelques petites fêtes pour l’accaparer et pour l’empêcher de céder aux sollicitations de certains concurrents.</p>
+          <p>Rosso ne regagne l’Italie que bercé des plus flatteuses espérances, un tantinet engraissé, les goussets garnis, muni de provisions et de commandes.</p>
+          <p>À la besogne ! Il s’agit maintenant d’exécuter un monument funéraire. Voilà, du coup, l’impressionnisme aux prises avec l’Art Décoratif. Comment s’en tirer sans sacrifier l’un à l’autre ! Rosso imagine de reproduire simplement certaine scène vue de ses propres yeux : une jeune fille ayant retiré ses zoccoli s’étend tout de son long sur un tertre et baise dévotieusement un médaillon fixé au chevet du tombeau. Nouveau conflit : la municipalité juge le sujet profane et c’est à grand peine que l’on vient à bout de ses résistances. Cette œuvre n’est d’ailleurs pas la seule de Rosso qui décore le Campo Santo milanais. On y voit aussi le tombeau du critique wagnérien Filippo Filippi et celui du compagnon de Mazzini, Brusco Onnis. Le Piémontais appréhende de se voir condamné à ne plus travailler que pour les cimetières et veut ôter pour toujours à ses compatriotes le goût de lui renouveler ce genre de commandes. Précisément on vient de décider qu’un monument serait élevé à la mémoire des frères Cairoli. Pour contre-projet, Rosso présente un groupe de garibaldiens estropiés, perclus, culs-de-jatte, manchots, réduits à la mendicité, bousculés par les gens de police. Comme devise : « Aux frères. Cairoli, la patrie reconnaissante ».</p>
+          <p>Une exposition s’organise à Venise.</p>
+          <p>Envoi d’œuvres nouvelles et anciennes ; entre autres, une <hi rend="i">Impression d’intérieur d’omnibus</hi>. Cette pièce d’une hardiesse et d’une force singulières, et dont il ne subsiste aujourd’hui que des débris, fut une œuvre vraiment unique, sans précédent et sans égale. Voici sa genèse : Rosso étant monté dans un omnibus urbain se trouve seul sur la banquette de gauche, ayant pour vis-à-vis cinq personnes sur la banquette de droite : d’abord sa propre concierge, puis une marchande de légumes, un négociant, une jeune ouvrière et un ivrogne. Frappé de cet amalgame de types, il les observe, les croque discrètement, conçoit un tableau d’une extrême intensité pittoresque, rentre à son atelier, construit une maquette sommaire avec les impressions d’ensemble fidèlement rapportées, puis court la ville à la recherche de ses modèles dispersés, les retrouve çà et là, les circonvient un par un et finit par les décider tous à venir poser en amis. Il est parvenu à trouver le point faible de chacun, amour-propre ou intérêt, se les attache, s’en fait des collaborateurs zélés, dociles et patients, et travaille sans relâche jusqu’à achèvement. Cet alignement admirable de cinq personnages, groupés au hasard d’une rencontre dans une voiture publique, cette scène unique traduite en un style sévère et ferme, exécutée grandeur nature avec une audace d’hercule, une délicate et profonde intelligence, un sentiment puissamment pittoresque des valeurs et de la perspective, apparaissait comme l’aboutissement génial d’un énorme effort.</p>
+          <p>Difficile à transporter, l’<hi rend="i">Intérieur d’omnibus</hi> fut brisé durant le trajet de Milan à Venise. Nous n’en avons plus que quelques débris et une photographie, par bonheur, fidèle.</p>
+          <p>Cette catastrophe affligea terriblement Rosso, mais sans le décourager. Il présenta au jury vénitien la <hi rend="i">Juive</hi>, la <hi rend="i">Concierge</hi> et l’<hi rend="i">Ivrogne</hi>. Après avoir accepté ces œuvres, les commissaires de l’exposition, hostiles au Piémontais, lui jouèrent un tour piteux. Le jour de l’ouverture, Rosso ne trouve aucun de ses envois à la place assignée. Furieux, il fouille tous les recoins des galeries, ameute le public, l’entraîne avec lui, finit par découvrir, derrière des caisses, ici la <hi rend="i">Juive</hi>, là l’<hi rend="i">Ivrogne</hi>, et plus loin la <hi rend="i">Concierge</hi>. Il les prend à bras, et, toujours suivi de la foule, les replace sur les cimaises. Protestation des commissaires. Mais la foule prend parti contre eux ; le président du jury s’associe à ce mouvement et déclare qu’il démissionnera si justice n’est rendue à l’exposant évincé. Quelques personnalités mondaines viennent à la rescousse ; et le succès s’annonce et se maintient tel que Rosso, venu dans la Ville des Doges avec un très mince viatique et pour séjourner au plus trois jours, peut s’y oublier trois mois.</p>
+          <p>Autre exposition mouvementée à Londres. Le Piémontais est vivement discuté, mais avec plus de justice, et se sent, sinon aimé, du moins compris. Pourtant Milan le sollicite encore. Il y revient et se remet au travail, décidé à donner un pendant à l’<hi rend="i">Intérieur d’omnibus</hi>. Ce qu’il ébauche alors, c’est une assemblée de bébés amusés par un guignol. Joyeuse et vivante, l’étude s’annonce bien ; mais un deuil cruel l’interrompt. Rosso perd une mère très aimée et demeure de longs mois dans un abattement profond qui lui ôte toutes facultés et tout courage.</p>
+          <p>Ce n’est qu’en 1887 qu’il se ressaisit et donne alors, repris d’une fièvre féconde, et presque coup sur coup : l’<hi rend="i">Âge d’Or</hi>, l’<hi rend="i">Enfant Juif</hi>, la <hi rend="i">Rieuse</hi>, l’<hi rend="i">Enfant Malade</hi> et l’<hi rend="i">Impression d’Enfant au Soleil</hi>,</p>
+          <p>D’abord, l’<hi rend="i">Âge d’Or</hi> : une jeune fille enlève de terre un petit enfant et lui baise la joue avec une brusquerie goulue et passionnée de franche méridionale. De la jeune fille, juste ce qu’il faut pour l’indiquer, sèche, nerveuse et vive : un profil perdu, un allongement des lèvres, un mouvement de bras nu, frêle et robuste. Au contraire, le visage de l’enfant, montré de face, se contracte en une grimace violente sous le choc de la trop forte caresse qui lui a donné peur et le fait crier. La <hi rend="i">Rieuse</hi>, une tête de belle fille renversée dans un coup de gaîté ; l’<hi rend="i">Enfant Malade</hi>, langueur angélique d’une mignonne tête inclinée, lasse et douloureuse de petit condamné que mine la consomption. Les paupières se ferment comme pour un sommeil sans réveil ; et les lèvres faibles tremblent l’exhalaison lente d’une plainte douce et mourante. — L’<hi rend="i">Enfant Juif</hi> : autre face de bébé, toute béante, toute ravie, avec un rien de songerie grave dans le regard fixe et réfléchi. Dans le premier jet de la composition, l’enfant était tenu par sa mère. La jugeant inutile, Rosso l’a supprimée ; et, le résultat ayant été bon, ce fut une indication pour le scrupuleux impressionniste : pour traiter à fond un sujet, lui accorder d’abord une ambiance en traitant du même coup les êtres et les choses qui le touchent de près, — puis, au dernier moment, détruire tout ou partie de ces accessoires et n’en conserver que ce qui ferait défaut à la fidèle traduction des valeurs observées.</p>
+          <p>L’Exposition Universelle de 1889 appelle enfin Rosso à Paris. Cette fois, il y trouve un public d’art très informé et reçoit un chaud accueil. Mais le voici malade, transporté à Lariboisière. Le directeur de la maison, Louis Gallet, bienveillant aux intellectuels, le met à même de poursuivre ses travaux.</p>
+          <p>Ce séjour a valu à Rosso l’une de ses plus poignantes impressions : le <hi rend="i">Malade d’hôpital</hi>. Tout l’épuisement d’une rude existence à bout halète en cette fragile silhouette d’un pauvre corps tremblant, vacillant, effondré en son fauteuil trop large, ployant sous l’uniforme trop dur et trop lourd pour son échine rossée : les bras mous, les mains faibles, les épaules écrasées, le col rompu, le front pendant.</p>
+          <p>Cependant, tandis que le Piémontais peine à l’hospice, quelque bruit s’est fait autour de son nom. Des curieux d’art veulent le connaître. Le maître Rodin offre spontanément l’échange de la <hi rend="i">Rieuse</hi> contre une de ses propres œuvres : Le célèbre collectionneur Rouart commande son portrait à Rosso. Degas, lui-même, rarement prodigue d’éloges, émet les plus flatteuses appréciations.</p>
+          <p>Mais, dès la sortie de Lariboisière, c’est la misère noire. Où aller ? Où manger ? Comment travailler ? L’argent des dernières ventes a payé les matériaux d’exécution. Si près du but, le Piémontais va-t-il crever sur le trottoir, vagabond et famélique ? Il ne sait demander. Il n’ose. Mais le voilà sauvé. M. Rouart a discrètement veillé sur lui. Le collectionneur fait les frais d’un logement et d’un atelier au boulevard Voltaire.</p>
+          <p>Rosso exécute le portrait ; puis met un frein à sa veine de production. On respire à Paris une étrange atmosphère, on ne s’y sent pas seul à lutter, à chercher, parmi les cohues routinières. Les idées d’avant-garde promenées naguère de Milan à Vienne et de Vienne à Venise sont ici aussi des idées d’avant-garde ; mais, sur cette extrême lisière de l’art, d’autres isolés poussent des pointes hardies, défrichent d’autres coins inexplorés. Il faut se concentrer, méditer, se bien connaître, prévenir les influences, garder son allure et ses conceptions propres avant de se risquer. Au lieu de profiter des quelques avances tentatrices, au lieu de se répandre et de produire, il faut se replier sous sa tente, étudier seul, se garder contre les épanchements trop prompts, se calfeutrer et attendre.</p>
+          <p>Rosso subsiste en écoulant des reproductions d’antiques, en trouvant des patines pour des moulages de choix et s’interdit pour quelques mois tout effort de création. Mais ce n’est qu’une brève lacune.</p>
+          <p>Ses œuvres pénètrent peu à peu dans les plus difficiles et les plus illustres collections : Rouart, Chéramy, de Montaignac, Faure, Munkaczy, Hazard, Groult, comte Doria, etc., etc. La confiance vient. L’ardeur renaît.</p>
+          <p>L’exposition de 1893, à la Bodinière, donne à Rosso la pleine mesure de ses moyens. Il quitte le boulevard Voltaire, installe sa première fonderie rue Cauchois et se lance dans des études d’un ordre nouveau et d’une extrême audace :</p>
+          <p>La <hi rend="i">Femme sortant de l’Église</hi> : figure gazée d’une longue voilette flottante, émergeant vive et franche, au grand jour d’une obscure décoration façonnée en impression de portail ; — le <hi rend="i">Sportman</hi>, homme de belle santé, pris en plein soleil sur un champ de courses, insolemment campé, le gibus provoquant, le veston tendu, fouetté d’air vif, trempé de soleil ; — l’<hi rend="i">Enfant au sein</hi>, vorace, animalement absorbé par sa succion goulue, la joue ballonnée, pétrissant de sa menotte grasse et forte la bonne et tendre mamelle qui palpite hors de la chemise froissée ; — la <hi rend="i">Cantatrice</hi>, impression de femme faite pour un éclairage très spécial, blanche figure à peine dégagée de la matière et qui semble d’abord indistincte, à peine dessinée par quelques traits d’esquisse, puis, peu à peu, s’éclaire, s’agite, s’anime sous le regard, se complète, s’exprime et se béatifie en l’exaltation de quelque vocalise éperdue.</p>
+          <p>Aujourd’hui, Rosso s’est mis dans ses meubles. Il a installé sa fonderie dans un terrain vague de la rue Caulaincourt. C’est de là qu’est sortie sa dernière œuvre, cette étonnante impression d’Yvette Guilbert qu’il faut voir au clair du lustre et de la rampe, comme nous la dépeignîmes en une récente chronique, « penchée de trois quarts, le cou tendu, rigide, — figée en sa pose de théâtre, devant son public, mais comme séparée de lui, s’isolant, se repliant, jouissant par elle-même de ce qu’elle chante pour elle-même, précieuse, minaudière et violente, pointue et câline, pincée, insolente, exquise d’afféterie spirituelle ».</p>
+          <p>Cette tendance à rechercher des éclairages spéciaux est le fond même de sa présente conception d’art. Et c’est précisément cette conception qu’il aura réalisée le jour où l’on ne pourra comprendre quelqu’une de ses œuvres nouvelles qu’en l’envisageant d’une seule manière. On ne tourne pas autour d’une forme pour en concevoir l’impression ; et quand il s’agit de traduire cette impression, en toute intensité, on ne peut espérer créer une image réellement vivante, animée, colorée, qu’en adoptant la position, le mouvement et l’éclairage qui ont favorisé la révélation initiale et sensationnelle au sujet.</p>
+          <p>Ce qui impressionne dans ce sujet, c’est son allure, c’est la perspective, c’est le jeu des valeurs. Rien n’existe en dehors. Tous détails du modèle considérés en dehors de ces impressions correspondent à des idées préconçues et ne peuvent que gâter la limpide et franche traduction.</p>
+          <p>Et quelle navrance pour l’artiste animé de cette exclusive préoccupation, lorsqu’il parcourt les longues galeries des musées où somnole l’Histoire de l’Art, où stagnent et croupissent tant de choses mort-nées et aussi tant de presque chefs-d’œuvre auxquels il n’a manqué que ce rien de volonté originale, intelligente et consciente pour qu’ils fussent revêtus du signe d’immortalité, sauf lequel il n’est point de parfaite beauté ! Tout n’est qu’imitation inférieure des quelques rares efforts personnels qui synthétisent une époque et marquent un pas en avant dans la lente conquête. Tout n’est qu’abâtardissement et emprunt. Il faut remonter bien haut dans les origines pour y découvrir les types créateurs et purement géniaux auxquels se rattache en sa triste sujétion toute notre moderne humanité esthétique. Qu’auraient laissé depuis quatre ou cinq siècles les plus puissants entre les puissants, Buonarotti, Donatello, Ghiberti, Houdon, Rude, Carpeaux, sans leurs directes ascendances ? Si l’on excepte quelques merveilles du cycle macédonien, quelques monuments de l’art égyptien, puis, dans l’art grec, le Torse de Phidias et les Parques du British Museum, et, dans l’art romain, certains fermes portraits tels que le Vitellius — non point le beau garçon du Louvre — mais bien celui du Vatican, si l’on consulte les chronologies de la statuaire après les vestiges de ces périodes de création pure, où trouve-t-on l’artiste ingénu et sublime qui ne sache s’inspirer que de la Nature et que de lui-même et se risque à n’exploiter qu’un filon vierge ?</p>
+          <p>Et pourtant la sculpture serait le plus accompli des arts graphiques, le plus sensible, le plus proche de la Nature si elle cessait de se subordonner à l’architecture et à l’ornementation. Que signifient ces monuments en découpures dont les nobles et vains modelages se profilent comiquement sur des fonds disparates et hors de raison ? Les sculpteurs traditionnels n’ont, en cet ordre d’idées, rien effectué de mieux que ce que représenterait un morceau moulé sur nature ; et dans ce cas, pourquoi modeler et ciseler ? pourquoi ne pas mouler, simplement ?</p>
+          <p>À quoi le Piémontais, lui, répond énergiquement :</p>
+          <p>— Quand je pourrai en outre d’une figure mouler l’atmosphère où elle baigne, la couleur qui l’anime, la perspective qui la soutient, le sentiment qui la fait palpiter, alors, moi aussi, comme tant d’autres font depuis tant d’années, je moulerai… Mais on n’obtient une <hi rend="i">vraie</hi> forme pas plus en moulant qu’en copiant intrinsèquement une figure. La <hi rend="i">forme</hi> est un résumé des impressions dictées à la main de l’artiste par la sensibilité de son cerveau, de même que la dominante de toute forme, c’est le premier point par lequel cette forme a sollicité la contemplation. Quand je me promène avec un ami dans un musée et qu’il me montre les chefs-d’œuvre catalogués, certes, je les admire avec lui. Mais en même temps, je me confirme qu’il serait plus sain, une fois au travail, d’oublier mes admirations stériles et de ne me rappeler que ce que j’ai vu de plus vivant dans le musée et de vraiment intéressant à bien <hi rend="i">copier</hi> : les gens qui s’y promènent, comme mon ami et moi.</p>
+          <p>Certes, la question d’art ainsi posée montre un but singulièrement élevé à l’effort au chercheur ; et lui seul peut donner ce que ne donnera jamais le praticien décorateur doublé de son mouleur. Il doit créer des êtres essentiels, charpentés d’une souple ossature, animés d’une pensée, vivant dans une atmosphère, donnant l’aspect d’une créature qui s’agite et qui respire.</p>
+          <p>Il faut au sculpteur le sens de la perspective et de la couleur.</p>
+          <p>De la perspective ? Il y en a en tout : en une tête comme en un corps ; en un corps comme en un paysage.</p>
+          <p>De la couleur ? S’agit-il donc de polychromie ou de patine ? La polychromie est froide et inefficace. Elle n’aboutit qu’à une coloration conventionnelle, arbitraire et mate. Quant à la patine, une des œuvres de Rosso, le <hi rend="i">Gavroche</hi>, lui a presque exclusivement servi à l’essai des patines. Pour cette tête, il a éprouvé tous les tons de métaux, d’oxydations, de fumée, de vieilles pierres, et s’est ainsi convaincu que le seul intérêt des patines réside en une appropriation médiocre aux convenances ambiantes du décor, de l’ameublement, etc., etc. Il n’y a qu’une patine effective : celle qu’a donnée le cerveau à la conception. Préméditer la traduction des valeurs en construisant, voilà tout le fin de la recherche. Si certaines œuvres anciennes ont gagné quelque effet inattendu à la patine du temps, c’est que la prévision de l’artiste avait préparé cette adonisation en proportionnant soigneusement, en mettant dans sa charpente tout ce qu’il fallait, sans rien de superflu. Dès lors, toutes les patines peuvent s’appliquer ; mais une seule aura fait œuvre d’art, — la patine initiale, celle qu’ordonna préalablement le cerveau de l’artiste en réglant la composition et la construction sur le sentiment exact des valeurs et de la perspective.</p>
+          <p>Nous n’avons vu Rosso pleinement satisfait que le jour où montrant la photographie de la <hi rend="i">Marchande de légumes</hi>, fragment de son <hi rend="i">Ultérieur d’omnibus</hi> au maître Degas, celui-ci se récria :</p>
+          <p>— Mais c’est la photographie d’un tableau que vous m’apportez-là ?</p>
+          <p>Et de ce jour le Piémontais s’est senti récompensé de son infaillible foi en l’indivisibilité de l’Art, — d’avoir passé outre aux vulgaires sollicitations d’une tradition facile et vaine, — d’avoir aimé la vie et ses réalités pures au point d’assujettir tous ses dons et toutes ses habiletés à l’âpre, à l’intransigeante loi des valeurs, — ne consentant à s’affirmer que le jour où il se trouva révélé à lui-même devant une page de Baudelaire, qui se dresse, hautaine et méprisante, comme une provocation jetée à l’impuissante vanité des modeleurs :</p>
+          <p>— « C’est en vain que le sculpteur s’efforce de se mettre <hi rend="i">à un point de vue unique</hi>. Le spectateur qui <hi rend="i">tourne autour de la figure</hi> peut choisir cent points de vue différents, excepté le bon ; et il arrive souvent — ce qui est humiliant pour l’artiste — qu’un <hi rend="i">hasard de lumière</hi>, un <hi rend="i">effet de lampe</hi> découvrent une beauté qui n’est pas celle à laquelle il avait songé. Un tableau <hi rend="i">n’est que ce qu’il veut</hi> ; il n’y a pas moyen de le regarder <hi rend="i">autrement que dans son jour</hi>. La peinture n’a qu’un point de vue ; elle est exclusive et despotique. Aussi <hi rend="sc">l’expression du peintre est-elle bien plus forte</hi>. »</p>
+          <p>Or, envisagez les récentes œuvres du Piémontais : le <hi rend="i">Sportman</hi>, le <hi rend="i">Malade d’hôpital</hi>, la <hi rend="i">Cantatrice</hi>, la <hi rend="i">Femme à la Voilette</hi> ; puis sans <hi rend="i">tourner autour de la figure</hi>, en vous plaçant à tel <hi rend="i">point de vue unique</hi> que vous commanderont le <hi rend="i">hasard de lumière</hi> et l’<hi rend="i">effet de lampe</hi> cherchés : renoncez à les considérer <hi rend="i">autrement que dans leur jour</hi> ; et convenez que <hi rend="sc">l’expression d’un peintre ne serait pas plus forte</hi> ; que cette réalisation artistique, n’est, elle aussi, <hi rend="i">que ce qu’elle veut</hi> ; et que le défi de Baudelaire est ici crânement et magistralement relevé.</p>
+          <dateline>Février 96.</dateline>
+        </div>
+        <div>
+          <head>Épilogues. 
+<lb/>Lettre à M. d’Annunzio</head>
+          <index>
+            <term type="id">article-1896-03_411</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">Remy de Gourmont</term>
+            <term type="section">Épilogues</term>
+            <term type="title">Lettre à M. d’Annunzio</term>
+            <term type="date">1896-03</term>
+            <term type="ref">Tome XVII, numéro 75, mars 1896, p. 409-413 [411-413]</term>
+          </index>
+          <byline><hi rend="sc">Remy de Gourmont</hi>.</byline>
+          <bibl>Tome XVII, numéro 75, mars 1896, p. 409-413 [411-413].</bibl>
+          <p>Ce qu’il y a de plus grave en votre aventure, Monsieur, c’est l’amitié littéraire que vous a vouée M. Gaston Deschamps, écrivain léger et dont les jugements font sourire. Ce critique n’a aucune autorité parmi nous, car nous jugeons qu’il y a un plagiat bien plus répugnant que celui des phrases, c’est le plagiat des formes intellectuelles. Naturellement amorphe, M. Gaston Deschamps a eu la patience, tel un plâtrier italien, de mouler sur le vif différentes parties de plusieurs cerveaux et de se composer ainsi, au moyen de pièces rapportées, un habitacle qui n’eût pas l’air, tout d’abord, d’avoir été dérobé : les morceaux les plus gros de cette construction alvéolique sont la bonhomie féline de M. Jules Lemaître et le détachement dédaigneux de M. Anatole France. Il fait, comme le premier, profession de s’intéresser à tout en laissant deviner, comme le second, qu’il méprise tout ; mais sa véritable nature est celle des faibles et des impuissants, l’esprit d’imitation, avec son revers, l’esprit de contradiction. S’il vous a mis dans ses prônes, ce fut pour faire comme M. de Vogüé, et ce fut encore pour singer cet ancien ambassadeur qu’il se donna en Italie la mission que M. Thovez vient d’écourter si brusquement. La part de l’esprit de contradiction, c’est ceci : qu’il songeait moins à vous exalter pour vous-même qu’à se servir de votre gloire pour écraser, comme d’une roue, les nouveaux écrivains français indociles à ses manipulations d’apothicaire. Car si j’ai dit roue, Monsieur, c’est que la gloire est un orbe, figurativement, mais vous n’étiez entre ses mains qu’un pilon avec lequel il rêvait de broyer dans le même mortier toutes les cervelles mal pensantes.</p>
+          <p>Je vous crois trop intelligent pour admettre la sincérité d’un enthousiasme touchant la Renaissance latine ; vous savez, ayant lu Tolstoï, Nietzsche, Ibsen, et les Français et les Anglais, vous savez qu’il n’y a pas plus, à cette heure, d’esprit latin qu’il n’y a d’esprit russe ou d’esprit scandinave ; il y a un esprit européen et, ici et là, des individus qui s’affirment uniques, personnels et entiers. Alors la prétention d’une Renaissance latine se dévêt et la voici nue : joujou mal fait avec lequel on voulait amuser le public et l’empêcher, ne fût-ce que durant quelques heures, de prendre garde à l’étrange sensation de l’Idée qui lui souffle dans les cheveux… Renaissance latine : la volupté pure et simple, la beauté plastique, quelques-uns de ces mots qui ne simulent e mystère que par ce qu’ils contiennent de peur, l’amour, a mort, un dosage heureux de Pétrarque et de Léopardi. Enfants, semez des roses, voici la mort qui passe, mais sémerez-vous assez de roses pour assourdir les pas de la foule qui se rue vers le grand désastre, assez de roses pour boire le sang des veines écrasées, assez de roses pour que l’odeur des roses étouffe dans les gorges les sanglots de la joie et les cris de la haine ?…</p>
+          <p>Renaissance latine ! Ainsi c’était vous, Monsieur, qui du fond de l’Italie désolée, ravagée par les recors, effeuillée par la folie sénile d’un Mazarinet, vous qui du fond de la terre des morts alliez surgir, chêne dodonique, sonore de prophétiques œuvres ? Vous qui alliez, seul debout en face de l’universelle angoisse, réduire à des jeux d’amour et à des pluies de fleurs tout le spectacle intellectuel ? Prenez un lys et mettez-vous à la tête du cortège : nous célébrerons dignement les funérailles de la Renaissance latine.</p>
+          <p>Pour ce que l’on vous reproche ? Non ; c’est si peu de chose. M. de Vogüé haïssait les <hi rend="i">Fleurs du mal</hi>, mésestimait la <hi rend="i">Tentation</hi>, ignorait Maeterlinck, méprisait l’<hi rend="i">Éthopée</hi> totalement, jugeait que Verlaine en vérité revêtait des toges de trop peu de cérémonie : — et voici que, transportés en votre jardin, il admire ces œuvres, il aime ces hommes ! Cette aventure ne vous grandit pas, mais elle déprécie peut-être moins votre talent qu’elle ne diminue l’autorité professionnelle d’un jardinier si mal instruit. Quant à M. Gaston Deschamps, il fut penaud ; il ne fut que cela.</p>
+          <p>N’ayez pas de chagrin d’un tel malentendu et croyez que si nous goûtâmes les autres en vous, nous y goûtons aussi vous-même, et avec moins de défiance que vous ne pourriez le supposer. Est-ce donc un crime si turpide que d’avoir vulgarisé en Italie quelques belles phrases ? À quoi donc, depuis qu’il prit sa retraite, s’occupa M. de Vogüé, sinon à vulgariser la pensée d’autrui ? Besogne honorable, même ; mais enfin, besogne et rien de plus. Et que fait M. Gaston Deschamps et que font tous les doumiculets sinon de vivre à même autrui, en dépeçant l’organisme qui les fait vivre ? Si à cette heure, Monsieur, vous surpreniez à rougir de vous quelqu’un de ces parasites, laissez-les rougir et laissez-les dire : entre vous et le critique il y a encore la différence qu’il y a entre le fondeur de cloche et le bedeau qui la sonne.</p>
+          <p>Cependant, ne recommencez pas et triez vos amis : les Thovez sont les moins dangereux, — <hi rend="i">cave canem</hi>. Songez à n’être que vous-même ; ne prétendez pas, comme votre pays, vous enrichir par des emprunts étrangers ; ne rêvez pas d’une gloire immodeste, de tout une forêt de lauriers : celui qui vous est dû suffira à vous tenir en joie avec ses petites fleurs roses et ses belles feuilles vertes. Enfin, n’intitulez pas un roman le <hi rend="i">Triomphe de la Mort</hi>, cela appartient à Pétrarque ; ou les <hi rend="i">Vierges aux Rochers</hi>, c’est au Léonard ; ni une trilogie, les <hi rend="i">Romans de la Rose</hi> : on croirait que vous avez plus d’ambition que d’imagination.</p>
+        </div>
+        <div>
+          <head>Les Livres. 
+<lb/><hi rend="i">L’Arte europea a Venezia</hi>, par Vittorio Pica (Naples, Luigi Pierre)</head>
+          <index>
+            <term type="id">article-1896-03_429</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. de Gourmont</term>
+            <term type="section">Les Livres</term>
+            <term type="title"><hi rend="i">L’Arte europea a Venezia</hi>, par Vittorio Pica (Naples, Luigi Pierre)</term>
+            <term type="date">1896-03</term>
+            <term type="ref">Tome XVII, numéro 75, mars 1896, p. 423-432 [429]</term>
+          </index>
+          <byline><hi rend="sc">R. de Gourmont</hi> [Remy de Gourmont].</byline>
+          <bibl>Tome XVII, numéro 75, mars 1896, p. 423-432 [429].</bibl>
+          <p>C’est, à propos de l’exposition de Venise, comme un manuel de l’art européen d’aujourd’hui. Les œuvres de plusieurs centaines d’artistes y sont commentées ou notées, depuis les P. R. B. jusqu’aux néo-impressionnistes, de Rossetti à Armand Seguin. Un tel livre, outre qu’il est agréable à lire, demeure, par la suite, utile.</p>
+        </div>
+        <div>
+          <head>Échos divers et commentaires [extrait]</head>
+          <index>
+            <term type="id">article-1896-03_442</term>
+            <term type="author">Legrand, Marc (1865-1908)</term>
+            <term type="signed">Marc Legrand</term>
+            <term type="section">Échos divers et commentaires</term>
+            <term type="title">Échos divers et commentaires [extrait]</term>
+            <term type="date">1896-03</term>
+            <term type="ref">Tome XVII, numéro 75, mars 1896, p. 439-442 [442]</term>
+          </index>
+          <byline><hi rend="sc">Marc Legrand</hi>.</byline>
+          <bibl>Tome XVII, numéro 75, mars 1896, p. 439-442 [442].</bibl>
+          <salute>Mon cher Vallette,</salute>
+          <p>Voulez-vous m’aider à mettre mes confrères en garde contre les procédés par trop d’« Annunziens » d’un certain Alexandre Dréville ?</p>
+          <p>Cet écumeur de rimes a en effet reproduit in-extenso (en en gâtant deux vers, il est vrai) et signé, dans la <hi rend="i">Fraternité</hi> du 13 février courant, une poésie, <hi rend="i">Baise-Main</hi>, que je publiai voilà six ans dans le <hi rend="i">Réveil du Quartier Latin</hi> (Nº du 1<hi rend="sup">er</hi> Décembre 1889). Je vous laisse juger si c’est flatteur pour moi et je vous prie d’agréer ma meilleure poignée de main.</p>
+          <signed><hi rend="sc">Marc Legrand</hi>.</signed>
+        </div>
+      </div>
+      <div>
+        <head>Tome XVIII, numéro 76, avril 1896</head>
+        <div>
+          <head>Épilogues. 
+<lb/>Abyssinie</head>
+          <index>
+            <term type="id">article-1896-04_127</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">Remy de Gourmont</term>
+            <term type="section">Épilogues</term>
+            <term type="title">Abyssinie</term>
+            <term type="date">1896-04</term>
+            <term type="ref">Tome XVIII, numéro 76, avril 1896, p. 127-129 [127-128]</term>
+          </index>
+          <byline><hi rend="sc">Remy de Gourmont</hi>.</byline>
+          <bibl>Tome XVIII, numéro 76, avril 1896, p. 127-129 [127-128].</bibl>
+          <p>Il n’y a un peu de plaisir dans la vie qu’à dire presque ce que l’on pense ; c’est un plaisir que peu de gens osent se donner, car je n’ai lu nulle part l’aveu de la satisfaction qu’éprouva ici l’unanimité à la nouvelle de la tragi-comique bousculade du Mareb. Seuls, les journaux illustrés s’amusèrent, car ils sont obligés pour plaire d’être le miroir de l’opinion du passant, et ce furent de cruelles chasses aux lièvres. L’Italie une, royale, militaire, crispinienne, vantarde et savoyarde, n’a guère de sympathies en France, et l’on se rit de ces hâbleurs, toujours prêts à passer les Alpes, que des barbares armés de lances ont su faire dégringoler du haut de sommets moins majestueux. Ensuite, il y a malgré tout en France (et en Europe) une vieille fraternité chrétienne, et l’on a trouvé très malpropre l’idée d’aller tourmenter ce vieux et noble peuple qui depuis quinze cents ans, Arménie de l’Afrique, tient tête au stupide fanatisme des Musulmans. Lorsque, dans une attitude à la Charlemagne, un peu arrangée, mais belle, Ménélick s’est laissé aller à pleurer, en contemplant l’armée Italienne qu’il allait faire massacrer, on a trouvé cela très grand, très impérial, et Humbert apparut alors si petit qu’on en eut pitié. Mais l’Italie militaire, ce n’est pas l’Italie vraie, comme l’a indiqué M. Guillaume Ferrero ; mais l’Italie vraie n’est pas non plus celle que suppose cet écrivain ordinairement plus hardi ; l’Italie vraie est celle qui voudrait vivre en paix, dans ses rizières ou sous ses orangers, sans roi, sans bersagliers, sans caporaux, avec seulement quelques braves carabiniers d’opéra-comique, beaucoup de musique, des fêtes, et la joie d’être libre, de penser à vivre et non à tuer. Il en est de même dans toutes les parties de l’Europe un peu civilisées, où, si les hommes avaient le courage d’obéir à la vérité de leurs sentiments, les soldats seraient vraiment à l’aise dans les casernes. N’est-ce pas d’un bon augure, cette émigration des réservistes italiens, qui, devançant l’appel, passent la frontière ? Car il ne s’agit pas de la défense du sol, mais de l’obéissance aux dangereux caprices de médiocres tyrans, roi, ministre, généraux. Oh ! ce Baratieri à la tête en poire ! Ayant vu son portrait, on pouvait écrire d’avance l’histoire de l’armée qu’il croyait commander. Vraiment l’Italie est bien humiliée par ses maîtres, mais ce n’est pas un privilège : le reste de l’Europe ne semble pas gouverné par des supériorités bien avérées.</p>
+        </div>
+        <div>
+          <head>Lettres italiennes</head>
+          <index>
+            <term type="id">article-1896-04_149</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">Remy de Gourmont</term>
+            <term type="section">Lettres italiennes</term>
+            <term type="title">Lettres italiennes</term>
+            <term type="date">1896-04</term>
+            <term type="ref">Tome XVIII, numéro 76, avril 1896, p. 149-150</term>
+          </index>
+          <byline><hi rend="sc">Remy de Gourmont</hi>.</byline>
+          <bibl>Tome XVIII, numéro 76, avril 1896, p. 149-150.</bibl>
+          <div>
+            <head>Romolo Quaglino : <hi rend="i">I Modi, Anime e Simboli</hi>, orné de lithographies en couleurs de Lodovico Cavaleri, in-4, Milan, C. Chiesa, 5 fr.</head>
+            <index>
+              <term type="id">article-1896-04_149a</term>
+              <term type="author">Gourmont, Remy de (1858-1915)</term>
+              <term type="signed">Remy de Gourmont</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">Romolo Quaglino : <hi rend="i">I Modi, Anime e Simboli</hi>, orné de lithographies en couleurs de Lodovico Cavaleri, in-4, Milan, C. Chiesa, 5 fr.</term>
+              <term type="date">1896-04</term>
+              <term type="ref">Tome XVIII, numéro 76, avril 1896, p. 149-150 [149]</term>
+            </index>
+            <p>Les <hi rend="i">Modi</hi> sont l’œuvre d’un poète qui écrit en italien les vers français ; la préface, sous forme de <hi rend="i">Lettre apologétique</hi>, le faisait prévoir : il est tout pénétré de notre littérature et de la plus récente. Il m’a paru que ses vers, où l’on rencontre de jolies images, sont abondants et faciles. Quant aux lithographies, elles témoignent d’un certain sens de l’ornementation en même temps que d’un mauvais goût inexprimable. L’imprimeur peut être fier ; c’est très bien repéré, mais que cela fait aimer le beau, le pur, le divin papier blanc.</p>
+          </div>
+          <div>
+            <head>G. P. Lucini : <hi rend="i">Gian Pietro da Core</hi>, in-16, Milan, C. Chiesa, 3 fr.</head>
+            <index>
+              <term type="id">article-1896-04_149b</term>
+              <term type="author">Gourmont, Remy de (1858-1915)</term>
+              <term type="signed">Remy de Gourmont</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">G. P. Lucini : <hi rend="i">Gian Pietro da Core</hi>, in-16, Milan, C. Chiesa, 3 fr.</term>
+              <term type="date">1896-04</term>
+              <term type="ref">Tome XVIII, numéro 76, avril 1896, p. 149-150 [149-150]</term>
+            </index>
+            <p>Roman, c’est un roman qui se précède de ce sur-titre : « Histoire de l’Évolution de l’Idée ». <hi rend="i">Gian Pietro da Core</hi> n’est que le premier tome de la série ; il est dédié, en un style dont nous ne pouvons respecter la forme lapidaire : <hi rend="i">Aux rêveurs, aux philosophes, aux bafoués, aux martyrs de l’idée… À cette idée…</hi> J’abrège : il s’agit du temps, de l’espace, de la substance, de l’évolution, de la perfectibilité de l’homme, etc. On voit combien M. Lucini est sérieux et plein des plus nobles intentions. Je souhaite vraiment qu’il réussisse, selon son vœu, à améliorer la société.</p>
+          </div>
+          <div>
+            <head>Filippo Ermini : <hi rend="i">La Lirica domestica nelle letteratura contemporanea</hi>, in-16, Rocca S. Casciano, imp de Cappelli</head>
+            <index>
+              <term type="id">article-1896-04_150a</term>
+              <term type="author">Gourmont, Remy de (1858-1915)</term>
+              <term type="signed">Remy de Gourmont</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">Filippo Ermini : <hi rend="i">La Lirica domestica nelle letteratura contemporanea</hi>, in-16, Rocca S. Casciano, imp de Cappelli</term>
+              <term type="date">1896-04</term>
+              <term type="ref">Tome XVIII, numéro 76, avril 1896, p. 149-150 [150]</term>
+            </index>
+            <p>Très amusante, cette brochure, la <hi rend="i">Lira domestica</hi>. Il y est question des « <hi rend="i">Décadents</hi>, dont le pontife est Paul Verlaine et qui cherchent dans l’art le spasme du plaisir physique », et l’auteur se demande « s’il est possible que l’imagination lyrique de notre génération ne se trouve que sur les lèvres léporines et dans les yeux louches de Verlaine, ce grand maigre qui promène tous les soirs au Luxembourg sa personne infirme, ou dans les lunettes mystérieuses et dans la barbe inculte de Mallarmé ? » Le reste est moins drôlatique.</p>
+          </div>
+          <div>
+            <head>Eugenio de Castro : <hi rend="i">Belkis</hi>, traduzione dal portoghese di Vittorio Pica, in-32, Milan, Treves, 3 fr.</head>
+            <index>
+              <term type="id">article-1896-04_150b</term>
+              <term type="author">Gourmont, Remy de (1858-1915)</term>
+              <term type="signed">Remy de Gourmont</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">Eugenio de Castro : <hi rend="i">Belkis</hi>, traduzione dal portoghese di Vittorio Pica, in-32, Milan, Treves, 3 fr.</term>
+              <term type="date">1896-04</term>
+              <term type="ref">Tome XVIII, numéro 76, avril 1896, p. 149-150 [150]</term>
+            </index>
+            <p>Il suffit de mentionner la <hi rend="i">Belkis</hi> italienne. M. Pica a fait précéder d’une étude sur le poète cette version que recommande le nom du traducteur. Mais c’était peut-être en français qu’il fallait traduire, puisque le français est bien décidément, aujourd’hui plus que jamais, la langue littéraire européenne !</p>
+            <p>Dans l’<hi rend="i">Emporium</hi>, importante revue d’art et de littérature qui paraît mensuellement à Bergame, M. Vittorio Pica a commencé une série d’études, avec reproductions, sur les principaux dessinateurs et graveurs de ce temps ; la première série fut Odilon Redon, H. de Groux, Goya, Félicien Rops. M. Pica connaît l’art d’aujourd’hui mieux que personne, mais n’y a-t-il pas à craindre que certaines pièces ne lui échappent ? Son de Groux n’était pas assez caractéristique comme images, — mais voilà les artistes et les éditeurs avertis.</p>
+          </div>
+        </div>
+      </div>
+      <div>
+        <head>Tome XVIII, numéro 78, juin 1896</head>
+        <div>
+          <head>Journaux et revues. 
+<lb/><hi rend="i">Revue Bleue</hi> (16 mai).</head>
+          <index>
+            <term type="id">article-1896-06_459</term>
+            <term type="author">Souza, Robert de (1864-1946)</term>
+            <term type="signed">Robert de Souza</term>
+            <term type="section">Journaux et revues</term>
+            <term type="title"><hi rend="i">Revue Bleue</hi> (16 mai)</term>
+            <term type="date">1896-06</term>
+            <term type="ref">Tome XVIII, numéro 78, juin 1896, p. 454-460 [459]</term>
+          </index>
+          <byline><hi rend="sc">Robert de Souza</hi>.</byline>
+          <bibl>Tome XVIII, numéro 78, juin 1896, p. 454-460 [459].</bibl>
+          <p>M. Ernest Tissot nous rapporte, dans la <hi rend="i">Revue Bleue</hi> du 16 mai, <hi rend="i">Une conversation avec M. Gabriel d’Annunzio</hi> qui, tout pur latin qu’il soit et original, est peut-être, en date, notre premier écrivain « européen » (nouveau style). Quelle influence n’a-t-il pas subie ?</p>
+          <p>M. d’Annunzio prépare un drame intitulé <hi rend="i">La Ville morte</hi>, qu’il aurait voulu écrire simultanément en français et en italien, car il désirerait le voir jouer d’abord à Paris où l’attire particulièrement la vitalité de la jeunesse intellectuelle.</p>
+          <quote>
+            <p>« Les sympathies de M. Gabriel d’Annunzio vont toujours aux purs artistes, à ceux qui ont le sens et une vision originale de la beauté. Il admire les livres d’Anatole France, surtout <hi rend="i">Thaïs</hi>, cette Tanagra parisienne ; les pages sincères de M. Paul Margueritte lui plaisent aussi beaucoup, et encore les contes d’un art si curieux que signe M. Jean Lorrain. Il s’intéresse même aux jeunes revues et les suit volontiers. Au <hi rend="i">Mercure de France</hi>, à l’<hi rend="i">Ermitage</hi>, à la <hi rend="i">Revue Blanche</hi>, on serait satisfait des paroles qu’il me dit. »</p>
+          </quote>
+          <p>M. d’Annunzio leur doit bien cela, car, comme jadis pour le vin retour des Indes, les critiques académiques ont trouvé fort bonifié chez lui ce qu’ils n’avaient pas daigné apprécier chez nous.</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome XIX, numéro 80, août 1896</head>
+        <div>
+          <head>Lettres italiennes</head>
+          <index>
+            <term type="id">article-1896-08_374</term>
+            <term type="author">Zanoni, A.</term>
+            <term type="signed">Zanoni</term>
+            <term type="section">Lettres italiennes</term>
+            <term type="title">Lettres italiennes</term>
+            <term type="date">1896-08</term>
+            <term type="ref">Tome XIX, numéro 80, août 1896, p. 374-375</term>
+          </index>
+          <byline><hi rend="sc">Zanoni</hi> [A. Zanoni].</byline>
+          <bibl>Tome XIX, numéro 80, août 1896, p. 374-375.</bibl>
+          <div>
+            <head><hi rend="i">Emporium, rivista mensile</hi>, Bergami, « Istituto italiano d’arti grafiche »</head>
+            <index>
+              <term type="id">article-1896-08_374a</term>
+              <term type="author">Zanoni, A.</term>
+              <term type="signed">Zanoni</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title"><hi rend="i">Emporium, rivista mensile</hi>, Bergami, « Istituto italiano d’arti grafiche »</term>
+              <term type="date">1896-08</term>
+              <term type="ref">Tome XIX, numéro 80, août 1896, p. 374-375 [374-375]</term>
+            </index>
+            <p rend="noindent">Il y a trois mois — mais je persiste à vivre et à lire à mon heure —, sans souci de la sommation, vraiment insolente, des typographies — M. Vittorio Pica donna à l’<hi rend="b">Emporium</hi>, la plus vivante et la plus agréable des revues italiennes, une bonne étude critique sur Stéphane Mallarmé, la meilleure sans doute depuis la charmante notice de M. de Wyzewa. On aime à lire ses subtils commentaires, même contradictoires à ce que l’on interprète soi-même. M. Mallarmé est une proie naturelle à la glose du scholiaste, et peut-être faudrait-il enfin rassembler et faire travailler ensemble les imaginations qui se meuvent autour de son génie et ordonner un recueil où son œuvre et sa pensée seules seraient étudiées : <hi rend="i">Le Mallarmiste</hi>, tels les <hi rend="i">Actes</hi> de la « Browning Society » ? Et je voudrais de pareils recueils d’opinions et de gloses sur Baudelaire, Verlaine, Villiers, etc., — oui, etc. ; — de telles sociétés feraient plus pour le réveil littéraire des provinces que la restauration des universités régionales, car elles donneraient à des intelligences curieuses, mais paresseuses et indécises, un but limité à leur activité cérébrale, un sujet d’études fixe et restreint où la patience, même un peu monomane, aurait son rôle et son mérite. L’admirable Byzance, calomniée par l’ignorance méthodique des cuistres, nous a, par d’analogues travaux, conservé vivantes des traditions littéraires sans lesquelles les anciens poètes grecs nous seraient aussi fermés que les coréens ou les tamouls.</p>
+          </div>
+          <div>
+            <head>Luciano Zùccoli : <hi rend="i">La Morte d’Orfeo</hi>, in-16, Milan, Casa editrice Galli, 3 fr.</head>
+            <index>
+              <term type="id">article-1896-08_375a</term>
+              <term type="author">Zanoni, A.</term>
+              <term type="signed">Zanoni</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">Luciano Zùccoli : <hi rend="i">La Morte d’Orfeo</hi>, in-16, Milan, Casa editrice Galli, 3 fr.</term>
+              <term type="date">1896-08</term>
+              <term type="ref">Tome XIX, numéro 80, août 1896, p. 374-375 [375]</term>
+            </index>
+            <p>La <hi rend="b">Morte d’Orfeo</hi> est un recueil assez hétéroclite de contes sur des sujets aussi différents l’un de l’autre que la mort dudit Orphée et des scènes de jeu dans les villes d’hiver. Il y a peut-être un lien pourtant entre ces deux sujets, la Méditerranée ? Ensuite les mœurs changent si peu. Il y a une heure pour les bacchantes, même à Monte-Carlo, et les Bacchantes, lasses de bacchantes, jouaient sans doute à pair ou impair ou à quelque jeu innocent comme tous les jeux. M. Zùccoli connaît la littérature française actuelle et souvent le laisse voir. Pourrait-il jurer que la fin de son <hi rend="i">Orphée</hi> ne lui fut pas suggérée par un conte intitulé <hi rend="i">La plus Belle</hi>, où pareillement une tête coupée est jetée dans la mer par un large geste parabolique ? Simple petite question de psychologie littéraire.</p>
+          </div>
+          <div>
+            <head>Enrico Corradini :<hi rend="i"> Santamaura</hi>, romanzo, gr. in-12, Florence, Roberto Paggi</head>
+            <index>
+              <term type="id">article-1896-08_375b</term>
+              <term type="author">Zanoni, A.</term>
+              <term type="signed">Zanoni</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">Enrico Corradini :<hi rend="i"> Santamaura</hi>, romanzo, gr. in-12, Florence, Roberto Paggi</term>
+              <term type="date">1896-08</term>
+              <term type="ref">Tome XIX, numéro 80, août 1896, p. 374-375 [375]</term>
+            </index>
+            <p><hi rend="b">Santamaura</hi>, roman à la fois naturaliste, sentimental et psychologique, ces trois tons adroitement emmêlés par un romancier qui connaît son métier, écrit proprement d’un style calme, apte à rendre les nuances, d’une observation assez minutieuse.</p>
+          </div>
+          <div>
+            <head>M. Puglisi Pico : <hi rend="i">Il Tasso nella Critica francese</hi>, in-8º, Acireale, Tip. Ed. Saro Donzuso.</head>
+            <index>
+              <term type="id">article-1896-08_375c</term>
+              <term type="author">Zanoni, A.</term>
+              <term type="signed">Zanoni</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">M. Puglisi Pico : <hi rend="i">Il Tasso nella Critica francese</hi>, in-8º, Acireale, Tip. Ed. Saro Donzuso.</term>
+              <term type="date">1896-08</term>
+              <term type="ref">Tome XIX, numéro 80, août 1896, p. 374-375 [375]</term>
+            </index>
+            <p>Le Tasse n’est plus guère lu en France, où son nom seul est demeuré illustre. Ce poète imaginatif et harmonieux manque vraiment un peu de pensée et de mystère ; il chante et s’amuse de son chant, mais, lavoix tue, il ne reste qu’un souvenir de syllabes musicales. Il est bien inférieur au cavalier Marin, presque méprisé, et qui fabrique des vers d’une beauté si ingénieuse et parfois si profonde. Mais l’histoire littéraire s’occupe moins de juger les écrivains que de donner les vrais moyens de les juger ; à ce point de vue, le travail de M. Puglisi Pico sera utile. Quelques-unes de ses « sources » pourtant feront sourire, Larousse, Bouillet, et même Paul Albert et Demogeot. Autres remarques : l’ouvrage de Zirardini n’a aucune valeur et celui de Ginguené s’appelle non pas <hi rend="i">Histoire de la littérature italienne</hi> mais <hi rend="i">Histoire littéraire d’Italie</hi>, et n’est le plus souvent qu’une traduction de Tiraboschi. L’auteur semble avoir voulu être exact et complet : c’est difficile.</p>
+          </div>
+        </div>
+      </div>
+      <div>
+        <head>Tome XX, numéro 83, novembre 1896</head>
+        <div>
+          <head>Lettres italiennes. Zanoni</head>
+          <index>
+            <term type="id">article-1896-11_395</term>
+            <term type="author">Zanoni, A.</term>
+            <term type="signed">Zanoni</term>
+            <term type="section">Lettres italiennes</term>
+            <term type="title">Lettres italiennes</term>
+            <term type="date">1896-11</term>
+            <term type="ref">Tome XX, numéro 83, novembre 1896, p. 395-396</term>
+          </index>
+          <byline><hi rend="sc">Zanoni</hi> [A. Zanoni].</byline>
+          <bibl>Tome XX, numéro 83, novembre 1896, p. 395-396.</bibl>
+          <div>
+            <head>Filippo Ermini : <hi rend="i">Paolo Verlaine e i poeti decadenti</hi>, broch. in-8°, Turin, G.-B. Paravia</head>
+            <index>
+              <term type="id">article-1896-11_395a</term>
+              <term type="author">Zanoni, A.</term>
+              <term type="signed">Zanoni</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">Filippo Ermini : <hi rend="i">Paolo Verlaine e i poeti decadenti</hi>, broch. in-8°, Turin, G.-B. Paravia</term>
+              <term type="date">1896-11</term>
+              <term type="ref">Tome XX, numéro 83, novembre 1896, p. 395-396 [395-396]</term>
+            </index>
+            <p>Cette étude pleine de bonne volonté instruira les Italiens, s’il est instructif de s’assimiler un agréable mélange de notions fausses et d’appréciations fantaisistes. Il est difficile de rédiger de bons chapitres d’histoire littéraire, et qui pourrait nous empêcher de sourire à ouïr Verlaine dénommé « le chef de l’Ecole décadente ». Qu’est-ce que cela, décadent, — et en quoi Verlaine est-il le décadent de Villon et A. Kempis le décadent de Sénèque ? Parce qu’ils écrivent d’une langue différente leurs amours ou leurs pensées ? Primitif, classique, décadent, ces trois mots ont un sens purement chronologique ; ils suggèrent l’idée de succession et rien de plus. Mais le Temps n’est qu’une des illusions de la conscience, et, sans les précautions que nous prenons pour le mesurer, il passerait toujours identique à lui-même, comme un fleuve ironique.</p>
+            <p>Enfin, sans autre souci que de se vouloir bien informé, M. Ermini nous affirme que Verlaine reçut des mains de M. Baju le sceptre, afin de mener plus autoritairement à la bataille <quote>« une inclyte phalange de subtils écrivains, tels que MM. du Plessys, Tailhade, d’Arkaï, Aurier, Renard et Mallarmé »</quote>. S’il est possible de se figurer à Turin, Milan, Florence, Rome ou Naples, à quel point, vue de la rue de l’Échaudé, cette phalange apparaît ridicule, je supplie M. Ermini de se transporter en l’une ou l’autre de ces illustres cités et de méditer longuement.</p>
+            <p>Il y a dans cet opuscule dix autres absurdités, mais on peut en recommander la partie où est analysée l’œuvre de Verlaine et loué son génie. Là, on n’aurait à reprendre qu’un peu de timidité dans l’éloge et quelques distractions, comme cette phrase incompréhensible : <quote>« è una poesia fatta di polveri <hi rend="i">cochet</hi>, di profumi di violetta… »</quote></p>
+          </div>
+          <div>
+            <head>Vittorio Pica : <hi rend="i">Paul Verlaine</hi>, broch. in-4<hi rend="sup">0</hi>, Bergame, Extrait de l’<hi rend="i">Emporium</hi></head>
+            <index>
+              <term type="id">article-1896-11_396</term>
+              <term type="author">Zanoni, A.</term>
+              <term type="signed">Zanoni</term>
+              <term type="section">Lettres italiennes</term>
+              <term type="title">Vittorio Pica : <hi rend="i">Paul Verlaine</hi>, broch. in-4<hi rend="sup">0</hi>, Bergame, Extrait de l’<hi rend="i">Emporium</hi></term>
+              <term type="date">1896-11</term>
+              <term type="ref">Tome XX, numéro 83, novembre 1896, p. 395-396 [396]</term>
+            </index>
+            <p>À la Notice de M. Pica, il n’y a, au contraire, aucune objection à faire. Il connaît Verlaine, l’aime et le juge comme il faut. Ces pages excellentes sont illustrées des plus curieux dessins et croquis représentant le poète selon toutes les attitudes. Le Verlaine à 26 ans est singulier, avec son air d’un dur anglais ; le Verlaine à 4 ans exhibe déjà des yeux pleins de mystère.</p>
+          </div>
+        </div>
+      </div>
+      <div>
+        <head>Tome XX, numéro 84, décembre 1896</head>
+        <div>
+          <head>Journaux et revues. 
+<lb/><hi rend="i">La Revue des Deux-Mondes</hi> [extrait]</head>
+          <index>
+            <term type="id">article-1896-12_588</term>
+            <term type="author">Souza, Robert de (1864-1946)</term>
+            <term type="signed">Robert de Souza</term>
+            <term type="section">Journaux et revues</term>
+            <term type="title"><hi rend="i">La Revue des Deux-Mondes</hi> [extrait]</term>
+            <term type="date">1896-12</term>
+            <term type="ref">Tome XX, numéro 84, décembre 1896, p. 587-594 [588]</term>
+          </index>
+          <byline><hi rend="sc">Robert de Souza</hi>.</byline>
+          <bibl>Tome XX, numéro 84, décembre 1896, p. 587-594 [588].</bibl>
+          <p>En abordant le détail, nous constaterons tout de suite que l’intérêt de la <hi rend="b">Revue des Deux-Mondes</hi> fut loin, cette année, d’être médiocre, surtout en ce qui concerne la partie documentaire. Pour la partie imaginative, quand nous n’aurions qu’à nous féliciter de <hi rend="i">la Vierge aux rochers</hi> de M. d’Annunzio, nous ne nous plaindrons pas du reste. « La Revue » a tenu à prouver que, comme au temps de Musset et de George Sand, elle restait le champion des conceptions nouvelles. Jamais le symbolisme, dans son expression anglaise selon les préraphaélites, — allemande selon Jean-Paul, — française selon MM. Peladan, Paul Adam, Maeterlinck et Mauclair, n’a mieux affirmé, sous la patine ardente de la sensualité italienne, la beauté du métal corinthien. La jeune littérature peut remercier M. Brunetière d’avoir cru nécessaire d’user, pour la faire connaître, de cet amalgame exotique, d’ailleurs chef-d’œuvre. […]</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

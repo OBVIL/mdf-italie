@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2018-12-18T10:39:58+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Articles du <hi rend="i">Mercure de France</hi>, année 1891</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Marguerite Bordry </name>
+          <resp>Relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Éric Thiébaud </name>
+          <resp>OCR, Stylage sémantique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Sorbonne Université, Labex OBVIL</publisher>
+        <date when="2018"/>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1891.xml</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1891.html</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1891.epub</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1891.txt</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’OBVIL, selon les termes de la licence Creative Commons :
+              « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
+              (CCBY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+              Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+              électronique, notamment en intégrant toutes les contributions extérieures, la
+              diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1891"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Tome II, numéro 14, février 1891</head>
+        <div>
+          <head>La littérature « Maldoror » [extrait]</head>
+          <index>
+            <term type="id">article-1891-02_097</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">Remy de Gourmont</term>
+            <term type="section">none</term>
+            <term type="title">La littérature « Maldoror » [extrait]</term>
+            <term type="date">1891-02</term>
+            <term type="ref">Tome II, numéro 14, février 1891, p. 97-102 [97]</term>
+          </index>
+          <byline><hi rend="sc">Remy de Gourmont</hi>.</byline>
+          <bibl>Tome II, numéro 14, février 1891, p. 97-102 [97].</bibl>
+          <p>Remettre à une autre fois les notes critiques — et pathologiques — qui surgissent,
+            comme une volée d’oiseaux noirs, d’entre les pages de ce livre : <hi rend="i">Les Chants
+              de Maldoror</hi><note place="bottom">Comte de Lautréamont, <hi rend="i">Les Chants de
+                Maldoror</hi> (avec eau-forte, lettre autographiée ; préface par l’éditeur). Chez
+              Genonceaux, 1890, in-12. Publication de luxe à tirage restreint, entreprise avec le
+              désintéressement d’un plaisir personnel.</note>, leur nombre et l’incohérence et leur
+            groupement l’exige. C’est une originalité furieuse et inattendue tellement qu’un peu
+            d’espace est nécessaire pour se recoordonner soi-même en suite de lectures. Il est
+            évident, d’abord, que l’auteur, écrivain de dix-sept ans (point vérifié et peu
+            contestable), dépassait en folie, de très loin, cette sorte de déséquilibre que les sots
+            de l’aliénation mentale qualifient de ce même mot : <hi rend="i">folie</hi>, et
+            attribuent à de glorieuses intelligences, telles que sainte Thérèse, Edgar Poë, à des
+            artistes d’une sensitivité suprême, tel Schumann. Partage à faire entre le génie et la
+            maladie cérébrale qui intéresse, sujet que n’a même pas effleuré, en réalité, le
+            professeur Lombroso, occupé à vomir sans relâche, sur tout ce qui est intellectuel ou
+            mystique, les abjects blasphèmes de sa porcine ignorance. Cet auteur, son information
+            est sûre au point qu’il appelle Verlaine M. Verlain, qu’il attribue à M. Mallarmé le <hi
+              rend="i">Traité du Verbe</hi>, qu’il cite comme une autorité littéraire et critique
+            M. Jules Lemaître ! Voilà qui me donne une certaine confiance dans les assertions du
+            même volume (<hi rend="i">Le Génie et la Folie</hi>) que je ne puis vérifier.</p>
+          <p>[…]</p>
+        </div>
+        <div>
+          <head>Les Livres. <lb/>De l’Authenticité des Annales et des Histoires de Tacite, par
+            P. Hochart (Thorin)</head>
+          <index>
+            <term type="id">article-1891-02_124</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Les Livres</term>
+            <term type="title">title : De l ’ Authenticité des Annales et des Histoires de Tacite,
+              par P. Hochart (Thorin) </term>
+            <term type="date">1891-02</term>
+            <term type="ref">Tome II, numéro 14, février 1891, p. 123-125 [124-125]</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont].</byline>
+          <bibl>Tome II, numéro 14, février 1891, p. 123-125 [124-125].</bibl>
+          <p> En ce livre d’une bonne et curieuse érudition, il est démontré que les œuvres de
+            Tacite furent fabriquées de toutes pièces, à la Renaissance, par un latinisant habile et
+            astucieux. Tromper à ce point la postérité, nous faire prendre jusqu’à la fin des
+            siècles pour <quote>« le témoin indigné de la vertu offensée »</quote> les
+            élucubrations factices d’un ingénieux truqueur, — ce rôle, paraît-il, tenta Pogge,
+            l’auteur des <hi rend="i">Facéties</hi>. M. Hochart donne quelques preuves qu’on a
+            discutées, mais non réfutées. Sans parler de la date des plus anciens manuscrits de
+            Tacite (au commencement du <num>xv<hi rend="sup">e</hi></num> siècle on n’en connaissait
+            aucun, et ceux que l’on connut étaient d’une écriture contemporaine), il y des détails
+            assez typiques : Ammien Marcelin est le seul auteur ancien qui avec Tacite mentionne
+            Ninive, et Pogge est le premier à avoir eu en main un manuscrit d’Ammien Marcelin ;
+            Tacite, qui connaissait certainement le golfe de Jaïes, n’aurait pas commis en le
+            décrivant les grossières erreurs qui lui sont attribuées, — tandis que c’est
+            vraisemblable de la part de Pogge qui ne le visita jamais, etc. Enfin il y a l’autorité
+            de M. Hochart, lequel étudie spécialement les temps historiques qui sont le sujet du
+            pseudo-Tacite.</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome II, numéro 15, mars 1891</head>
+        <div>
+          <head>Échos divers et communications [extrait]</head>
+          <index>
+            <term type="id">article-1891-03_192</term>
+            <term type="author">Mercure</term>
+            <term type="signed">Mercure</term>
+            <term type="section">Échos divers et communications</term>
+            <term type="title">Échos divers et communications [extrait]</term>
+            <term type="date">1891-03</term>
+            <term type="ref">Tome II, numéro 15, avril 1891, p. 189-192 [192]</term>
+          </index>
+          <byline><hi rend="sc">Mercure</hi>.</byline>
+          <bibl>Tome II, numéro 15, avril 1891, p. 189-192 [192].</bibl>
+          <p>[…]</p>
+          <p>Un des meilleurs romanciers italiens, M. Ugo Valcarenghi, a récemment fondé à Milan une
+            intéressante revue : <hi rend="b">Cronaca d’Arte</hi>, qui s’occupe beaucoup du
+            mouvement littéraire et artistique français. Notre confrère M. Ernest Vinci est chargé
+            de la correspondance parisienne. — La <hi rend="b">Gazetta Letteraria</hi> (Turin)
+            publie un article sur le <hi rend="i">Régime moderne</hi>, de M. Taine.</p>
+          <p>[…]</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome II, numéro 16, avril 1891</head>
+        <div>
+          <head>Littérature italienne</head>
+          <index>
+            <term type="id">article-1891-04_241</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Littérature italienne</term>
+            <term type="title">Littérature italienne</term>
+            <term type="date">1891-04</term>
+            <term type="ref">Tome II, numéro 16, avril 1891, p. 241-243</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont].</byline>
+          <bibl>Tome II, numéro 16, avril 1891, p. 241-243.</bibl>
+          <div>
+            <head><hi rend="i">Don Chisciottino</hi>, par Salvatore Farina. (Milan,
+              A. Brigola)</head>
+            <index>
+              <term type="id">article-1891-04_241a</term>
+              <term type="author">Gourmont, Remy de (1858-1915)</term>
+              <term type="signed">R. G.</term>
+              <term type="section">Littérature italienne</term>
+              <term type="title">Don Chisciottino, par Salvatore Farina. (Milan, A. Brigola)</term>
+              <term type="date">1891-04</term>
+              <term type="ref">Tome II, numéro 16, avril 1891, p. 241-242</term>
+            </index>
+            <p><quote>« Ta folie est ancienne, dit l’auteur en s’adressant à son petit Don
+                Quichotte. Déjà, quand tu allais à l’école, tes livres sous le bras, tu te croyais
+                destiné à de grandes choses ; et la première fois que tu vis, de l’Histoire du Moyen
+                Âge, surgir la troupe des chevaliers sans peur, amoureux de leur dame et de la
+                justice, tu te jugeas aussitôt pareil à eux, armé, comme eux, en guerre, et comme
+                eux sans peur et sans reproche. »</quote> A-t-il été obligé de rosser un de ses
+              camarades, cet enfant prédestiné le relève et lui demande : <quote>«T’ai-je fait
+                mal ? »</quote> Ces dispositions à la pitié et au sauvetage de ses contemporains
+              s’aggravent avec l’âge. Amoureux, Don Quichottin emmène sa belle à la promenade, lui
+              déclare à peu près ceci : « Je vous aime, mais celui qui a des droits sur vous est
+              jaloux de moi, il pourrait vous arriver malheur… » — « Je le sais, dit Luciette,
+              qu’importe ! » Mais l’homme timide et bon s’entête dans ses scrupules. Plus tard, il
+              entreprend de réconcilier des ménages où la femme se contenterait de consolations
+              effectives et tierces ; plus tard, de réhabiliter la pauvre Luciette qui a mal
+              tourné ; déjà vieux, il s’offre à rendre l’honneur, en l’épousant, à une de ses nièces
+              victime d’un séducteur et d’un mariage nul, tout en se demandant s’il agit réellement
+              en homme de devoir et de sacrifice, ou si c’est l’amour qui le pousse.</p>
+            <p>Finalement, il me coûte de le dire, tant le roman est faussé par ce banal dénouement,
+              Don Quichottin se marie. Tel est, résumé en quelques-uns de ses épisodes, le dernier
+              livre d’un humoriste très distingué et depuis longtemps bien connu en France. L’idée
+              seule de ce <hi rend="i">Don Chisciottino</hi>, comme celle d’un roman antérieur, <hi
+                rend="i">Monsieur Moi</hi>, montre un écrivain moins préoccupé de larmes et de rires
+              productifs que de larges et curieuses synthèses. Il est cependant nécessaire de lui
+              reprocher une fâcheuse timidité, une peur de choquer les pudeurs bourgeoises, des
+              aphorismes sur le progrès que M. Bonghi suffirait à émettre, enfin un style qui tourne
+              trop prompt au badinage attendri, ce style qui entache de snobisme les créations de
+              Dickens. Malgré ces restrictions, que me dicte la naïve sincérité, <hi rend="i">Don
+                Chisciottino</hi> est un livre d’une jolie logique, — jusqu’à la pénultième page, —
+              d’une fine observation. Je le vois, peuplier souple et clair, émergeant de la <hi
+                rend="i">selva oscura</hi>, du vague taillis de la littérature cisalpine, où
+              quelques bons bûcherons — quelques cognées critiques — attendent patients la
+              croissance et la poussée d’un tas de baliveaux nains, — et c’est très beau qu’il nous
+              vienne un tel livre d’Italie : il n’en vient pas souvent.</p>
+          </div>
+          <div>
+            <head>Les dernières revues italiennes</head>
+            <index>
+              <term type="id">article-1891-04_242</term>
+              <term type="author">Gourmont, Remy de (1858-1915)</term>
+              <term type="signed">R. G.</term>
+              <term type="section">Littérature italienne</term>
+              <term type="title">Les dernières revues italiennes</term>
+              <term type="date">1891-04</term>
+              <term type="ref">Tome II, numéro 16, avril 1891, p. 242-243</term>
+            </index>
+            <p>À noter, dans la <hi rend="b">Gazzetta letteraria</hi>, de Turin : une curieuse étude
+              de M. Adolfo Zerboglio sur les fous de bibliothèques (<hi rend="i">I Mattoidi in
+                biblioteca)</hi>, ces maniaques du livre, compilateurs sans but, copistes par
+              dilettantisme, etc. (nº du 21 février). — Le nº suivant (28 février) donne la
+              conclusion de la très solide étude de M. Rodolfo Renier : <hi rend="i">Pour l’histoire
+                des arts et du dessin</hi>. — Toujours intéressante, la <hi rend="i">Letteraria</hi>
+              se complète par une bibliographie étendue, revue de lecture et instrument de travail.
+              Dans la <hi rend="b">Cronaca d’arte</hi>, de Milan (22 février), en citation ces deux
+              vers récemment déchiffrés dans les manuscrits de Léonard de Vinci :</p>
+            <quote>
+              <l>Sichome. vna. giornata. bene. spesa. dallieto. dormire.</l>
+              <l>Cosi. vna. vita. bene. vsata. da. lieto. morire.</l>
+              <p/>
+              <p>(Comme une journée bien se passe au doux dormir, ainsi une vie bien se consume au
+                doux mourir.)</p>
+            </quote>
+            <p>La <hi rend="b">Critica sociale</hi> (Milan) nous convie à un socialisme
+              « scientifique et positif ». Articles sérieux et bien renseignés.</p>
+          </div>
+        </div>
+      </div>
+      <div>
+        <head>Tome II, numéro 17, mai 1891</head>
+        <div>
+          <head>Malveillance [extrait]<note place="bottom">[NdE] À propos de Remy de Gourmont, « Le
+              Joujou Patriotisme », <hi rend="i">Mercure de France</hi>, tome II, numéro 16,
+              avril 1891, p. 193-198.</note></head>
+          <index>
+            <term type="id">article-1891-05_264</term>
+            <term type="author">Vallette, Alfred (1858-1935)</term>
+            <term type="signed">Alfred Vallette</term>
+            <term type="section">none</term>
+            <term type="title">Malveillance [extrait]</term>
+            <term type="date">1891-05</term>
+            <term type="ref">Tome II, numéro 17, mai 1891, p. 261-268 [264]</term>
+          </index>
+          <byline><hi rend="sc">Alfred Vallette</hi>.</byline>
+          <bibl>Tome II, numéro 17, mai 1891, p. 261-268 [264].</bibl>
+          <p>[…] Parlerai-je enfin de la <hi rend="i">Critica sociale</hi>, de Milan, qui s’empoigne
+            avec l’idée de patrie et l’appelle <quote>« la carcasse d’un idéal putréfié »</quote>
+            <note place="bottom">Voir aussi <hi rend="i">L’Égalité</hi> du 7 avril
+              (A. Hamon).</note>.</p>
+          <p>[…]</p>
+        </div>
+        <div>
+          <head>Littérature italienne</head>
+          <index>
+            <term type="id">article-1891-05_307</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Littérature italienne</term>
+            <term type="title">Littérature italienne</term>
+            <term type="date">1891-05</term>
+            <term type="ref">Tome II, numéro 17, mai 1891, p. 307</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont].</byline>
+          <bibl>Tome II, numéro 17, mai 1891, p. 307.</bibl>
+          <div>
+            <head>Revues</head>
+            <index>
+              <term type="id">article-1891-05_307a</term>
+              <term type="author">Gourmont, Remy de (1858-1915)</term>
+              <term type="signed">R. G.</term>
+              <term type="section">Littérature italienne</term>
+              <term type="title">Revues</term>
+              <term type="date">1891-05</term>
+              <term type="ref">Tome II, numéro 17, mai 1891, p. 307</term>
+            </index>
+            <p><hi rend="i">Gazetta letteraria</hi> : Notice sur Théodore de Banville, par Federico
+              Musso, — meilleure et mieux renseignée que la plupart de celles que nous lûmes en des
+              journaux français (21mars). — Étude sur l’<hi rend="i">Argent</hi> de M. Zola, par
+              Giuseppe Depanis : le critique prend à ce livre un intérêt qui nous étonne ; il
+              suffirait peut-être de constater l’étiage du tirage pour épuiser l’esthétique
+              afférente au sujet (28 mars).</p>
+            <p><hi rend="i">Cronaca d’Arte</hi> : Curieuses notes de Giuseppe Robiati sur un
+              romancier italien, tout à fait inconnu, Ottone di Banzole. Cet écrivain, dans ses
+              trois livres, <hi rend="i">Al di là, No, Quartello</hi>, apparaît tel qu’un romantique
+              décadent, s’inspirant de Leopardi, de Baudelaire, de Schopenhauer, assez indépendant
+              pour avoir écrit : <quote>« À dire vrai, je n’ai jamais senti ni compris l’amour de la
+                patrie »</quote> ; dans un autre roman, tout de jeunesse, <hi rend="i">Memorie
+                inutili</hi>, il avait analysé les plus étranges observations de l’amour, en un
+              mélange, dit M. Robiati, de Stendhal et de De Sade. Nulle critique ne parla jamais des
+              livres de Banzole : cependant ils ont été achetés et lus, puisqu’épuisés en librairie
+              (15 mars).</p>
+            <p><hi rend="i">La Critica sociale</hi>, toujours intéressante, mais sur des sujets où
+              nous ne pouvons la suivre en détail, nous a fait l’honneur de traduire presque
+              intégralement, en y joignant des commentaires sans équivoque, « Le joujou
+              Patriotisme ». La traduction est élégante et d’une langue très fine. Cette expression
+              italienne m’amusa beaucoup : pour dire : Va-t’en te promener : « <hi rend="i">Vatti un
+                po’ ad ungere</hi> », — va te faire <hi rend="i">oindre</hi>, — gavrochement, en
+              français : « Va te faire couper les cheveux ! <hi rend="b">»</hi></p>
+          </div>
+          <div>
+            <head>[N.-B.]</head>
+            <index>
+              <term type="id">article-1891-05_307b</term>
+              <term type="author">Gourmont, Remy de (1858-1915)</term>
+              <term type="signed">R. G.</term>
+              <term type="section">Littérature italienne</term>
+              <term type="title">[N.-B.]</term>
+              <term type="date">1891-05</term>
+              <term type="ref">Tome II, numéro 17, mai 1891, p. 307</term>
+            </index>
+            <p><hi rend="sc">M Antonio Zaccaria</hi> vient de faire paraître à Faenza une
+                brochure<hi rend="i"> In Memoria di sua altezza reale il principe
+                Amedeo di Savoia, duca d’Aosta</hi>.</p>
+          </div>
+        </div>
+      </div>
+      <div>
+        <head>Tome III, numéro 19, juillet 1891</head>
+        <div>
+          <head>Littérature italienne</head>
+          <index>
+            <term type="id">article-1891-07_057</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Littérature italienne</term>
+            <term type="title">Littérature italienne</term>
+            <term type="date">1891-07</term>
+            <term type="ref">Tome III, numéro 19, juillet 1891, p. 57-59</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont].</byline>
+          <bibl>Tome III, numéro 19, juillet 1891, p. 57-59.</bibl>
+          <div>
+            <head>Les Livres</head>
+            <index>
+              <term type="id">article-1891-07_057a</term>
+              <term type="author">Gourmont, Remy de (1858-1915)</term>
+              <term type="signed">R. G.</term>
+              <term type="section">Littérature italienne</term>
+              <term type="title">Les Livres</term>
+              <term type="date">1891-07</term>
+              <term type="ref">Tome III, numéro 19, juillet 1891, p. 57-58</term>
+            </index>
+            <p>G. Pipitone-Federico, <hi rend="i">Note di letteratura contemporanea</hi> (Palerme,
+              G. Pédone-Lauriel), études sur les Parnassiens, les Décadents, Sully-Prudhomme,
+              etc.</p>
+            <p><hi rend="i">Giovanna Ruta</hi>, par A.-S. Novano (Turin, L. Roux), roman, un peu à
+              la Verga, où il y a de réelles promesses de talent.</p>
+            <p><hi rend="i">Nuovi Canti</hi>, de Giovanni Marradi (Milan, Treves) : ce sont des
+              contemplations et des élévations à propos de paysages. La forme en est très pure, un
+              peu monotone, pas très originale. On pense invinciblement à Lamartine : poésie
+              d’hier.</p>
+            <p><hi rend="i">L’Amante</hi>, par Adolfo Maspes (Milan, Galli), roman sentimental très
+              recommandé par M. Valcarenghi (<hi rend="i">Cronaca</hi>, 10 mai).</p>
+            <p><hi rend="i">L’Illusione</hi>, par F. de Roberto (Milan, Galli), roman d’un
+              naturalisme modéré ; procédés de Flaubert.</p>
+          </div>
+          <div>
+            <head>Les Théâtres</head>
+            <index>
+              <term type="id">article-1891-07_058a</term>
+              <term type="author">Gourmont, Remy de (1858-1915)</term>
+              <term type="signed">R. G.</term>
+              <term type="section">Littérature italienne</term>
+              <term type="title">Les Théâtres</term>
+              <term type="date">1891-07</term>
+              <term type="ref">Tome II, numéro 19, juillet 1891, p. 58</term>
+            </index>
+            <p><hi rend="i">La Signora di Challant</hi>, drame, par Giuseppe Giacosa.
+              Écrit pour Sarah Bernhardt, qui devait le jouer en français, et pour M<hi rend="sup"
+                >lle</hi> Duse, qui devait le jouer en italien, ce drame est toujours inédit et
+              l’auteur vient d’en donner quelques lectures publiques. Le thème de la <hi rend="i"
+                >Dame de Challant</hi> est emprunté à la quatrième nouvelle de Bandello : c’est
+              l’histoire de cette Bianca Maria, veuve d’Hermès Visconti, puis femme de René, comte
+              de Challant, qui chercha à faire assassiner ses amants l’un par l’autre, ne réussit
+              qu’à moitié et fut « justiciée ». G. Depanis dans la <hi rend="i">Gazzetta</hi>
+              déclare que c’est <quote>« une vigoureuse œuvre d’art et d’art profondément
+                humain »</quote> ; I. Furlani, dans la <hi rend="i">Cronaca</hi>, estime qu’il
+              n’était peut-être pas bien urgent de mettre cette anecdote en dialogues, fussent-ils
+              des plus dramatiques, et que les nouvelles de Bandello sont parfaites, — mais dans
+              Bandello. À propos de cette pièce, polémique dans la <hi rend="i">Gazzetta</hi> entre
+              G. Depanis, qui ne croit pas à l’avenir littéraire du théâtre, et Domenico Lanza, pour
+              lequel un renouvellement de l’art dramatique est possible et même certain.</p>
+          </div>
+          <div>
+            <head>Les Revues</head>
+            <index>
+              <term type="id">article-1891-07_058b</term>
+              <term type="author">Gourmont, Remy de (1858-1915)</term>
+              <term type="signed">R. G.</term>
+              <term type="section">Littérature italienne</term>
+              <term type="title">Les Revues</term>
+              <term type="date">1891-07</term>
+              <term type="ref">Tome III, numéro 19, juillet 1891, p. 58-59</term>
+            </index>
+            <p><hi rend="i">Gazzetta Letteraria</hi> : de beaux vers de L.-G. Mambrini, trois <hi
+                rend="i">Sonnets en mineur</hi> de grande allure : <quote>« Oh ! illusion de
+                justice, oh ! immenses délires d’amour, oh ! passions en Dieu, oh ! ondes d’encens
+                en vain consumées, pourquoi vous consacrer mon désir… — Si vous non plus vous ne
+                pouvez apaiser mon âme ? »</quote> (25 avril.)</p>
+            <p>M. Depanis analyse, avec bien de la perspicacité, <hi rend="i">Là-Bas</hi>, de
+              Huysmans, et non seulement rédige sur le livre d’intéressantes remarques, mais juge
+              l’auteur avec esprit : <quote>« Naturaliste byzantin et décadent »</quote>, — ce n’est
+              pas sot. Après avoir jeté à l’eau M. Péladan et son <hi rend="i">Androgyne</hi>, il
+              reconnaît l’originalité des nouvelles contenues dans le <hi rend="i">Sonyeuse</hi> de
+              Lorrain, s’effare un peu d’y rencontrer des types <hi rend="i">mostruosi</hi>, n’est
+              pas fâché, en sortant de ces deux livres, « de jouir de sourires et qui ne sont pas
+              sur des lèvres de succubes ou de lamies » (9 mai). — Notes de M. Pica sur les
+              représentations de l’<hi rend="i">Intruse</hi> et de <hi rend="i">Un mâle</hi>
+              (6 juin).</p>
+            <p><hi rend="i">Cronaca d’Arte.</hi> — Encore des vers et exquis de Enrico Panzacchi :
+              Une petite ville, le soir ; une fenêtre où se colle le front d’une femme qui rêve, ou
+              prie...</p>
+            <quote>
+              <p>« Es-tu celle qui demande la paix nocturne aux ombres descendantes ?</p>
+              <p/>
+              <l rend="i">…                                 Sei tu</l>
+              <l rend="i">Che preghi una notte pacata</l>
+              <l rend="i">All’ombre che vengono giù ?</l>
+              </quote>
+              <quote>
+              <p>« … Es-tu celle qui aspire à plus d’intensité de vie, qui évoque la danse des
+                Heures vers son ultime jeunesse, et qui demande une nuit d’amour aux ombres
+                descendantes ?</p>
+                <p/>
+              <l rend="i">E chiami la danza dell’Ore.</l>
+              <l rend="i">Sull’ultima tua gioventù,</l>
+              <l rend="i">E preghi una notte d’amore</l>
+              <l rend="i">All’ombre che vengono giù ? </l>
+            </quote>
+            <p>M. Enrico Vidali analyse l’enquête Huret et fait preuve d’une amusante inconnaissance
+              de la littérature française contemporaine. Sur Verlaine : <quote>« Le frère de Plaches
+                (?), de Murger, de Vallès, le lettré du café François I<hi rend="sup"
+                >er</hi>… »</quote> (31 mai).</p>
+            <p><hi rend="i">Critica sociale</hi> : À lire les deux articles de M. Turati sur les
+              Anarchistes (10 et 31 mai).</p>
+          </div>
+        </div>
+      </div>
+      <div>
+        <head>Tome III, numéro 21, septembre 1891</head>
+        <div>
+          <head>[Sonnets inédits de Carducci et Mazzoni]</head>
+          <index>
+            <term type="id">article-1891-09_134</term>
+            <term type="author">Gourmont, Remy de (1858-1915). Éditeur scientifique</term>
+            <term type="author">Carducci, Giosuè (1835-1906)</term>
+            <term type="author">Mazzoni, Guido (1859-1943)</term>
+            <term type="signed">R. G.</term>
+            <term type="signed">Giosuè Carducci</term>
+            <term type="signed">Guido Mazzoni</term>
+            <term type="section">none</term>
+            <term type="title">[Sonnets inédits de Carducci et Mazzoni]</term>
+            <term type="date">1891-09</term>
+            <term type="ref">Tome III, numéro 21, septembre 1891, p. 134-137</term>
+          </index>
+          <bibl>Tome III, numéro 21, septembre 1891, p. 134-137.</bibl>
+          <div>
+            <head>[Présentation]</head>
+            <index>
+              <term type="id">article-1891-09_134a</term>
+              <term type="author">Gourmont, Remy de (1858-1915). Éditeur scientifique</term>
+              <term type="signed">R. G.</term>
+              <term type="section">none</term>
+              <term type="title">[Présentation]</term>
+              <term type="date">1891-09</term>
+              <term type="ref">Tome III, numéro 21, septembre 1891, p. 134-136</term>
+            </index>
+            <byline>R. G. [Remy de Gourmont]</byline>
+            <p>Nous inaugurons, en ce fascicule, la publication d’œuvres inédites, texte et
+              traduction, des principaux poètes étrangers contemporains : elles seront, chaque fois,
+              accompagnées d’une brève notice.</p>
+            <p>M. Carducci, aujourd’hui âgé de cinquante-cinq ans ; Pisan d’origine, Bolonais par
+              adoption, est le plus remarquable poète de l’Italie contemporaine. Sa célébrité date
+              de son <hi rend="i">Hymne à Satan</hi>, et, après plusieurs recueils, les <hi rend="i"
+                >Odes barbares</hi> la consolidèrent singulièrement. Républicain (en ce temps-là),
+              antiromantique, c’est dire, en Italie, anticatholique, il avait voulu se séparer de
+              l’école de Manzoni, non pas seulement par les idées, mais par la métrique elle-même :
+              répudiant les rythmes traditionnels, il imagina de faire revivre en italien le système
+              compliqué de la versification latine. La langue italienne, très accentuée, lui permit
+              de réussir relativement ; mais, en ces dernières années, il est revenu au vers
+              syllabique, comprenant peut-être qu’au lieu de réclamer des règles nouvelles, la
+              versification tend, au contraire, à s’affranchir de toutes les règles qui ne sont pas
+              purement musicales. Les lecteurs du <hi rend="i">Mercure</hi> savent que dans <hi
+                rend="i">La Néva</hi> notre ami Louis Dumur a tenté, lui aussi, non tout à fait sans
+              succès, un système analogue, — et même plus original. — Carducci et son école, ce
+              n’est pas toute la poésie actuelle en Italie, mais les <hi rend="i">Barbares</hi>
+              tiennent une grande place ; les plus connus sont : D’Annunzio, Marradi, Ferrari,
+              Olindo Guerrini, Giuseppe Chiarini, et Guido Mazzoni, dont nous donnons un sonnet.
+              — Ni ce sonnet ni celui de Carducci ne sont <hi rend="i">barbares</hi>.</p>
+          </div>
+          <div>
+            <head>A C. C. / À C. C.</head>
+            <index>
+              <term type="id">article-1891-09_134b</term>
+              <term type="author">Carducci, Giosuè (1835-1906)</term>
+              <term type="signed">Giosuè Carducci</term>
+              <term type="section">none</term>
+              <term type="title">A C. C. / À C. C.</term>
+              <term type="date">1891-09</term>
+              <term type="ref">Tome III, numéro 21, septembre 1891, p. 134-136</term>
+            </index>
+            <byline><hi rend="sc">Giosuè Carducci</hi>.</byline>
+            <label type="head">A C. C. <lb/>Inviandogli un esemplare delle opere di Byron</label>
+            <l>Carlo, su’l risonante adriaco lido</l>
+            <l>A te ne viene Aroldo il bel cantore,</l>
+            <l>Non qual ei drappeggio con riso infido</l>
+            <l>Nel mantello di pari il suo dolore,</l>
+            <ab type="ornament">*</ab>
+            <l>Ma qual di fè raggiante e di valore</l>
+            <l>Surse d’un popol combattente al grido,</l>
+            <l>Quando penso raddur d’Alceo col cuore</l>
+            <l>L’aquila d’Alessandro al greco nido.</l>
+            <ab type="ornament">*</ab>
+            <l>Quanti per quella bianca anglica fronte</l>
+            <l>Sogni passar di gloria ! Da l’Egeo</l>
+            <l>Sorridevan le sparse isole belle.</l>
+            <ab type="ornament">*</ab>
+            <l>Ahi, la Parca volo. Di monte in monte</l>
+            <l>Pianse la lira de l’antico Orfeo</l>
+            <l>E tramontan in buio mar le stelle.</l>
+            <label type="head">À C. C. <lb/>En lui envoyant les œuvres de Byron</label>
+            <l>Charles, sur la résonnante rive adriatique,</l>
+            <l>Vers toi vient Harold le beau chanteur,</l>
+            <l>Non tel que drapant, avec un rire illusoire,</l>
+            <l>Sa douleur en le manteau des pairs,</l>
+            <ab type="ornament">*</ab>
+            <l>Mais tel que, rayonnant de foi et de courage,</l>
+            <l>Il surgit aux cris d’un peuple combattant,</l>
+            <l>Quand il voulut ramener, avec son cœur d’Alcée,</l>
+            <l>L’aigle d’Alexandre au nid grec.</l>
+            <ab type="ornament">*</ab>
+            <l>Oh ! sous ce blanc front anglais</l>
+            <l>Que de songes de gloire passèrent ! Sur l’Égée</l>
+            <l>Souriaient les belles îles épandues.</l>
+            <ab type="ornament">*</ab>
+            <l>Ah ! la Parque prit son vol. De montagne en montagne</l>
+            <l>Pleura la lyre du vieil Orphée</l>
+            <l>Et se couchèrent en la noire mer les étoiles.</l>
+          </div>
+          <div>
+            <head>Sul laghetto di Arqua / Au lac d’Arqua</head>
+            <index>
+              <term type="id">article-1891-09_136</term>
+              <term type="author">Mazzoni, Guido (1859-1943)</term>
+              <term type="signed">Guido Mazzoni</term>
+              <term type="section">none</term>
+              <term type="title">Sul laghetto di Arqua / Au lac d’Arqua</term>
+              <term type="date">1891-09</term>
+              <term type="ref">Tome III, numéro 21, septembre 1891, p. 136-137</term>
+            </index>
+            <byline><hi rend="sc">Guido Mazzoni</hi>.</byline>
+            <label type="head">Sul laghetto di Arqua</label>
+            <l>Sul laghetto di Arquà (cannucce integre</l>
+            <l>Gli fan cintura e trepidanti pioppi),</l>
+            <l>Secure da le reti e da gli schioppi,</l>
+            <l>Pispole, capinere e cingallegre</l>
+            <ab type="ornament">*</ab>
+            <l>Cinguettan quanto è il dì ; ma se le negre</l>
+            <l>Ombre sgombrano il ciel, par che si addoppi</l>
+            <l>La gioia di lor vita, e suonan scoppi</l>
+            <l>Gai di trilli e un frullar d’ale allegre.</l>
+            <ab type="ornament">*</ab>
+            <l>Spesso scendea giù pe’ sentieri molli</l>
+            <l>Esso il Petrarca, e qui si assise e tacque</l>
+            <l>A udir del santo suo la voce acerba.</l>
+            <ab type="ornament">*</ab>
+            <l>Ahi, con sospiri ei videva altre acque</l>
+            <l>Nel memoro pensiero ed altri colli !</l>
+            <l>E aperto il libro gli sfuggia su l’erba.</l>
+            <label type="head">Au lac d’Arqua</label>
+            <lg>
+              <l>Au lac d’Arqua (des roseaux levés droits</l>
+              <l>Lui font une ceinture, et des tremblants peupliers),</l>
+              <l>À l’abri des rets et des fusils</l>
+              <l>Les farlouses, les têtes-noires et les mésanges</l>
+            </lg>
+            <lg>
+              <l>Gringotent toute la journée ; mais quand les noires</l>
+              <l>Ombres déménagent du ciel il semble que se double</l>
+              <l>La joie de leur vie, et sonnent des éclats</l>
+              <l>Gais de trilles et un frou-frou d’ailes allègres.</l>
+            </lg>
+            <lg>
+              <l>Souvent descendait là par les sentiers humides</l>
+              <l>Pétrarque, et là il s’asseyait et se taisait</l>
+              <l>À écouter son saint à la voix acerbe.</l>
+            </lg>
+            <lg>
+              <l>Ah ! regrets ! il revoyait les eaux de jadis</l>
+              <l>En son inoublieuse pensée et les collines de jadis !</l>
+              <l>Et le livre ouvert de ses mains tombait sur l’herbe.</l>
+            </lg>
+          </div>
+        </div>
+        <div>
+          <head>Journaux et revues [extrait]</head>
+          <index>
+            <term type="id">article-1891-09_187</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Journaux et revues</term>
+            <term type="title">Journaux et revues [extrait]</term>
+            <term type="date">1891-07</term>
+            <term type="ref">Tome III, numéro 21, septembre 1891, p. 187-188</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont].</byline>
+          <bibl>Tome III, numéro 21, septembre 1891, p. 187-188.</bibl>
+          <p><hi rend="b">Gazzetta Letteraria</hi> (Turin). — Noté dans les derniers numéros : <hi
+              rend="i">Il Padre Curci e la letteratura gesuitica</hi>, par Giovanni Faldella ; une
+            analyse (un peu à côté) de <hi rend="i">À l’Écart</hi>, de Minhar et Vallette, par
+            Giuseppe Depanis ; <hi rend="i">Talento e Personalità</hi>, par Bruno Sperani : l’auteur
+            n’est pas dupe du ridicule aphorisme souvent, à cette heure, proféré, que la littérature
+            actuelle se caractérise par « trop de talent !» — et il distingue soigneusement la <hi
+              rend="i">personnalité</hi>, qui est l’essence du <hi rend="i">talent</hi>, et la
+            faculté d’assimilation, qui en est la singerie, en ajoutant que la <hi rend="i"
+              >personnalité</hi> a besoin d’être rigoureusement disciplinée.</p>
+          <p><hi rend="b">Cronaca d’Arte</hi> (Milan). — Une étude sur <hi rend="i">Le Vierge</hi>
+            d’Alfred Vallette ; curieuses notes d’Enrico Morselli à propos de la célèbre attirance
+            qu’exercent les concours académiques et autres sur les demi-fous (les mattoïdes), ceux
+            que l’auteur appelle <quote>« <hi rend="i">i masturbatori della filosofia, metafisica,
+                psicologia e sociologia</hi> »</quote> ; une polémique où C. Antona Traversi
+            soutient contre la <hi rend="i">Cronaca</hi> la légitimité du théâtre qui plaît à la
+            majorité et « fait de l’argent ».</p>
+          <p><hi rend="b">Critica Sociale</hi> (Milan). — Bons articles de polémique ; théories
+            socialistes doctrinaires.</p>
+        </div>
+        <div>
+          <head>Choses d’art. <lb/>Musée du Louvre</head>
+          <index>
+            <term type="id">article-1891-09_189</term>
+            <term type="author">Aurier, Gabriel-Albert (1865-1892)</term>
+            <term type="signed">G.-A. A.</term>
+            <term type="section">Choses d’art</term>
+            <term type="title">Musée du Louvre</term>
+            <term type="date">1891-09</term>
+            <term type="ref">Tome III, numéro 21, septembre 1891, p. 189-190</term>
+          </index>
+          <byline>G.-A. A. [Gabriel-Albert Aurier]</byline>
+          <bibl>Tome III, numéro 21, septembre 1891, p. 189-190.</bibl>
+          <p>On a déplacé un grand nombre de tableaux, effectué un nouveau classement, encore plus
+            malheureux que le précédent, dont le seul but semble avoir été de mettre en cimaise des
+            Guido Reni, des Dolci, des Carrache et autres croûtes, pour accrocher dans les frises
+            d’intéressants tableautins grands comme la main. Quand se décidera-t-on à débarrasser la
+            grande galerie de ses quatre-vingts Guido Reni qui l’encombrent et à créer pour eux,
+            comme on a fait pour les Le Sueur, une salle spéciale dans laquelle on aura la liberté
+            de ne point passer ? Dans la salle des Primitifs italiens, il y a cent tableaux
+            remarquables, voisins du plafond, qu’il est impossible de voir, un Pérugin, un
+            Botticelli, un Paolo Uccello, etc., etc. Il n’y a pas un seul Jordaens en cimaise. Le
+            Caravage du grand salon carré, malgré ses petites dimensions, est à trente mètres de
+            hauteur. Enfin, et c’est le comble, le Louvre, si pauvre en maîtres allemands, ne
+            possède en tout que trois Cranach : or, un de ces trois Cranach, facile à caser
+            pourtant, puisqu’il n’a guère que vingt-cinq pouces carrés, est exposé... devinez où ?
+              — <hi rend="sc">dans le Musée de la Marine</hi> !!!</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome III, numéro 22, octobre 1891</head>
+        <div>
+          <head>Journaux et revues [extrait]</head>
+          <index>
+            <term type="id">article-1891-10_249</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Journaux et revues</term>
+            <term type="title">Journaux et revues [extrait]</term>
+            <term type="date">1891-10</term>
+            <term type="ref">Tome III, numéro 22, octobre 1891, p. 249-252 [249-250]</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont]</byline>
+          <bibl>Tome III, numéro 22, septembre 1891, p. 249-252 [249-250].</bibl>
+          <p>[…]</p>
+          <p><hi rend="b">Gazzetta Letteraria</hi> (Turin). — <hi
+              rend="i">Il Bello e il Giudizio estetico</hi>, par G. Lavini : incapacité de la
+            science à définir le beau (22 août) ; <hi rend="i">Giorgio Eliot, la sua
+              vita e i suoi romanzi</hi>, par G. Depanis (5 septembre).</p>
+          <p><hi rend="b">Cronaca d’Arte</hi> (Milan). — Une belle gravure d’après une tête d’étude
+            du peintre Andrea Gastaldi, mort à Turin il y a deux ans (30 août).</p>
+          <p><hi rend="b">Critica Sociale</hi> (Milan). — <hi rend="i">La « vita » delle
+              risaiuole</hi>, étude sur la condition misérable des ouvrières dans les rizières de la
+            Basse Lombardie, par A. Cabrini (20 août).</p>
+          <p>[…]</p>
+        </div>
+        <div>
+          <head>Choses d’art [extrait]</head>
+          <index>
+            <term type="id">article-1891-10_253</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Choses d’art</term>
+            <term type="title">Choses d’art [extrait]</term>
+            <term type="date">1891-10</term>
+            <term type="ref">Tome III, numéro 22, octobre 1891, p. 253 [253]</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont]</byline>
+          <bibl>Tome III, numéro 22, septembre 1891, p. 253 [253].</bibl>
+          <p>À voir chez <hi rend="sc">Haro</hi>, rue Bonaparte, deux Primitifs italiens, l’un plus
+            que douteux, l’autre qui semble un Pesello (École florentine, <num>xv<hi rend="sup"
+                >e</hi></num> siècle) ou un Sano di Pietro (École de Sienne, <num>xv<hi rend="sup"
+                >e</hi></num> siècle).</p>
+          <p>Rue des Saints-Pères, 13, un autre Primitif qui rappelle les Verrocchio (École
+            florentine, <num>xv<hi rend="sup">e</hi></num> siècle).</p>
+          <p>[…]</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome III, numéro 23, novembre 1891</head>
+        <div>
+          <head>Journaux et revues [extrait]</head>
+          <index>
+            <term type="id">article-1891-11_312</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Journaux et revues</term>
+            <term type="title">Journaux et revues [extrait]</term>
+            <term type="date">1891-11</term>
+            <term type="ref">Tome III, numéro 23, novembre 1891, p. 312-317 [312]</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont]</byline>
+          <bibl>Tome III, numéro 23, novembre 1891, p. 312-317 [312].</bibl>
+          <p>[…]</p>
+          <p><hi rend="b">Gazzetta Letteraria</hi> (Turin). — M. Lenzoni étudie Carducci, en lequel
+            il reconnaît un classique, un poète qui ajouta l’érudition à son génie naturel, un de
+            ceux eu somme que le public admet sans les comprendre : la partie la plus choisie du
+            public en est toujours aux guitaristes du <num>xviii<hi rend="sup">e</hi></num> siècle,
+            et Métastase ne fut jamais détrôné. Lire Stendhal, âme tellement italienne qu’il donne
+            encore aujourd’hui un bon résumé des goûts italiens — distingués (26 septembre et
+            3 octobre).</p>
+          <p><hi rend="b">Cronaca d’Arte</hi> (Milan). — De beaux vers de M. Rapisardi, <hi rend="i"
+              >l’isola</hi> ; du Lamartine (27 septembre).</p>
+          <p><hi rend="b">Critica Sociale</hi> (Milan), — Cette courageuse revue s’est attiré, à
+            propos de la « cara patria », l’indignation du professeur Martinozzi, de Livourne. Elle
+            réplique en promettant une étude de cette question — dangereuse, et veut bien faire
+            remarquer qu’il est des écrivains que l’on peut frapper, mais dont on ne tirera jamais
+            aucune palinodie ni aucun consentement à gratter des cordes usées sur le ventre des
+            vieilles harpes (30 septembre).</p>
+          <p>[…]</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

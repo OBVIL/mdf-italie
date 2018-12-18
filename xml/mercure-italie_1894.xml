@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2018-12-18T10:40:19+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Articles du <hi rend="i">Mercure de France</hi>, année 1894</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Marguerite Bordry </name>
+          <resp>Relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Éric Thiébaud </name>
+          <resp>OCR, Stylage sémantique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Sorbonne Université, Labex OBVIL</publisher>
+        <date when="2018"/>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1894.xml</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1894.html</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1894.epub</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1894.txt</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’OBVIL, selon les termes de la licence Creative Commons :
+              « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
+              (CCBY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+              Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+              électronique, notamment en intégrant toutes les contributions extérieures, la
+              diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1894"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Tome X, numéro 50, février 1894</head>
+        <div>
+          <head>Fantaisie</head>
+          <index>
+            <term type="id">article-1894-02_116</term>
+            <term type="author">Carducci, Giosuè (1835-1906)</term>
+            <term type="author">Barrucand, Victor (1864-1934). Traducteur</term>
+            <term type="signed">Giosuè Carducci</term>
+            <term type="signed">Traduit de l’italien par Victor Barrucand</term>
+            <term type="section">none</term>
+            <term type="title">Fantaisie</term>
+            <term type="date">1894-02</term>
+            <term type="ref">Tome X, numéro 50, février 1894, p. 116</term>
+          </index>
+          <byline><hi rend="sc">Giosué Carducci</hi>. <lb/><hi rend="i">Traduit de l’italien
+              par</hi><hi rend="sc">Victor Barrucand.</hi></byline>
+          <bibl>Tome X, numéro 50, février 1894, p. 116.</bibl>
+          <lg>
+            <l>Tu parles ; et cédant à la molle brise de ta voix</l>
+            <l>L’âme s’abandonne</l>
+            <l>Sur les ondes caressantes de ton parler</l>
+            <l>Et vogue vers d’étranges plages.</l>
+          </lg>
+          <lg>
+            <l>Vogue en une tiédeur de soleil occidental</l>
+            <l>Riant aux céruléennes solitudes :</l>
+            <l>Entre ciel et mer de candides oiseaux volent,</l>
+            <l>Des îles vertes s’éloignent.</l>
+          </lg>
+          <lg>
+            <l>Sur les cimes, ardues les temples flamboient.</l>
+            <l>De nitide Paros dans le couchant rose ;</l>
+            <l>Et les cyprès de la rivé frémissent,</l>
+            <l>Et les épais myrtes odorent.</l>
+          </lg>
+          <lg>
+            <l>L’effragrance se propage sur les haleines salines.</l>
+            <l>Et se mêle aux chansons traînantes des marins,</l>
+            <l>Cependant qu’une barque en vue du port amène</l>
+            <l>Avec lenteur ses voiles rouges.</l>
+          </lg>
+          <lg>
+            <l>Je vois des jeunes filles descendre de l’Acropole</l>
+            <l>En théories ; elles ont des tuniques blanches,</l>
+            <l>Au front des guirlandes, en main des lauriers :</l>
+            <l>Elles tendent les bras et chantent.</l>
+          </lg>
+          <lg>
+            <l>Sa haste enfoncée dans l’arène-patrie,</l>
+            <l>Atterrit un homme en armes splendide :</l>
+            <l>N’est-ce point Alcée qui revient des combats</l>
+            <l>Vers les vierges lesbiennes ?</l>
+          </lg>
+        </div>
+        <div>
+          <head>Les Livres. <lb/><hi rend="i">Les Déclins</hi>, par Sfenosa (Lemerre)</head>
+          <index>
+            <term type="id">article-1894-02_184</term>
+            <term type="author">Rambosson, Yvanhoé (1872-1943)</term>
+            <term type="signed">Y. Rambosson</term>
+            <term type="section">Les Livres</term>
+            <term type="title"><hi rend="i">Les Déclins</hi>, par Sfenosa (Lemerre)</term>
+            <term type="date">1894-02</term>
+            <term type="ref">Tome X, numéro 50, février 1894, p. 178-184 [184]</term>
+          </index>
+          <byline><hi rend="sc">Y. Rambosson</hi>.</byline>
+          <bibl>Tome X, numéro 50, février 1894, p. 178-184 [184].</bibl>
+          <quote>
+            <p rend="i">Elle est morte la Poésie !</p>
+          </quote>
+          <p rend="noindent">proclame M. Sfenosa. Voyons, Monsieur, ne blaguez pas l’éternité.
+            Auriez-vous donc conscience que vous étranglez cette pauvre Muse ? D’ailleurs, la Poésie
+            morte, je ne vois pas pourquoi vous continuez à faire des vers ; on demande grâce.</p>
+        </div>
+        <div>
+          <head>Journaux et revues [extrait]</head>
+          <index>
+            <term type="id">article-1894-02_185</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">Remy de Gourmont</term>
+            <term type="section">Journaux et revues</term>
+            <term type="title">Journaux et revues [extrait]</term>
+            <term type="date">1894-02</term>
+            <term type="ref">Tome X, numéro 50, février 1894, p. 184-189 [185]</term>
+          </index>
+          <byline><hi rend="sc">Remy de Gourmont</hi>.</byline>
+          <bibl>Tome X, numéro 50, février 1894, p. 184-189 [185].</bibl>
+          <p>[…]</p>
+          <p>La <hi rend="b">Tavola Rotunda</hi> a publié un numéro double tout entier consacré à
+            M. Gabriele d’Annunzio.</p>
+          <p>Même attention de la part de la <hi rend="b">Vita Moderna</hi> pour Wagner et la
+            Walkyrie.</p>
+          <p>[…]</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome X, numéro 51, mars 1894</head>
+        <div>
+          <head>Les Livres [extraits]</head>
+          <index>
+            <term type="id">article-1894-03_279</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. de Gourmont</term>
+            <term type="section">Les Livres</term>
+            <term type="title">Les Livres [extraits]</term>
+            <term type="date">1894-03</term>
+            <term type="ref">Tome X, numéro 51, mars 1894, p. 279-283 [279-280, 280-281]</term>
+          </index>
+          <byline><hi rend="sc">R. de Gourmont</hi> [Remy de Goumont].</byline>
+          <bibl>Tome X, numéro 51, mars 1894, p. 279-283 [279-280, 280-281].</bibl>
+          <div>
+            <head><hi rend="i">I Canti dei Goliardi, o studenti vaganti del medio-evo</hi>, par
+              Corrado Corradini (Turin, L. Roux)</head>
+            <index>
+              <term type="id">article-1894-03_279a</term>
+              <term type="author">Gourmont, Remy de (1858-1915)</term>
+              <term type="signed">R. de Gourmont</term>
+              <term type="section">Les Livres</term>
+              <term type="title"><hi rend="i">I Canti dei Goliardi, o studenti vaganti del
+                  medio-evo</hi>, par Corrado Corradini (Turin, L. Roux)</term>
+              <term type="date">1894-03</term>
+              <term type="ref">Tome X, numéro 51, mars 1894, p. 279-283 [279-280]</term>
+            </index>
+            <p>Les Goliards étaient des clercs vagabonds, des clercs ribauds, qui s’en allaient de
+              ville en ville, ou d’abbaye en abbaye, récitant à qui les logeait et les nourrissait
+              de légères ou même d’obscènes poésies latines. C’est la contrepartie et souvent la
+              parodie de la poésie latine mystique du moyen-âge. Quelques-uns de ces poètes eurent
+              une grande réputation, au moins dans le monde clérical, Primat, Walter Map, Serlon de
+              Wilton, Philippe de Grève, mais la majeure partie de la littérature goliardique est
+              anonyme. Les clercs vagabonds chantaient les joies printanières :</p>
+            <quote><l rend="center i">Terra jam pandit gremium</l>
+              <l rend="center i">Vernali lenitate…</l></quote>
+            <quote><l rend="center i">Estivali gaudio</l>
+              <l rend="center i">Tellus renovatur…</l></quote>
+            <quote><l rend="center i">Fronde sub arboris amena</l>
+              <l rend="center i">Suave est quiescere,</l>
+              <l rend="center i">Suavius ludere in gramine</l>
+              <l rend="center i">Cum virgine speciosa.</l></quote>
+            <p>Ils ont d’exquises façons de dire la beauté de leur belle :</p>
+            <quote><l rend="center i">Nudam fovet Floram lectus,</l>
+              <l rend="center i">Caro candet tenera,</l>
+              <l rend="center i">Virginale lucet pectus</l>
+              <l rend="center i">Parum surgunt ubera.</l></quote>
+            <p>Ils parodient les hymnes de l’Église ; au lieu du <hi rend="i">Procul recedant
+                somnia</hi>, ils chantent :</p>
+            <quote><l rend="center i">Procul sint jam tristia ;</l>
+              <l rend="center i">Dulcia gaudia</l>
+              <l rend="center i">Solemnizant omnia</l>
+              <l rend="center i">Veneris gymnazia.</l></quote>
+            <p>Et au lieu du <hi rend="i">Rorate cœli</hi> :</p>
+            <quote><l rend="center i">Rorate scyphi desuper</l>
+              <l rend="center i">Et nubes pluant mustum.</l></quote>
+            <p>M. Corrado Corradini a traduit en vers élégants un choix de cette bizarre
+              littérature, mais il faudrait le texte ; ce latin a son charme que ne peut rendre
+              nulle transposition.</p>
+            <p>Nous croyons d’ailleurs qu’il se prépare, texte et traduction en prose littérale, une
+              petite Anthologie goliardique. Ce sera pour les lettrés curieux la révélation d’un
+              moyen-âge bien inattendu, — mais d’ailleurs amplement connu de tous les érudits
+              moyenâgistes.</p>
+          </div>
+          <div>
+            <head><hi rend="i">La Fata e la Musa. I Notturni. Leggende Reali</hi>, par C. Reina
+              (Naples, Luigi Pierro)</head>
+            <index>
+              <term type="id">article-1894-03_280</term>
+              <term type="author">Gourmont, Remy de (1858-1915)</term>
+              <term type="signed">R. de Gourmont</term>
+              <term type="section">Les Livres</term>
+              <term type="title"><hi rend="i">La Fata e la Musa. I Notturni. Leggende Reali</hi>,
+                par C. Reina (Naples, Luigi Pierro)</term>
+              <term type="date">1894-03</term>
+              <term type="ref">Tome X, numéro 51, mars 1894, p. 279-283 [280-281]</term>
+            </index>
+            <p>Ce sont des vers, disant de beaux sentiments en une langue imagée et colorée, mais le
+              poète qui a de l’imagination a aussi de la mémoire. En décrivant un vol de
+              corbeaux :</p>
+            <quote>
+              <l rend="i">Con l’ali aperte e ferme, pel cielo senza vento.</l>
+            </quote>
+            <p>Le vers est beau, mais il appartient, au moins pour la moitié, à Dante.</p>
+          </div>
+        </div>
+        <div>
+          <head>Journaux et revues [extrait]</head>
+          <index>
+            <term type="id">article-1894-03_285</term>
+            <term type="author">Zanoni, A.</term>
+            <term type="signed">Zanoni</term>
+            <term type="section">Les Livres</term>
+            <term type="title">Les Livres [extraits]</term>
+            <term type="date">1894-03</term>
+            <term type="ref">Tome X, numéro 51, mars 1894, p. 283-284 [283-284]</term>
+          </index>
+          <byline><hi rend="sc">Zanoni</hi> [A. Zanoni].</byline>
+          <bibl>Tome X, numéro 51, mars 1894, p. 284-285 [285].</bibl>
+          <p>[…]</p>
+          <p><hi rend="b">L’Idea Liberale</hi> du 4 février a publié un article des plus importants
+            et des plus intéressants, <hi rend="i">La Réaction antidémocratique</hi>, par
+            G. Martinelli. Le dégoût qu’inspire la démocratie à tout intellectuel et même à tout
+            esprit sensé est bien plus violent en Italie qu’en France, et il faut voir comme
+            M. Martinelli, avec un courage évident, signale et approuve <quote>« le vif courant
+              d’antipathie et de dégoût pour toutes ces pompeusement grotesques manières de
+              gouverner et de diriger l’activité humaine qui caractérisent les institutions
+              jusqu’ici sacrées de la Démocratie »</quote>. Et plus loin : <quote>« La réaction que
+              je constate contre la tyrannie médiocratique du nombre a quelque chose de plus intime,
+              de plus systématique que ne le serait un simple dégoût inspiré par les turpitudes et
+              infamies de quelques hommes. »</quote> Comme bien d’autres, il semble moins choqué de
+            la malhonnêteté des gouvernants actuels, que de leur stupidité et de leur bassesse :
+            c’est <hi rend="i">ça</hi> qui fait les lois ! C’est <hi rend="i">ça</hi> qui nous
+            commande ! Mais M. Martinelli se garde des idées anarchistes, il est simplement dans la
+            pure signification du mot un <hi rend="i">libéral</hi>, et il associe intimement ces
+            deux idées : Aristocratie et Liberté.</p>
+          <p>Il appelle Aristocratie le triomphe et le gouvernement des meilleurs. On reconnaît là
+            l’inspiration de M. H. Mazel et la théorie qu’il a déjà indiquée et qu’il développera
+            certainement, puisqu’elle est bien accueillie.</p>
+          <p>Cette même <hi rend="i">Idea Liberale</hi> nous avait donné, il y a quelque temps, une
+            remarquable étude sur Nietzsche, par Domenico Oliva ; la <hi rend="b">Gazetta
+              Letteraria</hi> du 10 février revient sur l’inquiétant iconoclaste et analyse sa
+            philosophie sans dénigrement, mais sans enthousiasme, reconnaissant son influence, en
+            art, en littérature et même en politique.</p>
+          <p>[…]</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome X, numéro 52, avril 1894</head>
+        <div>
+          <head>Les Livres [extraits]</head>
+          <index>
+            <term type="id">article-1894-04_364</term>
+            <term type="author">Zanoni, A.</term>
+            <term type="signed">Zanoni</term>
+            <term type="section">Les Livres</term>
+            <term type="title">Les Livres [extraits]</term>
+            <term type="date">1894-04</term>
+            <term type="ref">Tome X, numéro 52, avril 1894, p. 364-371 [367, 368]</term>
+          </index>
+          <byline><hi rend="sc">Zanoni</hi> [A. Zanoni].</byline>
+          <bibl>Tome X, numéro 52, avril 1894, p. 364-371 [367, 368].</bibl>
+          <div>
+            <head><hi rend="i">Le Paesane</hi>, par Luigi Capuana (Catane, M. Giannotta)</head>
+            <index>
+              <term type="id">article-1894-04_367</term>
+              <term type="author">Zanoni, A.</term>
+              <term type="signed">Zanoni</term>
+              <term type="section">Les Livres</term>
+              <term type="title"><hi rend="i">Le Paesane</hi>, par Luigi Capuana (Catane,
+                M. Giannotta)</term>
+              <term type="date">1894-04</term>
+              <term type="ref">Tome X, numéro 52, avril 1894, p. 364-371 [367]</term>
+            </index>
+            <p>C’est un recueil de nouvelles écrites de 1881 à 1892 par l’auteur de <hi rend="i"
+                >Giacinta</hi> et de <hi rend="i">Storia Forca</hi>. Le titre le dit, ce sont des
+              paysanneries, et, le nom de l’auteur le dit, — naturalistes, mais d’un naturalisme pas
+              méchant, presque sentimental et presque spirituel. Généralement, la psychologie de ses
+              personnages est juste quoique assez superficielle ; si ces petites études de mœurs
+              étaient plus serrées, plus synthétiques, elles ne seraient pas sans valeur, mais que
+              tout cela est anecdotique ! Puis, un style fort médiocre, sans être cependant
+              absolument impersonnel : trop de détails, trop de petites vulgarités. Oh ! qu’elles
+              m’intéressent peu, ces paysannes siciliennes.</p>
+          </div>
+          <div>
+            <head><hi rend="i">Vincenzo Bellini</hi>, par Antonino Amore. <hi rend="i">II. Vita,
+                Studi e Ricerche</hi> (Catane, N. Giannotta, éditeur)</head>
+            <index>
+              <term type="id">article-1894-04_368</term>
+              <term type="author">Zanoni, A.</term>
+              <term type="signed">Zanoni</term>
+              <term type="section">Les Livres</term>
+              <term type="title"><hi rend="i">Vincenzo Bellini</hi>, par Antonino Amore. <hi
+                  rend="i">II. Vita, Studi e Ricerche</hi> (Catane, N. Giannotta, éditeur)</term>
+              <term type="date">1894-04</term>
+              <term type="ref">Tome X, numéro 52, avril 1894, p. 364-371 [368]</term>
+            </index>
+            <p>En un premier volume, paru en 1891, M. A. Amore avait étudié l’art de Bellini, en se
+              plaisant peut-être à surfaire un peu le génie de l’auteur de <hi rend="i">Norma</hi>.
+              En Italie, on surfait toujours ; c’est préférable au dénigrement, qui est notre
+              maladie, à nous. En ce volume, c’est la vie de Bellini qui est racontée. Comme
+              documentation, c’est un travail excellent, — et voilà Bellini « fait » pour bien des
+              années. On n’y reviendra pas ; le sujet a été traité à fond.</p>
+          </div>
+        </div>
+        <div>
+          <head>Journaux et revues [extrait]</head>
+          <index>
+            <term type="id">article-1894-04_375</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">Remy de Gourmont</term>
+            <term type="section">Journaux et revues</term>
+            <term type="title">Journaux et revues [extrait]</term>
+            <term type="date">1894-04</term>
+            <term type="ref">Tome X, numéro 52, avril 1894, p. 371-376 [375-376]</term>
+          </index>
+          <byline><hi rend="sc">Remy de Gourmont</hi>.</byline>
+          <bibl>Tome X, numéro 52, avril 1894, p. 371-376 [375-376].</bibl>
+          <p>Dans ce goût-là, on dépassera difficilement la niaiserie de M. Guido Bosio, qui (<hi
+              rend="b">Gazetta Letteraria</hi>) rédige sur Wagner des phrases à résumer ainsi :
+            « Wagner était un dégénéré supérieur, atteint de délire des persécutions et des
+            grandeurs, de folie mystique, de folie anarchique, de graphomanie, d’incohérence,
+            d’émotivité exagérée, de psychopathie sexuelle et de fanatisme religieux. Ses écrits
+            sont incompréhensibles pour qui n’est pas familier avec la psychologie des dégénérés. Il
+            a tous les caractères de la “régressivité”, c’est-à-dire que son art est un recul
+            manifeste vers la pauvreté des conceptions primitives de l’humanité ; sa débilité
+            mentale est manifeste ; enfin il est immoral ; il ne conçoit jamais le coït normal et
+            fécond, patriotique ; les amours qu’il rêve et qu’il fait paraître dans ses œuvres sont
+            de pures conceptions délirantes ; c’est un hystérique et un érotomane, — et ses œuvres
+            n’ont été propagées que par des maniaques qui lui ressemblaient ; en Amérique, c’est
+            l’Armée du Salut qui a fait le succès de Wagner, etc. » Que voulez-vous ? Il y a une
+            hiérarchie intellectuelle, et elle est <hi rend="i">infrangible.</hi></p>
+        </div>
+      </div>
+      <div>
+        <head>Tome XI, numéro 55, juillet 1894</head>
+        <div>
+          <head>Les Livres. <lb/><hi rend="i">Vie de saint François d’Assise</hi>, par Paul Sabatier
+            (Fischbacher)</head>
+          <index>
+            <term type="id">article-1894-07_285</term>
+            <term type="author">Albert, Henri (1869-1921)</term>
+            <term type="signed">H. Albert</term>
+            <term type="section">Les Livres</term>
+            <term type="title"><hi rend="i">Vie de saint François d’Assise</hi>, par Paul Sabatier
+              (Fischbacher)</term>
+            <term type="date">1894-07</term>
+            <term type="ref">Tome XI, numéro 55, juillet 1894, p. 284-286 [285]</term>
+          </index>
+          <byline><hi rend="sc">H. Albert</hi> [Henri Albert].</byline>
+          <bibl>Tome XI, numéro 55, juillet 1894, p. 284-286 [285].</bibl>
+          <p>M. de Wyzewa a annoncé au public que M. Sabatier s’était proposé d’écrire un pendant à
+            la <hi rend="i">Vie de Jésus</hi> de Renan, le pape a envoyé sa bénédiction à
+            « l’éminent théologien », et M. Léon Tolstoï lui a demandé l’autorisation de faire
+            traduire son ouvrage en russe. Après <hi rend="i">cela</hi>, que restait-il à dire en
+            l’honneur de la <hi rend="i">Vie de saint François d’Assise</hi>, qui a atteint, dit-on,
+            un nombre d’éditions considérable ? <quote>« Il a fait l’objet de 333 articles dans la
+              presse religieuse et politique de la France et de l’Europe »</quote>, nous annonce
+            M. Sabatier lui-même dans une lettre adressée au journal <hi rend="i">Le Christianisme
+              au <num>xix<hi rend="sup">e</hi></num> siècle</hi>. <quote>« C’est là, ajoute-t-il, un
+              succès inattendu et tel qu’on n’en avait pas vu depuis bien longtemps pour un ouvrage
+              d’histoire religieuse. »</quote> Ce succès lui a suggéré l’idée de donner sa démission
+              <quote>« de pasteur à l’Église Réformée de Saint-Cierge-la-Serre »</quote>, situation
+            peu rémunératrice dont il ne s’était d’ailleurs jamais beaucoup soucié, et lui a valu
+            l’honneur d’être traité d’anarchiste par un rédacteur de la feuille protestante nommée
+            plus haut. Le volume de M. Sabatier est un travail consciencieux, une compilation bien
+            faite, avec parfois, sur la vie de son saint, de jolis détails rédigés en style gris. La
+            moitié du livre est remplie de laborieuses indications de sources, le reste était
+            partiellement connu par d’autres biographies et notamment par une très bonne étude sur
+            saint François publiée par Mme Arvède Barine dans une <hi rend="i">Revue des
+              Deux-Mondes</hi> d’il y a quelques années.</p>
+        </div>
+        <div>
+          <head>Choses d’art [extrait]</head>
+          <index>
+            <term type="id">article-1894-07_301</term>
+            <term type="author">Mauclair, Camille (1872-1945)</term>
+            <term type="signed">C. Albert</term>
+            <term type="section">Choses d’art</term>
+            <term type="title">Choses d’art [extrait]</term>
+            <term type="date">1894-07</term>
+            <term type="ref">Tome XI, numéro 55, juillet 1894, p. 300-301 [301]</term>
+          </index>
+          <byline><hi rend="sc">C. Mauclair</hi> [Camille Mauclair].</byline>
+          <bibl>Tome XI, numéro 55, juillet 1894, p. 300-301 [301].</bibl>
+          <p>[…]</p>
+          <p>Chez Durand-Ruel se voient des Jeanne Jacquemin, des Monet, de fatigants Zandomeneghi,
+            et les derniers paysages de Renoir, d’une couleur épanouie et chantante.</p>
+          <p>[…]</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome XI, numéro 56, août 1894</head>
+        <div>
+          <head>Les Livres. <lb/><hi rend="i">L’Arte dell’ Estremo Oriente</hi>, par Vittorio Pica
+            (Turin, L. Roux)</head>
+          <index>
+            <term type="id">article-1894-08_389</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. de Gourmont</term>
+            <term type="section">Les Livres</term>
+            <term type="title"><hi rend="i">L’Arte dell’ Estremo Oriente</hi>, par Vittorio Pica
+              (Turin, L. Roux)</term>
+            <term type="date">1894-08</term>
+            <term type="ref">Tome XI, numéro 56, août 1894, p. 383-390 [389]</term>
+          </index>
+          <byline><hi rend="sc">R. de Gourmont</hi> [Remy de Gourmont].</byline>
+          <bibl>Tome XI, numéro 56, août 1894, p. 383-390 [389].</bibl>
+          <p>C’est une étude sur l’art japonais, sur Hokusai, Outamaro, Toyokuni, Kuniyoshi, etc.,
+            petit résumé agréable à lire, et qui, s’il n’apprend rien de bien nouveau, est tout à
+            fait digne du célèbre critique, dont la curiosité d’esprit ne dédaigne rien
+            d’important.</p>
+        </div>
+        <div>
+          <head>Journaux et revues [extrait]</head>
+          <index>
+            <term type="id">article-1894-08_391</term>
+            <term type="author">Vallette, Alfred (1858-1935)</term>
+            <term type="signed">A. Vallette</term>
+            <term type="section">Journaux et revues</term>
+            <term type="title">Journaux et revues [extrait]</term>
+            <term type="date">1894-08</term>
+            <term type="ref">Tome XI, numéro 56, août 1894, p. 390-392 [391]</term>
+          </index>
+          <byline><hi rend="sc">A. Vallette</hi> [Alfred Vallette].</byline>
+          <bibl>Tome XI, numéro 56, août 1894, p. 390-392 [391].</bibl>
+          <p>[…]</p>
+          <p>Dans la <hi rend="b">Revue des Revues</hi> (15 juillet), Mlle Paula Lombroso, la fille
+            du professeur, publie un article sur la <hi rend="i">Cérébration inconsciente dans
+              l’Art</hi>. […]</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome XII, numéro 59, novembre 1894</head>
+        <div>
+          <head>À tâtons. <lb/>Les Primitifs et la Renaissance</head>
+          <index>
+            <term type="id">article-1894-11_226</term>
+            <term type="author">Bernard, Émile (1868-1941)</term>
+            <term type="signed">Émile Bernard</term>
+            <term type="section">none</term>
+            <term type="title">À tâtons. Les Primitifs et la Renaissance</term>
+            <term type="date">1894-11</term>
+            <term type="ref">Tome XII, numéro 59, novembre 1894, p. 226-230</term>
+          </index>
+          <byline><hi rend="sc">Émile Bernard</hi>.</byline>
+          <bibl>Tome XII, numéro 59, novembre 1894, p. 226-230.</bibl>
+          <epigraph>
+            <p>Celui qui est Dieu entend les paroles de Dieu.</p>
+            <bibl>                          <hi rend="i">Ev. de</hi>
+              <hi rend="sc">Saint Jean.</hi></bibl>
+          </epigraph>
+          <p>Des règles d’un Idéal, d’un Beau, nous voulons faire abstraction afin de ne point
+            entrer dans de stériles discussions ; car le Beau, illimité comme tout ce qui est
+            Esprit, se révèle, selon les tempéraments, sous les formes les plus indescriptibles et
+            les lois les plus inqualifiables, adéquates à sa splendeur éblouissante. Opterai-je
+            entre ceci ou cela, chercherai-je plus de talent, plus de grâce, plus de science ou en
+            ceci ou en cela ? Telles sont les embarrassantes traverses qui encombrent la voie
+            directe du Beau. Le Beau, c’est ce que l’on sent être Beau, c’est ce qui, même sans
+            plaire, s’impose ; c’est une lueur de l’Éternel devant notre infirmité.</p>
+          <p>Deux questions ont été longtemps agitées (lesquelles ne semblent pas encore résolues),
+            savoir : celle du Beau antique et du Beau chrétien (ou moderne).</p>
+          <p>Avant la révélation de la forme de Beauté que nous ont donnée Raphaël, Michel-Ange,
+            Vinci, s’était-il trouvé en le moyen-âge quelque œuvre de génie pouvant s’égaler à cette
+            réalisation ?</p>
+          <p>Cette question — à l’appui de toutes les théories apprises dès l’enfance et rabâchées
+            durant la vie entière — paraissait des plus embarrassantes aux hommes de ce siècle
+            commençant, qui, épris de perfection (un mot), ne pouvant la trouver nulle part, crurent
+            bon, afin de suivre plus directement un but, de déduire sur la forme la plus antique
+            contentant leur raison et de condamner tout le reste comme nuisible et avorté<note
+              place="bottom">À ce propos, voici quelques paroles d’Eugène Delacroix rapportées par
+              les récentes publications de ses agendas : La question du Beau se réduit à peu près à
+              ceci : Qu’aimez-vous mieux d’un lion ou d’un tigre ? Un Grec et un Anglais ont chacun
+              une manière d’être beau qui n’a rien de commun… nos peintres sont enchantés d’avoir un
+              beau idéal (et nos littérateurs aussi donc !) tout fait et en poche, qu’ils peuvent
+              communiquer aux leurs et à leurs amis. Aujourd’hui, si la question de l’antique s’est
+              déplacée, elle n’en a pas moins fait place à un autre abus ; je veux parler de l’idée
+              littéraire qui semble avoir fait de tous les tableaux modernes de l’Illustration.
+              L’idée d’un peintre ne doit-elle pas avant tout être peinture, et peinture surtout
+              plus que littérature ! Goya, Rembrandt, Daumier étaient de grands peintres dans tout
+              ce que ce mot implique de qualités particulières à cet art. Leur idée n’est que parce
+                qu’<hi rend="i">elle est picturale</hi>, c’est-à-dire parce qu’elle se prête
+              admirablement à toutes les qualités saisissantes de l’art auquel ils s’adressent pour
+              la traduire. Or, nous voyons avec peine les jeunes peintres s’écarter de cette
+              considération, et les littérateurs, soit par faiblesse, soit par ignorance, encourager
+              ce défaut de déploiement qui n’engendre rien que d’anormal et de bouffon, partant
+              d’inharmonique. L’harmonie ne peut pas naître de deux choses opposées. Or, sans dire
+              que la littérature et la peinture n’ont aucune connexion, je puis au moins dire, sans
+              que personne me puisse démentir, que ce qui fait la Beauté de l’une dans son tout,
+              transporté dans l’autre n’y engendrera pas la Beauté si les éléments de l’art auquel
+              on s’adressera ne sont satisfaits ; c’est de cette manière que les longues et les
+              brèves qui sont opposées entre elles composent, le rhythme lorsqu’elles sont accordées
+                (<hi rend="sc">Platon).</hi> Ainsi donc, tant que l’idée littéraire restera purement
+              littéraire il y aura désaccord entre elle et la peinture, car chacun de ces arts se
+              compose d’éléments différents. Exemple : La lune ouvre dans l’onde un éventail
+              d’argent ; qui ne voit du premier coup que cela, très pictural en poésie, ne peut rien
+              donner en peinture, et qu un visage peint par un bon peintre lui sera toujours
+              préférable en tant que peinture ?</note>. Grandiose stupidité des écoles, démontrant
+            l’infériorité de l’analyse devant une création !</p>
+          <p>Raphaël, par d’exquis encorbeillements de lignes, par une afféterie que nous voyons
+            s’affadir selon la faiblesse de ses imitateurs, a été le grand oracle et le modèle ;
+            mais non point en ce que son immense génie a de libre, d’imposant, de grandiose ; mais
+            en ce qu’il emprunta de l’art antique : il s’en est suivi que l’art antique, très
+            propice à l’inspiration des trois maîtres les plus éblouissants de la Renaissance, a été
+            proclamé la seule vraie, la seule bonne école de l’art, et nécessaire à son équilibre
+            comme à sa connaissance. Cet aveuglement a produit ce qu’on sait de pires balivernes, de
+            poncifs vides et laids, de rondeurs sans signifiance. Il faut l’amour et la science qu’a
+            un Ingres des œuvres du maître très divin pour historier un peu la froideur et la
+            monotonie de sa doctrine.</p>
+          <p>Regardons-y de plus près et entrons dans l’esprit même de la chose. Quel est le but de
+            l’art, sinon d’exprimer un mouvement d’âme, une noble aspiration, une parcelle
+            d’harmonie avant la lettre, l’harmonie absolue ne nous devant être révélée qu’au-delà de
+            la vie d’ici ? Or, ces choses ne sont point en dehors de nous, mais en nous, car il n’y
+            a pas, que je sache, de gens qui aillent demander aux autres leur colère propre, leur
+            douleur propre ou leur joie propre ; ils n’obéissent en cela qu’à une impulsion
+            naturelle ; que sera-ce donc pour le génie, qui est créateur ! La lettre tue, l’esprit
+            vivifie, dit le grand apôtre : parole vérifiée clairement dans cette question du
+            Beau.</p>
+          <p>N’y a-t-il pas eu — avant la Renaissance — d’hommes sentant et pensant ? n’y a-t-il pas
+            eu des souffrants, des attristés, des contemplatifs, des joyeux, des saints, des héros,
+            des génies ? Tout examen fait, il résulte qu’aucune période ne fut plus fertile en
+            gloires anonymes de tous les genres, et cela parce tous se fondaient en un, parce que
+            les esprits possédés d’une science simple et claire fonctionnaient dans un système ayant
+            l’idéal et l’harmonie pour but. Il est donc impossible et même révoltant de dire
+            qu’avant la Renaissance il n’y ait pas eu d’art<note place="bottom">Et voilà cependant
+              ce que vous apprennent tous les manuels écrits depuis trois siècles…</note>.</p>
+          <p>Cet art, puisqu’il y en eut un, que fut-il ? Comportait-il cette sérénité et cette
+            radieuse beauté des œuvres proclamées, ou priait-il, ou pensait-il, ou pleurait-il ? Il
+            eut un plus grand tort encore que tout cela ! il rêva. C’est qu’alors on était en des
+            temps de croyance et de vision, en des temps de guerres terribles et de paix exquises,
+            en des carnages abominables et des féeries délicieuses. Rien n’entravait l’Esprit des
+            hommes ; le Doute n’était point né ; et des millions d’êtres partaient pour délivrer le
+            tombeau du Christ sans avoir songé un instant à ce qu’ils mangeraient en chemin et de
+            quelle étoffe ils se vêtiraient. Une égale ardeur était dans tous les esprits ; aucune
+            entreprise ne semblait dérisoire, pourvu qu’elle eût Dieu pour fin, et le dogmatisme
+            protestant n’avait point encore montré son nez de cafard sur les marches de la
+            chaire.</p>
+          <p>Parmi une telle effervescence, devant un tel abandon de tout ce qui tient au corps,
+            l’art florissait poussant ses immenses lys de pierre : les cathédrales, les chapelles,
+            les couvents ; couvrant les murs de ses romans, de ses contes, de ses rêveries ; volant
+            trop haut pour s’attarder à un pittoresque étroit : s’élevant toujours au-dessus de son
+            objet, il apportait à l’œuvre ce vague qui est la songerie même de l’inconnu, et cette
+            précision expressive si intense qui ne peut faire douter du but qu il voulait atteindre.
+            En un mot — et c’est pourquoi il fut condamné — il était trop haut ; il ne pouvait
+            satisfaire l’analyse d’hommes qui descendaient de ces pions, de ces chrétiens à l’âme
+            affaiblie préparant sa destruction dans sa chute même.</p>
+          <p>Pourtant, combien ce langage incompris était clair et simple ; sans autre désir que la
+            pensée, il la précise dans de grandes lignes plus proches souvent du hiératisme
+            monumental que de la nature imitée ; mariant son essor à toutes les aspirations de son
+            temps, il était un accord de plus, et le plus beau peut-être de cette immense symphonie
+            des cœurs vers Dieu. Loin d’en diminuer le caractère, il l’accentue et le fait entendre
+            par ses hardiesses, par sa force qui ne doute de rien ; il méprise le détail de mauvais
+            aloi, il veut le simple parce qu’il pense au grand, et qu’il soit byzantin, gothique,
+            italien, français ou allemand, il ne cesse jamais d’être Lui et de parler hautement à
+            l’âme. Si Raphaël, si Vinci ont de la science et de la grâce, il n’en manque point, lui
+            qui se promène dans les jardins du ciel ; et apte s’ils sont à tout dire, il ne leur est
+            point inférieur, puisqu’il va de l’ange au démon, de l’Eden à l’abîme. Non, il ne fut
+            jamais vulgaire, plat, lourd, grossier dans son intensité ; non, messieurs les rhéteurs,
+            il fut libre, il fut fort.</p>
+          <p>Épris des vérités de détail, Stendhal s’écriait : Que manque-t-il à Raphaël ? la
+            science moderne !</p>
+          <p>Qu’aurait fait Raphaël de Gall et de Lavater, de Desbarolles ou de Charcot ? Ces
+            connaissances ne sont pas des sources d’inspiration, et ces vérités infinitésimales ne
+            peuvent que la mal servir. Sentir, tout est là, et il faut le redire, et il faut le
+            cracher au nez de toute cette bande d’esthéticiens, cause des méconnaissances et des
+            ravages perpétuels commis dans l’histoire de l’art. C. Baudelaire, — le premier et le
+            seul critique d’art de ce siècle — disait : <quote>« Décidément, je ne puis m’arrêter à
+              aucune esthétique, le tout consistant à sentir »</quote>. L’art tient à l’âme. La
+            médiocrité présente de l’art chrétien est une cause de la tiédeur des fidèles. Les
+            cathédrales ont fait des conversions. La présence réelle de l’Esprit, reflet du Divin,
+            est donc la première condition de l’œuvre ; et après cela, que l’on ne vienne pas nous
+            dire qu’il y a des règles que l’on ne peut outrepasser : au nom du style, tout est
+            permis, car le style c’est l’homme, et c’est l’homme que nous voulons avant tout dans
+            l’œuvre d’art, l’homme moral, l’homme spirituel, l’homme créature de Dieu enfin.</p>
+          <p>Un mauvais tableau est plus répugnant qu’un imbécile, parce que l’imbécile dissimule
+            toujours malgré lui quelque côté de sa sottise, tandis que dans l’œuvre on le voit d’un
+            coup tout entier. N’avons-nous pas assez de concierges, de cireurs de bottes qui se
+            mettent du « métier de la Peinture » ? On ne saurait assez les exécrer. Le malheur est
+            qu’ils se sont glissés partout, faux prêtres interceptant la lumière, et qu’ils gardent
+            les écoles, les musées, les places, dignes cerbères de la médiocrité triomphante. C’est
+            ce reflet de leur trivialité éclatant en tout qui nous force à nous boucher le nez
+            devant l’azur (<hi rend="sc">Mallarmé).</hi> C’est à eux surtout que s’adresse cette
+            note hâtive pleine de haine, car c’est d’eux que vient le mépris du passé et le doute de
+            l’avenir, avenir qu’ils déclarent lumineux quoiqu’ils aient mis le néant au bout. Grâce
+            à leur éclatante crasse, Raphaël, Michel-Ange eux-mêmes ne sont plus compris, car, armés
+            de formules aussi stériles que creuses, ces pédants gouvernent l’univers répétant comme
+            des automates forains les mêmes gestes secs et les mêmes accents discordants. Nous
+            concluons donc : haine à eux et gloire au Beau sous toutes ses formes, place à l’Esprit
+            dans son éclat.</p>
+          <dateline rend="i">Écrit à Tantah en 1893.</dateline>
+        </div>
+        <div>
+          <head>Musique. <lb/><hi rend="i">Othello</hi></head>
+          <index>
+            <term type="id">article-1894-11_274</term>
+            <term type="author">Mortier, Alfred (1865-1937)</term>
+            <term type="signed">Alfred Mortier</term>
+            <term type="section">Musique</term>
+            <term type="title">Othello</term>
+            <term type="date">1894-11</term>
+            <term type="ref">Tome XII, numéro 59, novembre 1894, p. 274-276</term>
+          </index>
+          <byline><hi rend="sc">Alfred Mortier</hi>.</byline>
+          <bibl>Tome XII, numéro 59, novembre 1894, p. 274-276.</bibl>
+          <p>Bien que d’une grande simplicité de moyens, de ligne et de composition, bien que d’une
+            clarté dont Verdi est coutumier, pourquoi cette œuvre, qui est une belle œuvre,
+            n’atteint-elle point à l’effet considérable que visiblement elle sollicite ? À cela
+            plusieurs raisons : l’une, c’est que, de par les nécessités de l’adaptation, le drame
+            shakespearien a été falsifié comme il convient en tout opéra qui se respecte jusqu’à ne
+            point respecter les chefs-d’œuvre. De l’<hi rend="i">Othello</hi> du grand Will il ne
+            reste plus qu’une carcasse dont la maigreur égale celle de la fable originelle des <hi
+              rend="i">Hecatommithi</hi> de Cinthio ; la psychologie a disparu et, selon
+            l’expression de M. Henry Baüer, le « fait divers » demeure. En outre, l’image légendaire
+            et préjudicielle que nous suggéra le génie anglais persistant en notre rétine cérébrale
+            avec la force des créations éternelles, une étrange superposition, un parallélisme
+            constant nous déroute au grand désavantage de l’œuvre italienne. Enfin, par suite de
+            l’idéalisation nécessaire (est-ce bien une idéalisation, est-elle nécessaire ?) réalisée
+            par M. Boito, les personnages ont changé d’allures au point qu’on croit assister par
+            moments à une parodie, à une succession inexplicable de sentiments sans liens logiques,
+            dénués de cette merveilleuse gradation qui dans Shakespeare rend vrai l’invraisemblable.
+            Quelques traits souligneront ces observations :</p>
+          <p>L’acte à Venise étant supprimé, nous ne connaissons pas Desdémone, si bellement
+            sculptée en le noble langage qu’elle tient à Brabantio. — Othello est âgé d’environ
+            cinquante ans ; ce n’est pas en vain que Shakespeare a élu pour victime de la jalousie
+            un homme mûr, un rude soldat ignorant l’amour léger des damerets. Le duo de passion qui
+            termine le premier acte de Verdi est au contraire juvénile et tendre, et M. Saléza l’a
+            chanté comme s’il se fût agi de Roméo, La musique et le livret l’y portaient. — Enfin
+            Iago n’est pas un philosophe plus ou moins diabolique, un machinateur d’intrigues, c’est
+            une brute malfaisante, un soldat de fortune ayant roulé partout, pas très intelligent,
+            mais pervers, cruel et dissimulé. La forte et curieuse physionomie de cet homme
+            disparaît dans le livret de M. Boito pour laisser la place à une façon de Méphisto de
+            cour, de sous-Machiavel, d’ailleurs merveilleusement animé par le superbe artiste qu’est
+            M. Victor Maurel, mais tout autre que nous n’avons coutume de l’imaginer et qu’il n’est
+            en réalité.</p>
+          <p>Voilà pour le livret.</p>
+          <p>La partition, abstraction faite de plusieurs tares, est dans son ensemble fort belle.
+            Si elle ne produit point tout l’effet qu’on est en droit d’en attendre, c’est d’abord
+            que les situations sont plus intérieures qu’extérieures et par suite moins musicales au
+            sens habituel des œuvres lyriques ; c’est aussi que l’inspiration manque certainement
+            d’intensité ; cette dernière appréciation peut sembler hasardée lorsqu’il est question
+            de Verdi, mais j ai toujours pensé que chez ce maitre la magui-loquence donna souvent
+            l’illusion de la force. Expressive à un haut degré, parfaite de sobriété et de justesse
+            (sauf en quelques endroits), la musique d’<hi rend="i">Othello</hi> manque pourtant de
+            puissance, et ce n’est pas le fameux <hi rend="i">Credo</hi> d’Iago qui me fera revenir
+            sur cette opinion ; il y a là, comme on dit, plus de beurre que de pain. Ajoutez à tout
+            cela l’effacement voulu ou involontaire du commentaire orchestral sous le fallacieux
+            prétexte de donner plus d’importance aux voix, quelques airs de bravoure d’un bel
+            italianisme, tels que le :</p>
+          <quote>
+            <l rend="i">Tout m’abandonne… Adieu, rêves de gloire,</l>
+          </quote>
+          <p rend="noindent">un certain finale du III<hi rend="sup">e</hi> acte qui nous ramène aux
+            plus mauvais jours de notre histoire, et vous aurez une idée des quelques vices qui
+            entachent la partition.</p>
+          <p>Malgré tout, l’œuvre est d’un maître, et d’une superbe tenue. Il faut en louer
+            l’ordonnance générale et la belle harmonie. Le second acte notamment contient
+            d’admirables pages parmi lesquelles le « rêve de Cassio », supérieurement chanté par
+            Maurel. Le trio qui ouvre le troisième acte est d’exquise élégance et d’une écriture
+            orchestrale qui égale les plus gracieuses instrumentations de Mendelssohn. Enfin le
+            quatrième acte tout entier est un chef-d’œuvre ; le monologue de Desdémone, l’<hi
+              rend="i">Ave Maria</hi>, la scène d’Othello, portent l’empreinte d’un grand musicien
+            qui a su créer une atmosphère sonore d’une sombre et douloureuse mélancolie à l’entour
+            d’âmes destinées par la Volupté à la Mort.</p>
+          <p>Dirai-je pour terminer que, contrairement à quelques critiques, l’absence de leitmotifs
+            ne m’a point du tout choqué. À ce point de vue, <hi rend="i">Othello</hi> me paraît,
+            dans une certaine mesure, démontrer que le leitmotif n’est pas indispensable au drame
+            lyrique. De ce que Wagner en a fait la pierre angulaire de son temple, il ne s’ensuit
+            nullement qu’une autre conception musicale soit inadmissible. Le leitmotif est un
+            procédé remarquable, mais un procédé seulement, et ce n’est point de l’employer
+            systématiquement qui fait le génie. Il y a d’autres moyens encore de donner de l’unité à
+            une partition, et, quoi qu’on dise, <hi rend="i">Othello</hi> est une œuvre marquée
+            d’unité. J’en trouve la preuve dans la scène II de l’acte III entre Othello et
+            Desdémone, commençant par ces mots :</p>
+          <quote>
+            <l rend="i">Que Dieu te tienne en joie, ô maître de mon âme,</l>
+          </quote>
+          <p rend="noindent">et dans plusieurs autres scènes qui sont développées suivant le modèle
+            symétrique de l’ancienne manière sans nuire à l’évolution des sentiments. Par contre,
+            l’absence de leitmotif rend son usage accidentel infiniment plus expressif : nous en
+            avons un exemple dans <hi rend="i">Othello</hi> avec la phrase du « Baiser », dont la
+            réapparition à la fin du IV<hi rend="sup">e</hi> acte provoque une très intense
+            émotion :</p>
+          <p>La mise en scène est fastueuse. L’interprétation est bonne. M. Saléza a du feu et de
+            l’intelligence ; mais la voix manque d’ampleur, se fatigue vite et tend à baisser. Le
+            rôle est d’ailleurs écrasant et je ne connais qu’un Tamagno capable de le remplir.</p>
+          <p>Madame Rose Caron est une agréable Desdémone.</p>
+          <p>Il faut mettre hors de pair M. Victor Maurel, qui dans le costume, la démarche, le
+            geste, la diction, est simplement surprenant. Avec ce grand artiste on a la sensation
+            d’un art spécial et synthétique qui n’est ni la tragédie seule, ni l’opéra, mais l’un
+            est l’autre. Imaginez un Talma qui aurait su chanter comme il disait. C’est en vérité
+            cela, l’acteur du drame lyrique, et je voudrais que M. Maurel, qui incarne si aisément
+            un Iago après un Falstaff, nous fît la joie de créer à Paris Hans Sachs des <hi rend="i"
+              >Maîtres chanteurs</hi>.</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome XII, numéro 60, décembre 1894</head>
+        <div>
+          <head>Journaux et revues [extrait]</head>
+          <index>
+            <term type="id">article-1894-12_383</term>
+            <term type="author">Vallette, Alfred (1858-1935)</term>
+            <term type="signed">A. V.</term>
+            <term type="section">Journaux et revues</term>
+            <term type="title">Journaux et revues [extrait]</term>
+            <term type="date">1894-12</term>
+            <term type="ref">Tome XII, numéro 60, décembre 1894, p. 382-383 [383]</term>
+          </index>
+          <byline>A. V. [Alfred Vallette]</byline>
+          <bibl>Tome XII, numéro 60, décembre 1894, p. 382-383 [383].</bibl>
+          <p>[…]</p>
+          <p>Un des écrivains italiens qui connaissent le mieux la littérature française dans ses
+            dernières manifestations, M. F. Accinelli, publie dans <hi rend="b">Il Vero</hi>, de
+            Savone, une excellente tradition italienne d’<hi rend="i">Albert</hi>, le roman de notre
+            collaborateur Louis Dumur. Le même journal annonce la publication en italien de la <hi
+              rend="i">Motte de Terre</hi>, à laquelle il consacre en attendant un article des plus
+            élogieux.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

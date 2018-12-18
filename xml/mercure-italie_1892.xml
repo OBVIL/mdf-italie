@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2018-12-18T10:40:07+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Articles du <hi rend="i">Mercure de France</hi>, année 1892</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Marguerite Bordry </name>
+          <resp>Relecture</resp>
+        </respStmt>
+        <respStmt>
+          <name>Éric Thiébaud </name>
+          <resp>OCR, Stylage sémantique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Sorbonne Université, Labex OBVIL</publisher>
+        <date when="2018"/>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1892.xml</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1892.html</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1892.epub</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1892.txt</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : 	« Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1892"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>Tome IV, numéro 25, janvier 1892</head>
+        <div>
+          <head>Journaux et revues [extrait]</head>
+          <index>
+            <term type="id">article-1892-01_091</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Journaux et revues</term>
+            <term type="title">Journaux et revues [extrait]</term>
+            <term type="date">1892-01</term>
+            <term type="ref">Tome IV, numéro 25, janvier 1892, p. 91-95 [91-92]</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont].</byline>
+          <bibl>Tome IV, numéro 25, janvier 1892, p. 91-95 [91-92].</bibl>
+          <p>Giosuè Carducci vient de prouver une fois de plus, comme le dit M. A. Ferrero dans la <hi rend="b">Gazzetta Letteraria</hi>, que nulle loi ne condamne les grands poètes au chef-d’œuvre à perpétuité. Sa dernière production. <hi rend="i">Ode à la Guerre</hi>, est en effet assez médiocre ; c’est de la poésie presque à la Déroulède, du patriotisme en vers sans même le mérite de la naïve sincérité. Grande polémique à ce sujet dans les revues littéraires italiennes. La <hi rend="i">Gazzetta</hi> explique, excuse ; la <hi rend="b">Cronaca d’Arte</hi>, moins résignée, blâme, répète le mot de Pétrarque : <hi rend="i">Pace ! Pace ! Pace !</hi> et dans un article M. U. Valcarenghi déclare que Carducci s’est mis au ban des poètes italiens ; la <hi rend="b">Critica sociale</hi> l’exécute en quelques phrases ironiques. Enfin une brochure anonyme, <hi rend="i">La Guerra del professore Carducci flagellata da Umano</hi>, a frappé le dernier coup. Profitant de la circonstance, un poète de talent, guère sorti encore des limbes, M. Rapisardi, a publié une contrepartie de l’ode de Carducci, intitulée <hi rend="i">All’ Utopia</hi> et qui contient de belles strophes.</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome IV, numéro 26, février 1892</head>
+        <div>
+          <head>Les Livres [extrait]</head>
+          <index>
+            <term type="id">article-1892-02_178</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Les Livres</term>
+            <term type="title">Les Livres [extrait]</term>
+            <term type="date">1892-02</term>
+            <term type="ref">Tome IV, numéro 26, février 1892, p. 173-179 [178-179]</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont].</byline>
+          <bibl>Tome IV, numéro 26, février 1892, p. 173-179 [178-179].</bibl>
+          <p>[…]</p>
+          <p>L’éditeur Nicolo Giannotta, de Catane, nous annonce la prochaine publication de plusieurs volumes, parmi lesquels : <hi rend="b">Confessioni letterarie</hi> de Luigi Capuana, le romancier <hi rend="i">vériste</hi> (notons en passant que ce mot fut écrit pour la première fois, en France, par Édouard Rod, <hi rend="i">Revue indépendante</hi>, août 1884, et qu’il n’a de sens qu’en littérature italienne, où il désigne un groupe de romanciers à tendances naturalistes spéciales, parmi lesquels Verga et Capuana). — Du même Capuana vient de paraître chez Pedone-Lauriel, à Palerme, un roman, <hi rend="i">Il Profumo</hi>, où se modifie un peu, vers le sens idéaliste, la manière de l’auteur de <hi rend="i">Giacinta</hi>.</p>
+        </div>
+        <div>
+          <head>Journaux et revues [extrait]</head>
+          <index>
+            <term type="id">article-1892-02_180</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Journaux et revues</term>
+            <term type="title">Journaux et revues [extrait]</term>
+            <term type="date">1892-02</term>
+            <term type="ref">Tome IV, numéro 26, février 1892, p. 179-185 [180-181]</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont].</byline>
+          <bibl>Tome IV, numéro 26, février 1892, p. 179-185 [180-181].</bibl>
+          <p>[…]</p>
+          <p>Un nouveau <hi rend="i">giornale d’arte</hi> paraît toutes les semaines à Florence ; titre : <hi rend="b">Germinal</hi>. Ne se réclame nullement de M. Zola, ce qu’on aurait pu craindre, et le déclare.</p>
+          <p>Numéro double de la <hi rend="b">Cronaca d’Arte</hi> (1-2 de la seconde année). M. Valcarenghi y commence un roman, <hi rend="i">Dedizione</hi> ; musique, très intéressante, de M. Celega ; une étude de M. A.-G. Bianchi sur la peinture abyssinienne. C’est à l’exposition de Palerme que l’on a pu voir des spécimens de cet art primitif, quoique contemporain ; la <hi rend="i">Cronaca</hi> donne les reproductions d’un saint George et d’une Vierge, à l’enfant. L’auteur de ces enluminures, né et vivant dans le Tigré, royaume abyssinien ou éthiopien indépendant, se nomme Haleka-Luccas.</p>
+          <quote>
+            <p>« Âgé d’une trentaine d’années, dit M. Bianchi, il a l’œil vif et paraît assez intelligent. Je le vis, dans sa cabane, assis par terre ; il dessinait sur un morceau de carton un Christ en croix entre deux saintes femmes et il soignait le buste avec une grande minutie, arrivant à le rendre épouvantablement squelettique. Il travaillait sans arrêt, comme un homme sûr de lui-même et dont la main est faite à la besogne. Près de lui son frère coloriait trois pères éternels déjà dessinés et destinés à représenter la Trinité ; il se servait d’un unique pinceau trempé successivement dans des godets pleins de couleurs délayées à l’eau ; ces couleurs étaient le jaune, le rouge, le bleu, le vert, le noir, le violet, le chair et rien de plus :</p>
+            <p>« Haleka-Luccas, ayant lui-même terminé son dessin, prit un pinceau et se mit à colorier. Je lui demandai pourquoi il ne le donnait pas, comme les autres, à colorier à son frère ; il me répondit :</p>
+            <p>« — Parce qu’il est trop difficile.</p>
+            <p>« Je vis en effet qu’il était plus habile à manier le pinceau.</p>
+            <p>« — Combien vous faut-il de temps pour faire un tableau ?</p>
+            <p>« — Une heure. »</p>
+          </quote>
+          <p>La précision et la rapidité formaient tout l’idéal de cet artiste étrange. M. Bianchi remarque que toute la peinture abyssinienne se ressemble prodigieusement ; il y a une seule manière de faire tout le nécessaire d’un personnage. Tous les yeux, et non seulement des figures humaines, mais des animaux, sont ordonnés de même (cela s’appelle les fresques égyptiennes) : un ovale allongé avec une boule noire dans un coin, — ce qui produit un certain effet de pétrification, surtout quand il y a plusieurs paires d’yeux dans le même tableau.</p>
+          <p>Tous les chevaux galopent ; tous les vieillards et tous les dignitaires ont des barbes de fleuve ; tous les Christ sont de cette maigreur qui permet de compter les côtes ; jamais de paysages ; les sujets sont de piété ou d’anecdote : miracles saints, batailles. Le saint George est ainsi colorié ; le fond, jaune ; le cheval, blanc, cerclé de violet ; la selle, rouge ; le cavalier, bleu, sauf les mains, le visage et les pieds, naturellement chair ; le dragon, vert.</p>
+          <p>Ce saint George ressemble encore beaucoup aux peintures que l’on voit sur les vases étrusques ; il a une certaine allure et séduit plus, en sa noble barbarie, que toute la bondieuserie académique.</p>
+          <p>[…]</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome IV, numéro 28, avril 1892</head>
+        <div>
+          <head>Les Livres.</head>
+          <index>
+            <term type="id">article-1892-04_357</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Les Livres</term>
+            <term type="title">Les Livres</term>
+            <term type="date">1892-04</term>
+            <term type="ref">Tome IV, numéro 28, avril 1892, p. 357-366 [362, 365]</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont].</byline>
+          <bibl>Tome IV, numéro 28, avril 1892, p. 357-366 [362, 365].</bibl>
+          <div>
+            <head><hi xml:lang="it" rend="i">L’Automa</hi>, romanzo biografico, di E. A. Butti (Milano, Libreria editrice di C. Chiesa e F. Guindani)</head>
+            <index>
+              <term type="id">article-1892-04_362</term>
+              <term type="author">Gourmont, Remy de (1858-1915)</term>
+              <term type="signed">R. G.</term>
+              <term type="section">Les Livres</term>
+              <term type="title"><hi rend="i">L’Automa</hi>, romanzo biografico, di E. A. Butti (Milano, Libreria editrice di C. Chiesa e F. Guindani)</term>
+              <term type="date">1892-04</term>
+              <term type="ref">Tome IV, numéro 28, avril 1892, p. 357-366 [362]</term>
+            </index>
+            <p>Romanzo biografico : mi pare che ogni romanzo, se non è una biografia, deve pure essere biografico, cioè un racconto della vita, sia positiva, sia ideale, sia rusticana, sia borghese, sia artistica, ecc. ; ma forse che il Butti ha che dire colle comuni definizioni o forse, ha intitolato cosi il suo libro perché è una storia dove il protagonista rimane quasi sempre sul proscenio. Frattanto, una successione di episodi non costituiscono né una biografia, né un dramma, nè un romanzo, — e l’<hi xml:lang="it" rend="i">Automa</hi> non è un romanzo ma una successione di episodi romanzeschi. Quanto allo stile, è un po inconsistente e troppo agevole, benche pieno di neologismi. In somma, primo lavoro di un giovane inesperto assai, ma audace, esuberante e di cui il talento non ha molto da fare per svelarsi : solamente aspettare, lavorare e diffidarsi del Verga, prima maniera.</p>
+          </div>
+          <div>
+            <head><hi xml:lang="it" rend="i">In morte di Virginia Valentini-Zanardelli da Macerata</hi>, Trecento Sonetti di Tito Zanardelli (Bruxelles, J. Morel).</head>
+            <index>
+              <term type="id">article-1892-04_365</term>
+              <term type="author">Gourmont, Remy de (1858-1915)</term>
+              <term type="signed">R. G.</term>
+              <term type="section">Les Livres</term>
+              <term type="title"><hi rend="i">In morte di Virginia Valentini-Zanardelli da Macerata</hi>, Trecento Sonetti di Tito Zanardelli (Bruxelles, J. Morel).</term>
+              <term type="date">1892-04</term>
+              <term type="ref">Tome IV, numéro 28, avril 1892, p. 357-366 [365]</term>
+            </index>
+            <p>Sonnets d’amour où le poète pleure sa femme morte. Le présent opuscule ne contient que les trente-trois premiers : ils sont tous d’une douloureuse sincérité.</p>
+          </div>
+        </div>
+        <div>
+          <head>Journaux et revues [extraits]</head>
+          <index>
+            <term type="id">article-1892-04_368</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Journaux et revues</term>
+            <term type="title">Journaux et revues [extraits]</term>
+            <term type="date">1892-04</term>
+            <term type="ref">Tome IV, numéro 28, avril 1892, p. 366-371 [368-369, 369]</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont].</byline>
+          <bibl>Tome IV, numéro 28, avril 1892, p. 366-371 [368-369, 369].</bibl>
+          <p>[…]</p>
+          <p>Une série d’intéressants articles dans la <hi rend="b">Gazzetta Letteraria</hi> (février et mars) : <hi rend="i">L’idealità nella vita</hi>, où M. Lenzoni démontre l’impuissance .de la science à établir une vraie vérité ; de la comtesse Lara, une étude sur Francis Saltus, littérateur américain ; Cesare Lombroso note que beaucoup d’hommes de génie furent épileptiques et se hâte de conclure : <quote>« Le génie n’est qu’une des formes de l’épilepsie »</quote>, — raisonnement dont la naïveté a quelque charme ; M. Cipolla narre la vie et l’œuvre d’un poète populaire, le curé don Pietro Zenari, connu sous le pseudonyme de Mario Zocaro, dont la maison Franchini, de Vérone, vient de publier les <hi rend="i">Poesie scelte</hi>.</p>
+          <p><hi rend="b">La Cronaca d’Arte</hi> résume, en un court article, l’état des nouvelles écoles littéraires en France ; l’auteur, qui doit être M. Alberto Sormani, paraît bien renseigné et se rend bien compte que la lutte n’a, sous des noms divers, que deux groupes de protagonistes : « les <hi rend="i">véristes</hi> et les <hi rend="i">idéalistes</hi> ».</p>
+          <p><hi rend="b">La Critica sociale</hi> est toujours l’une des meilleures revues socialistes et l’une des plus audacieuses.</p>
+          <p>Livres nouveaux italiens annoncés par les revues : <hi rend="i">Per la vita e per la morte</hi>, par Salvatore Farina ; <hi rend="i">Giovanni Episcopo</hi>, par Gabriele d’Annunzio.</p>
+          <p>[…]</p>
+          <p><hi rend="b">Revue des Questions historiques</hi> (janvier-mai). M. Beurlier disserte savamment sur le <hi rend="i">Culte rendu aux souverains dans l’antiquité grecque et romaine</hi>. Cela commence avec Alexandre, aux rois de Macédoine ; ensuite furent adorés les Ptolémées en Égypte, les Séleucides en Syrie : à Rome J. César fut le premier : il eut un collège de prêtres, les <hi rend="i">Luperci Julii</hi>, un temple dédié <hi rend="i">À la Clémence de César</hi>, un flamine spécial, tout comme Jupiter, Mars et Quirinus. La conversion de Constantin modifia un peu le culte des empereurs, mais très peu, puisque saint Jérôme s’indigne qu’on rendît des sacrifices à leurs images ; Julien essaya de restaurer cette religion d’État. Les flamines impériaux, devenus, dans la suite, de simples organisateurs de jeux publics, se perpétuèrent en Occident jusqu’aux invasions barbares et en Orient jusqu’à la chute de Constantinople.</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome V, numéro 29, mai 1892</head>
+        <div>
+          <head>Boèce au moyen-âge<note place="bottom"><hi rend="i">Boethius, an essay</hi>, by Hugh Fraser Stewart (Londres, Blackwood).— Cet ouvrage est un <hi rend="i">manuel</hi> de Boèce, un très bon travail d’érudition où tout est dit avec méthode et sobriété.</note></head>
+          <index>
+            <term type="id">article-1892-05_369</term>
+            <term type="author">Hermès</term>
+            <term type="signed">Hermès</term>
+            <term type="section">none</term>
+            <term type="title">Boèce au Moyen-Âge</term>
+            <term type="date">1892-05</term>
+            <term type="ref">Tome V, numéro 29, mai 1892, p. 66-69</term>
+          </index>
+          <byline><hi rend="sc">Hermès</hi>.</byline>
+          <bibl>Tome V, numéro 29, mai 1892, p. 66-69.</bibl>
+          <p>Le grec Hermas, chrétien et platonicien, et familier même davantage avec les dires de Diotime qu’avec les paraboles évangéliques, écrivit, aux temps de saint Paul, un livre, le <hi rend="i">Pasteur</hi>, qui a servi de modèle à tout un cycle de livres. Le début en est tout à fait pur et plein de grâce :</p>
+          <quote>
+            <p>« Celui qui fut mon hôte à Rome me vendit une jeune fille. Beaucoup d’années après, je la revis, je la reconnus et je me mis à l’aimer comme une sœur. Mais avant cela, un jour qu’elle s’apprêtait à se baigner dans le Tibre, je lui tendis la main et la menai vers le fleuve. En la regardant, je me disais en mon cœur : Je serais heureux de posséder une telle femme, si belle et si honnête. Je pensais cela et pas davantage. Or, quelque temps après, en me promenant avec ces pensées, je rendis hommage à la créature de Dieu, songeant combien elle était magnifique et belle. Et m’étant promené, je m’endormis. Et l’Esprit me ravit et m’enleva vers la droite, en un lieu où un homme n’aurait pu marcher. Car c’était un lieu plein de rochers et abrupt, et impraticable à cause des eaux. Quand j’eus franchi ce lieu, j’arrivai dans une plaine : et, les genoux fléchis, je commençai de prier le Seigneur et de confesser mes péchés. Et comme je priais, le ciel s’ouvrit, et j’aperçus cette femme que j’avais désirée, me saluant du haut du ciel et disant : Hermas, salut. Et moi, l’apercevant, je luis dis : Madame, que faites-vous là ? Et elle me répondit : J’ai été reçue ici pour dévoiler tes péchés au Seigneur, Madame, demandai-je, les dévoilerez-vous vraiment ? Non, dit-elle. Mais écoute les paroles que je vais te dire. Dieu, qui habite dans les cieux et qui de rien a créé toutes choses et les a multipliées pour sa sainte Église, Dieu est irrité contre toi : parce que tu as péché envers moi. Répondant, je lui dis : Madame, si j’ai péché envers vous, où, en quel lieu et en quel temps vous ai-je jamais adressé une parole déshonnête ? Ne vous ai-je pas toujours estimée comme une dame ? Ne vous ai-je pas toujours révérée comme une sœur ? Pourquoi donc m’accusez-vous d’actions si abominables ? Alors, se mettant à rire de moi, elle dit : En ton cœur est montée la concupiscence du mal. Et ne te paraît-il pas que c’est une laide chose pour l’homme juste que la concupiscence du mal soit montée dans son cœur ? C’est un péché pour lui, un très grand péché. L’homme juste en effet pense des choses justes. Et c’est en pensant des choses qui sont justes et s’avançant dans cette droite voie qu’il trouvera au ciel un Seigneur propice à sa cause. Mais ceux qui pensent en leur cœur des choses défendues assument la mort et la captivité : surtout ceux qui aiment ce siècle et qui se glorifient dans leurs richesses : et ceux qui ne pensent pas aux biens futurs, leurs âmes sont vidées de tout. Ainsi font les douteux qui n’ont pas d’espoir en le Seigneur et méprisent et négligent sa vie. Mais toi, prie le Seigneur, et il guérira tes péchés et ceux de toute ta maison et ceux de tous les saints. Quand elle eut prononcé ces paroles, les cieux se fermèrent<note place="bottom"><hi rend="i">Hermae vetustissimi theologi Pastor</hi> ; à la suite de <hi rend="i">Claudiani Mamerti De Statu Animae</hi> (Cygneae, 1655, in-16).</note>. »</p>
+          </quote>
+          <p>Voilà bien le prototype de la <hi rend="i">Vita nuova</hi> de Dante ; mais Dante n’a sans doute connu Hermas qu’à travers l’imitation qu’en a faite Boèce dans sa <hi rend="i">Consolation</hi>. À vrai dire, le traité de Boèce provient du <hi rend="i">Banquet</hi> encore plus que du <hi rend="i">Pasteur</hi>, mais tous ces livres et d’autres ont des analogies de filiation. Diotime, la <hi rend="i">Domina</hi> d’Hermas, la Monique évoquée dans la <hi rend="i">Vie heureuse</hi> de saint Augustin, la Philosophie telle que la voit Boèce, Béatrice, — autant d’êtres de rêve ou d’idéalisation appartenant à la mystérieuse famille.</p>
+          <p>Avoir une place, même toute petite, parmi ces créateurs d’âmes, c’est la gloire du sénateur Boèce, Maître des Offices à la cour de Théodoric et qui fut mis à mort sur des accusations assez obscures portées contre lui par Cyprien, comte des Sacrées Largesses.</p>
+          <p>Sa réputation durant tout le moyen-âge et son influence sur le développement de la philosophie scolastique proviennent évidemment d’une toute autre cause ; beaucoup plus pratiques, qu’on ne le croit et avides de savoir à un degré ignoré de notre siècle de lassitude, les gens de ces temps (si pleinement lumineux pour qui n’a pas sur les yeux le bonnet d’âne fabriqué par la Renaissance) estimaient au-dessus de tout le livre qui leur apportait soit des arguments de raisonnement, soit des faits, soit des notions nouvelles touchant les sérieux problèmes qu’ils ne se lassèrent jamais d’étudier. Or, entre les deux grandes écoles qui se battaient, sous des noms différents, pour les éternelles causes qui sont l’idéalisme (<hi rend="i">réalisme</hi> du moyen-âge) et le réalisme (<hi rend="i">nominalisme</hi> du moyen-âge) ; entre Platon et Aristote, également mal connus par les traditions et par des bribes de textes incorrects, de traductions libres, — Boèce, philosophe mitoyen, mi-platonicien, mi-aristotélien, apparut comme une sorte de Juge, dont l’impartialité était sans cesse consultée.</p>
+          <p>Cette position de Boèce est nettement indiquée par Godefroi de Saint-Victor : assis entre Platon et Aristote, étonné de la controverse indéfinie, écoutant avec soin ce que disent l’un et l’autre, il ne sait lequel des disputeurs favoriser, il n’ose clore définitivement le débat :</p>
+          <quote>
+            <l>Assidet Boethius, stupens de hac lite,</l>
+            <l>Audiens quid hic et hic asserat perite,</l>
+            <l>Et quid cui faveat non discernit rite ;</l>
+            <l>Nec praesumit solvere litem definite.</l>
+          </quote>
+          <p>Donc, au tribunal du Maître des Offices, Platon disait : Les universaux existent en dehors de toute connaissance subjective. Il y a dans le monde, au-dessus de nous, une idée, un archétype de chacune des choses qui forment le monde visible ; et ces idées seules sont stables et permanentes ; elles sont, en somme, les seules réalités véritables et connaissables ; les choses ne sont que d’obscures copies de ces formes éternelles, et on ne peut les connaître que par leur ressemblance avec les immuables types. — Aristote disait : Cette doctrine que l’École résume, <quote>« Universalia extra et ante rem »</quote>, me semble radicalement irrationnelle. Moi, je ne monte point au général pour redescendre au particulier, mais je pars du particulier pour atteindre le général ; le particulier seul existe vraiment ; l’individuel seul est réel et l’universel est un de ses attributs<note place="bottom">Voir le chapitre intitulé : <hi rend="i">Boethius and the scholastic problem</hi>. — Cf. B. Hauréau, <hi rend="i">Histoire de la philosophie scolastique</hi>, t. I<hi rend="sup">er</hi>.</note>.</p>
+          <p>Platon parlait comme un métaphysicien, Aristote comme un savant, et Boèce, simple philosophe de bonne volonté, n’osa jamais aller si loin ni à droite, ni à gauche. Ayant traduit Aristote et commenté Platon, il lui restait pour l’un et pour l’autre une timide tendresse presque naïve. Il aurait voulu les concilier : la conciliation est encore à faire ; ce fut l’œuvre tentée par la philosophie scolastique, — mais Boèce ayant refusé de dire le dernier mot, nul ne le proféra : Platon triompha avec le génie de Scott Érigène ; Aristote, avec le génie de Thomas d’Aquin.</p>
+        </div>
+        <div>
+          <head>Journaux et revues [extrait]</head>
+          <index>
+            <term type="id">article-1892-05_087</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Journaux et revues</term>
+            <term type="title">Journaux et revues [extrait]</term>
+            <term type="date">1892-05</term>
+            <term type="ref">Tome V, numéro 29, mai 1892, p. 87-90 [87-88]</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont].</byline>
+          <bibl>Tome V, numéro 29, mai 1892, p. 87-90 [87-88].</bibl>
+          <p>Le <hi rend="b">Don Marzio</hi>, de Naples, analyse, en son numéro du 4 avril, une conférence donnée par M. Vittorio Pica dans la salle du <hi rend="i">Filologico</hi>. Sujet : l’<hi rend="i">Art aristocratique</hi>. M. V. Pica reconnaît un art de telle essence qu’il s’oppose indéniablement à l’esprit démocratique et demeure fermé à la foule. Le plus grand de ces artistes fut hier Wagner, aujourd’hui il se nomme Stéphane Mallarmé, et, sous l’égide de l’un ou de l’autre, à la suite aussi de Baudelaire et de Verlaine, ont lui ou luisent au ciel invisible les noms de Villiers de l’Isle-Adam, Laforgue, Rimbaud, Poictevin, Barrès, Puvis de Chavannes, O. Redon, Maeterlinck, C. Lemonnier, Huysmans, Hannon, Verhaeren, Rodenbach, Rops, H. de Groux, Minne, Holman Hunt, Burne-Jones, Swinburne, Morris, Whistler ; les peintres italiens Morelli, Sartorio, Previati ; les écrivains Carlo Dossi et d’Annunzio ; Tolstoï, Rod, Goncourt, etc. Les énumérations sont toujours incohérentes ; il y a à retenir de ce compte rendu autre chose, l’idée dominante de la conférence : qu’il y a un art « ésotérique » et qu’il est absolument légitime.</p>
+          <p>À mentionner dans la <hi rend="b">Gazzetta Letteraria</hi> (26 mars) : <hi rend="i">L’Oltretombo</hi>, par A. Lenzoni ; <hi rend="i">I Pressitimenti</hi>, par F. Rizzati ; dans la <hi rend="b">Cronaca d’Arte</hi> (27 mars) : un intéressant article d’Alberto Sormani, <hi rend="i">Arte nuova</hi>, et sous ce titre : <hi rend="i">Venezia nell’arte e nella litteratura francese</hi>, un important extrait d’un volume de G. Molmenti : <hi rend="i">Studi e Ricerche</hi>, lequel va paraître à Turin chez L. Roux ; dans la <hi rend="b">Critica Sociale</hi> (1<hi rend="sup">er</hi> avril) : <hi rend="i">La carestia in Russia, sue vere cause e suo significato</hi>, par Federico Engels, et <hi rend="i">Il Quinto Stato</hi>, par I. Gherardini.</p>
+          <p>Livres nouveaux annoncés par les revues italiennes : <hi rend="i">Eva</hi>, poème d’Antonio Fogazzaro (Milan, Chiesa et Guindani) ; <hi rend="i">I Poeti bolognesi : Carducci, Panzacchi, Stecchetti</hi>, par Augusto Lenzoni (Bologne, Treves) ; <hi rend="i">La Patologia del genio, inchiesta a proposito deli caso di Guy de Maupassant</hi>, par A.-G. Bianchi (Milan, Kantorowicz).</p>
+        </div>
+        <div>
+          <head>Choses d’art [extrait]</head>
+          <index>
+            <term type="id">article-1892-05_090</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Choses d’art</term>
+            <term type="title">Choses d’art [extrait]</term>
+            <term type="date">1892-05</term>
+            <term type="ref">Tome V, numéro 29, mai 1892, p. 90-92 [90-91]</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont].</byline>
+          <bibl>Tome V, numéro 29, mai 1892, p. 90-92 [90-91].</bibl>
+          <p>Au Louvre, on fait cuire avec le plus grand soin, dans l’étuve des combles, un excellent petit Cranach ; à la pinacothèque de Brera, à Milan, ce travail est organisé en grand, et l’on considère comme arrivés à un bon degré de cuisson et de craquelure une douzaine de tableaux, parmi lesquels : une Madone de Jean Bellini ; la Cène de Rubens ; une grande Borgognone : le St. François de Nicolas de Foligno ; un grand Hercule de Roberti ; un triptyque de Palma Vecchio ; un André de Milan ; la Sainte Famille de Magnis ; la Madone de Signorelli ; un Luini : un Benvenuto Tisi.</p>
+          <p>Il paraît que les fameux greniers du Louvre renferment, sous triple cadenas : <num>i</num>° 30 à 40 <hi rend="i">Moys</hi> ou tableaux de corporations du <num>xvii<hi rend="sup">e</hi></num> siècle, enlevés à Notre-Dame lors de la dernière restauration ; 2° divers Léonard, Raphaël, Titien, Véronèse, disparus : ne seraient-ils pas roulés céans ou céhaut ?</p>
+          <p>[…]</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome V, numéro 30, juin 1892</head>
+        <div>
+          <head>Les Livres. 
+<lb/><hi rend="i">Arte aristocratica</hi>, par Vittorio Pica. (Naples, Luigi Pierro)</head>
+          <index>
+            <term type="id">article-1892-06_176</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Les Livres</term>
+            <term type="title"><hi rend="i">Arte aristocratica</hi>, par Vittorio Pica. (Naples, Luigi Pierro)</term>
+            <term type="date">1892-06</term>
+            <term type="ref">Tome V, numéro 30, juin 1892, p. 173-181 [176]</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont].</byline>
+          <bibl>Tome V, numéro 30, juin 1892, p. 173-181 [176].</bibl>
+          <p>Nous avons déjà, d’après le <hi rend="i">Don Marzio</hi>, analysé cette conférence que donna M. Pica, le 5 avril dernier, au Cercle Philologique de Naples. Elle nous revient aujourd’hui, en une typographie merveilleusement nette et en le format étrange d’un étroit agenda de poche. Ces trop brèves pages sont un complet et fort juste résumé de l’actuelle histoire littéraire, qui nous fera prendre patience jusqu’à l’apparition des <hi rend="i">Modernes Byzantins</hi>.</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome V, numéro 31, juillet 1892</head>
+        <div>
+          <head>Comment on nous juge en Italie</head>
+          <index>
+            <term type="id">article-1892-07_249</term>
+            <term type="author">Tissot, Ernest (1867-1922)</term>
+            <term type="signed">Ernest Tissot</term>
+            <term type="section">none</term>
+            <term type="title">Comment on nous juge en Italie</term>
+            <term type="date">1892-07</term>
+            <term type="ref">Tome V, numéro 31, juillet 1892, p. 249-253</term>
+          </index>
+          <byline>Ernest Tissot.</byline>
+          <bibl>Tome V, numéro 31, juillet 1892, p. 249-253.</bibl>
+          <p>L’autre mois, parmi les livres que l’éditeur Giannotta de Catane prenait la peine de m’envoyer, il s’en trouvait un de critique littéraire signé Luigi Capuana<note place="bottom"><hi xml:lang="it" rend="i">Libri e Teatro.</hi> Luigi Capuana. 1 vol. (Niccolo Giannotta, editore. Catane. 1892.)</note>. Ce fut le premier ouvert, car un ouvrage de M. Capuana a grandes chances de n’être pas quelconque, et, par le temps qui court, ceux qui valent la peine d être lus se font rares, même chez nous. Mais quel ne fut pas mon étonnement à voir qu’il y était question du Théâtre Libre, du Théâtre d’Art, et que ces sujets y étaient traités avec une compétence, une politesse qui sont des leçons de prince à l’adresse de plusieurs de nos critiques patentés. J’ai cru donc qu’il intéresserait les lecteurs du <hi rend="i">Mercure de France</hi> de savoir ce que pense un des bons critiques d’Italie des tentatives de ceux que l’on pourrait appeler — en poursuivant la comparaison ébauchée au <hi rend="i">Figaro</hi>, par M. Huret, je crois, entre le <hi rend="i">Mercure de France</hi> et la <hi rend="i">Revue des Deux-Mondes</hi> — vos poètes et vos auteurs ordinaires. Et si, par la même occasion, j’indique aux curieux de littérature étrangère un auteur très fort — comme on dit en style de journal — j’aurai vraiment atteint le but que je m’étais proposé — un but tout à fait <hi rend="i">devoir présent</hi>, d’ailleurs, n’est-il pas vrai ?</p>
+          <p>Deux mots sur l’auteur : M. Luigi Capuana est avec M. Giovanni Verga, dont il est, depuis de longues années, l’ami très intime, le représentant le plus en vue du naturalisme italien — ou, selon la manière de dire de là-bas, du vérisme. Il a publié <hi rend="i">Giacinta</hi>, un roman brutal et palpitant que l’on a été jusqu’à comparer à <hi rend="i">Madame Bovary</hi> et qui eut bien quatre éditions. Ce qui, en Italie, indique un grand succès, car en librairie, comme en philosophie, tout ici-bas est relatif. On lui doit encore un recueil de contes pour les enfants vraiment délicieux, dont une traduction française serait tout indiquée ; deux ou trois romans : <hi rend="i">Le Parfum, Frisson</hi>, aucun n’atteignant la maîtrise, de <hi rend="i">Giacinta</hi> ; quelques volumes de nouvelles parfois exquises, jamais banales, et quatre volumes de critique parmi lesquels celui que j’ai l’honneur de vous présenter. M. Capuana est Catanais ; il aurait donc dans ses veines, d’après M. Reclus, du sang grec plus pur que celui des Athéniens d’Athènes. Vous comprendrez alors pourquoi il est artiste au point qu’on l’appelle volontiers le Paul Bourget d’Italie (n’est-ce pas tout dire ?) et pourquoi aussi il ne se départ guère, en critique, de la plus aimable bienveillance. Il est des traditions de race comme il est des traditions de famille, elles sont inoubliables — et ceux de la patrie de Théocrite ne seront jamais des barbares. Il est possible qu’ils en sachent sur beaucoup de choses bien moins long que nous, car, là-bas, la nature est trop belle — et pour eux, le mot de Méphistophélès est, certes, plus vrai que pour nous — mais n’importe, vous ne leur ferez jamais prendre des lanternes pour des étoiles. Si peu qu’ils sachent, c’est assez pour nous pénétrer. Ne sont-ils pas fils de la race la plus intelligemment artiste qui ait jamais été ?Écoutez plutôt M. Capuana : sa critique, genre Lemaître, n’a pas ombre d’érudition, et pourtant, quoiqu’elle parle d’étrangers qui lui sont presque des inconnus, elle est juste que c’est un charme et jusque dans les nuances des idées : <quote>« Armand de Pontmartin, dit-il, ne laisse rien qui puisse lui survivre. Avec lui, ses Causeries sont mortes. De son vivant, cette espèce de Marquis de la Seiglière de la critique littéraire faisait plaisir. Égaré dans la société nouvelle, il ne la comprenait, ni ne la voyait guère telle qu’elle était. Il la jugeait selon les critères d’un autre siècle, mais sa parole facile, plaisante, claire et élégante était une compensation. Il parlait des faits de la journée et pour cela il intéressait. »</quote> — <quote>« Alphonse Daudet, écrit-il dans un autre chapitre, est le Sardou du roman. Presque tous ses travaux sont, pourrait-on dire, le diagnostic de quelque curiosité maladive du public parisien. Or Daudet sait que la moitié du public européen, grâce aux chroniques des journaux, est pris, lui aussi, plus ou moins profondément, de la même curiosité malsaine. Le coup tiré sur Paris se répercute donc aussitôt à des milliers de lieues loin de Paris. Et Daudet ne s’est trompé qu’une fois, avec l’<hi rend="i">Évangéliste</hi>. »</quote> Il faudrait traduire encore ses considérations sur Jules Sandeau, qu’il appelle bien joliment un écrivain <hi rend="i">clair de lune</hi> ; sur Émile Augier, dont il admire les grandes œuvres en regrettant trop de <hi rend="i">Gabrielle</hi>, trop de <hi rend="i">Paul Forestier</hi> ; sur M. Édouard Rod, auquel il reproche de faire, au détriment de l’art, la part trop belle à la psychophilosophie ; sur M. Henry Becque enfin. Il admire comme il convient <hi rend="i">Les Corbeaux</hi> et <hi rend="i">La Parisienne</hi> et dit, avec raison, que la représentation de ses pièces seront plus tard <quote>« des dates mémorables dans l’histoire de l’art dramatique moderne »</quote>. Mais j’ai hâte d’arriver aux pages sur les œuvres et les auteurs dont je vous parlais en commençant. Après avoir répété l’intérêt et l’influence qu’eut en Italie le naturalisme français, M. Capuana se demande si le spiritualisme, le symbolisme ou le décadentisme — car il hésite entre ces différentes appellations — semble promis à de si glorieuses destinées. Il en doute, mais ajoute en italien grécisant : <quote>« D’ailleurs, s’il y a des roses, elles fleuriront. Et puis, ce n’est pas un mal de donner un coup d’œil à ce que l’on va tentant autre part. L’expérience apprend. »</quote> Alors rapidement, d’après Charles Morice et d’autres esthéticiens qu’il ne nomme pas, M. Capuana cherche à résumer les théories du Théâtre d’Art et du Théâtre Libre. À propos de ce dernier, il a tort de nommer un arrangeur de spectacles dont on ne doit parler que dans les comptes rendus des tribunaux, mais il a raison de signaler la concordance entre les efforts des George Ancey, des Pierre Wolf, de Paris, et des Hauptmann, des Sundermann, de Berlin. Il y aurait, sur ce point, toute une étude à faire ; je la signale à qui de droit, des pièces comme l’<hi rend="i">Honneur</hi>, de Sundermann, méritant plus que notre curiosité. Comme exemple du Théâtre d’Art, il nomme <hi rend="i">Chérubin</hi>, de M. Morice, <quote>« qu’il n’a pas lu et dont il ne peut parler »</quote> ; la <hi rend="i">Fille aux mains coupées</hi>, de M. Pierre Quillard, <quote>« qui plaît par l’étrangeté de la conception et par l’excellence de la forme »</quote> ; et <hi rend="i">Madame la Mort</hi>, de Mme Rachilde, dont, au cours d’une analyse aimable, il traduit un fragment de la scène du second acte, entre Paul Dartigny, Lucie et la Femme voilée. L’étude se termine par des considérations coupées de citations sur l’<hi rend="i">Intruse</hi> et les <hi rend="i">Aveugles</hi>, de M. Maurice Maeterlinck. Voici la conclusion : <quote>« À observer ces différents ouvrages, on remarque bien clairement une confusion entre la poésie lyrique et la poésie dramatique, comme si l’on tentait d’employer dans un art les moyens d’un autre. Les symbolistes citent Eschyle, Shakespeare, Molière parmi leurs prédécesseurs. Mme Rachilde avait probablement en mémoire les fantômes de Banco et du roi de Danemark lorsqu’elle imagina le personnage voilé de <hi rend="i">Madame la Mort</hi>. Sans doute, Maeterlinck a cru faire du Shakespeare en notant les sensations d’où naît la terreur de l’inconnu. Et les caractères ? et les passions ? et le choc qui produit les catastrophes vraiment tragiques ? Eschyle, Shakespeare, Molière s’en occupaient avant tout. Le fantôme qui apparaît sur l’esplanade du château d’Elseneur n’est pas une hallucination objective, mais c’est pour ainsi dire un être de chair et d’os. Il veut que le crime dont il a été victime soit puni, il vient demander vengeance. Hamlet ne sachant rien ne peut, par conséquent, se créer l’hallucination du fantôme de son père… Quant à la terreur de l’inconnu, plus qu’une sensation, c’est un sentiment qui peut devenir, si l’on veut, un moment de l’action dramatique, mais qui ne saurait, comme semble le prétendre M. Maeterlinck, constituer toute l’action, tout le drame… Ah, avant de s’aventurer à la recherche d’une nouvelle formule dramatique, ne serait-il pas plus sensé, plus opportun de rechercher si en débarrassant l’ancienne formule de toutes les inutiles conventions dont elle est encombrée il ne serait pas possible d’en extraire de nouveaux sucs vitaux pour l’art théâtral ? À ce point de vue, retourner en arrière, refaire au théâtre une tentative pareille à celle des préraphaélites en peinture, pourra seulement, et si l’on veut, divertir un instant et intéresser un peu — parce que l’habileté de l’artiste est grande et que le goût du spectateur est fatigué. »</quote></p>
+          <p>Ces remarques sont sévères, mais elles sont courtoises — on comprendra que je ne les discute pas. Je ne tenais, d’ailleurs, qu’à vous indiquer comment le Paul Bourget d’Italie appréciait la fantaisie bizarre de Mme Rachilde, la poésie d’art de M. Pierre Quillard, l’étrangeté névrosée de M. Maurice Maeterlinck ou l’esthétique subtile de M. Charles Morice.</p>
+          <p>Il y avait aussi une politesse à faire — elle est faite.</p>
+        </div>
+        <div>
+          <head>Les Livres. 
+<lb/><hi rend="i">La Messa a Psiche</hi>, di Emma (E. Viola Ferretti) — (Città di Castello, tipografia dello stabilimento S. Lapi)</head>
+          <index>
+            <term type="id">article-1892-07_270</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Les Livres</term>
+            <term type="title"><hi rend="i">La Messa a Psiche</hi>, di Emma (E. Viola Ferretti) — (Città di Castello, tipografia dello stabilimento S. Lapi)</term>
+            <term type="date">1892-07</term>
+            <term type="ref">Tome V, numéro 31, juillet 1892, p. 265-276 [270]</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont].</byline>
+          <bibl>Tome V, numéro 31, juillet 1892, p. 265-276 [270].</bibl>
+          <p>Ce volume nous est parvenu orné d’une dédicace bizarre dont voici la traduction : <quote>« <hi rend="i">Au</hi> <hi rend="sc">Mercure de France</hi><hi rend="i">, qui tente de galvaniser les symboles, un vieux rat de librairie matérialiste adresse</hi> [<hi rend="i">ce livre</hi>]<hi rend="i"> par dilettantisme d’antithèse. — Milan, 18</hi> avril <hi rend="i"> 1892.</hi> »</quote> Le vieux « Rat », qui n’est sans doute ni l’éditeur, ni la signorina Emma, a cru nous jouer un bon (ou mauvais) tour, en nous obligeant à lire cette historiette, et il ne s’est trompé qu’à moitié. Dans ce conte fantastique assez compliqué qui commence au <num>v<hi rend="sup">e</hi></num> siècle et finit aux <num>xviii<hi rend="sup">e</hi></num>, la Psyché est une statuette, jetée dans un puits par le dernier poète païen ; un couvent se bâtit autour du puits ; Psyché « revient », se promène, est vue par un peintre, qui, croyant faire une Vierge pour l’église du couvent, fait une Psyché. On dit la messe <hi rend="i">devant</hi> cette Psyché, — ce qui n’est pas bien grave. Quant à l’expression la messe <hi rend="i">à</hi> Psyché, elle est singulièrement fausse, car on ne dit la messe ni <hi rend="i">à</hi> aucun personnage, ni <hi rend="i">à</hi> aucun saint, ni même <hi rend="i">à</hi> la Vierge. Le petit blasphème final est donc assez maladroitement raté. Je supplie le vieux « Rat » de ne plus m’envoyer que des chefs-d’œuvre.</p>
+        </div>
+        <div>
+          <head>Journaux et revues [extrait]</head>
+          <index>
+            <term type="id">article-1892-07_279</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Journaux et revues</term>
+            <term type="title">Journaux et revues [extrait]</term>
+            <term type="date">1892-07</term>
+            <term type="ref">Tome V, numéro 31, juillet 1892, p. 276-280 [279-280]</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont].</byline>
+          <bibl>Tome V, numéro 31, juillet 1892, p. 276-280 [279-280].</bibl>
+          <p>[…]</p>
+          <p><hi rend="b">Gazzetta Letteraria</hi> : un bon article de Giuseppe Depapis sur le dernier roman de Gabriele d’Annunzio, l’<hi rend="i">Innocente</hi> : <quote>« Comme œuvre d’art pure, c’est un des meilleurs livres publiés en Italie ; la forme est merveilleuse par la clarté des images, la ciselure du style, la franche saveur d’italianité de la langue ; quelques chapitres ont un relief et une force de coloris extraordinaires… »</quote></p>
+          <p><hi rend="b">Cronaca d’Arte</hi> : de jolis vers français d’Alberto Sormani :</p>
+          <quote>
+            <l rend="i">Comme une barque, perdues les rames,</l>
+            <l rend="i">je ne vaux plus rien. Amour est mort.</l>
+          </quote>
+          <p><hi rend="b">Vita Moderna</hi> (Milan) : une étude de Enrico A. Butti sur <hi rend="i">deux nouveaux romans français</hi>. Ce jeune romancier avoue un goût particulier (et bien dangereux) pour <hi rend="i">La Sacrifiée</hi> de M. Rod et le manuel d’anthropologie préhistorique que M. Rosny publia (en collaboration avec Louis Figuier et Camille Flammarion) sous le titre de <hi rend="i">Vamireh</hi>.</p>
+          <p>La <hi rend="b">Critica Sociale</hi> réclame, article de M. G. de Franceschi, la liberté pour la femme. Mais la femme, en comparaison de l’homme, est scandaleusement libre dans la société actuelle ! Elle n’est soumise à aucune des obligations qui mangent la vie du mâle… Elle est libre comme le moineau, — et aussi paillarde, ce qui fait que le mâle ne proteste pas contre ses privilèges.</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome V, numéro 32, août 1892</head>
+        <div>
+          <head>Études d’art religieux. 
+<lb/>La tradition du crucifiement en Orient</head>
+          <index>
+            <term type="id">article-1892-08_289</term>
+            <term type="author">Barthèlemy, Edmond (1868-1934)</term>
+            <term type="signed">Edmond Barthèlemy</term>
+            <term type="section">none</term>
+            <term type="title">Études d’art religieux. La tradition du crucifiement en Orient</term>
+            <term type="date">1892-08</term>
+            <term type="ref">Tome V, numéro 32, août 1892, p. 289-302</term>
+          </index>
+          <byline><hi rend="sc">Edmond Barthèlemy</hi>.</byline>
+          <bibl>Tome V, numéro 32, août 1892, p. 289-302.</bibl>
+          <div>
+            <head>I</head>
+            <p>Les façades des pylônes égyptiens, les péristyles des temples grecs, les colonnades de Rome impériale, et les Cortèges, et les Théories, et les Triomphes qui s’y déroulèrent, avaient tour à tour surgi dans la grande lumière orientale. Les pompes de la religion chrétienne se dorèrent, à Byzance, du même rayon ; et c’est pour cela que l’on y voit si peu profonde cette pénombre où s’enfonçait, en Occident, par-delà ces clartés éternelles, le monacal Moyen-Âge.</p>
+            <p>Les peuples chrétiens d’Orient ne fréquentaient point les églises dans un distinct et unique but de prière. Leur dévotion était plutôt une manière d’être foncière, végétale, inconsciente, comme celle des multitudes théocratiques du monde païen. Étalée du portique du Narthex à l’escalier de la Porte-Sainte, sur les dalles, parmi cette buée voluptueuse, affadissante, qui, des temples de l’antiquité, était passée dans les basiliques byzantines (déjà, et bien auparavant, l’empereur Licinius, au cours de ses persécutions, avait fait fermer les églises, sous prétexte que l’on y respirait un air trop étouffé), la plèbe était là chez soi ; elle s’y laissait couler à ses habitudes les plus obscurément invétérées. Les Icônes étaient ses dieux lares ; leur protection semblait descendre, en rayons vermeils, du haut des dômes, sur ses haillons. Clapie et sombre partout ailleurs, la populace se dilatait là, et, au reflet des auréoles, mieux qu’au soleil des carrefours, elle prenait des entournures d’or. Là, le mendiant chrétien, — comme autrefois le mendiant païen, sous les portiques où passait César, —vivait jovial, familier avec l’opulence de Dieu, sorte de Benoît Labre scrutant sa vermine à la lueur des nimbes. La gloire de l’Empire et la splendeur du Paradis se confondaient, à ses yeux émerveillés, en un même champ d’or, où, semblables à des Christs, s’érigeaient des Basileus. Et il restait accroupi au bord de cette flamboyante Légende dorée, confiant, comme sur les marches ensoleillées d’un Palais hospitalier.</p>
+            <p>Mais voici que des soldats investissent les basiliques, traînant dans le silence des nefs lumineuses le fracas des rues et la poussière de l’Hippodrome. Des tourbillons s’élèvent, et la grande lueur d’or des mosaïques, épanouie en aurore, se brouille comme le crépuscule d’un soir orageux. De toutes parts des clartés tombent. « Au nom du Très-Saint Empereur, soient détruites les Images ! » Et l’éclair bleu des haches fulgure par-dessus les auréoles. Là-bas, pourtant, parmi la poussière vermeille des images croulantes, une haute stature rouge demeure ferme ; et la multitude, éperdue, supplie vers le grand Christ en croix, tout debout, au fond du chœur, dans la pourpre de sa fière dalmatique — « <hi rend="sc">Jésus</hi> ! vas-tu laisser s’accomplir ce sacrilège ? » Mais le Christ même est renversé, et, piétinant l’auguste simulacre mutilé, un soldat, comme autrefois le centurion du Golgotha, brandit haut sa lance.</p>
+            <p>Trident fragile sur la fureur de la foule.</p>
+            <p>Les Images étaient aux Basiliques ce que le Bœuf Apis était aux temples de l’Égypte, Minerve au Parthénon, Jupiter au Capitole. Le cri qui se fût élevé, à une profanation analogue, dans les sanctuaires de ces religions, n’eût pas été plus terrible. Qu’allaient devenir les pauvres gens, ainsi privés de leurs chères enluminures ? Le plaisir de les contempler les consolait de leurs maux. Ne savait-on pas que l’Image du Bon-Pasteur, dont s’ornait, sous le péristyle du Grand-Palais, la Porte-d’Airain, avait guéri une femme hémoroïdesse, qui l’avait palpée de la même foi que l’hémoroïdesse de l’Évangile attoucha le manteau du Christ.</p>
+            <p>Mais c’était aussi et surtout comme la majesté même de l’Empire que l’impiété iconoclaste comprenait dans cet outrage aux pompes du culte. Ce Christ, qu’abattait la hache des soldats, portait la rouge stola des Basileus. Intronisée, en toute sa formidable largeur, au plus haut de l’empyrée flamboyant des coupoles, voici que l’Image suprême du Théos était précipitée ; — mais, lorsque, selon le rite, l’empereur, en présence d’ambassadeurs prosternés, s’enlèverait sur son trône, au rugissement des lions d’airain qui le gardent, pourrait-on rêver d’un Éternel sur des nuages roulés du souffle des trompettes archangéliques. Et la fastueuse ordonnance des Conciles ne se prolongerait plus, dans les perspectives du Paradis, en chœurs d’apôtres et de psalmistes.</p>
+            <p>Tandis que se fanait cette apothéose, une autre rougeur se levait, barbare, au fond de l’Orient. Ruisselantes d’yatagans et d’étendards, les hordes de l’Islam s’avançaient. Les Khalifes, partout où ils passaient, anéantissaient le culte dont les empereurs iconoclastes avaient aboli déjà la représentation. Ils se souvenaient de la prophétie jadis faite à Yézid : au Khalife qui porterait les coups les plus profonds à la religion du Christ, toute félicité sur la terre, et puis tout le rayonnement des sept cieux : diamant, émeraude, topaze, saphir, perle, or, hyacinthe. Et les auteurs de cette prophétie étaient ceux-là même qui, naguère, en Isaurie, prédirent à Conon la pourpre impériale, sous la condition que, devenu Léon l’Isaurien, il détruirait les Images.</p>
+            <p>Ainsi la barbarie asiatique envahissait la civilisation néo-grecque, cette civilisation qui fut la première, tenant d’Athènes le génie plastique et de Rome le génie politique, où le dogme évangélique se soit, de forme et d’action, identifié aux nommes, ait trouvé sa mise en œuvre. Et l’on se reporte, parallèlement, à l’époque où l’Asie afflua pour la première fois vers l’Europe, lorsque la Grèce ancienne fut inondée par les Perses. L’examen de cette correspondance a son utilité. Ce fut, là aussi, le choc de deux mondes, de deux croyances, Mithrâ contre Jupiter ; et, de même qu’a tous les moments de l’histoire où deux races se sont heurtées, jamais, comme alors, les idées religieuses ne revêtirent, de part et d’autre, d’aussi nombreuses matérialités ; jamais le panthéisme grec ne multiplia pareillement ses symboles, ses emblèmes, ses aspects, ses attributs ; jamais il n’y eut telle profusion d’idoles, tant de cultes particuliers. La vie nationale, comme près de cesser, voulait se définir, pour qu’il restât d elle une mémoire éternelle, en une glorieuse, en une impérissable expression. Chacune de ses activités, pour ainsi dire divinisée et comme déjà en puissance au sein de l’infini, se manifesta hiératiquement. Et l’Hellénie en armes offrait comme le spectacle d’un camp d’Homère, où les dieux se mêlent aux hommes, et où la foudre de Jupiter et les javelots d’Achille sont noués en un même faisceau.</p>
+            <p>Qu’on nous permette, afin de mieux faire ressortir bientôt la désolation du monde oriental chrétien, bouleversé, dans sa religiosité, par la main des empereurs iconoclastes, et cela au moment précis des invasions musulmanes, qu’on nous permette de développer ce tableau des religions aux prises, sous les couleurs de deux autres époques analogues, et non moins caractéristiques, de l’histoire.</p>
+            <p>Ainsi, à la bataille d’Andrinople, qui se livra entre Constantin et Licinius, où le monde païen et le monde chrétien se heurtèrent, et non par métaphore, mais formellement, chacun dans la disposition de ses suprêmes ressources et dans la combinaison générale de ses attributs, ainsi toutes les effigies connues des Dieux du Paganisme, qu’étala par défi l’empereur païen Licinius, s’alignaient entre les rangs des cohortes, les renforçant de leur royale multitude, qui roulait, formidable Olympe ému par de nouveaux Titans, dans la poussière de l’armée. Du fond de sa Corne d’abondance, le Panthéisme avait comme vidé là, résumées en une complète série d’emblèmes, ses myriades d’êtres, de forces, de volontés, frémissant, parmi la trépidation haletante des dernières légions païennes, de sentir si imminente leur catastrophe. Dans l’autre armée, l’égide du Labarum se repliait, en flottants plis de pourpre, sur les rangs chrétiens. Les cieux, tout autour, pleins d’ondulations, semblaient comme le prolongement de cet étendard, qui refoula, de son flamboyant gonflement, les clartés flétries de l’Olympe écroulé. Mais du moins, au moment de périr, le monde ancien apparut-il tout entier résumé dans l’éclair de cette bataille.</p>
+            <p>Plus tard, à l’époque des invasions normandes, ce fut, au-devant des païens du Nord, le même déploiement suprême des majestés de la religion chrétienne, à son tour menacée. Des religieuses, plutôt que de déserter leur couvent et afin de déconcerter la lubricité des barbares, se mutilèrent le visage. Les oriflammes, comme un déploiement d’archanges, avançaient à l’encontre des rafales où tournoyaient les corbeaux des sinistres étendards danois. Translaté d’église en église, de monastère en monastère, tout un ossuaire de préservatrices reliques circulait parmi l’imploration des peuples. Ce fut l’époque des reliques.  De toutes parts, des processions se déroulaient, ruisselantes de châsses dorées. La noirceur des hordes barbares s’arrêtait, indécise, sur les bords de ces méandres resplendissants. Un jour, enfin, elle recula, le jour où Rollon, converti, s’agenouilla devant l’archevêque de Rouen, lui demandant quelles étaient les églises considérables qu’il pourrait le plus magnifiquement doter.</p>
+            <p>Ainsi, à toutes les époques de l’histoire, les cultes, quels que fussent les attributs de leur représentation, les cultes jamais ne se déployèrent avec un appareil plus somptueux, ne s’organisèrent en rites aussi actifs, que lorsqu’ils furent le plus menacés. Il n’en fut pas de même à Byzance, nous l’avons vu, aux jours des plus foudroyantes incursions sarrasines, lorsque les Khalifes campaient sous les murs mêmes de la Ville-Impériale. Il ne fallut rien moins, alors, que l’effrénée tyrannie des empereurs iconoclastes, pour avoir raison de ce jeune Orient chrétien, qui, avec une nouvelle exubérance, avait apporté, ans ses conceptions religieuses, tout le fétichisme, toute la sensualité du vieil Orient païen. Une sorte de réaction du sombre esprit biblique, si aristocratiquement abstrait, s’opérait, par ces despotes, de race asiatique d’ailleurs, contre le praticisme naïf et populaire du Nouveau-Testament. Et, certes, cette réaction partait directement de la Bible, car il est facile de reconnaître des façons de docteurs de la loi, race de ces scribes qu’anathématisa Jésus, et venus, pour surcroît de supercherie, après les charlatanismes de Simon-le-Magicien, dans ces astrologues juifs qui prédirent, en Asie-Mineure, la pourpre à l’Isaurien, alors enfant, sous la condition qu’il abolirait le culte des Images. Et pourtant, si les peuples chrétiens d’Orient durent jamais être, par le langage des emblèmes, entretenus des mystères de leur religion, c’est bien à l’époque où l’Islam menaçait de tout absorber. Quoi ! le Saint-Sépulcre était au pouvoir des Infidèles, et l’on cherchait, en vain, dans les basiliques, l’Image du Sauveur, cette Image que les premiers Conciles, où régnait un génie encore à demi païen, avaient conçue si jeune, si sereine, si triomphante. Telle elle s’était reflétée dans l’imagination populaire. On ne se représentait le Christ que sous l’apparence d’un éternel Adolescent, d’un nouvel Adonis, dont le bleuâtre soir de mystique angoisse, passé au jardin des Oliviers, aurait à peine pâli et affiné la chaude beauté. Les femmes de Byzance, lorsque, extasiées, elles serraient cette Image sur leur sein, faisaient songer aux prêtresses des sanctuaires de Byblos.</p>
+            <p>L’idée du supplice ombrait si peu cette vision, que souvent, dans les représentations du Crucifiement, la Croix était seule, et Jésus, au-devant, se tenait paisiblement debout, grave et doux, comme lorsque, dans Béthanie, il donna la salutation à Marie-Madeleine.</p>
+            <p>Tel il rayonnait dans tout l’Orient, où flottait, à peine d’hier, la blonde langueur des vieilles religions du Soleil. Et brusquement, voici que c’était la nuit, la nuit dans les églises, où ne resplendissaient plus ses Icônes, le vide dans les villes, que ne peuplaient plus ses simulacres ; déserts et ténèbres, comme aux Lieux-Saints ravagés par le glaive d’Omar.</p>
+            <p>Alors les Moines fomentèrent dans tout l’empire grec une formidable agitation. Sous le narthex des basiliques, on les voyait déclamer, montrant au peuple le crépis jaune, boueux, qui recouvrait maintenant les murailles, hier tout enluminées de mosaïques, gémissant que le Diable ne craindrait plus d’entrer dans les sanctuaires dénués des Saintes-Images, qui les avaient, jusqu’alors, préservés. C’est, que l’Iconoclastie ruinait, en Orient, l’influence des ordres monastiques. Peinture ou mosaïque, les Icônes étaient presque toujours l’œuvre des Moines, manifestation de leur génie, et la vénération publique allait autant à l’auteur qu’à l’ouvrage. Cela leur avait conféré, sous les empereurs orthodoxes, une autorité presque sans bornes. C’est ainsi qu’ils régissaient même les armées, employées à bâtir des églises, armées où c’était, sous les étendards, plus d’auréoles que de casques, et qui gravissaient vers des calvaires plus souvent qu’elles n’escaladaient des citadelles.</p>
+            <p>Tout cet empire, sous l’action gourde des Moines, se penchait comme vers un mirage chaud et bleu de paradis crépusculaire. Le mysticisme qui noyait alors toutes choses n’était, nous l’avons vu, que la paresse, à peine plus consciente, des anciennes religions. Qu’on imaginât toute la gloire du Haut-Empire Romain à demi perdue dans la profondeur de quelque cathédrale universelle ; la clameur du Cirque, des Camps et des Triomphes fondue parmi le silence d’une insondable abside, buccins mourants en gémissements d’orgue ; la pourpre et les trophées irradiés à travers un nuage d’encens ; une rayonnante après-midi d’été voilée d’une ondée soudaine ; que l’on mît cette gaze de mélancolie sur ce flamboiement de jouissances, — et l’on aurait, semble-t-il, l’impression de la crépusculaire et chatoyante civilisation byzantine.</p>
+            <p>Or l’Iconoclastie chassait cette brume d’infini, ce mysticisme sensuel qu’entretenait dans les âmes la contemplation des Images. Elle ramenait les esprits sur la terre, à des objets plus précis. Le gouvernement passait aux laïques. L’administration romaine renaissait, ayant, en plus, ce qu’elle tenait de l’esprit grec, ce je ne sais quoi d’ergoteur, qui caractérise, par exemple, le Code de Justinien. C’était donc la sécheresse de cette administration, mais sans gloire, sans aucun retentissement de ses actes dans le monde. Le peuple, qui n’est si idolâtre que par ce besoin qu’il a de prolonger sa jouissance, en la reportant sur les objets représentatifs de l’éternité, le peuple ne voulut point se résoudre à une existence disciplinée, précise. Il se sentait, avec impatience, ramené à lui-même, et, par lui-même, il était si peu de chose : ce que l’avait fait l’Empire Romain, ce qu’il ne voulait plus être, en cette brûlante et mystique atmosphère de Byzance. Les Moines, invoquant Jésus, l’eurent donc vite soulevé.</p>
+            <p>L’on sait quelle répression les empereurs iconoclastes exercèrent. Léon l’Isaurien brûla la bibliothèque de l’Octogone, véritable sanctuaire où la Pensée nouvelle, païenne encore par ses procédés spéculatifs, chrétienne déjà quant à son unique but divin, s’attestait dans les monuments les plus complets du néo-platonicisme et les conceptions les plus formelles des Conciles. Ainsi, après les Images, c’était, pour ainsi dire, le principe même de ces Images qui se trouvait aboli. Évêques ou laïques réfractaires furent dépouillés de leurs biens, emprisonnés ; la populace massacrée. Une multitude de Moines périt par le glaive. Ceux qui purent échapper se réfugièrent en Italie, auprès du pape Grégoire II.</p>
+          </div>
+          <div>
+            <head>II</head>
+            <p>Cette dernière circonstance est d’une importance considérable. En effet, ces débris des ordres monastiques de l’Orient importèrent ainsi en Occident la tradition de l’art des Icônes. Transplantée dans Saint-Jean-de-Latran, la fulgurante floraison de Sainte-Sophie reprit, et s’épanouit avec une nouvelle vigueur. À vrai dire, c’était l’art chrétien revenant à son berceau latin, mais magnifiquement développé, orné de tout ce que lui avait ajouté le génie néo-grec et qui adoucissait sa primitive sévérité romaine. Déjà, dès la fin du <num>v<hi rend="sup">e</hi></num> siècle, l’influence byzantine avait, à ce point de vue, commencé d’agir sur l’Italie (règne de Théodoric), et les symboles, sortis des Catacombes, dans la simplicité de leur représentation primordiale, s’étaient, comme à Constantinople, matérialisés avec un faste triomphal. Les Croix latines, de même que les Croix grecques, sont gemmées, étoilées de pierreries, enguirlandées de feuillages d’or, <hi rend="i">arbor decora et fulgida</hi><note place="bottom">Il y aura, au Moyen-Âge, une curieuse interprétation de l’<hi rend="i">arbor decora et fulgida</hi>, <num>xii<hi rend="sup">e</hi></num> et <num>xiii<hi rend="sup">e</hi></num> siècles. La Croix sera un arbre équarri, ou seulement ébranché, ayant encore la couleur verdâtre de l’écorce, avec des rinceaux rappelant le feuillage.</note>. Lorsque la figure du Sauveur apparaît, remplaçant l’Agneau, cette figure est, comme en Orient (telle que la consacra plus tard le Concile Quinisexte), impériale, vêtue de long, la tête nimbée, les bras ouverts (mosaïque de Saint-Étienne). L’idée du supplice est également atténuée, écartée même, puisque cette mosaïque de Saint-Étienne avec d’autres monuments du <num>vi<hi rend="sup">e</hi></num> siècle, représente le Christ sans la Croix.</p>
+            <p>Cette idée du supplice, il faut le dire en passant, paraît cependant exprimée dans une ancienne mosaïque de la basilique du Vatican : au pied d’une flamboyante Croix gemmée, sur un tertre, un Agneau ; de son côté percé le sang jaillit dans un calice ; du sang coule de ses pieds et se déroule, arrosant la terre de quatre fleuves de pourpre. Mais cette idée, cette sensation est d’origine toute latine, et elle est antérieure au <num>iv<hi rend="sup">e</hi></num> siècle. Dès le <num>iii<hi rend="sup">e</hi></num> siècle, en effet, on en trouve la représentation dans les Catacombes, sur les sarcophages des <hi rend="i">premiers</hi> chrétiens, où la Croix est sculptée, à leur centre, entourée des mots : <hi rend="i">Crux adoranda</hi>, ou de leurs sigles, et sortant du Vase de la Cène, qui reçut l’ineffable Sang. L’esprit du Moyen-Âge développera, d’une façon sublime, cette idée eucharistique, dans sa légende du Saint-Graal, interprétation la plus belle qui jamais ait été faite du Crucifiement, mais qui eût été prématurée, déclamatoire, dans les premiers siècles de notre ère, trop proches de la sérénité antique pour concevoir la Rédemption possible seulement au prix de la Divine-Douleur. Imaginer une souffrance inhérente à la nature des Dieux n’était pas dans l’esprit du monde païen, et lorsque le Christianisme arriva, l’on ne put concevoir de suite une telle souffrance<note place="bottom">Excepté cependant durant la brève époque des Catacombes. Mais il s’agissait alors d’une secte et non de la vie générale.</note>. L’on avait tant de souvenirs à proscrire ! non, la douleur, au-delà de la terre, n’existait point ; les stoïciens avaient été comme les théoriciens de cette doctrine, et, plus haut, les poètes avaient montré la douloureuse humanité des Héros et des Demi-Dieux qui méritèrent l’Olympe se dissolvant aussitôt dans l’harmonie des plus pures substances éternelles : Hercule sur le sein d’Hébé, Adonis sur le sein de Vénus. Symbole strict, sans développement immédiat, sans correspondance dans l’âme des peuples, l’Agneau sanglant disparut, en effet, dès que l’Orient lui eut substitué l’Image de Christ triomphant, exaltée au <num>vii<hi rend="sup">e</hi></num> siècle par le concile de Constantinople, type que l’art de la mosaïque byzantine fut si merveilleusement apte à réaliser dans son rigide et impérieux resplendissement.</p>
+            <p>Il était malaisé d’assembler sous un dessin souple et mouvementé tous ces dés multicolores, tous ces <hi rend="i">môssions</hi> dont se composent, champ et motifs, les mosaïques byzantines : verre doré, lapis, grenat syrien, cyprine, ophite. La roideur presque sculpturale au Christ grec, sorte de Jupiter anguleux et momifié, s’harmoniait avec la sérénité de l’immobile Orient. Une telle image devait être, après tout, de peu d’effet dramatique, et le sentiment pouvant résulter de sa contemplation n’était point, semble-t-il, pour <hi rend="i">faire date</hi> dans l’âme de ces peuples qui n’auront jamais d’âge. Qu’on nous excuse d’alléguer que le sens de cette figure ne pouvait être bien dramatique. En effet, si la largeur, le laisser-aller antique y est comme comprimé par les premières restrictions du Moyen-Âge, si la pompe des draperies, la splendeur des auréoles, si toute cette écarlate expansion est enfermée et comme cloîtrée dans l’inflexibilité d’incisifs contours, si ce n’est plus l’épanouissement païen, ce n’est pas encore e recueillement chrétien. Entre cette effervescence orgueilleuse et cette suavité humiliée, il est une attitude terme d’impassibilité hiératique que l’art byzantin a fixée.</p>
+            <p>Chassé de Constantinople, cet art, pour reprendre racine, trouva donc en Italie un fonds longuement préparé. Il s’était particulièrement développé à Ravenne, siège de l’exarchat de ce nom, et où l’influence grecque était plus directe que partout ailleurs. L’Adriatique flamboyait, sous la basilique octogone de Saint-Vital, de reflets aussi vermeils que le Bosphore sous Sainte-Sophie.</p>
+            <p>Au <num>vii<hi rend="sup">e</hi></num> siècle, la tradition de l’art des Icônes passe de Ravenne à Rome. Elle trouva là le décor du Haut-Empire, toujours debout dans sa sévérité latine, tout le solennel poème de marbre que le déferlement des invasions n’avait pas effrité, car ce que leur flot emporta fut plutôt l’apparat, le faste éphémère, extérieur, des Néron et des Héliogabale, tout ce qui était somptuaire et n’était point scellé dans l’austère granit de la Ville-Éternelle. Sur ces pages de pierre, ainsi dégagées, l’art pieux des Images s’inscrivit avec le plus pur éclat Les portiques, où roulaient les tournoyantes et fumeuses bacchanales, s’ouvrirent sur l’azur limpide du Paradis. La robustesse romaine, spiritualisée, s’estompa dans la gloire de la religion qui s’appuyait, temporellement, sur elle, comme le géant Saint-Christophe s’effaçait dans le rayonnement de Jésus-Christ, quand il porta le Messie sur ses épaules pour lui faire passer un fleuve.</p>
+            <p>D’ailleurs, en ce <num>vii<hi rend="sup">e</hi></num> siècle, l’iconographie sacrée parvint à Rome, non seulement par Ravenne, mais directement, de Constantinople même. En effet, avant de se réfugier auprès du Pape, dans le siècle suivant, les ordres monastiques de l’Empire Grec, les moines de la règle de Saint Basile, envoyaient déjà en Italie tous les tableaux qu’ils peignaient du Crucifiement, tous ces diptyques, à fond d’or, dont on peut lire la description dans Gori, et qui venaient orner les murs des églises de Rome, ou servir à des imitations développées. Cette imitation est évidente dans le Crucifix en mosaïque de Saint-Étienne-le-Rond, lequel est du temps du pape Théodore I<hi rend="sup">er</hi>, mort en 649. Le style de cet ouvrage est bien byzantin. Le Christ, dont le buste orne la Croix, qui est gemmée, bénit de la main droite, et, de la gauche, il tient une croix. Or les médailles du Bas-Empire, et, particulièrement, celles de Crispus, fils de Constantin, sont frappées d’un buste de Christ tout semblable<note place="bottom">Nous passons ici sous silence une documentation fastidieuse.</note>, etc.</p>
+            <p>Nulle trace de douleur. Jusqu’au <num>vii<hi rend="sup">e</hi></num> siècle, l’idée du triomphe prévaut dans l’interprétation de la scène du Crucifiement, idée païenne quant à ses résultats plastiques.</p>
+            <p>L’ombre des Catacombes, cependant, recelait toujours la frugale semence des symboles tumultueusement développés, là-haut, sous le ciel sonore des cités : le Cheval en course, le Paon, la Colombe, le Pélican, le Calice, Orphée<note place="bottom"><p>Le mythe orphique, en sa sublime pureté, que l’on ne retrouve dans aucun des autres mythes du Paganisme, était bien digne de vêtir de son pittoresque la Foi nouvelle. Sous une expression surannée, et, par ainsi, plus simple, plus ingénue qu’une expression immédiate, militante, il en disait bien, mélangé d’espérance et de navrement, la mélancolique ferveur.</p><p>L’Église, cherchant dans la Tradition païenne une forme archaïque par où elle pût présenter ses premières affirmations aux hommes, sous le bénéfice de je ne sais quel air doucement légendaire, choisit excellemment cette suave figure de l’Aède, — de l’Aède que les sanglantes Bacchantes attendaient sur la montagne, alors que du fond des ténèbres d’où il avait tenté, comme le Christ, de dégager son idéal, il s’élevait, toujours solitaire, vers le néant resplendissant des cieux. <quote><hi rend="i">Eloï ! Eloï ! lamma sabacthani</hi> !</quote></p></note>. Toutes ces formes vagues nageaient dans l’abondance des ténèbres, initiales et indécises épreuves d’apparitions qui ne se révélaient aux hommes que par un lent dévoilement. Les lampes, allumées depuis l’antique jour natal des martyrs, brûlaient encore, auprès de leurs tombeaux, de loin en loin, espacées par des règnes d’ombre, lueurs muettes, fluides, éternelles, comme l’écoulement d’un sablier dans les limbes des temps infinis.</p>
+            <p>Soudain une rumeur envahit les cryptes obituaires. Ce n’était plus le fracas de la Rome païenne. Du dehors, du grand soleil, ne venait pas le rugissement des lions déchirant les martyrs, mais de doux cantiques, des hymnes de miséricorde et d’espoir.</p>
+            <p>L’époque était arrivée où les Catacombes allaient perdre leur mystère, leur utilité tabernaculaire, et s’ouvrir à l’activité des siècles nouveaux. Un pape, Adrien I<hi rend="sup">er</hi>, les restaura, les anima de liturgies et y fit entrer l’air fervent des Églises. La chape papale rayonna dans cette même nuit où se glissaient les anciens confesseurs en leur tunique de fantôme. Ce fut comme un soleil revenant visiter l’ombre qui le couva. Mais dans cette ombre résidait, depuis les premiers chrétiens, le dogme, organique et pur. Ses fastueux développements mondains, lorsqu’ils retournèrent vers leur berceau, reprirent, par l’effet de cette confrontation, la sévérité de leur principe. L’éblouissant paradis byzantin fut enclavé dans la grave architecture romane.</p>
+            <p>Par rapport aux nations du Levant, Rome était le seuil de l’Occident ; elle était, au <num>ix<hi rend="sup">e</hi></num> siècle, le portique ouvert sur le Moyen-Âge. La tradition du Crucifiement, parée à faux de tout l’héritage de l’antiquité, reçu dans Byzance, revenait se recueillir sous ce natal portique, avant de pénétrer, par l’intermédiaire de Charlemagne, dans la nuit de l’Occident, où elle prit son véritable caractère mystique, durant les douloureuses époques qui suivirent.</p>
+          </div>
+        </div>
+        <div>
+          <head>Journaux et revues [extrait]</head>
+          <index>
+            <term type="id">article-1892-08_370</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Journaux et revues</term>
+            <term type="title">Journaux et revues [extrait]</term>
+            <term type="date">1892-08</term>
+            <term type="ref">Tome V, numéro 32, août 1892, p. 366-372 [370]</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont].</byline>
+          <bibl>Tome V, numéro 32, août 1892, p. 366-372 [370].</bibl>
+          <p>[…]</p>
+          <p>La <hi rend="b">Cronaca d’Arte</hi> cesse de paraître ; ses services sont, dès ce jour, assurés par la <hi rend="b">Vita Moderna</hi>. Nous ferons bon accueil à la seconde de ces revues (dont nous avons déjà parlé), tout en regrettant la première.</p>
+          <p>[…]</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome VI, numéro 33, septembre 1892</head>
+        <div>
+          <head>Les Livres [extraits]</head>
+          <index>
+            <term type="id">article-1892-09_079</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Les Livres</term>
+            <term type="title">Les Livres [extraits]</term>
+            <term type="date">1892-09</term>
+            <term type="ref">Tome VI, numéro 33, septembre 1892, p. 79-88 [83, 84]</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont].</byline>
+          <bibl>Tome VI, numéro 33, septembre 1892, p. 79-88 [83, 84].</bibl>
+          <div>
+            <head><hi rend="i">Empedocle ed altri Versi</hi>, par Mario Rapisardi (Catane, Niccolo Giannotta)</head>
+            <index>
+              <term type="id">article-1892-09_083</term>
+              <term type="author">Gourmont, Remy de (1858-1915)</term>
+              <term type="signed">R. G.</term>
+              <term type="section">Les Livres</term>
+              <term type="title"><hi rend="i">Empedocle ed altri Versi</hi>, par Mario Rapisardi (Catane, Niccolo Giannotta)</term>
+              <term type="date">1892-09</term>
+              <term type="ref">Tome VI, numéro 33, septembre 1892, p. 79-88 [83]</term>
+            </index>
+            <p>Le temps est loin où ce poète, avec son <hi rend="i">Giobbe</hi>, éveillait la curiosité et la contradiction. Il a publié, depuis, bien des vers, sans atteindre à la célébrité de son rival Carducci, qui avait au moins trouvé un peu de neuf. M. Rapisardi est décidément trop impersonnel pour séduire, et la hardiesse, assez modérée, de sa pensée n’est pas soutenue par le verbe. Poète sincère, courageux, orgueilleux, mais incomplet.</p>
+          </div>
+          <div>
+            <head><hi rend="i">Raggi e Ombre</hi>, Versi, par Alfio Bellusio (Catane, Niccolo Giannotta)</head>
+            <index>
+              <term type="id">article-1892-09_084</term>
+              <term type="author">Gourmont, Remy de (1858-1915)</term>
+              <term type="signed">R. G.</term>
+              <term type="section">Les Livres</term>
+              <term type="title"><hi rend="i">Raggi e Ombre</hi>, Versi, par Alfio Bellusio (Catane, Niccolo Giannotta)</term>
+              <term type="date">1892-09</term>
+              <term type="ref">Tome VI, numéro 33, septembre 1892, p. 79-88 [84]</term>
+            </index>
+            <p>Ce sont des vers faciles décrivant des paysages siciliens avec un vif sentiment de la nature ensoleillée, de ce pays que Verga nous a fait connaître. Les expressions <hi rend="i">vespro dorato, via luminosa, divino baccio del sole</hi>, etc., disent le ton de cette poésie où, malgré le titre, il y a peu d’ombres.</p>
+          </div>
+        </div>
+        <div>
+          <head>Choses d’art. 
+<lb/>Musée du Louvre</head>
+          <index>
+            <term type="id">article-1892-09_092</term>
+            <term type="author">Aurier, Gabriel-Albert (1865-1892)</term>
+            <term type="signed">G.-A. A.</term>
+            <term type="section">Choses d’art</term>
+            <term type="title">Musée du Louvre</term>
+            <term type="date">1892-09</term>
+            <term type="ref">Tome VI, numéro 33, septembre 1892, p. 92-93 [92]</term>
+          </index>
+          <byline>G.-A. A. [Gabriel-Albert Aurier]</byline>
+          <bibl>Tome VI, numéro 33, septembre 1892, p. 92-93 [92].</bibl>
+          <p>Acquisitions nouvelles :</p>
+          <p>Un portrait de Jules II, bas-relief bronze attribué à Francia.</p>
+          <p>Une statuette bronze représentant un homme nu (école vénitienne, h. 0,40).</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome VI, numéro 34, octobre 1892</head>
+        <div>
+          <head>Journaux et revues [extrait]</head>
+          <index>
+            <term type="id">article-1892-10_182</term>
+            <term type="author">Gourmont, Remy de (1858-1915)</term>
+            <term type="signed">R. G.</term>
+            <term type="section">Journaux et revues</term>
+            <term type="title">Journaux et revues [extraits]</term>
+            <term type="date">1892-10</term>
+            <term type="ref">Tome VI, numéro 34, octobre 1892, p. 178-185 [182]</term>
+          </index>
+          <byline>R. G. [Remy de Gourmont].</byline>
+          <bibl>Tome VI, numéro 34, octobre 1892, p. 178-185 [182].</bibl>
+          <p>[…]</p>
+          <p>Dans la <hi rend="b">Vita Moderna</hi> (4 septembre), une curieuse notice sur le P. Antonino Arguis de Velasco, clerc régulier théatin et agent théâtral. Cela se passait au <num>xvii<hi rend="sup">e</hi></num> siècle, à Mantoue, puis à Modène où le R. P. était, de plus, résident pour S. M. Catholique : il embauchait les ténors et les ballerines, veillait sur la voix des uns, sur les jambes et la vertu des autres. Ses correspondants lui rendent compte de la conduite des sujets qu’il a placés <quote>: « … La Signora Appolonia conserve toujours sa candeur et sa modestie… »</quote> — La même revue annonce une traduction italienne des <hi rend="i">Cenci</hi> de Shelley.</p>
+        </div>
+      </div>
+      <div>
+        <head>Tome VI, numéro 35, novembre 1892</head>
+        <div>
+          <head>Les Livres. 
+<lb/><hi rend="i">Nudo</hi>, monologhi e scene, par Giuseppe Gramegna (Torre Annunziata, Casa editrice Giuseppe Maggi)</head>
+          <index>
+            <term type="id">article-1892-11_274</term>
+            <term type="author">Zanoni, A.</term>
+            <term type="signed">Z.</term>
+            <term type="section">Les Livres</term>
+            <term type="title"><hi rend="i">Nudo</hi>, monologhi e scene, par Giuseppe Gramegna (Torre Annunziata, Casa editrice Giuseppe Maggi)</term>
+            <term type="date">1892-11</term>
+            <term type="ref">Tome VI, numéro 35, novembre 1892, p. 268-275 [274]</term>
+          </index>
+          <byline>Z. [A. Zanoni].</byline>
+          <bibl>Tome VI, numéro 35, novembre 1892, p. 268-275 [274].</bibl>
+          <p>Ce recueil de dialogues et monologues a eu, paraît-il, un certain succès ; que dis-je ? un immense succès ! L’éditeur nous en prévient avec raison, mais qu’il ne croie pas que cela puisse influencer notre sentiment.</p>
+          <p>C’est avec une parfaite spontanéité que nous rendons grâce à l’auteur de nous avoir initié au genre d’esprit où se plaisent les Napolitains d’aujourd’hui. Il y a des illustrations « comiques » en rouge, en bleu, en vert, en violet, qui ne sont pas moins spirituelles que le texte ; elles ont la finesse et l’inattendu des images des Mars et des Draner.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
