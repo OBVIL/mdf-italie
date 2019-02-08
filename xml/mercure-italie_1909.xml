@@ -159,6 +159,8 @@
             <term type="ref">Tome LXXVII, numéro 277, 1<hi rend="sup">er</hi> janvier 1909,
               p. 171-175</term>
           </index>
+          <byline>Ricciotto Canudo.</byline>
+          <bibl>Tome LXXVII, numéro 277, 1<hi rend="sup">er</hi> janvier 1909, p. 171-175.</bibl>
           <div>
             <head>Giovanni Pascoli : <hi rend="i">Le Canzoni di Re Enzio</hi>, Zanichelli,
               Bologne</head>
@@ -284,8 +286,8 @@
               <l>elle part en levant un chant lent, aérien,</l>
               <l>         avec toutes ses tours.</l>
             </quote>
-            <p>C’est dans la première chanson, la <hi rend="i">Canzone del Carroccio</hi>. Dans la
-                <hi rend="i">Canzone dell’ Olifante</hi>, l’ordonnance du poème change, la poésie
+            <p>C’est dans la première chanson, la <hi rend="i">Canzone del Carroccio</hi>. Dans
+                la <hi rend="i">Canzone dell’Olifante</hi>, l’ordonnance du poème change, la poésie
               devient plus subtile, l’évocation atteint un degré de puissance que M. Pascoli n’avait
               peut-être pas rêvé. Car ici c’est vraiment l’exaltation la plus profonde de la race
               méditerranéenne, qu’on ait conçue jusqu’à nous. Le poète, qui a choisi un moment
@@ -760,7 +762,7 @@
             décor des temps éteints.</p>
           <p>L’Italie, qui est la patrie des arts et qui a construit des ensembles grandioses, doit
             tout ce qu’elle a fait à ses républiques nobles, à ses patriciens, à son pouvoir
-            particulier.il y avait alors aristocratie et liberté, il v avait alors entente commune
+            particulier. Il y avait alors aristocratie et liberté, il y avait alors entente commune
             et indépendance individuelle, avec cette différence que c’étaient les individualités
             supérieures qui triomphaient, alors que, dans nos républiques démocratiques, la distance
             qui sépare l’homme d’esprit de la brute est méconnue.</p>
@@ -951,11 +953,11 @@
           <p>Qu’a fait cet homme ? Je l’ignore, et personne n’a pu me le dire. Il m’a frappé de
             crainte et de pitié. J’ai senti une chose irrémédiable et terrible.</p>
           <ab type="ornament">§</ab>
-          <p><hi rend="b"><hi rend="i">2</hi></hi><hi rend="i">6 juillet.</hi> — De loin nous avons
-            assisté au lever du soleil sur Naples. On vante beaucoup cette vue et ce spectacle.
-            Cependant, pour un voyageur venant d’Orient, l’aspect des villes européennes, composées
-            d’une foule de petites boîtes carrées, se superposant, manque d’attraits. On a comparé
-            Naples vu de la mer à Constantinople.</p>
+          <p><hi rend="i">26 juillet.</hi> — De loin nous avons assisté au lever du soleil sur
+            Naples. On vante beaucoup cette vue et ce spectacle. Cependant, pour un voyageur venant
+            d’Orient, l’aspect des villes européennes, composées d’une foule de petites boîtes
+            carrées, se superposant, manque d’attraits. On a comparé Naples vu de la mer à
+            Constantinople.</p>
           <p>Ayant admiré cette dernière, je me crois en droit d’affirmer que rien ne me semble plus
             faux. Comment, en effet, oser dire qu’une ville surmontée de coupoles blanches, de
             minarets, de tours, enveloppée généralement de vapeurs couvrant ses constructions
@@ -1007,6 +1009,8 @@
             <term type="ref">Tome LXXVII, numéro 279, 1<hi rend="sup">er</hi> février 1909,
               p. 561-566</term>
           </index>
+          <byline>Ricciotto Canudo</byline>
+          <bibl>Tome LXXVII, numéro 279, 1<hi rend="sup">er</hi> février 1909, p. 561-566.</bibl>
           <div>
             <head>Aldo de Rinaldis : <hi rend="i">La Conscienza dell’Arte</hi>, Perrella,
               Naples</head>
@@ -1040,7 +1044,7 @@
               peine si quelques études récentes, multipliées, tentent d’ébaucher une histoire de la
               « conscience de l’art » dans la littérature romantique ; si Frédéric Nietzsche a
               composé en un seul et très puissant organisme évocateur des éléments, par lui
-              découverts en grande partie, dans le classicisme trafique originaire, et si des
+              découverts en grande partie, dans le classicisme tragique originaire, et si des
               tentatives sont faites pour montrer l’unité lyrique profonde des manifestations
               musicales des peuples. La critique nouvelle désirée par M. de Rinaldis est devenue
               depuis un temps relativement court, mais puissamment, l’aspiration de tous ceux qui,
@@ -1107,7 +1111,7 @@
               présent, pourra contribuer à jeter les bases de la critique préconisée par
               l’auteur.</p>
           </div>
-          <div xml:id="caption1">
+          <div>
             <head>Gina Mariegiani : <hi rend="i">Il romanticismo italiano non esiste</hi>, Seeber,
               Florence</head>
             <index>
@@ -1479,7 +1483,7 @@
             et qui, enlevant au travailleur toute initiative, le réduit au rang d’un rouage de
             machine. L’abrutissement produit par la sempiternelle répétition des mêmes actes
             indifférents est certes l’un des résultats les plus pénibles de l’esclavage moderne.
-            Rien de semblable dans la physionomie d’ensemble de la rie florentine. Seul le sort de
+            Rien de semblable dans la physionomie d’ensemble de la vie florentine. Seul le sort de
             certains métiers en sous-ordre, tels ceux qui dépendaient de l’<hi rend="i">arte della
               lana</hi>, comme les cardeurs, peigneurs, batteurs de laine, rappelle celui de nos
             ouvriers des grandes industries. La plupart des métiers réclamaient de qui les exerçait
@@ -1751,7 +1755,7 @@
             force de le maudire et de le souiller, avaient inspiré le mépris, et évoquaient l’idée
             d’une vie plus saine, plus large, plus abondante, d’une vie où la misère, la laideur et
             la saleté n’étaient pas prônées comme des vertus. Ce fut une révélation pour les
-            artistes : les fragments de monuments et de statues qu’on relirait du sol témoignaient
+            artistes : les fragments de monuments et de statues qu’on retirait du sol témoignaient
             d’un art accompli, ayant résolu tous les problèmes techniques qui les préoccupaient et
             atteint une parfaite beauté d’expression. Ils découvraient une architecture bien plus
             conforme à leur génie que l’architecture gothique, dont l’Italie avait subi de mauvais
@@ -2250,7 +2254,7 @@
               pour les amateurs ; mais aux artistes modernes eux-mêmes elle eût pu donner une forte
               leçon. Je suis loin d’être un italianisant ; et j’ai assez souvent déploré
               l’académisme romain, pour pouvoir dire qu’il nous serait parfois utile de tourner les
-              yeux vers les Vénitiens, depuis Titien jusqu’à Tiepolo :ce que Fragonard fit en
+              yeux vers les Vénitiens, depuis Titien jusqu’à Tiepolo : ce que Fragonard fit en
               empruntant à celui-ci ses jaunes et ses bleus légers, en fortifiant près de lui son
               entente de la décoration, pourrait encore être fait aujourd’hui, et cela vaudrait
               beaucoup mieux pour nous que la fabrication de faux primitifs.</p>
@@ -2447,7 +2451,7 @@
               de ces dernières semaines, voici que, brusquement, une doctrine philosophique
                 <quote>« culbutante et incendiaire »</quote>,</p>
             <quote><l>Qui nous vient d’Italie et qui lui vient des cieux,</l></quote>
-            <p>par la bouche de M Marinetti, <hi rend="i">le Futurisme</hi>, — puisqu’il faut
+            <p>par la bouche de M. Marinetti, <hi rend="i">le Futurisme</hi>, — puisqu’il faut
               l’appeler par son nom, — éclata comme un coup de foudre dans le ciel endormi de la
               littérature. Le Futurisme ? C’est la religion nouvelle de ceux qui veulent chanter :
                 <quote>« … les ressacs multicolores et polyphoniques des révolutions dans les
@@ -2594,7 +2598,7 @@
               Pierres de Venise, les Matins à Florence, Sésame et les Lys</hi> et enfin <hi rend="i"
               >le Repos de Saint-Marc</hi>, qui porte en sous-titre « l’histoire de Venise pour les
             rares voyageurs qui se soucient encore de ses monuments ».</p>
-          <p>Au livre enthousiaste de M. de la Sizeranne., et à la magistrale étude de M. Jacques
+          <p>Au livre enthousiaste de M. de la Sizeranne, et à la magistrale étude de M. Jacques
             Bardoux, qui donne exactement à Ruskin sa place dans le mouvement qui lui fut
             contemporain, il est bon d’ajouter la monographie de Mr Frédéric Harrison, si l’on veut
             se faire une idée précise de Ruskin, L’éminent philosophe suit pas à pas la carrière de
@@ -2609,7 +2613,7 @@
             nous serviront de preuve :</p>
           <quote>
             <p><hi rend="i">Les Pierres de Venise</hi>, écrit Ruskin dans le dernier volume de <hi
-                rend="i">Fors</hi> (1877), enseignent les lois de l’art de construire et montrent
+                rend="i">Fors</hi> (1877), enseignent les lois de l’art de construire et montrent
               comment la beauté de tout travail humain, de tout édifice, dépend du degré de bonheur
               de la vie de l’ouvrier. C’est là, en réalité, la note prédominante de la philosophie
               de l’art dans Ruskin et le lien qui unit sa philosophie de l’art à son évangile social
@@ -2619,7 +2623,7 @@
               Auguste Comte avait depuis longtemps représenté les cathédrales du moyen-âge, comme
               l’expression la plus parfaite des idées, des sentiments et de la nature morale de
               l’homme. Mais, étendre cette loi à toutes les formes de l’art et lui attribuer un
-              caractère absolu, comme le faisait Ruskin, conduit à des paradoxes impossibles et k de
+              caractère absolu, comme le faisait Ruskin, conduit à des paradoxes impossibles et à de
               dangereuses absurdités. Comme je l’ai fait remarquer à propos de <hi rend="i">Fors
                 Clavigera</hi>, les tableaux du Pérugin, du Titien, du Tintoret furent exécutés au
               milieu d’une société des plus corrompues et au sein d’une sensualité effrénée ; toute
@@ -3682,7 +3686,7 @@
           <byline>Ricciotto Canudo.</byline>
           <bibl>Tome LXXIX, numéro 285, 1<hi rend="sup">er</hi> mai 1909, p. 179-185.</bibl>
           <div>
-            <head><hi rend="i">Cio ch’essi leqqono</hi>, Casa Editrice del <hi rend="i"
+            <head><hi rend="i">Ciò ch’essi leggono</hi>, Casa Editrice del <hi rend="i"
                 >Cœnobium</hi>, Lugano<note place="bottom">[NdE] Critique française : Jean de
                 Gourmont, « Littérature. <hi rend="i">Ce qu’ils lisent. Cent-dix-sept réponses à
                   l’Enquête sur la Bibliothèque d’un libre cénobite avec une préface
@@ -3761,13 +3765,13 @@
               vulgarisateur. Entre ces deux extrêmes, il y a le nombre innombrable des œuvres
               intermédiaires, des œuvres éphémères, telles que le « libre cénobite » en saurait
               choisir pour la <hi rend="i">condensation livresque</hi> qu’on lui propose. Les
-              organisateurs de l’enquête n’ont pas demandé <hi rend="i">à</hi> leurs correspondants
-              le ou les livres capables de les élever au-delà des contingences, de répandre sur eux
-              le bon chloroforme esthétique, et dont il voudrait avoir toujours un exemplaire, de
-              même qu’on aime s’entourer des œuvres d’art les plus aimées pour composer l’atmosphère
-              de sa propre demeure et qu’on aime avoir sous la main la musique préférée, pour être
-              sûr d’en goûter la profonde consolation à tout moment, ainsi que l’éthéromane aime
-              sentir sous sa main le flacon bienfaiteur. Ils n’ont pas demandé quel est le livre que
+              organisateurs de l’enquête n’ont pas demandé à leurs correspondants le ou les livres
+              capables de les élever au-delà des contingences, de répandre sur eux le bon
+              chloroforme esthétique, et dont il voudrait avoir toujours un exemplaire, de même
+              qu’on aime s’entourer des œuvres d’art les plus aimées pour composer l’atmosphère de
+              sa propre demeure et qu’on aime avoir sous la main la musique préférée, pour être sûr
+              d’en goûter la profonde consolation à tout moment, ainsi que l’éthéromane aime sentir
+              sous sa main le flacon bienfaiteur. Ils n’ont pas demandé quel est le livre que
               l’intellectuel cénobite voudrait avoir toujours avec lui, pour accroître ou fixer le
               patrimoine de sa culture, c’est-à-dire sa propre richesse qui l’aidera à trouver sa
               propre expression. S’ils l’avaient demandé, on aurait pu voir, même dans des réponses
@@ -3950,7 +3954,7 @@
             <p>Marcus de Rubris : <hi rend="i">Nostre Memorie</hi>, Voghera, Rome. — Carlo Linati :
                 <hi rend="i">Cristabella</hi>. Zerboni, Milan. — Francesco Chiesa : <hi rend="i"
                 >Liriche</hi>, Nuova Antologia, Rome. — Guido Gozzano : <hi rend="i">La Signorina
-                Félicita</hi>, Nuova Antologia, Rome.</p>
+                Felicita</hi>, Nuova Antologia, Rome.</p>
           </div>
         </div>
       </div>
@@ -4736,7 +4740,7 @@
               <term type="ref">Tome LXXX, numéro 289, 1<hi rend="sup">er</hi> juillet 1909,
                 p. 125-128</term>
             </index>
-            <p>M. Achille Luchaire est mort le  novembre dernier, à l’âge de soixante-deux ans, et
+            <p>M. Achille Luchaire est mort le 13 novembre dernier, à l’âge de soixante-deux ans, et
               la disparition soudaine de cet homme vigoureux a été une stupeur pour tout le monde.
               Les nécessités d’une rubrique de plus en plus chargée, et dont le roulement s’est fait
               nécessairement plus lent, nous font venir assez tard aux deux derniers livres de
@@ -4750,14 +4754,14 @@
                 monarchiques de la France sous les premiers Capétiens (987-1180)</hi> est peut-être
               le livre le plus fou qui se soit écrit sur les débuts de la royauté française. La
               question, si complexe et parfois si mal posée, de la fondation du pouvoir monarchique
-              à celle époque est traitée avec une clarté d’exposition, et une nouveauté d’érudition
+              à cette époque est traitée avec une clarté d’exposition, et une nouveauté d’érudition
               qui précisent définitivement le principe du pouvoir de Hugues Capet, pouvoir dont
               l’origine matérielle se retrouve évidemment dans certains faits, mais inconditionnel
               en droit, ce qui veut dire d’autre essence que le pouvoir féodal, véritablement royal
-              en un mot. Deux volumes sur <hi rend="i">Louis VI</hi> ont succède à cet ouvrage,
+              en un mot. Deux volumes sur <hi rend="i">Louis VI</hi> ont succédé à cet ouvrage,
               remplis surtout de matières chronologiques et diplomatiques (comme l’œuvre suivante,
               sur <hi rend="i">Louis VII</hi>), mais précédés d’une Introduction considérable où le
-              règne de Louis Le Gros est caractérisé avec unie netteté magistrale. Il faudrait citer
+              règne de Louis Le Gros est caractérisé avec une netteté magistrale. Il faudrait citer
               aussi le livre de Luchaire sur <hi rend="i">les Communes françaises à l’époque des
                 Capétiens directs</hi> et son <hi rend="i">Manuel des institutions françaises</hi> à
               la même époque, ainsi que les deux volumes (destinés à la série de M. Lavisse) sur les
@@ -4774,7 +4778,7 @@
               littérature historique française : il y manquait plutôt, et il y occupe, toutes
               différences observées, la place que l’<hi rend="i">Innocent III</hi> de Hurter a dans
               l’érudition allemande. Mais l’œuvre, tout en étant plus qu’une « série de brillantes
-              esquisses », comme ou a dit, donne cependant l’impression de n’être que cela, par le
+              esquisses », comme on a dit, donne cependant l’impression de n’être que cela, par le
               vice d’un plan qui, substituant à l’ordre chronologique l’ordre des matières, manque
               de coordination réelle. C’est une succession de tableaux plutôt qu’une exposition
               simultanée et cohérente où s’indique le rapport de toutes les parties. Il semble que,
@@ -4807,7 +4811,7 @@
               de son métier, notamment en ce qui concerne la connaissance des habitudes et procédés
               de nos historiens, se doute bien qu’il y a d’autres raisons ; que le défaut de
               l’ouvrage, c’est-à-dire son ordre factice, peut bien venir du souci de trouver des
-              lecteurs, mûs qu’il vient plus sûrement encore d’une certaine façon d’entendre
+              lecteurs, mais qu’il vient plus sûrement encore d’une certaine façon d’entendre
               l’érudition, qu’il vient de cette érudition même que l’on a voulu dissimuler. La manie
               de la « monographie », par exemple, à la fois ressource et fléau de nos historiens
               submergés par le document, la religion, la superstition de la monographie, a
@@ -4817,7 +4821,7 @@
               leur ait pris aussi le <hi rend="i">morbus monographicus</hi> et c’est de ce <hi
                 rend="i">morbus</hi>, disons-nous, que nous croyons trouver des traces dans l<hi
                 rend="i">’Innocent III</hi>. On jurerait que l’auteur a vu la chose sous l’aspect
-              monographique. Voyez le titre du premier volume : <hi rend="i">Innocent  III, Rome et
+              monographique. Voyez le titre du premier volume : <hi rend="i">Innocent III, Rome et
                 l’Italie</hi> : ce titre sent la monographie, et c’est bien, en effet, par le titre
               et par une bonne moitié des détails, ceux par exemple de la lutte du Pape contre le
               féodalisme et le municipalisme romains, une monographie comme en pourrait écrire un
@@ -5293,11 +5297,11 @@
               C’est la traduction française d’un de ces volumes qui a paru dernièrement à Paris,
               sous le titre : <hi rend="i">Terre Vierge</hi>.</p>
             <p>T. Ubertis (Térésah) : <hi rend="i">Il libro di Titania</hi>, R. Ricciardi, Naples.
-              — Amalia Guglielminetti : <hi rend="i">La Seduzione</hi>, Lattes, Turin. — A. Anile :
-                <hi rend="i">Lacroce e le rose</hi>, R. Ricciardi, Naples. — Luigi Siciliani : <hi
-                rend="i">Poesie per ridere</hi>, Quintieri, Milan. — G. B. Menegazzi : <hi rend="i"
-                >Malinconia</hi>, Drucker, Padoue. — Emilio Agostini : <hi rend="i">Venti
-                Salmastri</hi>, « Riviera Ligure », Oneglia. — Ugo Frittelli : <hi rend="i"
+              — Amalia Guglielminetti : <hi rend="i">La Seduzione</hi>, Lattes, Turin.
+                — A. Anile : <hi rend="i">La croce e le rose</hi>, R. Ricciardi, Naples. — Luigi
+              Siciliani : <hi rend="i">Poesie per ridere</hi>, Quintieri, Milan. — G. B. Menegazzi :
+                <hi rend="i">Malinconia</hi>, Drucker, Padoue. — Emilio Agostini : <hi rend="i"
+                >Venti Salmastri</hi>, « Riviera Ligure », Oneglia. — Ugo Frittelli : <hi rend="i"
                 >Ritmi</hi>, S. T. E. Cooperativa, Florence.</p>
             <p>Luciano Zuccoli : <hi rend="i">Farfui</hi>, Treves, Milan. — Giulio de Frenzi : <hi
                 rend="i">Il lucignolo dell’Ideale</hi>, R. Ricciardi, Naples.</p>
@@ -5308,7 +5312,7 @@
               Labriola : <hi rend="i">Socrate</hi>, Laterza, Bari. — G. A. Borgese : <hi rend="i">La
                 Nuova Germania</hi>, Bocca, Turin. — Ardengo Soffici : <hi rend="i">Ignoto
                 Toscano</hi>, Seeber, Florence.</p>
-            <p>Ferdinando Neri : <hi rend="i">Il trionfo délia Morte e il cielo dei Novissimi</hi>,
+            <p>Ferdinando Neri : <hi rend="i">Il trionfo della Morte e il cielo dei Novissimi</hi>,
               Loescher, Turin. — Paolo Mantegazza : <hi rend="i">Bibbia della Speranza</hi>,
               S. T. E. N., Turin.</p>
           </div>
@@ -5341,7 +5345,7 @@
             Sonnante — ainsi nommait-on Avignon à cause de ses innombrables cloches — il n’y fut pas
             trois jours sans tomber amoureux, <quote>« car les femmes y jouent volontiers du
               serrecroupière »</quote>. Il semble bien en effet qu’à l’époque où le curé de Meudon
-            venait de prendre ses gradés en l’université de Montpellier Avignon était la ville de
+            venait de prendre ses grades en l’université de Montpellier Avignon était la ville de
             l’amour ; par excellence, et, si l’on en croyait quelques mauvaises langues, la cité des
             papes ne serait point déchue de son passé glorieux. Insinuer que les filles y sont
             toujours d’humeur facile serait impertinent, mais on peut bien dire, puisque tout le
@@ -5399,7 +5403,7 @@
             grandes et les petites nouvelles, quelles fêtes s’y donnaient, quels personnages de
             marque on y recevait, si un tel brûlait toujours d’amour pour une telle, si une telle
             s’était laissé surprendre aux bras de quelque amant.</p>
-          <p>De ces confidences intimes, de ces libres récits pleins de détails savoureux sur. la
+          <p>De ces confidences intimes, de ces libres récits pleins de détails savoureux sur la
             société avignonnaise au milieu du <num>xvi<hi rend="sup">e</hi></num> siècle, les
             Archives de Naples et de Parme, où sont conservés les papiers des Farnèses, gardaient
             jalousement le mystère. Qu’on nous pardonne de prêter un instant l’oreille aux
@@ -5425,13 +5429,13 @@
                 principal città del Contado di Venissa, composée aussi en rime françoyse par M.
                 Antoine Blegier de Carpentras</hi>, Avignon, M. Bonhomme, 1553, in-8, Cf. une
               délibération du 16 juin 1553, approuvant les dépenses faites à l’occasion de l’entrée
-              du légat.</note> avec grande impatience ?, comme le prélude de fêtes qui ne devaient
+              du légat.</note> avec grande impatience, comme le prélude de fêtes qui ne devaient
             point finir.</p>
           <quote>
             <p>J’avais pris la résolution de ne plus vous écrire, disait le serviteur au maître,
               dans sa lettre du 20 novembre, pensant que vous étiez déjà en route pour vous en venir
               à votre légation. Tous ceux qui arrivaient de la Cour n’apportaient pas d’autre
-              nouvelle que celle de la venue de Monseigneur le légat d’Avignon. Ce bruits est si
+              nouvelle que celle de la venue de Monseigneur le légat d’Avignon. Ce bruit est si
               bien répandu que beaucoup de belles dames sont accourues des environs et qu’en leur
               honneur, voulant toujours comme un sot faire le magnifique, je me suis mis sur les
               bras une folle dépense en violons, torches, gâteaux et confitures ! Aussi je voudrais
@@ -5528,7 +5532,7 @@
               lui lança un cric au travers du visage avec une grande violence. Au moment d’entrer
               dans sa maison, il se rappela qu’il n’avait pas ses pantoufles et il revint sur ses
               pas. Moi, j’aurais perdu un œil que je ne serais pas retourné le chercher. À tous ceux
-              qui vont le voir il dit qu’il a été pris pour un autre. Nous lui ayons, fait porter
+              qui vont le voir il dit qu’il a été pris pour un autre. Nous lui avons fait porter
               dans sa chambre une épinette. Un prêtre la touche, ce qui nous épargne une sérénade.
               Tout le jour il est visité par les premières dames de la ville.</p>
             <p>Notre Sutri, effrayé par la tramontane qui le gonflait dans les rues comme la voile
@@ -5574,7 +5578,7 @@
               fait. Ah ! si ce n’était l’amour et mon bréviaire — deux choses dont je suis plus
               tracassé que ne l’était par la générosité l’évêque des Pouilles ! — Sot que je fus
               d’aller me fourrer dans la prêtraille, comme si j’étais canoniste ou grand docteur en
-              Sainte Écriture ! De l’amour je n’en parle pas. Je suis un beau jeune tomme, aux dents
+              Sainte Écriture ! De l’amour je n’en parle pas. Je suis un beau jeune homme, aux dents
               très blanches, et je me figure que les demoiselles m’aiment pour de bon. Ah bien !
               c’est ma bourse qu’elles aiment, ma bourse toujours plus vide que l’arche de Noé
               n’était pleine de toutes sortes d’animaux. Bref, pour conclure, venez joyeusement avec
@@ -5600,7 +5604,7 @@
           <quote>
             <p>Je ne fais que visiter des malades survivants de la coqueluche, et si jamais
               quelqu’un doit par ses œuvres pies gagner le Paradis, ce sera bien moi. Il n’en
-              arrivera pas autant à Ghigliotto, Il a montré quelque repentir de son hérésie, mais,
+              arrivera pas autant à Ghigliotto, il a montré quelque repentir de son hérésie, mais,
               pour voir s’il était dans son bon sens, on l’a mis en cage. Il y est resté dix-huit
               mois et en fin de compte il a fallu le brûler. Il discourait de la religion comme un
               perroquet du Souristan et il alla au bûcher avec plus d’ardeur que le cerf poursuivi
@@ -6243,8 +6247,8 @@
           <p>Être un bon jeune homme rempli de bons principes (dont quelques préjugés) ne suffit pas
             pour devenir, à Mantoue comme à Paris, un homme heureux ou même simplement un grand
             personnage. Petruccio fait des vers, mais il semble avoir très peu fait de philosophie.
-            Il s’étonne de calamités premières qui s’étonnent guère nos collégiens d’aujourd’hui.
-            Les femmes lui apparaissent comme des créatures dignes de respect et les amis comme des.
+            Il s’étonne de calamités premières qui n’étonnent guère nos collégiens d’aujourd’hui.
+            Les femmes lui apparaissent comme des créatures dignes de respect et les amis comme des
             gens sincères incapables d’aucune trahison. Il lui faut bien petit à petit dépouiller
             le… jeune homme. Victime des pires surprises, il finit ou finira par se blaser, se
             montrera le meilleur compère de la pièce lorsqu’il aura suffisamment visité les
@@ -6259,7 +6263,7 @@
             à rechercher les paradis artificiels, car il n’est pire intoxication que celle de la
             vertu. Pour se mettre en état de vertu on risquerait souvent les plus bas enfers. Nous
             connaissons tous Petruccio et nous avons tous dans le cœur un Petruccio qui sommeille… à
-            côté de l’<hi rend="i">autre</hi>, un Petruccio tendre aux ailes repliées et. meurtries.
+            côté de l’<hi rend="i">autre</hi>, un Petruccio tendre aux ailes repliées et meurtries.
             Le soir ou l’<hi rend="i">autre</hi> a fait trop de farces ; Petruccio s’indigne et s’il
             n’a plus la force de s’indigner il pleure. On en a vu qui pleuraient même en merveilleux
             alexandrins. Maintenant la société, composée d’un nombre illimité de Petruccio,
@@ -6411,12 +6415,12 @@
               l’autre de ses deux grands poètes, et de se déclarer pour l’esthétisme effréné du
               poète élégant ou pour le « géorgisme » paisible du poète bourgeois. Les « jeunes »
               affectent un éloignement de plus en plus marqué pour l’œuvre de d’Annunzio. La
-              production abondante, eu quelque sorte exaspérée et toujours surprenante, de l’auteur
-              du grand poème incompris de la <hi rend="i">Laus Vitae</hi> semble fatiguer les
+              production abondante, en quelque sorte exaspérée et toujours surprenante, de l’auteur
+              du grand poème incompris de la <hi rend="i">Laus Vitae</hi> semble fatiguer les
               esprits les plus jeunes par cette étonnante abondance qu’ils dédaignent comme étant
               toute en surface, toute en sensations, étrangère aux préoccupations idéales, aux
               angoisses méditatives de l’âme contemporaine la plus neuve. À celui dont chaque
-              attitude semble une altitude de bataille, à l’artiste qui s’acharne à représenter le
+              attitude semble une attitude de bataille, à l’artiste qui s’acharne à représenter le
               monde comme la sensuelle et merveilleuse proie à laquelle tous les artifices suprêmes
               des rythmes doivent demander et donner les plus farouches voluptés, on veut opposer
               Pascoli, le poète des campagnes et des hommes puissants et simples, du soleil, des
@@ -6525,7 +6529,7 @@
             </quote>
             <p>Et Virgile encourage le paysan de sa terre à rester attaché à la glèbe de ses
               ancêtres, attendant les nouveaux destins de l’Italie, alors que la patrie pourra
-              nourrir tous ses enfanta, et se contentant du peu que la terre peut lui donner,
+              nourrir tous ses enfants, et se contentant du peu que la terre peut lui donner,
               car,</p>
             <quote>
               <p>Juste est la terre, la mère ne te refuse la nourriture jamais : si le blé est rare,
@@ -6784,7 +6788,7 @@
             </quote>
           </div>
           <div>
-            <head>Gian Pietro Lucini : <hi rend="i">Carme e di Amori e di Speranza</hi>, « Poesia »,
+            <head>Gian Pietro Lucini : <hi rend="i">Carme di Amori e di Speranza</hi>, « Poesia »,
               Milan</head>
             <index>
               <term type="id">article-1909-08-16_756b</term>
@@ -7126,7 +7130,7 @@
               digne d’une étape. Il pria la bonne de s’arrêter. D’ailleurs, aux murs, dans de
               sombres bahuts, il venait d’apercevoir des « curiosités » bizarres. Son âme de
               brocanteur s’épanouit dans un sourire ; ce que voyant, la bonne, qui avait une mine à
-              préférer, autre chose que de tenir le chandelier, prit congé, non sans lui avoir donné
+              préférer autre chose que de tenir le chandelier, prit congé, non sans lui avoir donné
               les dernières instructions pour trouver la porte de sa chambre « au bout du corridor,
                 <hi rend="i">2<hi rend="sup">e</hi> piano</hi>, bien entendu, les salons étant au
               premier… ».</p>
@@ -7827,14 +7831,14 @@
               <quote>« traître criblé de dettes »,</quote> avoue M<hi rend="sup">me</hi> de
             Chateaubriand, <quote>« mange-merde »</quote>, déclare le vieux Blücher, en refusant de
             le recevoir. Ainsi, le mot héroïque ouvre et clôt cette inoubliable campagne qu’on
-            pourrait intituler : de Blücher à Cambronne<note place="bottom">M. H. Houssaye, après
-              la publication de son livre, eut à soutenir les réclamations des descendants de ce
-              soldat félon. Un journal, <hi rend="i">l’Éclair</hi>, si je ne me trompe, se vit
-              intenter un procès, qu’il gagna… Je n’ai cité sur Bourmont que l’opinion des gens de
-              son parti. Rappelons que l’amiral de Rigny refusa de faire partie du ministère où
-              figurait l’ancien traître. devenu maréchal de France. Aux jugements qui précèdent
-              j’ajoute celui-ci, qui a le mérite d’être tout frais et encore peu connu. Dans ses <hi
-                rend="i">Souvenirs</hi>, publiés tout dernièrement par le comte Marc de Germiny, le
+            pourrait intituler : de Blücher à Cambronne<note place="bottom">M. H. Houssaye, après la
+              publication de son livre, eut à soutenir les réclamations des descendants de ce soldat
+              félon. Un journal, <hi rend="i">l’Éclair</hi>, si je ne me trompe, se vit intenter un
+              procès, qu’il gagna… Je n’ai cité sur Bourmont que l’opinion des gens de son parti.
+              Rappelons que l’amiral de Rigny refusa de faire partie du ministère où figurait
+              l’ancien traître. devenu maréchal de France. Aux jugements qui précèdent j’ajoute
+              celui-ci, qui a le mérite d’être tout frais et encore peu connu. Dans ses <hi rend="i"
+                >Souvenirs</hi>, publiés tout dernièrement par le comte Marc de Germiny, le
               chevalier de Cussy, un royaliste, rapporte ce que lui disait en 1830 le lieut.-général
               Sir Frédérick Adams, qui commandait une brigade de l’armée de Wellington : <quote>« Je
                 commandais l’avant-garde… etc. »</quote> (T. II, p. 144).</note>.</p>
@@ -7997,7 +8001,7 @@
               Léoncavallo, Fogazzaro, Mathilde Sérao et Grazia Deledda, sans oublier l’histoire de
               M. Ferrero !</p>
             <p>Les musiciens et les écrivains ont eu plus de chance que les peintres. La peinture
-              italienne seule, sous le nom de : divisionnisme, a tenté sans trop de succès l’assaut
+              italienne seule, sous le nom de divisionnisme, a tenté sans trop de succès l’assaut
               de la métropole. Les autres industries s’y sont installées solidement. Mais il serait
               temps, sans doute, d’examiner attentivement les différentes marques, et de ne retenir
               que les plus « sérieuses », celles qui, au moins en littérature (car pour la musique
@@ -8245,688 +8249,6 @@
       <div>
         <head>Tome LXXXII, numéro 297, 1<hi rend="sup">er</hi> novembre 1909</head>
         <div>
-          <head>La princesse Anna fut. … [I]</head>
-          <index>
-            <term type="id">article-1909-11-01_077</term>
-            <term type="author">Salten, Felix (1859-1945)</term>
-            <term type="author">Puaux, René (1878-1937). Traducteur</term>
-            <term type="signed">Félix Salten. (Traduit de l’allemand par René Puaux.)</term>
-            <term type="section">[Partie anthologique]</term>
-            <term type="title">La princesse Anna fut. …</term>
-            <term type="date">1909-11-01</term>
-            <term type="ref">Tome LXXXII, numéro 297, 1<hi rend="sup">er</hi> novembre 1909,
-              p. 77-98</term>
-          </index>
-          <byline>Félix Salten. (Traduit de l’allemand par René Puaux.)</byline>
-          <bibl>Tome LXXXII, numéro 297, 1<hi rend="sup">er</hi> novembre 1909, p. 77-98.</bibl>
-          <p>Les Combarini régnaient depuis des siècles sur Ravenne. Le jeune duc Parabosco,
-            troisième du nom, était, pour l’instant, le descendant couronné de cette illustre
-            famille. Le duc ne manquait ni d’esprit ni de naturelle gaieté et vivait dans une
-            pacifique quiétude à l’égard de Dieu et de ses voisins. Il n’était pas souvenance que le
-            Saint-Père, son oncle, lui eût jamais cherché pique. Son peuple aimait sa manifeste
-            bonté. Il avait promis, au jour fêté de son avènement, d’avoir souci du bonheur de la
-            ville et la chronique ne mentionnait pas qu’il s’y fût jamais sérieusement opposé.
-            Jaloux de sa tranquillité, le duc fuyait la promiscuité des rues, il demeurait avec sa
-            sœur Anna en un spacieux palais gardé par de nombreux hommes d’armes, recevait avec luxe
-            et bonne grâce et se plaisait, quand il ne courait point le cerf, à, la compagnie des
-            princes de l’art et des plus doctes d’entre les sages. Parabosco avait le culte de
-            l’autorité. Il ne commandait point aux seuls habitants de Ravenne, la simplicité du fait
-            en distrayant le charme, mais se piquait de n’être point étranger aux moindres
-            événements dont son règne garderait mémoire. La pluie semblait ainsi ne laver les rues
-            de sa capitale que sur son ordre et le soleil n’y briller que dûment par lui appelé. Le
-            conseil des grands du royaume lui paraissait n’exister que pour n’être pas écouté et
-            dans les cas difficiles son naturel à-propos lui fournissait d’indécises réponses dont
-            l’ambiguïté solennelle avait le don de le réjouir. La politique ainsi comprise n’eut
-            jamais l’occasion de lui créer le plus léger embarras.</p>
-          <p>Sa sœur Anna, de sept printemps plus jeune que lui, presque une enfant, jouissait à ses
-            côtés d’une complète liberté. Quoiqu’il eût pour cette unique parente une tendre
-            affection, il se fût fait reproche de la gêner par l’assiduité trop grande de sa
-            présence. Il ne la voyait donc qu’autant que la politesse et l’amitié lui en tenaient
-            rigueur.</p>
-          <p>En l’an trois de son règne, alors qu’il venait précisément d’entrer dans sa
-            vingt-cinquième année, un événement se produisit, fortuit et de nature à troubler sa
-            quiétude ordonnée et à le faire réfléchir sur les problèmes de l’humaine nature. Il le
-            faut ici rapporter.</p>
-          <p>C’était par une douce nuit d’été, aux environs de la douzième heure. Le duc revenait à
-            pied du faubourg San Vito di Felice, où demeurait sa maîtresse. Le duc était seul et
-            marchait, le sourire aux lèvres. Il était heureux. Il avait certes connu bien des
-            femmes. Les courtisanes romaines, dont son cousin le cardinal Combarini lui dépêcha
-            quelques agréables spécimens, l’avaient souvent égayé de leurs danses et de leurs
-            chansons ; aux heures d’ivresse, il avait pris goût aux impudiques frénésies des filles
-            de Naples, mais c’était la première fois qu’il serrait dans ses bras une jeune fille.
-            L’abandon tremblant et presque solennel de Vittoria, la fille du pauvre maréchal-ferrant
-            Malfizzi, le plongeait dans une rêveuse béatitude. Ses caresses, qu’une douce naïveté
-            rendait plus exquises, l’avaient enchanté et il ne pouvait songer sans attendrissement à
-            son départ où l’enfant n’avait rien voulu demander au prince tout-puissant, sinon
-            quelques baisers de plus.</p>
-          <p>Il regagnait ainsi tout joyeux son palais par les rues solitaires de Ravenne. L’amour
-            de sa ville semblait pour la première fois l’entourer, lui sourire, et ces maisons
-            silencieuses et closes, devant lesquelles il passait, étaient à ses yeux comme autant
-            d’amis qu’une discrète sympathie faisait taire.</p>
-          <p>Les mots de « Ma Ravenne » lui chantaient aux lèvres. Jamais la joie du propriétaire et
-            l’orgueil du prince n’avaient été si vifs et le duc Parabosco, de la maison Combarini,
-            goûtait en cette nuit-là particulière saveur d’être roi et d’être amant.</p>
-          <p>Comme il tournait le coin de la ruelle qui mène à la grande place, il vit, à vingt pas
-            devant lui, une petite porte s’ouvrir pour livrer passage à deux femmes qui, dans
-            l’ombre du mur, se hâtaient. Parabosco se prit de curiosité et pressa le pas. Comme il
-            passait devant la petite porte qui s’était refermée, il eut un sourire : « Eh ! Eh !
-            palais Gambi ! Franzesco, mon lieutenant, a trouvé l’amoureuse rêvée de ses cheveux
-            blonds. À ce que je vois, nous étions deux hommes heureux cette nuit à Ravenne ! » Et
-            sans plus s’arrêter il poursuivit sa chasse. Les femmes sentant quelqu’un sur leurs
-            talons, fuyaient maintenant. Parabosco eut tôt fait de les rejoindre et, mettant en
-            riant sa main sur l’épaule de l’une d’elles ; l’arrêta : « Ne craignez rien, ma gente
-            demoiselle, je ne suis ni détrousseur ni soudard, mais veux seulement vous donner la
-            conduite, puisque votre galant l’est si peu qu’il vous laisse seule rejoindre à minuit
-            votre logis. » La jeune fille tremblait de tout son corps et semblait prête à défaillir.
-            « Je vous en prie, ne vous effrayez point », reprit le duc avec sérieux et compassion. À
-            cet instant précis, l’autre femme, sans doute la duègne, bondit près de sa maîtresse, la
-            prit à demi évanouie dans ses bras et chercha à fuir avec son fardeau. Parabosco, ennuyé
-            de la frayeur de ces deux femmes, lâcha la plus jeune et regarda la vieille en lui
-            disant : « Calmez donc la petite ! » Mais il avait à peine prononcé ces mots qu’une
-            voix, celle de la duègne, s’écria : « Sainte Mère de Dieu ! le duc ! » Parabosco eut un
-            sursaut d’épouvante et resta cloué sur place. Était-ce possible ? Était-ce bien la voix
-            de la vieille Catherine, la nourrice et la servante de sa sœur… ? D’un geste brusque il
-            saisit la vieille au poignet, lui arracha son voile et cria : « Oui ! le duc, aussi vrai
-            que toi tu es Catherine et que cette jeune fille est ma sœur ! »</p>
-          <p>Alors un sanglot étouffé, un sanglot connu, un sanglot aimé depuis l’enfance se fit
-            entendre : la princesse Anna pleurait. Parabosco lui offrit son bras : « Nous suivons le
-            même chemin », dit-il, et ils se mirent en route, silencieux et tremblants.</p>
-          <p>Parabosco ne conduisit pas sa sœur aux portes dérobées du château ; il la mena droit à
-            l’entrée d’honneur où, dans le vestibule, vingt hallebardiers montaient la garde. Le duc
-            passa en inclinant la tête au milieu des soldats qui frappaient le carreau de la crosse
-            à son approche. Comme il passait devant le lieutenant de service, il remarqua qu’il
-            pâlissait en saluant de l’épée et qu’il regardait la princesse avec une émotion très
-            vive. « En voilà un qui est fixé », pensa le duc. Il prit le grand escalier de marbre,
-            sa sœur toujours à son bras, puis, avec profonde révérence, la quitta au palier
-            supérieur où deux lions de pierre retiennent au-dessus du balcon le blason des
-            Combarini. Il fit un geste de la main à la nourrice défaillante et se retira dans ses
-            appartements.</p>
-          <ab type="ornament">*</ab>
-          <p>Au petit jour, à quatre heures, il donna l’ordre aux archers de se saisir de Catherine
-            et de l’emprisonner ; à quatre heures et demie il fit quérir le chapelain pour confesser
-            la vieille et lui administrer l’extrême-onction.</p>
-          <p>Les archers avaient reçu l’ordre de l’enchaîner à nouveau, aussitôt les sacrements
-            administrés. À cinq heures, il envoya chercher le bourreau avec mission d’étrangler
-            Catherine dans sa prison au jour levé.</p>
-          <p>À six heures le soleil était sur l’horizon. Ravenne s’éveillait. Le duc descendit
-            l’escalier du palais. Au moment où il atteignait la marche inférieure du perron, le
-            bourreau paraissait à la première du souterrain ; ils se trouvèrent en même temps sur le
-            palier. « Fini ? » demanda le duc ; le bourreau baissa la tête. Parabosco ne fit même
-            pas le signe de la croix. Il pensait : « Justice est faite. On ne devrait d’ailleurs
-            jamais punir que les proxénètes. Ma sœur Anna est une enfant et Franzesco… Enfin nous
-            verrons. »</p>
-          <p>Ceci dit, il fit monter à cheval quatre trompettes avec ordre de sonner par la ville au
-            rassemblement de la garde. Les troupes se réunirent sur l’esplanade du château. Quand la
-            garde fut au complet, il la passa en revue. Il marchait lentement, s’arrêtant ici et là
-            pour échanger quelques mots avec les gradés. De loin, il regardait Franzesco Gambi, qui
-            se tenait en avant de son détachement, calme et joyeux, la hampe de l’étendard appuyée à
-            la hanche. Parabosco s’arrêta devant le vieux Bernardo Colalto et dit assez haut :
-            « Cette nuit, je me suis promené ; à minuit je passais par cette ruelle… » Bernardo
-            Colalto le regarda avec des yeux vagues, sans comprendre. Le duc avait jeté à la dérobée
-            un coup d’œil vers Gambi. Le porte-étendard ne bronchait pas, il n’avait pas entendu. Le
-            duc quitta vivement le vieux Colalto et cette fois marcha droit sur Franzesco. « Vous
-            êtes heureux en amour ! Franzesco Gambi », lui dit-il à brûle-pourpoint. Le jeune homme
-            esquissait un petit sourire de fatuité ; mais lorsque son regard rencontra celui du
-            prince, il pâlit ; il avait compris. Et comme le duc poursuivait à mi-voix : « À minuit,
-            je passais par cette petite rue que vous connaissez… » la main tremblante faillit
-            laisser échapper l’étendard. Le duc saisit la hampe et cria : « Tenez donc un peu mieux
-            le fanion ! » Il ajouta tout bas : « Ne cherchez pas à fuir, je vous fais arrêter et
-            fusiller comme déserteur. Au surplus, ayez autant de bonheur que vous voudrez et que
-            vous pourrez en amour. C’est votre affaire ! »</p>
-          <p>Puis il rentra au château et s’en fut directement aux appartements de sa sœur.
-            Lorsqu’elle le vit entrer, ses yeux s’emplirent de larmes, elle tomba à genoux, les
-            mains suppliantes. Parabosco lui dit d’une voix dure : « Relevez-vous, je vous prie,
-            vous oubliez qu’une Combarini ne s’agenouille jamais », et comme elle tardait à lui
-            obéir, il ajouta : « Vous avez déjà oublié une fois cette nuit que vous étiez une
-            Combarini. » La princesse se releva et resta la tête baissée devant son frère. « Vous
-            êtes la fille de Parabosco II, comme je suis son fils ; vos ancêtres sont les miens.
-            Mais n’oubliez pas que votre grandeur dépend de la mienne et c’est pourquoi (ici la voix
-            du duc s’éleva) oui ! c’est justement pourquoi votre honte ne fait pas nécessairement ma
-            honte et je vous le prouverai. » Il dit et s’en fut.</p>
-          <ab type="ornament">*</ab>
-          <p>Il y avait une heure que le duc causait avec le philosophe Pietro Gonzalvo, le
-            jurisconsulte, dans son cabinet de travail. Il sonna son page et lui donna ordre de
-            mander près de lui Agostino di Gardone, le sculpteur.</p>
-          <p>— Non, reprit Parabosco, quand le page fut sorti, non, Gonzalvo, je perds mon temps
-            avec vous, ce que vous me conseillez n’est pas à faire.</p>
-          <p>— Mon opinion est pourtant fondée sur la loi, répondit Gonzalvo, je peux vous
-            prouver…</p>
-          <p>— Vous ne pouvez rien prouver du tout ! La Loi !! l’avez-vous assez blaguée et démolie,
-            ici même, avec d’autres savants ! N’avez-vous pas montré son étroitesse et son vide ! Et
-            maintenant vous arguez de la loi ! Parce que la jeunesse a poussé la princesse Anna à se
-            jeter au cou d’un adolescent, je dois consulter la loi ! Mais qu’est-ce que la loi peut
-            bien avoir à y faire ? Et vous, tout de suite, vous mettez en avant le bourreau ! Vous
-            parlez de péchés comme un calotin ! Alors, parce que Franzesco Gambi a profité des
-            avantages de sa moustache blonde, je dois le faire poignarder, étrangler, fusiller, que
-            sais-je ? Non, mais, Gonzalvo ! Gonzalvo ! vous n’y pensez pas. Si c’est là vraiment ce
-            que votre sagesse me conseille…</p>
-          <p>Parabosco parcourait la chambre à grands pas. « Existe-t-il un jeune homme au monde
-            qui, en présence d’une jolie fille lui ouvrant bras et jambes ne s’y jetterait avec
-            plaisir ? En est-il un ? » Il répéta la question jusque sous le nez de Gonzalvo, qui ne
-            savait que répondre. « S’il en est un, amenez-le-moi, amenez-le tout de suite et avant
-            ce soir je fais pendre Franzesco Gambi ! Combien de fois n’avons-nous pas discuté sur
-            l’irrésistible force de l’impulsion ? Combien de fois ne sommes-nous pas tombés d’accord
-            pour avouer qu’il était inutile de faire des lois contre la nature ? Et vous avez tout
-            oublié, l’impulsion, la nature, l’amour. Ou bien est-ce pour tenter ma jeunesse et ma
-            raison ? En tout cas, merci, ça n’était pas la peine. Je fais ce que je veux, et la
-            philosophie, en l’occurrence, me paraît superflue, au moins la vôtre ! » — Comme il
-            parlait, l’image de Vittoria s’interposa et il eut quelque peine à ne pas confondre les
-            deux cas, celui de sa sœur et celui de sa maîtresse.</p>
-          <p>Le pauvre Pietro Gonzalvo subit les contrecoups de cette soudaine évocation ; le duc se
-            mit à plaider cette cause, qui était à vrai dire la sienne. « Alors il faut que je
-            chasse la princesse, que je l’exile, que je l’enferme dans un couvent parce qu’elle a
-            aimé un homme au-dessous de son rang ? »</p>
-          <p>Gonzalvo agita la tête et esquissa un sourire comme pour exprimer qu’une telle cruauté
-            était bien loin de sa pensée ; le duc continuait, se rapprochant : « Mais, mon cher
-            philosophe, que feriez-vous si la princesse avait aimé un homme au-dessus de son rang et
-            qu’elle eût partagé son lit ? Faudrait-il l’exiler pour avoir passé la nuit avec le pape
-            ou l’empereur ? »</p>
-          <p>Gonzalvo n’ayant évidemment rien à répondre à cet argument inattendu, il y eut un
-            instant d’accalmie. Le duc se promenait de long en large à grandes enjambées et
-            Gonzalvo, qui se sentait la tête passablement vide, comptait machinalement les pas en
-            battant la mesure ; un, deux, un, deux, un… jusqu’au moment où il se surprit à ce petit
-            jeu et s’effraya de son audace. Parabosco criait : « Faire pendre Franzesco Gambi ! Mais
-            vous n’êtes pas logique, maître Pietro ! » et il se plantait immobile devant lui. « À
-            quoi aurai-je abouti, l’aurai-je puni ou me serai-je vengé ? »</p>
-          <p>Le visage rubicond de Gonzalvo s’éclaira. « Les deux », répondit-il avec un sourire
-            triomphant qui montra ses dents.</p>
-          <p>Parabosco le toisa des pieds à la tête et le philosophe sentit sous ce regard son
-            courage à nouveau l’abandonner. « Ainsi parlent les courtisans, dit le duc ; les princes
-            pensent autrement ! » et il était très fier de cette formule.</p>
-          <p>« Je n’aime pas ce petit Gambi, c’est entendu, je voudrais le gifler, lui faire
-            descendre le perron la tête la première, le cravacher… tout cela est faisable et je ne
-            sais pas jusqu’à quel point je n’en aurais pas le droit. Mais le laisser pendre,
-            simplement parce que je suis le maître et que lui n’est que Gambi et qu’il a séduit ma
-            sœur et moi, par hasard, pas la sienne… » Parabosco s’interrompit et s’approcha
-            brusquement de Gonzalo, « Si j’avais eu la sœur de Franzesco, que dis-je, si le plus
-            humble de mes sujets avait une fille et que j’en eusse fait ma maîtresse, la fille d’un
-            maréchal-ferrant, par exemple,.., le duc s’arrêta, le nom de Malfizzi lui brûlait les
-            lèvres… oui, d’un maréchal-ferrant, eh bien ! comment le maréchal-ferrant (il tenait à
-            la profession) jugera-t-il mon amour ? À qui demandera-t-il justice ? À moi ? contre
-            moi-même ! Et vous me demandez d’être juge de Franzesco et de la princesse ? »</p>
-          <p>Sur ces entrefaites, Agostino di Gardone, le sculpteur, était entré et se tenait
-            respectueusement devant la porte. « Ah ! vous voilà enfin, vous », cria le duc. « Vous
-            avez terminé le portrait de ma sœur, n’est-ce pas ? »</p>
-          <p>Agostino eut un regard méfiant : « Oui, certes, noble seigneur, sur vos ordres, — mais
-            je n’ai nulle envie de perdre mon argent parce que vous vous êtes disputé avec la
-            princesse. » — « Qui parle de ton argent ? » reprit le duc, « Moi », répliqua
-            paisiblement le sculpteur, et comme le duc s’avançait vers lui la main levée, il
-            ajouta : « Il ne faut pas songer à décommander la chose, le travail est terminé,
-            sachez-le bien. » — « Parfait ! » dit vivement le duc, qui s’était habitué depuis
-            longtemps à supporter l’impertinence de l’artiste, « avez-vous laissé la place pour
-            l’inscription ? » — « Oh ! de quoi écrire tout un roman, répondit Agostino, un peu
-            calmé ; la plaque est grande comme ça », — et il écartait les mains ; — « au-dessus, au
-            centre, j’ai mis le portrait de la princesse suivant votre désir… » — « Bien, bien »,
-            mais le portrait ne figurera pas sur le portail de l’Église Sainte-Anna… » — Mettez-le
-            où vous voudrez, je m’en f… », grogna Agostino.</p>
-          <p>« C’est bon, dit le duc tranquillement, je vous ordonne de graver sur la pierre cette
-            inscription : « Dans cette maison, la princesse Anna fut déshonorée. »</p>
-          <p>Agostino di Gardone et Pietro de Gonzalvo tressaillirent. Le duc n’avait pas bougé.
-            « Vous fixerez cette plaque au fronton du palais Gambi aujourd’hui. Nous n’avons pas de
-            temps à perdre. Il est huit heures du matin, à quatre heures, cet après-midi, tout doit
-            être en place. Avant ce soir, la ville entière doit savoir ce qui s’est passé cette
-            nuit. Allez, partez, qu’est-ce que vous attendez ? C’est mon ordre et je vous ferai
-            fouetter si vous ne m’obéissez pas ! » Et Parabosco frappa du poing sur la table, ce que
-            lui arrivait rarement.</p>
-          <p>« Ah bah ! fouetter ! » murmura Agostino, il haussa les épaules et sortit sans
-            saluer.</p>
-          <p>« Je vous rends votre liberté », dit le duc à Pietro qui, d’un œil perdu, semblait
-            chercher dans tous les coins de la chambre l’explication qu’il ne trouvait pas à
-            l’étrange tournure que prenaient les choses.</p>
-          <p>« Réfléchissez encore, je vous prie », murmura Gonzalvo, qui respirait à peine.</p>
-          <p>« C’est tout réfléchi, j’ai fait garrotter Catherine, la nourrice, pour qu’elle n’aille
-            pas de suite répandre la nouvelle. On l’a étranglée il y a deux heures. Elle a mérité ce
-            qui lui arrive. Elle était commise à la garde de la princesse et en a profité pour se
-            faire l’entremetteuse de ses désirs, comme vous-même, que j’avais appelé pour me donner
-            conseil, avez tenté de vous faire l’entremetteur de ma colère. »</p>
-          <p>Gonzalvo fit effort pour se composer un visage honteux et repentant, mais le duc ne le
-            regardait pas et continua : « J’avais l’intention de passer l’éponge, mais le lieutenant
-            de service cette nuit au palais, Filippo Geraldini, a pâli quand il a vu rentrer la
-            princesse à mon bras. Il savait donc d’où elle venait. Sans quoi, pourquoi pâlir ?
-            Franzesco Gambi a dû se vanter devant lui de sa bonne fortune ou la lui confier. Les
-            lieutenants se plaisent au récit mutuel de leurs aventures et cette fois… c’était ma
-            sœur. »</p>
-          <p>Une bouffée de colère empourpra à cette pensée le visage du duc et il envoya son page
-            chez Gardone pour lui enjoindre de presser le travail, la stèle devant absolument être
-            inaugurée avant la fin de la journée.</p>
-          <p>Et comme pour motiver et fortifier sa décision il ajouta, dès que le garçon eut
-            décampé : « Il le faut ! Il le faut ! M’est-il possible de laisser cette histoire
-            circuler dans Ravenne, sous le manteau, comme un commérage chuchoté à mi-voix ? Dois-je
-            me laisser montrer du doigt ? Sera-t-il à jamais défendu de parler d’amour à ma table
-            par crainte d’allusion blessante, ou bien permettrais-je par mon silence à tous ceux qui
-            m’entourent de nourrir le secret espoir de tenter leur chance auprès de la princesse ?
-            Alors, à tour de rôle, ils jetteront l’hameçon et essayeront sous mes yeux ce qu’un seul
-            jusqu’ici a secrètement osé ! Non ! Non ! Ce qu’avec l’aide de Dieu je peux empêcher, je
-            l’empêcherai. Ils se sont aimés et ils ont joui l’un de l’autre — soit, — mais je n’ai
-            pour le rôle de paravent qu’un goût très limité et les regards des sots et les mains
-            sales de la curiosité me sont odieux. Ce que Franzesco et ma sœur Anna ont fait leur
-            appartient, qu’ils en supportent la peine comme ils en ont eu la joie. Et plutôt que de
-            laisser l’histoire ramper sournoisement dans l’ombre, j’aime mieux l’étaler au grand
-            jour. La maison Gambi accepte la responsabilité de l’aventure, mais j’en débarrasse du
-            coup ma personne et ne crains plus rien de ce qui pourra advenir. »</p>
-          <p>Gonzalvo s’inclina et sortit. Parabosco lui avait tourné le dos et tambourinait des
-            doigts sur la vitre.</p>
-          <p>Dans l’antichambre le philosophe se frappa le front : « On n’est pas plus bête que je
-            ne l’ai été ! Pourquoi n’y avais-je pas pensé ? Je serais chancelier à l’heure qu’il
-            est ! »</p>
-          <p>Il croisa sur l’escalier le secrétaire d’État Errante et l’arrêta. « Le duc et moi
-            venons de prendre d’importantes décisions. Il en sera fait aujourd’hui quelque bruit
-            dans Ravenne », et il poursuivit son chemin devant Errante, profondément incliné. Il
-            descendit l’escalier d’un pas grave, le front plissé comme un homme qui veut bien une
-            fois par hasard s’abaisser jusqu’au niveau des mortels.</p>
-          <ab type="ornament">*</ab>
-          <p>Dès qu’il eut franchi le seuil de son atelier, Agostino di Gardone se fit apporter du
-            vin. Il avait marché vite, il faisait chaud, il avait soif. Il avait d’ailleurs toujours
-            soif. Et puis l’idée d’être payé si vite ne l’encourageait point médiocrement à la
-            gaieté. « Parabosco, se disait-il, était peut-être en passe de m’oublier, la princesse
-            amoureuse est venue à temps pour m’aider à recouvrer mes créances. Belle et bonne
-            journée ! » et Agostino se mit à vider et revider sa coupe jusqu’à midi. Cette petite
-            distraction dura donc quatre heures d’horloge. Pour quelques mots à graver, il avait
-            bien le temps, surtout avec sa naturelle facilité. Au coup de midi il se leva, et
-            quoique ayant quelque trouble dans le cerveau se mit courageusement à l’ouvrage,
-            chantant quelques refrains risqués comme il avait coutume d’accompagner tout travail
-            facile ou amusant.</p>
-          <p>« Dans cette maison la princesse An… »</p>
-          <p>Il en était justement aux lettres « An », lorsqu’il se prit soudain à réfléchir à la
-            teneur de la phrase que lui avait dite Parabosco.</p>
-          <p>Se considérant, en sa qualité d’artiste, comme l’égal du duc, il n’avait prêté qu’une
-            médiocre attention à son discours et après ses quatre heures de libations solitaires, il
-            ne s’en souvenait plus du tout.</p>
-          <p>« Dans cette maison, la princesse Anna fut… Qu’est-ce qu’elle fut ? C’est idiot ! je
-            sais bien ce qu’elle fut ! J’aurais même voulu être là lorsqu’elle fut… car elle est
-            jolie fille et le sourire de ses yeux noirs m’eût fourni un joli motif de plaque
-            commémorative… tant pis, qu’un autre en reçoive la commande ! Ce qu’elle fut !… Mais il
-            n’y a pas de doute possible. Seulement je me souviens que le duc avait employé une
-            expression tempérée. »</p>
-          <p>Or les mots crus étaient plus familiers à Agostino que les euphémismes. N’était-il pas
-            artiste ? Il se mit donc en quête de tous les vocables usités pour le genre de faute de
-            la princesse Anna. À chaque coup de marteau il en trouvait un nouveau et un visiteur eût
-            été fort étonné autant de cette curieuse technique du marbre qui mêlait les discours aux
-            efforts du ciseau que du nombre colossal des termes qu’Agostino avait à sa disposition
-            pour exprimer une chose unique. Au passage le sculpteur examinait les participes qui
-            glissaient de ses lèvres pour les éliminer aussitôt, vu leur insuffisance décorative. De
-            temps à autre il laissait échapper un éclat de rire quand sa fantaisie lui avait soufflé
-            quelque mot du plus pur argot de Ravenne et qu’il en avait imaginé l’effet près du nom
-            de la princesse.</p>
-          <p>Pourtant l’inscription avançait, et craignant d’avoir achevé la sculpture d’<hi
-              rend="i">Anna fut…</hi> avant d’avoir trouvé, ce qui serait une perte de temps
-            appréciable et une interruption fâcheuse dans son ouvrage, il se mit à parler vite, plus
-            vite. Il venait de terminer le T lorsqu’il eut un sursaut. La princesse Anna fut… « la
-            première fois naturellement, sans cela, le bon Parabosco y eût été habitué et n’en eût
-            pas fait tout ce tapage. Il ne peut tout de même pas faire mettre une plaque
-            commémorative sur toutes les maisons où la princesse fut… On ne fête cela que la
-            première fois. Par conséquent j’ai trouvé… », et il leva le marteau : « Dépucelée ! cria
-            Agostino. Dans cette maison, la princesse Anna fut dépucelée. »</p>
-          <p>Et tout joyeux, il se mit à graver dans le marbre ce mot qui lui parut noble et pompeux
-            en comparaison de tous ceux qu’il avait jusqu’ici trouvés. Il avait bien l’impression
-            vague que le duc s’était servi d’un autre terme, mais cela ne l’émut pas autrement, la
-            finesse de langage ne le touchant pas spécialement. Tel quel, l’adjectif était bon,
-            puisque clair, et n’était-ce pas l’unique pensée du duc ?</p>
-          <p>L’inscription terminée à coups de ciseaux et coups de gueules, Agostino, délivré d’un
-            souci, cisela amoureusement son <hi rend="sc">anno domini</hi> et comme il avait encore
-            une bonne heure devant lui, il se livra aux fantaisies de son imagination décorative.
-            Ici un cœur qu’une fine flèche transperçait, surmonté d’une petite couronne, et, à
-            droite et à gauche, une pieuse petite croix. Enfin tout en bas, dans l’angle, un petit
-            phallus, à la mode pompéienne, assez petit pour que la plèbe n’en pût apercevoir de loin
-            l’image, mais suffisant cependant pour qu’Agostino y trouvât son propre plaisir et tel
-            qu’il pût représenter l’opinion personnelle de l’artiste dans la question.</p>
-          <p>Après quoi, il manda deux maçons, jeta une toile sur la pierre, fit prendre des outils
-            aux ouvriers et se mit en route vers le palais Gambi.</p>
-          <ab type="ornament">*</ab>
-          <p>Le lieutenant Franzesco Gambi n’avait point quitté sa demeure depuis sa conversation
-            avec le duc. Son camarade et confident Filippo Geraldini se trouvait pour l’instant
-            auprès de lui et tous deux échangeaient leurs vues sur la situation. Que faire ? que
-            craindre ? qu’attendre ? Franzesco s’inquiétait au sujet de la princesse. Il avait
-            envoyé son fidèle Andrea aux nouvelles. Andrea, qui, dans l’aventure, avait déjà bien
-            souvent servi de discret messager, devait questionner la vieille Caterina. Il était
-            revenu il y avait une heure, consterné : la vieille avait été le matin même
-            silencieusement étranglée sur l’ordre du duc.</p>
-          <p>Franzesco ne doutait plus qu’un sort pareil l’attendît. Il croyait à chaque instant
-            entendre le pas lourd des archers, et Geraldini s’efforçait de le distraire et de le
-            rassurer. À ce moment, un tapage troubla le silence de la rue. Andrea, pénétrant à
-            nouveau dans la chambre, annonça que des gens se trouvaient à la porte avec une stèle
-            qu’ils voulaient à toute force fixer sur le mur du palais. La livrée s’y était opposée.
-            Mais Agostino di Gardone, le sculpteur, qui se trouvait avec eux, avait juré et tempêté,
-            criant que la plaque devait être accrochée là sous les fenêtres du jeune seigneur
-            Franzesco, — qu’ainsi le duc l’avait ordonné.</p>
-          <p>Franzesco Gambi pâlit et se leva. Geraldini renvoya Andrea vers ces gens leur faisant
-            dire que son maître, étant respectueux des ordres du duc, ne s’opposait en rien à
-            l’accomplissement de leur mission, pourvu qu’elle fût véridique. Il retenait le
-            serviteur, s’informant de la nature de cette stèle, lorsque le vacarme recommença. Dans
-            la rue, Agostino, criant comme un âne, haranguait les passants : « Attention !
-            mécréants ! Dans une heure il vous sera donné de contempler un chef-d’œuvre nouveau ! un
-            chef-d’œuvre commandé par votre gracieux maître ! Un chef-d’œuvre exécuté pour
-            commémorer cette illustre nuit par votre concitoyen Agostino di Gardone ! Holà ! une
-            œuvre de votre serviteur ! Dans une heure elle sera fixée là solidement sous les
-            fenêtres de Franzesco Gambi ! Sur l’ordre du duc ! triples buses ! Je ne blague pas !
-            Sur l’ordre du duc ! »</p>
-          <p>Geraldini ouvrit la fenêtre et regarda en bas. Quelques flâneurs s’étaient déjà
-            attroupés autour d’Agostino qui secouait sa tignasse inculte, gonflait ses joues parées
-            de poils roux et gesticulait : « Au nom du duc ! gens de Ravenne ! Approchez ! Faut-il
-            vous traîner ici par la peau du cou ? »</p>
-          <p>« Silence ! animal ! » cria Geraldini. « Si tu viens vraiment au nom du duc, fais ton
-            ouvrage et décampe ! » Agostino avait levé la tête et riait : « Ha ! ha ! Si je viens au
-            nom du duc ? Vous allez voir ! » et il se mit à gueuler de plus belle : « Au nom du
-            duc ! » Et il ajouta à fendre les oreilles : « Je crie assez fort pour que Parabosco
-            m’entende, n’est-ce pas ! car il est au palais ! bon ! au nom de Parabosco ! Si ce n’est
-            pas vrai, qu’il l’envoie dire et me fasse couper la langue ! »</p>
-          <p>Geraldini le croyait à bout de souffle, qu’il criait encore : « Au nom du duc.… »</p>
-          <p>Geraldini referma la fenêtre, car il trouvait superflu d’approfondir cette affaire, qui
-            avait l’air de mal tourner.</p>
-          <p>« Tu entends, dit-il à Gambi, le vacarme que fait cet ivrogne d’Agostino ? »
-            — « Laisse-le faire, cela ne pourrait qu’aller de mal en pis. » Franzesco, désemparé,
-            inconscient, restait debout au milieu de la chambre et passait nerveusement la main sur
-            son front, sur ses yeux, sur ses cheveux et ses oreilles.</p>
-          <p>Les premiers coups de marteau retentissaient sur le mur et on entendait les pierres et
-            le gravat rebondir sur le pavé. Les deux ouvriers entrèrent dans la chambre au même
-            instant avec des cordes et des poutres. Il leur fallait la libre disposition de la
-            fenêtre pour hisser la plaque d’Agostino.</p>
-          <p>D’un geste de la main, Franzesco fit signe qu’il ne voulait y mettre opposition et les
-            outils jonchèrent bientôt en désordre le parquet. Agostino, pendant ce temps, avait
-            gravi l’échelle et sa tête ébouriffée parut dans l’encadrement de la fenêtre. « Seigneur
-            Gambi, je vous salue », cria-t-il vers l’intérieur de la chambre et, les deux mains sur
-            la corniche, il fit quelques comiques saluts de la tête. « Vous avez bien dormi cette
-            nuit ? je vous salue ! Hein ! suis-je assez poli ! Et même je vous apporte quelque
-            chose ! Pour aimable, je suis aimable ! pas vrai ? Vous en avez de la veine, jeune
-            homme ! Posséder sur son mur, et gratis encore, un Agostino de Gardone que d’autres
-            payeraient cher ! Après le plaisir, encore les bénéfices ! » Franzesco lui tourna le
-            dos. Mais le sculpteur en revenait à l’idée qui l’avait égayé tout à l’heure pendant son
-            travail et continua familièrement : « Entre nous, mon vieux, ça m’irait assez de changer
-            les rôles ; je marche pour le travail de nuit (et il claqua de la langue), si tu veux te
-            charger du marbre ! » Franzesco ne répondit pas et se dirigea vers la porte.</p>
-          <p>Son domicile violé, ces discours odieux l’exaspéraient. « Ah ! si je pouvais partir
-            d’ici, dit-il à Filippo ; mais Parabosco m’a infligé les arrêts, où veut-il en
-            venir ? »</p>
-          <p>Geraldini ne souhaitait d’ailleurs pas moins que lui de quitter adroitement les lieux.
-            « Au diable l’amitié qui me retient ici, pensait-il, si on peut appeler cela de
-            l’amitié ! Tout ça va me conduire à une sale histoire. À quoi est-ce que je sers ? À
-            rien, sinon à me faire mal voir du duc ; je peux être sûr de mon affaire. »</p>
-          <p>Franzesco répétait machinalement : « Où veut-il en venir ? »</p>
-          <p>Geraldini prit un air calme et répondit : « Qui ? Parabosco ? On dit qu’il devient
-            enragé quand on l’offense. »</p>
-          <p>Le pauvre Gambi eut vers son ami un regard qui semblait mendier un encouragement
-            quelconque, mais Geraldini n’ajouta distraitement qu’un « nous verrons bien ».</p>
-          <p>Il n’en dit pas plus, car il était résolu à se tenir désormais sur le qui-vive. Il se
-            fit un silence. Les coups de marteau se succédaient, brefs et vibrants, et les deux amis
-            semblaient se taire pour les compter. On entendait, à côté, Agostino qui agonisait les
-            maçons de sottises en ponctuant tous ses ordres de « Au nom du duc » répétés.</p>
-          <p>« Ah ! si je savais seulement ce qu’il y a sur cette plaque ? » dit Franzesco,
-            monologuant distraitement.</p>
-          <p>Geraldini ne perdit pas cette occasion de s’échapper : « Je descends… je vais voir… »
-            Comme il ouvrait la porte, Franzesco supplia : « Reviens vite ! » — « Oui, oui, dès que
-            je saurai tout ! » Il était déjà dehors. La pièce dans laquelle il venait d’entrer était
-            la chambre à coucher de son ami. « Ah ! c’est là que… » murmura-t-il, il vaut mieux que
-            du château on ne me voie pas sortir de cette maison… Maudite affaire ! » Il jeta un
-            dernier coup d’œil au lit de Franzesco et, soulevant une portière, gagna l’escalier. Il
-            prit la petite porte dérobée par laquelle la princesse avait fui la nuit d’auparavant.
-            En quelques pas il fut au bout de la rue et déboucha sur la place.</p>
-          <p>Il y avait là quelques oisifs arrêtés qui regardaient placidement Agostino travailler.
-            On ignorait ce que cela voulait dire et l’opinion moyenne était que Franzesco avait
-            commandé un écusson en pierre et qu’on le posait pour l’instant. Les « au nom du duc »
-            d’Agostino n’étonnaient pas. Tout gentilhomme ne devait-il pas demander l’assentiment
-            ducal pour ce genre de manifestation ? Agostino y faisait sans nul doute allusion.</p>
-          <p>Geraldini traversa la place, se dirigeant vers le palais. Il respirait. Il était
-            maintenant confondu dans la foule, innocent de toute complicité. La teneur de
-            l’inscription ne l’intéressait plus que médiocrement. Le sort de Franzesco lui devenait
-            presque indifférent. Ce qui importait, c’était de se montrer au palais, d’être vu par le
-            duc, pour qu’il fût notoire que le lieutenant Filippo Geraldini n’était pas auprès de
-            Franzesco.</p>
-          <ab type="ornament">*</ab>
-          <p>Lorsqu’il arriva au palais, les quatre trompettes bien connus se mettaient en selle.
-            Quatre hérauts portant le blason brodé des Combarini sur la poitrine avaient déjà le
-            pied dans l’étrier. Leurs bêtes, de grands andalous nerveux, piaffaient. Le vieux
-            Guiseppe Spezzi, gouverneur du palais, était penché sur la balustrade du premier étage
-            et demandait : « Vous êtes prêts ? » — « Aux ordres ! » tonnèrent les hérauts, levant la
-            tête. « Allez ! » cria Spezzi, et il regagna la porte des antichambres. La voûte
-            répercuta le fracas des sabots. Ils étaient dehors. Geraldini vit les cavaliers gagner
-            comme de coutume les angles de la place… Deux pourtant s’arrêtèrent devant le palais. La
-            fanfare retentit, et le héraut clama : « Bourgeois de Ravenne ! Sur l’ordre de sa
-            Grandeur le duc Parabosco, troisième du nom, une plaque commémorative sera aujourd’hui
-            même inaugurée au fronton du palais Gambi, en souvenir de cette nuit ! »</p>
-          <p>Geraldini s’était rapproché de l’escalier. Les trompettes sonnaient ; il entendit
-            encore une fois un quadruple « Bourgeois de Ravenne… », puis tout s’éteignit lentement
-            dans le lointain.</p>
-          <p>Dans l’antichambre, Geraldini rencontra le secrétaire d’État Errante, le gouverneur
-            Spezzi, des courtisans et des soldats, qui, dans l’embrasure des fenêtres, montaient la
-            garde, figés en statues.</p>
-          <p>Geraldini fit du bruit en entrant, espérant attirer sur lui l’attention. Tout le monde
-            était silencieux. Seuls, deux petits pages chuchotaient dans un coin.</p>
-          <p>Geraldini ressentit aussitôt un extrême désir de prendre part au moins à cette
-            conversation. L’un des pages venait de partir d’un fou rire. Le vieux Spezzi fit
-            entendre un « chut » indigné. Les pages se turent et toute la salle se retrouva plongée
-            dans le silence. Il y eut quelques pénibles minutes. Geraldini se jura de ne plus
-            bouger. Soudain, il eut conscience de la folie qu’il avait commise en se montrant à la
-            fenêtre de Gambi. Il s’accabla de reproches. « Quelle gaffe ! mon Dieu ! Quelle gaffe !
-            Et j’ai invectivé Agostino ! Agostino qui venait au nom du duc ! Je lui ai dit
-            « Animal ! » Geraldini se vit perdu.</p>
-          <p>À ce moment précis, la porte du cabinet du duc s’ouvrit doucement et le philosophe
-            Gonzalvo parut.</p>
-          <p>« Que l’un de vous s’en aille de suite au palais Gambi, pour la plaque » ; il parlait
-            avec arrogance, sans désigner expressément personne. « Sa Grandeur désire savoir si
-            Agostino de Gardone a exécuté ses ordres. »</p>
-          <p>Geraldini s’avança, empressé : « Si vous le permettez, Seigneur Gonzalvo, j’irai… »</p>
-          <p>Gonzalvo approuva, dédaigneux, et Filippo quitta sans plus tarder le palais.</p>
-          <ab type="ornament">*</ab>
-          <p>En bas, sur la place, la foule grouillait, se dirigeant vers le palais Gambi. Les gens
-            sortaient de toutes les rues, et cela formait une imposante colonne qui se hâtait et se
-            bousculait. Il devenait impossible pour Geraldini d’arriver rapidement sous les fenêtres
-            de Franzesco. Il rebroussa donc chemin et prit avec lui huit hommes de garde pour lui
-            frayer le passage. Ceux-ci le précédèrent, la hallebarde basse.</p>
-          <p>La foule, qui s’ouvrait pour leur livrer passage, se reforma vivement derrière
-            Geraldini et lui fit cortège avec des cris et des rires. La bousculade était terrible,
-            car tout le monde attendait maintenant quelque rare spectacle. Geraldini, parvenu devant
-            la maison, s’arrêta au pied de l’échelle des maçons. Agostino la gravissait précisément.
-            Le sculpteur, dominant la foule, riait de toute sa large face heureuse et saluait de la
-            main.</p>
-          <p>Il y eut des cris : « Agostino ! Agostino ! une œuvre nouvelle du Gardone ! Bravo !
-            Bonne chance ! Agostino ! Montre un peu ce qui se cache là derrière ! »</p>
-          <p>On applaudissait et des éclats de rire fusaient de divers côtés. Gardone salua et
-            envoya des baisers. Il y eut un redoublement d’applaudissements. On bavardait, on
-            criait, on se bousculait. Il y avait de la joie dans la foule.</p>
-          <p>Soudain Agostino ouvrit la bouche, gonfla la poitrine et se mit à crier. À la première
-            syllabe il avait déjà dominé le fracas et il se fit un grand silence. « Attention !
-            Bour-geois-de-Ra-venne ! », il ôta son bonnet : « Parabosco, troisième du, nom, Dieu le
-            garde ! » Il fit ici une courte pause. « Vivat ! » cria la foule, et tout le monde se
-            découvrit.</p>
-          <p>À ce moment, Geraldini eut soudain conscience qu’il assistait à une cérémonie
-            officielle et qu’il représentait le duc. Il tira son épée du fourreau et, face à
-            l’échelle, il salua en baissant la pointe. Les huit hallebardiers formaient un
-            demi-cercle autour de lui, ils suivirent machinalement l’exemple de leur chef et mirent
-            l’arme au bras.</p>
-          <p>Agostino regardait cette petite manifestation et souriait aimablement.</p>
-          <p>« Parabosco érige aujourd’hui, reprit-il, un monument à sa sœur, la princesse Anna ! En
-            son nom, je découvre la pierre ! »</p>
-          <p>Il jeta son bonnet en l’air et arracha la toile sale qui cachait le haut relief. Ceux
-            qui se trouvaient au premier rang de la foule eurent une exclamation : « Ah ! la
-            princesse Anna ! Vraiment, c’est bien elle ! Splendide ! Bravo, elle est très
-            ressemblante… »</p>
-          <p>Agostino était déjà au bas de l’échelle et la retirait. Le marbre, éclatant de
-            blancheur, scintillait au soleil et les lettres d’or de l’inscription se pouvaient lire
-            de très loin. « DANS CETTE MAISON, LA PRINCESSE ANNA FUT DÉPUCELÉE. »</p>
-          <p>Les premiers qui lurent éclatèrent de rire ; certains pourtant, plus circonspects, se
-            poussaient du coude et regardaient les hallebardiers qui demeuraient là immobiles et
-            graves. Un silence embarrassé s’était fait autour de Geraldini. Pourtant la teneur de
-            l’inscription, colportée jusqu’aux derniers rangs de la foule, y provoqua une nouvelle
-            explosion de rires. On se poussait, on criait, cela tournait au délire.</p>
-          <p>Geraldini avait lu avec une stupéfaction voisine de l’ahurissement. Il restait cloué,
-            abasourdi. Il se souvint pourtant de la mission qu’on lui avait confiée, et, rassemblant
-            ses soldats, il regagna le palais, se frayant avec peine un chemin au travers de la
-            foule surexcitée. Des cris, des chuchotements, des murmures montèrent de cette houle
-            humaine, qui venait battre les murs du palais Gambi. L’agitation était à son comble. Les
-            premiers rangs de spectateurs, écrasés, s’échappaient sur les côtés et la poussée
-            augmentait toujours en arrière. La cohue était indicible, des bras se levaient, des
-            parents s’appelaient, séparés par le remous, des enfants pleuraient, des gens bousculés
-            protestaient, d’autres plaisantaient et les nouveaux arrivés s’exclamaient :
-            « Dépucelée ? dites-vous. — Ah mon Dieu ! — Mais c’est écrit là tout simplement !
-            — Quelle idée ! — Dépucelée ? »et ce mot, répété toujours et toujours, semblait un
-            refrain chanté par toute la foule.</p>
-          <p>Geraldini, obsédé, démonté, entendait au passage des bribes de conversation. Un petit
-            vieux, qui avait l’air profondément stupéfait, demandait : « Dépucelée ? Mais c’est
-            impossible ! »</p>
-          <p>Un gros boucher, qui était à côté, reprit d’un ton narquois : « Ne t’émotionne pas !
-            c’est même très facile ! » Et la foule voisine reprit en chœur dans un accès de gaieté :
-            « Très facile ! très facile ! »</p>
-          <p>Quelques pas plus loin, un brave homme, timoré, qui avait l’air bouleversé,
-            questionnait : « Dépucelée ! mais est-elle mariée ? »</p>
-          <p>Les plus proches répliquèrent : « Idiot ! si elle était mariée, on n’en parlerait
-            pas ! » Le brave homme craintif s’effara et répéta : « Ah ! mon Dieu ! Ah ! mon
-            Dieu ! »</p>
-          <p>Un autre insista : « Mais si elle était mariée, ça ne serait pas un miracle ! »</p>
-          <p>— Un miracle ? cria une voix tonitruante. Le dépucelage n’est pas un miracle ! — On
-            riait.</p>
-          <p>— Pas de sitôt !</p>
-          <p>— Ce ne sont pas les premiers à qui cela arrive !</p>
-          <p>— Mais, une princesse !</p>
-          <p>— Et dans cette maison !</p>
-          <p>— Mais quel est l’auteur ?</p>
-          <p>— Qui voulez-vous que ce soit, sinon Gambi <hi rend="i"/>?</p>
-          <p>— Bravo ! Gambi ! Bravo ! Gambi !</p>
-          <p>— Le jeune et beau Gambi ?</p>
-          <p>— Naturellement ! c’est le seul !</p>
-          <p>— Pristi ! comme il y va ! une princesse ! et la dépuceler comme si de rien
-            n’était !</p>
-          <p>— Oui ! est-ce que Franzesco Gambi est l’amant de notre princesse ?</p>
-          <p>Geraldini à ce moment jeta un regard vers celui qui parlait ; aussitôt Ascoli,
-            l’orfèvre du duc, intervint : « Qui ose dire que la princesse a un amant ? Où donc
-            est-il celui qui prétend que notre noble princesse… ? »</p>
-          <p>Ceux qui se trouvaient à côté de Geraldini et le craignaient de par ses fonctions
-            répondirent en hâte : « Mais non ! Mais non ! personne n’a dit cela, personne ne parle
-            d’amant… il l’a dépucelée, voilà tout ! »</p>
-          <p>La querelle s’envenima.</p>
-          <p>— Et le duc ?</p>
-          <p>— Quoi ! le duc ?</p>
-          <p>— Il l’a permis !</p>
-          <p>— Naturellement !</p>
-          <p>— Comment, permis ?</p>
-          <p>— Pourquoi pas ? » Rires… Une voix : « Ordonné ! » D’autres voix, très sérieusement :
-            « Le duc l’a ordonné, il l’a certainement ordonné. »</p>
-          <p>— C’est stupide. Ne croyez pas cela !</p>
-          <p>— Pourquoi pas ?</p>
-          <p>— Pourquoi aurait-il fait faire une plaque commémorative, s’il ne l’avait pas
-            ordonné ?</p>
-          <p>— Je n’en sais rien !</p>
-          <p>— Peut-être par colère !</p>
-          <p>— Ah ! ah ! une plaque commémorative par colère !</p>
-          <p>— A-t-on jamais vu ça ?</p>
-          <p>— Il l’a permis !</p>
-          <p>— Vive Parabosco ! »</p>
-          <p>Les plus rapprochés répétèrent : « Vive Parabosco ! » et se tournèrent vers Geraldini
-            comme pour lui notifier : « Dis bien que c’est moi qui ai crié : vive Parabosco ! » ou
-            pour le prendre à témoin de leurs bons sentiments.</p>
-          <p>Du palais Gambi, où des hordes humaines s’écrasaient consciencieusement pour lire
-            l’inscription, des salves d’éclats de rire se suivaient, précipitées ; on entendait au
-            milieu du tumulte le crépitement des disputes, des discussions, des querelles. Parfois
-            un rire isolé, tantôt formidable, tantôt strident, dominait le vacarme.</p>
-          <p>Sur la fontaine de la place, où quatre lions de pierre bâillaient, deux joyeux
-            compagnons venaient de s’installer. Leurs guitares accordées, le premier débuta,
-            accompagnant du geste sa chanson :</p>
-          <quote>
-            <l>Qu’as-tu donc fait, la nuit passée ?</l>
-            <l>Dis-nous, Anna ! Princesse Anna !</l>
-          </quote>
-          <p>Sur quoi le second improvisa :</p>
-          <quote>
-            <l>Dormi ? nenni ! mais embrassée</l>
-            <l>Tu fus, Anna ! Princesse Anna !</l>
-          </quote>
-          <p>Les plus proches battirent des mains et beaucoup reprirent en chœur le dernier vers :
-            « Tu fus, Anna ! Princesse Anna ! »</p>
-          <p>Geraldini hâtait maintenant le pas.</p>
-          <p>Un troisième loustic avait rejoint les autres sur la fontaine ; ils dansaient,
-            faisaient des mots et mimaient avec force gestes canailles une scène d’amour. Le public,
-            en bas, s’égayait, les femmes criaient, les filles ricanaient et les hommes gueulaient.
-            Les musicâtres s’étaient partagé les rôles. L’un représentait la princesse sur la
-            défensive, l’autre le duc imposant sa volonté à sa sœur, et le troisième imitait
-            Franzesco suppliant, gémissant dans sa démence amoureuse : « Anna ! Princesse
-            Anna ! »</p>
-          <p>Geraldini s’effraya soudain à la pensée que le duc, de ses fenêtres, pouvait voir cette
-            parodie. Il courut vers le groupe, et l’épée haute cria : « Descendez, faquins ! » Des
-            poings se levèrent, il y eut des cris de colère et en un clin d’œil les comédiens
-            disparurent.</p>
-          <p>La fontaine fut à nouveau déserte, avec ses quatre lions qui bâillaient toujours et
-            écarquillaient les yeux vers ce peuple qui grouillait au-dessous d’eux.</p>
-          <ab type="ornament">*</ab>
-          <p>Geraldini gravissait quatre à quatre l’escalier pour faire son rapport au duc. Il se
-            sentait à couvert et ne craignait plus qu’on l’accusât de connivence avec Franzesco
-            Gambi.</p>
-          <p>Il n’était pas encore dans l’antichambre qu’un page se précipita à sa rencontre, lui
-            criant : « Le duc vous attend, où diable restez-vous donc ! » Filippo le suivit en toute
-            hâte. En chemin l’enfant ajouta : « Il n’est pas malheureux que vous arriviez, Sa
-            Seigneurie déjà s’impatientait et elle m’envoyait voir moi-même la joyeuse plaque érigée
-            par Agostino ! » D’un bond il s’était jeté devant lui, ouvrant les portes à deux
-            battants.</p>
-          <p>Geraldini était en présence du duc.</p>
-          <p>Parabosco arpentait la pièce, les mains derrière le dos. Il s’arrêta devant le
-            lieutenant et le dévisagea : « Ah ! c’est vous ? » dit-il enfin avec un étrange regard.
-            Geraldini sentit la vanité de ses espoirs. Ce regard l’avait à nouveau uni à Franzesco
-            Gambi.</p>
-          <p>— Qu’y a-t-il ? demanda le duc.</p>
-          <p>— Altesse, … je suis resté toute la journée au Palais, attendant vos ordres. »
-            Parabosco sourit imperceptiblement : « Vous n’êtes pas de service aujourd’hui, il m’est
-            indifférent de savoir où vous étiez ! »</p>
-          <p>— Je voulais dire, bégaya Geraldini, que moi le premier… que, à cause de cela, j’ai
-            couru là-bas… que je…</p>
-          <p>— La plaque ? interrompit le duc, Agostino l’a-t-il terminée ?</p>
-          <p>— Certainement.</p>
-          <p>— L’inscription ?</p>
-          <p>— Elle dit que… »</p>
-          <p>Et comme Geraldini hésitait, Parabosco le poussa : « Parlerez-vous ?</p>
-          <p>— Elle dit que… »</p>
-          <p>Geraldini rassembla son courage : « Dans cette maison, la princesse Anna fut… », mais
-            au dernier mot il eut peur et s’arrêta à nouveau, terriblement gêné.</p>
-          <p>Le duc le toisa. Jamais encore le lieutenant n’avait vu visage aussi hautain.</p>
-          <p>« Dépucelée », dit-il très bas, et il respira profondément.</p>
-          <p>Parabosco recula d’un pas. « Êtes-vous fou ? »</p>
-          <p>Filippo balbutia : « Je l’ai lu de mes propres yeux. »</p>
-          <p>Alors Parabosco s’emporta : « Brute de sculpteur, j’avais dit un autre mot ! un autre
-            mot ! ». Et il chercha ce mot, s’étonnant soudain de ne s’en pouvoir souvenir. C’était
-            certainement un autre mot ! Enfin ! C’est fait maintenant et c’est plutôt clair !</p>
-          <p>« Le peuple ? » demanda-t-il.</p>
-          <p>— Les gens rient, applaudissent, on chante…</p>
-          <p>— Des chants moqueurs ?</p>
-          <p>— Oui.</p>
-          <p>— Sur moi ?</p>
-          <p>— Non.</p>
-          <p>— Sur la princesse ? »</p>
-          <p>Geraldini fit signe que oui.</p>
-          <p>Parabosco cligna des yeux, comme s’il réfléchissait.</p>
-          <p>Geraldini risqua : « Votre Grâce ordonne-t-elle qu’on chasse les chanteurs et
-            improvisateurs ? »</p>
-          <p>Le duc dirigea son regard clignotant vers lui et demanda : « Chansonnent-ils… d’autres
-            personnes ? »</p>
-          <p>— Pas à ma connaissance ; dès que la pierre a été découverte je suis revenu au palais
-            en apporter en hâte la nouvelle à Votre Grâce, selon son ordre. »</p>
-          <p>« Qu’ils chantent ! dit le duc avec un sourire imperceptible sur les lèvres. Qu’ils
-            chantent ! je ne veux clore la bouche de personne ! »</p>
-          <p>Geraldini se sentit fort aise de n’avoir point parlé de son intervention auprès des
-            musicâtres. Il se félicitait de son silence. Si le duc avait dit : « Faites taire ces
-            effrontés », il eût répondu : « C’est fait ! » Il s’était ainsi réservé des éloges
-            possibles sans risquer un blâme.</p>
-          <p>Le duc s’était approché de la fenêtre et regardait.</p>
-          <p>La place était noire de monde. La clameur confuse des conversations, des rires, des
-            appels bourdonnait ininterrompue, et là-bas, la plaque se détachait, toute blanche, sur
-            la façade grise du palais Gambi.</p>
-          <p>Parabosco contempla longtemps cette petite tache claire et cette grande foule sombre,
-            puis il se retourna : « Qu’on prépare une fête pour ce soir au palais. Qu’on invite
-            toute la noblesse de Ravenne. Je veux qu’on sache ainsi, ajouta-t-il, que nous n’avons
-            plus rien de commun avec les choses de la rue ! » Il fit un signe et Geraldini quitta
-            hâtivement la pièce.</p>
-          <p>« Le duc ordonne une fête ! » cria-t-il à Errante et à Gonzalvo qui faisaient les cent
-            pas dans l’antichambre. Les deux vénérables seigneurs se regardèrent et se dirigèrent
-            sans tarder vers les appartements du duc.</p>
-          <p>Filippo était à peine sous la voûte, où les hérauts et les trompettes mettaient
-            justement pied à terre, que le vieux Spezzi apparut au haut de l’escalier et cria :
-            « Les hérauts sont-ils de retour ? » — « Présents ! » tonnèrent les susdits hérauts.
-            — « Qu’ils se tiennent prêts à partir avec les trompettes. Le duc donne une fête !
-            Faites venir des coureurs ! »</p>
-          <p>— Coureurs ! clama le sergent de garde.</p>
-          <p>Une porte s’ouvrit dans l’ombre de la voûte et une bande de jeunes garçons en livrée
-            jaune en sortit en courant, ajustant en hâte leur béret au panache souple de plumes. Ce
-            fut un assaut confus et bruyant de l’escalier. « Attendez ici, cria Spezzi, l’on va vous
-            remettre dans un instant les lettres d’invitation. »</p>
-          <trailer>(<hi rend="i">À suivre.</hi>)</trailer>
-        </div>
-        <div>
           <head>Art moderne. <lb/>Le Septième Salon d’Automne [extrait]</head>
           <index>
             <term type="id">article-1909-11-01_152</term>
@@ -9011,674 +8333,6 @@
       </div>
       <div>
         <head>Tome LXXXII, numéro 298, 16 novembre 1909</head>
-        <div>
-          <head>La princesse Anna fut.. .. (<hi rend="i">Suite</hi><note place="bottom">Voy. <hi
-                rend="i">Mercure de France</hi>, n° 297.</note>) [II]</head>
-          <index>
-            <term type="id">article-1909-11-16_293</term>
-            <term type="author">Salten, Felix (1859-1945)</term>
-            <term type="author">Puaux, René (1878-1937). Traducteur</term>
-            <term type="signed">Félix Salten. (Traduit de l’allemand par René Puaux.)</term>
-            <term type="section">[Partie anthologique]</term>
-            <term type="title">La princesse Anna fut.. .. (<hi rend="i">Suite</hi>)</term>
-            <term type="date">1909-11-16</term>
-            <term type="ref">Tome LXXXII, numéro 298, 16 novembre 1909, p. 293-315</term>
-          </index>
-          <byline>Félix Salten. (Traduit de l’allemand par René Puaux.)</byline>
-          <bibl>Tome LXXXII, numéro 298, 16 novembre 1909, p. 293-315.</bibl>
-          <p>Geraldini se promenait sur la place et se mêlait à la foule.</p>
-          <p>Il aurait bien voulu maintenant pouvoir se rendre à la dérobée auprès de Franzesco
-            Gambi. Le malheureux devait connaître à cette heure la teneur de l’inscription. Que
-            disait-il ? Que pensait-il ? Mais il n’osait entrer dans cette maison devant laquelle
-            tout Ravenne défilait et montait la garde. Y pénétrer inaperçu était une chimère.
-            Geraldini observait la foule. Quelques seigneurs circulaient sur la place. Le vieux
-            Colalto poussait son gros ventre à travers les groupes, les chambellans déambulaient de
-            compagnie et l’on croisait la litière des chanoines et des dames de qualité. Ces
-            dernières faisaient arrêter les porteurs devant la plaque et hochaient la tête.
-            Geraldini se trouvait à quelques pas de la fontaine lorsqu’il aperçut Gonzalvo, drapé
-            dans un large manteau, qui quittait le palais pour se perdre bientôt dans la foule.</p>
-          <p>L’animation n’avait pas décru sur la place. Le peuple n’avait pas pris son parti de
-            l’événement. On plaisantait de plus belle, criant, riant et faisant d’irrévérencieuses
-            plaisanteries sur le compte de la princesse, de Franzesco Gambi et du duc. Mais la
-            majorité du public semblait gênée dans les manifestations de sa gaieté.</p>
-          <p>L’on s’écartait avec un certain empressement des audacieux qui débitaient quelque
-            pamphlet ironique. L’on craignait ces nobles qui circulaient sans mot dire, comme autant
-            d’espions, et la bonne humeur générale s’en ressentait.</p>
-          <p>La plaque de marbre était fixée là-haut et montrait le portrait de cette jeune
-            princesse Anna dont la beauté avait toujours été pour Ravenne objet d’admiration et de
-            joie. L’inscription, au-dessous, brillait comme la blancheur de la pierre, et c’était à
-            la fois une claire et muette énigme. Toutes les têtes se tendaient vers elle, attendant
-            une explication quelconque, mais elle demeurait immuable dans la concision de cette
-            inscription. Cette courte phrase, là-haut, semblait un message adressé à tous ceux qui
-            se bousculaient en levant la tête. Vous voulez des explications, des détails, des
-            renseignements ?… lisez ! Et les regards avides ne trouvaient toujours que ces mêmes
-            mots cent fois lus et relus : « Dans cette maison, la princesse Anna fut
-            dépucelée. »</p>
-          <p>Il y avait des gens qui se découvraient en approchant du mur et qui demeuraient là, le
-            chapeau à la main, embarrassés et effrayés.</p>
-          <p>Depuis que Geraldini avait, l’épée à la main, chassé les bouffons de la fontaine, on
-            n’éprouvait plus qu’un plaisir relatif à les escorter. Seuls les nobles restaient auprès
-            d’eux à les écouter, mais sans en tirer grand’chose. Leur caste n’avait-elle pas été
-            atteinte ? Comment devait-on prendre la chose… ? Jusqu’ici le palais était resté
-            silencieux. La parole ducale, qui en temps ordinaire servait de mot d’ordre et décidait
-            l’opinion, ne s’était pas encore fait entendre. Quelques personnages avaient approché
-            Parabosco, mais restaient muets. Agostino était saoul et jurait ses grands dieux qu’il
-            ignorait totalement ce qu’il avait gravé sur la plaque. Gonzalvo éloignait ceux qui
-            l’interrogeaient et nul n’essayait de pronostiquer la pensée du duc Parabosco, par
-            expérience de sa versatilité. Le jeune César Galli, arrivant avec d’autres seigneurs en
-            vue du haut-relief, s’était tourné, disant avec colère : « Il est vraiment honteux
-            d’afficher ainsi la honte de sa maison ! » Les officiers de la garde présents s’étaient
-            tus, ne désirant pas se brûler la langue. Les autres avaient haussé les épaules en
-            s’entre-regardant et chacun pensait à part soi : « César Galli se met en colère parce
-            qu’il est amoureux de la princesse. <hi rend="b">»</hi></p>
-          <p>Les sénateurs avaient fait leur apparition sur ces entrefaites, se hâtant de compagnie,
-            ou se retrouvant les uns les autres dans la foule, reconnaissables à leur grand manteau
-            noir. Comme des gouttes d’huile qui s’agglomèrent à la surface de l’eau, ils s’étaient
-            réunis au pied de la fontaine. Les représentants de la prudence semblaient avoir
-            remplacé en cet endroit les représentants de l’insolence. Ils se taisaient, regardaient
-            la plaque, secouaient la tête, se regardaient entre eux, et le peuple qui s’était
-            assemblé autour d’eux suivait machinalement leurs regards. Les sénateurs étaient en
-            détresse. Ils avaient une envie désespérée de s’enfuir. Ils n’avaient rien à dire. Il y
-            eut un long et pénible silence. S’il arrivait à quelqu’un de tousser, tout le monde se
-            tournait vers lui, croyant qu’il s’apprêtait à parler. Mais c’était une fausse alerte.
-            Le sénateur était simplement enrhumé, et le silence se faisait plus intense. On n’osait
-            même plus tousser. Enfin, il y en eut un qui, se tournant vers son voisin, prononça d’un
-            ton grave : « La princesse Anna… » et l’autre lui répondit d’une voix plus grave encore,
-            sans détacher ses yeux de la plaque… « Dépucelée ! » Alors un troisième, enhardi, ajouta
-            consciencieusement : « Dans cette maison ! » Cela ne causa pas sensation, car on
-            connaissait plutôt ces détails.</p>
-          <p>Le secrétaire Luigi les rejoignit. C’était un gros homme satisfait qui riait au plus
-            fort des disputes et des controverses avec l’air de dire qu’il possédait seul le secret
-            de rétablir la concorde et la joie. Il avait cette expression bien connue du visage
-            lorsqu’il pénétra dans le cercle des manteaux noirs. Il eut un regard circulaire et
-            proclama d’un ton triomphant : « Il faudrait aller trouver le duc et implorer la grâce
-            de la charmante princesse ! » Il prononça ces deux derniers mots avec émotion. Il y eut
-            un murmure d’approbation parmi les plus proches. Les plébéiens étaient de son avis. On
-            répéta : « Parfaitement ! — La princesse est charmante ! — Il faut implorer sa grâce ! »
-            Luigi jouissait de la faveur populaire ; il était de ces hommes de second plan qui
-            s’entendent à faire croire, par des sourires expressifs, des sous-entendus et des
-            aphorismes lapidaires, qu’ils ont leurs supérieurs dans leur poche, et que tout ce qui
-            arrive ou n’arrive pas ne dépend essentiellement que de leur toute puissante influence
-            ou de leur secrète initiative.</p>
-          <p>Son opinion trouva en conséquence un rapide écho.</p>
-          <p>— Il faut demander grâce !</p>
-          <p>— Cela vaudra mieux que de rester ici à tourner en rond !</p>
-          <p>— Un homme malin, le secrétaire !</p>
-          <p>— Malin ! pas seulement ! Au fond, c’est le seul qui ait trouvé la solution !</p>
-          <p>— C’est le berger de ce troupeau d’imbéciles ! c’est connu !</p>
-          <p>— Il les mène à la baguette !</p>
-          <p>Luigi pontifiait, le sourire aux lèvres, et jetait des regards complaisants sur son
-            entourage. Son attitude déplut aux sénateurs, et en particulier au bouillant Vespasiano,
-            qui craignait qu’on les obligeât à obéir à l’orgueilleux Luigi ; aussi se décida-t-il à
-            parler et à laisser, ce faisant, libre cours à sa mauvaise humeur.</p>
-          <p>« Qui t’a demandé ton avis, espèce de pie-grièche ? Qu’est-ce que tu fais là sur la
-            place, avec l’air de te croire notre interprète ou notre conseiller ? Crois-tu que nous
-            ne savons pas mieux que toi ce que nous avons à faire ? »</p>
-          <p>L’expression de béatitude suffisante disparut du visage enluminé du secrétaire. Il
-            était maintenant tout sot et confus. Il fit un dernier effort pour conserver les
-            suffrages populaires :</p>
-          <p>« La pauvre princesse… je crois pourtant… grâce… »</p>
-          <p>« Silence ! hurlait Vespasiano au milieu d’un rire général. Comment pouvons-nous à
-            cette heure demander grâce au duc ? Quel idiot tu fais ! C’était avant qu’il l’eût fallu
-            faire, avant qu’il l’eût laissé déflorer. Maintenant c’est trop tard. » Et d’un geste
-            large il montrait la plaque de marbre cramponnée au mur de Franzesco comme le sceau
-            immuable d’une destinée.</p>
-          <p>« Certainement », opinèrent les autres en suivant des yeux le geste de Vespasiano vers
-            la stèle commémorative, « c’est trop tard. »</p>
-          <p>— Parfaitement ! Que voulez-vous faire maintenant ? Et tous considéraient avec
-            attention l’image marmoréenne de la princesse.</p>
-          <p>— Seigneur Vespasiano, interpella un grand diable maigre par-dessus la tête de ses
-            voisins, Seigneur Vespasiano, vous dites que le duc a fait déflorer la princesse… ?</p>
-          <p>— Parfaitement, répondit le sénateur sévèrement. Il y avait à peine un quart d’heure
-            que, sans opinion personnelle, il avait entendu cette assertion et en avait souri.
-            Depuis deux minutes il l’avait faite sienne pour clouer le bec à cet insupportable
-            Luigi, comme l’on saisit le premier argument venu dans un moment de colère. Maintenant
-            il en était absolument persuadé. « Parfaitement », réitéra-t-il, en regardant autour de
-            lui.</p>
-          <p>On s’agitait vivement autour du groupe des sénateurs, qui devenaient les personnages
-            importants de la place et constataient avec satisfaction qu’ils reprenaient les rênes de
-            l’opinion. On se questionnait en les regardant, on disait :</p>
-          <p>— Le duc l’a fait déflorer ?</p>
-          <p>— Qui a dit cela ?</p>
-          <p>— Vespasiano, le sénateur.</p>
-          <p>— Vespasiano l’a dit, il doit le savoir !</p>
-          <p>— Je l’avais dit bien avant lui !</p>
-          <p>— Mais naturellement, qu’il l’a ordonné !</p>
-          <p>— Mais pourquoi pas ?</p>
-          <p>— Je vous l’affirme : or-don-né !</p>
-          <p>— En voulez-vous la preuve ? — Oui ? Eh bien et le monument ?</p>
-          <p>— Une jolie preuve !</p>
-          <p>— La meilleure !</p>
-          <p>— Pardon, une seconde… Il fait venir Agostino et lui commande le portrait…</p>
-          <p>— Ah ! Ah !</p>
-          <p>— Attendez !.. et quand tout est prêt il choisit Franzesco Gambi, le fait venir et lui
-            commande : En avant ! Marche !</p>
-          <p>— Et Gambi a marché ?</p>
-          <p>— Qui est-ce qui n’aurait pas marché à sa place !</p>
-          <p>— Croyez-vous que Gambi s’y serait risqué sans l’autorisation du duc ?</p>
-          <p>— Aha ! Aha ! Aha !</p>
-          <p>— Vous voyez bien, il a fallu qu’on le lui ait ordonné !</p>
-          <p>— Très juste !</p>
-          <p>— Mais pourquoi ?</p>
-          <p>— Oui ! Oui ! Pourquoi ?</p>
-          <p>— Ah cela, personne ne le sait !</p>
-          <p>— Vous ne connaissez pas les usages de la cour !</p>
-          <p>— Cela doit avoir une raison d’être.</p>
-          <p>— Vous croyez peut-être qu’il a fait cela pour s’amuser ?</p>
-          <p>— Des intérêts considérables étaient peut-être en jeu !</p>
-          <p>— Ces affaires-là ne sont pas pour nous !</p>
-          <p>— Nous ignorons toujours tout !</p>
-          <p>— Mais pourquoi est-ce que Gambi ne l’a pas épousée ?</p>
-          <p>— Mais, triple bête, comment peut-il épouser une princesse ?</p>
-          <p>— Pourtant s’il l’a b…</p>
-          <p>— Raison d’État !</p>
-          <p>— En ce cas je ne demande pas mieux que de jouer le rôle de Raison d’État !</p>
-          <p>— Le métier a du bon !</p>
-          <p>— Ils font ça avec les princesses et n’ont même pas besoin de les épouser !</p>
-          <p>— Gambi est-il donc un homme politique ?</p>
-          <p>— En ce cas-là, j’en suis un autre !</p>
-          <p>Les gens riaient : « Moi aussi ! — Moi aussi ! — Quand le duc aura une nouvelle
-            commande à faire, je m’inscris !</p>
-          <p>L’hilarité devint générale. Les plaisanteries avaient recommencé joyeusement dans tous
-            les groupes. À ce moment, on eut un instant l’espoir d’avoir la solution exacte de ce
-            passionnant problème.</p>
-          <p>Les trompettes et les hérauts venaient de sortir à nouveau du palais. À quelques mètres
-            de la porte, les huit cavaliers firent halte. Les trompettes qui étaient devant
-            portèrent l’instrument à leurs lèvres et une joyeuse fanfare au timbre argentin traversa
-            la place. La foule s’était vivement portée de leur côté et entourait la petite troupe en
-            rangs serrés. Les hérauts passèrent devant les musiciens, levèrent leur bâton doré et,
-            se dressant sur leurs étriers, crièrent d’une seule voix : « Sa Grâce, le duc Parabosco,
-            donne ce soir une fête. Tout seigneur, gentilhomme ou notable est invité à s’y rendre
-            après le coucher du soleil. » La foule répondit par un tonnerre de hourras ! car il
-            était d’usage à Ravenne que le peuple criât : Hourra ! quand la noblesse était invitée
-            chez le duc.</p>
-          <p>Les hérauts abaissèrent leur bâton doré et furent à nouveau dépassés par les
-            trompettes, qui scellèrent d’une nouvelle fanfare la proclamation ducale.</p>
-          <p>Le mot : « Raison d’État » avait maintenant fait son chemin.</p>
-          <p>Dès l’instant où Agostino di Gardone avait dévoilé la stèle de marbre, le cri de « Au
-            nom du duc » avait si souvent retenti que la foule en était peu à peu arrivée par des
-            déductions rudimentaires, dans son désir intensif d’une solution acceptable, à se
-            raccrocher à cette idée satisfaisante par son considérable mystère. Le peuple aime et
-            accepte la Raison d’État parce qu’elle le dispense de réfléchir. Il est enfin toujours
-            enclin à amplifier les choses les plus simples pour la satisfaction de son
-            amour-propre.</p>
-          <p>La plaque de marbre donnait, somme toute, de l’événement une narration claire et
-            absolue. Il n’y avait pas d’explications à demander. C’était un fait, et voilà tout.
-            Mais les gens n’accordaient aucune créance à une franchise qui leur semblait trop grande
-            pour être vraie. La simplicité de leur esprit en compliquait la teneur. Ils voulaient
-            une signification particulière, une intention secrète et haute dans cette manifestation
-            inopinée ; le contraire les eût dépités. Et cette chose si simple, si humaine, s’était
-            obscurcie au point de tomber dans les ténèbres de la politique, refuge des vains
-            mystères et des insipides secrets.</p>
-          <p>Pendant ce temps, les trompettes répétaient l’invitation grand-ducale à travers la
-            ville. La foule compacte faisait place aux chevaux, et suivait les cavaliers en criant :
-            « Une fête ! Parabosco donne une fête ! » et se réjouissait avec un noble
-            désintéressement d’une cérémonie à laquelle elle ne prendrait point part. Les enfants
-            riaient, les jeunes hommes jetaient en l’air leurs bonnets et les « hourras » se
-            succédaient sans arrêt jusqu’au lointain des ruelles.</p>
-          <p>Vespasiano, le sénateur, semblait avoir puisé dans l’argentine sonorité des fanfares
-            grand-ducales un courage nouveau et du haut de sa taille augustement cambrée il toisait
-            le malheureux secrétaire :</p>
-          <p>« Oh ! toi, stupide entre les plus stupides, ne sens-tu pas maintenant combien
-            profitable te serait un perpétuel silence ? Tu nous disais d’aller demander grâce au duc
-            pour la princesse ! Quelle figure ferions-nous, à présent qu’il donne une fête ?
-            Félicite-toi que nous n’ayons fait que rire de toi, car Parabosco nous eût renvoyés avec
-            les marques méritées d’un pénible mépris. »</p>
-          <p>Une menaçante rumeur circula dans l’entourage des interlocuteurs et le malheureux
-            secrétaire Luigi sentit s’évanouir les derniers vestiges de la considération qu’il avait
-            cru un instant posséder.</p>
-          <p>Un soudain tumulte empêcha l’échange de subséquentes aménités. Agostino di Gardone
-            s’avançait au milieu des cris et des rires de la populace. Il sortait d’une taverne et
-            l’ampleur de son ivresse était manifeste. Mais cet homme prodigieux ne titubait point.
-            Son visage seul était passé de l’écarlate au ponceau et des veinules rouges marbraient
-            ses yeux dilatés et joyeux. La persistance d’une congestion alcoolique, dont l’aurore
-            avait vu les prémisses, l’avait obligé à dégrafer son col et à dénouer sa cravate.
-            C’était la seule concession qu’il eût faite à sa tenace ébriété.</p>
-          <p>Le cou dégagé, la respiration libre, il s’avançait avec une incomparable sérénité au
-            devant du conseil réuni. L’ivresse n’avait d’autre effet sur lui que d’activer ses
-            dispositions naturelles au sarcasme. Parvenu devant les sénateurs, il fit halte, regarda
-            autour de lui, toisa les uns et les autres, sourit, hocha ]a tête, en un clignement
-            d’œil malicieux, puis se reprit à sourire.</p>
-          <p>Les membres de la haute assemblée, le considérant comme un individu qui en sait plus
-            qu’il n’en veut et n’en peut dire, demeurèrent également silencieux et se contentèrent
-            de lui montrer des visages dont l’amabilité n’excluait pas une dubitative réserve.</p>
-          <p>Agostino les interpella alors d’un ton réjoui et avenant : « Eh bien ! mes seigneurs,
-            que dites-vous de ma nouvelle œuvre ? »</p>
-          <p>Vespasiano fit un pas. Il eût souhaité à cet instant se trouver seul avec Agostino en
-            un lieu paisible et écarté où quelque vin généreux et doré eût assuré les plus exactes
-            révélations. La main tendue, le regard engageant, il se contenta de formuler ces paroles
-            peu compromettantes : « Votre stèle est un bel échantillon de votre art. »</p>
-          <p>« Oh ! oh ! répliqua Agostino qui riait, un bel échantillon de mon art ! rien de plus ?
-            Vous devriez, il me semble, rendre grâce au duc Parabosco qui dote à nouveau notre ville
-            d’un trésor comme celui-là ! »</p>
-          <p>Les sénateurs s’entre-regardèrent. Le secrétaire, qui n’avait pas perdu tout espoir de
-            ressaisir les rênes de l’opinion, eut une inspiration soudaine : « Il est certain,
-            s’écria-t-il, que Parabosco orne Ravenne mieux que nul autre prince ! »</p>
-          <p>Agostino, pour cette bonne parole, lui frappa sur l’épaule avec une telle sympathie que
-            le secrétaire vacilla : « Tu as raison, brave Luigi ! C’est un ornement ! »</p>
-          <p>« Une parure pour la ville », opinèrent les sénateurs, désireux à la fois de dire
-            quelque chose et de se concilier Agostino.</p>
-          <p>La conversation devint alors générale.</p>
-          <p>— Oui ! Oui, le duc est bon !</p>
-          <p>— C’est un ami des arts !</p>
-          <p>— Un ami ? Dites le protecteur !</p>
-          <p>— Ravenne en a la preuve !</p>
-          <p>— Quel chef-d’œuvre !</p>
-          <p>— Chef-d’œuvre !!! braillait Agostino.</p>
-          <p>— On n’a pas pareille chose dans toute l’Italie ! Ni à Ferrare ! Ni à Bologne ! Pas
-            même à Florence !</p>
-          <p>— C’est vrai !</p>
-          <p>— Bravo, Agostino !</p>
-          <p>— Une véritable œuvre d’art, dit une voix forte que voilait un accent de mélancolie
-            voulue.</p>
-          <p>— Ce n’est point sa seule raison d’être, insinua Vespasiano ; lisez l’inscription,
-            voilà la raison d’être !</p>
-          <p>— Il en sera fait bruit par toute l’Italie, toute la province affluera pour voir cette
-            plaque !</p>
-          <p>Agostino eut un sourire méchant : « De toute l’Italie ! Dites du monde entier ! »</p>
-          <p>Tous crièrent, comme entraînés par l’assurance du sculpteur : « Oui ! Oui ! Il a
-            raison ! »</p>
-          <p>— C’est une bénédiction pour la ville !</p>
-          <p>Les yeux d’Agostino brillaient : « Ravenne prendra un nouvel essor ! »</p>
-          <p>La jubilation était à son apogée parmi l’austère compagnie : « Vive le duc ! Vive le
-            duc ! »</p>
-          <p>— Parabosco est un prince digne de ce nom ! Il ne dort pas ! » Une voix grêle siffla :
-            « La princesse non plus ! »</p>
-          <p>Cette interruption fit scandale.</p>
-          <p>— Voulez-vous bien vous taire, vous là-bas, ou désirez-vous faire la connaissance des
-            cachots ?</p>
-          <p>— Et puis qu’en savez-vous ?</p>
-          <p>— La princesse pourtant… fit la voix grêle.</p>
-          <p>— Si le duc le veut…</p>
-          <p>— Que croyez-vous ?</p>
-          <p>— Ce n’est en tout cas pas contre notre bien.</p>
-          <p>— Il faut… commença le secrétaire qu’une ingénieuse idée soudainement éclose agitait et
-            charmait à la fois, « il faut.., reprit-il en élevant la voix jusqu’à son plus haut
-            diapason, il faut remercier le duc et remercier la princesse. »</p>
-          <p>Un frémissement approbatif salua ces paroles et l’assistance les répéta avec
-            conviction.</p>
-          <p>Agostino, dont l’excitation touchait à la démence, interrompit : « Et Franzesco Gambi ?
-            Vous ne devez pas oublier celui-là ! »</p>
-          <p>Le son de sa voix avait quelque gravité, tandis que ses yeux riaient
-            malicieusement.</p>
-          <p>— Oui ! Oui ! le jeune Gambi !</p>
-          <p>— Chez le duc !</p>
-          <p>— Que les sénateurs aillent chez le duc, criait la foule.</p>
-          <p>— Oui ! D’abord chez le duc !</p>
-          <p>Les sénateurs s’interrogèrent en rapprochant leurs têtes comme dans tout conciliabule
-            important. Ils sentaient la responsabilité qui pesait sur eux de n’avoir encore rien
-            décidé au sujet de ce considérable événement. Il était temps de préparer le discours que
-            l’on tiendrait à Parabosco et d’en arrêter les termes.</p>
-          <p>À cet instant Gonzalvo, qui s’était glissé dans la foule et n’avait rien perdu des
-            paroles précédemment prononcées, fit son apparition au premier rang des spectateurs et
-            interpella Vespasiano : « Attendez un instant ! Je vais prévenir Sa Grâce le duc de
-            votre visite, car elle traite d’importantes affaires qui pourraient retarder l’heure de
-            votre audience. »</p>
-          <p>Vespasiano se confondait encore en remerciements que Gonzalvo était déjà loin,
-            humblement salué sur son passage.</p>
-          <p>Jamais la considération populaire ne lui avait été aussi complètement manifestée.</p>
-          <p>À la faveur de l’émotion générale, Agostino disparut. Il prit gaiement le chemin du
-            palais, rasa le mur et vint frapper à une petite porte qu’il connaissait bien. Le
-            gardien des remparts, militaire chevronné, lui ouvrit.</p>
-          <p>« On est venu pour les salves, n’est-ce pas ? » demanda Agostino d’un air affairé.</p>
-          <p>— Mais non, personne, répliqua le vieillard.</p>
-          <p>Agostino eut un geste grandiose d’indignation. « Ah oui ! toute cette jeunesse s’entend
-            à crier, à courir, à manifester, mais lorsqu’il s’agit des choses importantes, plus
-            personne. Heureusement que je suis là, allons vite, il n’y a pas de temps à perdre… les
-            mèches. »</p>
-          <p>Le vieux Dossi hésita.</p>
-          <p>— Comme tu voudras, dit Agostino, après tout ce n’est pas mon affaire. Je suis venu ici
-            par amitié pour toi, prévoyant quelque malheur ou un malentendu. Mais si les salves ne
-            sont pas tirées, ce n’est évidemment pas à moi qu’on s’en prendra !</p>
-          <p>Et saluant, il tourna les talons.</p>
-          <p>Dossi, convaincu par la logique de ce court raisonnement, le retint, lui donna les
-            mèches, les sacs de poudre et le plus utile, c’est-à-dire le mot d’ordre des
-            remparts.</p>
-          <p>Et le sculpteur gagna les murs de la forteresse avec célérité, un rire contenu et la
-            suffocation d’une course hâtive le faisant glousser d’aise dans les escaliers en
-            colimaçon.</p>
-          <p>Pendant ce temps, Gonzalvo arpentait le corridor des appartements de la Princesse Anna.
-            Il éprouvait une vive satisfaction à la pensée que les sénateurs avaient retardé, sur
-            son avis, leur visite. Seule la crainte que quelqu’un ne l’eût devancé et n’eût apporté
-            avant lui au palais des nouvelles de la place du Marché le tourmentait encore. Il se
-            hâtait donc, résolu à agir promptement et tout d’abord auprès de la princesse.</p>
-          <p>Il n’y avait d’ailleurs pas une âme, à l’exception d’un archer de faction, dans la
-            première antichambre, et qui frappa, en signe de salut, la crosse de son arme pesante
-            sur les dalles sonores. La deuxième antichambre était vide. Pas un gentilhomme, pas même
-            un laquais. Dans le grand corridor : personne. Les dames d’honneur qu’on avait coutume
-            d’y rencontrer étaient invisibles pour l’instant. Gonzalvo finit pourtant par découvrir
-            une vieille servante effondrée dans un coin. Elle sanglotait. C’était la sœur de
-            Catarina, cette suivante qu’on avait étranglée à l’aurore. Gonzalvo ne craignit pas de
-            tirer la vieille de ses douloureuses méditations et l’envoya auprès de la princesse
-            annoncer sa visite.</p>
-          <p>La vieille revint bientôt disant que la princesse s’était enfermée et avait crié à
-            travers la porte qu’elle ne voulait voir personne. Gonzalvo haussa les épaules. « C’est
-            dommage, murmura-t-il, je la croyais courageuse ! » Puis il réfléchit un instant, se
-            demandant s’il devait prendre sur lui la démarche. Il secoua la tète, puis se décida à
-            se rendre auprès du duc.</p>
-          <p>Parabosco était seul et lisait ou feignait de lire dans un large in-folio placé devant
-            lui. En fait, il louchait sans cesse du côté de la fenêtre, prêtait l’oreille au moindre
-            éclat de voix qui montait de la place.</p>
-          <p>L’entrée de Gonzalvo le fit tressaillir.</p>
-          <p>— Que voulez-vous ? interrogea-t-il un peu brusquement.</p>
-          <p>— Votre Grâce, le peuple…</p>
-          <p>Le duc ne le laissa pas achever. Bondissant plus que ne se levant de son fauteuil il
-            cria : « Taisez-vous ! Je ne vous demande pas, je ne vous ai jamais demandé rien
-            touchant le peuple ! Nous ne demandons rien au peuple ! »</p>
-          <p>Et suivant son habitude, il se mit à arpenter le large salon à grandes enjambées.</p>
-          <p>Gonzalvo, silencieux mais tenace, attendait.</p>
-          <p>Parabosco arpentait toujours la pièce en proie à une vive agitation.</p>
-          <p>Au bout d’un instant, sans cesser de marcher, il reprit : « Le peuple ! Mais le peuple
-            peut faire, penser, dire, croire, inventer, imaginer ce que bon lui semble… Peu nous
-            chaut, nous ne nous en soucions pas ! et (ceci fut dit d’un ton sec) nous n’avons envoyé
-            aucun mouchard pour nous en informer ! Laissez-moi tranquille ! Vous ne voyez donc pas
-            que j’en ai assez de cette histoire ! Je veux que ça finisse ! une fois pour toutes ! Le
-            peuple — eh bien le peuple ! — ce qu’il veut savoir, il le sait, je le lui ai écrit
-            là-bas sur le mur ! » De la main dirigée vers la fenêtre il indiquait l’extrémité de la
-            place.</p>
-          <p>« Je vous ai même épargné la peine d’accrocher des épigrammes à la maison Gambi. La
-            pierre là-bas est plus durable que vos placards de papier ! Que vous faut-il de
-            plus ? »</p>
-          <p>Cette dernière interjection donna du courage à Gonzalvo ; il risqua : « Si Votre Grâce
-            voulait m’entendre… »</p>
-          <p>— Que se passe-t-il ?</p>
-          <p>— Je conseillerais à Votre Grâce… ! Le duc eut un éclat de rire moqueur. Mais Gonzalvo
-            poursuivit sans se démonter : « Je conseillerais à Votre Grâce d’ordonner à la princesse
-            Anna de sortir de suite à cheval dans la ville et de se montrer au peuple. »</p>
-          <p>Parabosco resta comme cloué sur place, puis il s’écria : — Gonzalvo ! Gonzalvo ! Votre
-            zèle est étonnant ! Il est même extraordinaire ! Si j’avais suivi les conseils
-            précédents que votre sagesse m’a donnés, Franzesco Gambi serait à cette heure sous terre
-            et ma sœur au couvent ou en prison ! »</p>
-          <p>— Votre Grâce… interrompit Gonzalvo ; mais Parabosco était devenu pâle et sa voix
-            tremblait de colère :</p>
-          <p>« Que pensez-vous donc de nous ? Le peuple doit-il être le juge de la princesse <hi
-              rend="i"/>? Vous avez donc juré de me pousser à bout ? Cette plaque de marbre, qu’on a
-            posée là-bas sur mon ordre, est un avis au public et non un acte d’accusation !
-            Comprenez-vous ? C’est une constatation, un aveu non déguisé destiné à étouffer les
-            cancans, à désarmer les calomnies chuchotées et à faire honte à la princesse.
-            Comprenez-vous ? Faire honte et non pas juger ! Et du moment que nous épargnons à notre
-            sœur le tribunal, ce n’est pas pour la livrer à celui du peuple ! »</p>
-          <p>Gonzalvo leva les mains pour affirmer que telle idée ne lui était jamais venue ; mais
-            Parabosco ne voulait rien entendre, il continua : « C’est très vulgaire, au fond, ce que
-            vous me proposez là, cela équivaut à mettre la princesse au pilori ! Et avant que je
-            permette qu’une main — que dis-je — un mot, un murmure s’élève contre ma sœur… »</p>
-          <p>Gonzalvo profita d’un instant de répit (le duc soufflait) pour dire : « Je prie encore
-            une fois Votre Grâce de faire sortir la princesse à cheval. »</p>
-          <p>Le duc saisit l’in-folio qui se trouvait devant lui et pendant quelques secondes
-            Gonzalvo crut qu’il allait le recevoir sur le crâne. Mais Parabosco, tournant subitement
-            le dos, reprit sa lecture.</p>
-          <p>Gonzalvo, qui était tenace, recommença : « Laissez sortir la princesse, Monseigneur, je
-            donne ma tête à couper que… »</p>
-          <p>À cet instant précis, le premier coup de canon tiré sur les bastions par le joyeux
-            Agostino pour fêter ce beau jour déchira l’air. Des cris prolongés partirent de la
-            place, puis les salves se succédèrent assourdissantes.</p>
-          <p>Parabosco bondit. « Ah çà ! ces gens sont fous ! » dit-il assez bas, comme se parlant à
-            lui-même.</p>
-          <p>Gonzalvo fit un pas et répéta, cette fois avec énergie : « Monseigneur, bientôt il fera
-            nuit. Faites sortir la princesse Anna à cheval par la ville et laissez-la se faire voir
-            au peuple avant le coucher du soleil. Je me porte garant sur ma vie que rien de ce que
-            craint Votre Grâce n’arrivera. »</p>
-          <p>Le prince le considéra un moment. Il fit un signe de la main : « Soit, votre tête.
-            Portez l’ordre à la princesse. »</p>
-          <p>Gonzalvo s’inclina profondément et sortit de la pièce à pas comptés. Dès qu’il fut dans
-            l’antichambre, il se mit à courir et à crier : « Les chevaux de la princesse ! Sur
-            l’ordre du duc ! La suite de la princesse ! » Il traversait les salles à grands pas,
-            chassant devant lui les pages et les laquais, qui se mettaient eux aussi à courir,
-            ahuris.</p>
-          <p>Et comme Gonzalvo traversait un grand salon désert, il se frotta les mains en
-            souriant.</p>
-          <ab type="ornament">*</ab>
-          <p>En bas, sur la place, la foule ne démarrait pas. Les sénateurs groupés attendaient le
-            retour de Gonzalvo. Dans les groupes on discutait et les conseillers étaient d’accord
-            pour adresser au duc, à la princesse et à Franzesco Gambi leurs remerciements. Ce
-            n’était plus qu’une question de forme. Les plus subtils se risquaient à disserter avec
-            des airs mystérieux sur les raisons qui avaient décidé du sort de la princesse Anna.</p>
-          <p>— Le duc…</p>
-          <p>— Qui connaît sa sagesse ?</p>
-          <p>— Il s’agit peut-être de choses très importantes, qu’on ne soupçonne pas ?</p>
-          <p>— Et elle… ?</p>
-          <p>— Sans doute, c’est elle la victime…</p>
-          <p>— Une jeune fille héroïque !</p>
-          <p>— Une vraie princesse, cela dit tout !</p>
-          <p>Franzesco Gambi, qu’on avait raillé, qui semblait n’avoir pour lui que ses qualités
-            d’heureux amant et d’officier brillant capable de vaincre même des princesses, bellâtre,
-            sans intelligence puisqu’il s’était fait pincer, devenait, maintenant qu’il se trouvait
-            mêlé à de ténébreuses affaires d’État et jouait un rôle dans le drame de la famille
-            grand-ducale, un personnage qui mène en secret sa barque et sait d’étonnante façon
-            parvenir au pouvoir.</p>
-          <p>Les jeunes nobles, influencés par la décision des conseillers, inventaient maintenant
-            d’extraordinaires combinaisons. Ils se montaient la tête, s’enthousiasmaient. Certains
-            affirmaient qu’ils savaient depuis longtemps les hautes capacités de Gambi. D’autres le
-            traitaient d’intrigant, blâmaient son zèle exagéré, lui attribuaient de puissantes
-            protections et laissaient entendre qu’on aurait pu trouver, pour un rôle aussi délicat
-            et de telle importance, des hommes plus qualifiés. On avait vraiment fait injustice à
-            quelques-uns, si l’ancienneté et les services entraient en ligne de compte.</p>
-          <p>Ils se calmaient en constatant qu’à la cour comme ailleurs l’équité et les droits
-            étaient parfois méconnus.</p>
-          <p>À ce moment éclatèrent les premiers coups de mortier d’Agostino.</p>
-          <p>— Signe de joie ! cria la foule. On tire sur les remparts !</p>
-          <p>— C’est au faubourg de San Vito di Felice !</p>
-          <p>Cette canonnade ininterrompue déchaîna l’enthousiasme de la masse.</p>
-          <p>— On tire le canon.</p>
-          <p>— Le canon parle.</p>
-          <p>— On fait toujours cela quand une princesse est dépucelée, cria Cesare Galli, amer.</p>
-          <p>Les gens étaient si désorientés qu’ils reprenaient avec sérieux :</p>
-          <p>— Certainement, certainement.</p>
-          <p>Beaucoup de bambins s’étaient portés vers les remparts pour voir de plus près la
-            manœuvre des mortiers. Avec les soldats réquisitionnés par Agostino, ils formaient une
-            troupe d’auxiliaires qui activaient le tir et le rendaient d’instant en instant plus
-            violent.</p>
-          <p>Les sénateurs, émus par ce vacarme, avaient hâte de se rendre auprès du prince. Il ne
-            fallait plus tarder. Certains proposaient de ne pas attendre davantage Gonzalvo pour se
-            présenter devant le souverain et lui manifester la reconnaissance nationale. D’ailleurs,
-            les cris de la foule redoublaient. On les pressait d’agir, quand la grande porte du
-            palais s’ouvrit à deux battants, on entendit le piétinement sonore d’une cavalcade sous
-            la voûte et la princesse Anna parut. Elle était vêtue d’une robe de velours bleu brodé
-            d’argent, une couronne étincelait sur ses cheveux noirs et elle montait une blanche
-            haquenée caparaçonnée d’or, que deux pages conduisaient par la bride.</p>
-          <p>Deux chevaliers, l’épée à la main, marchaient à ses côtés. Deux dames d’honneur en
-            grande toilette d’apparat la suivaient à cheval et deux autres chevaliers, tête nue, le
-            large feutre à plume en main, fermaient la marche.</p>
-          <p>Lorsque ce remarquable cortège fut visible de tous, une ovation inouïe l’accueillit. La
-            foule se rua comme une vague géante vers le palais en faisant trembler l’air du cri de :
-            « Vive la princesse Anna ! »</p>
-          <p>On avait hissé la princesse plus morte que vive sur son cheval et quand les portes du
-            château s’étaient ouvertes, elle avait mis les mains devant ses yeux, car elle se
-            croyait conduite à la honte publique. L’histoire de la plaque commémorative était
-            parvenue fragmentaire et imprécise à ses oreilles. Elle n’en savait pas davantage.</p>
-          <p>La mort de la vieille Caterina l’avait profondément affectée et elle tremblait pour
-            Gambi.</p>
-          <p>Aux premières foulées de son cheval, elle perçut la rumeur joyeuse qui montait vers
-            elle et l’enveloppait. Elle appliqua plus fortement ses mains sur ses yeux. Elle avait
-            peur, elle ne comprenait pas, il lui semblait qu’on se raillait d’elle. Mais les cris de
-            la foule se précisaient à ses oreilles : « Vive la princesse Anna ! » C’était comme un
-            refrain répété par des milliers de voix. À travers le tumulle, quelques réflexions de
-            personnes toutes proches parvinrent jusqu’à elle. Des voix, sur un ton d’enthousiasme,
-            disaient, murmuraient, chantaient :</p>
-          <p>— Salut à toi, princesse Anna !</p>
-          <p>— Tu es la plus belle entre les femmes !</p>
-          <p>— Laisse-moi mourir pour toi, car je t’aime, princesse Anna !</p>
-          <p>— Nous t’aimons, nous t’aimons tous !</p>
-          <p>Des femmes se poussaient au premier rang, saisissaient le bord de sa robe, ses manches
-            flottantes pour les couvrir de baisers et elles interpellaient Anna avec exaltation :
-            « Chère et douce princesse !</p>
-          <p>— Notre Anna…</p>
-          <p>— Notre enfant bien-aimée…</p>
-          <p>— Regardez comme elle cache ses yeux.</p>
-          <p>— Montre ton visage, criaient les jeunes filles.</p>
-          <p>— Pauvre chérie, murmuraient les femmes, as-tu beaucoup souffert ?</p>
-          <p>— Ma douce colombe ! T’a-t-il fait mal ?</p>
-          <p>— Reprends ton sourire, oh bel ange ! c’est fini maintenant.</p>
-          <p>— Il nous faut toutes endurer le même sort !</p>
-          <p>— Va ! n’y pense plus !</p>
-          <p>Et les jeunes filles répétaient : « Montre ton visage !</p>
-          <p>Et les hommes imploraient : « Montre ton visage ! »</p>
-          <p>Elle est fâchée contre nous, disaient les vieilles et d’autres répétaient : « Elle ne
-            veut pas nous voir. »</p>
-          <p>Une prostituée aux cheveux épars, une grande fille brune, hurla d’une voix perçante :
-            « Oh ! je te comprends ! Ah, comme je te comprends ! » Elle se jeta à terre en se
-            lamentant et en criant : « Laisse ton cheval me piétiner, je meurs. » Des bras vigoureux
-            l’empoignèrent et elle disparut dans un remous de la foule. Une véritable ivresse
-            s’était emparée de la foule. La cavalcade avançait péniblement au pas autour de la
-            place.</p>
-          <p>Les joues de la princesse brûlaient ses doigts. Chaque interjection nouvelle faisait
-            affluer plus violemment le sang à ses tempes. Elle défaillait de honte. Son court et
-            secret bonheur était raconté, crié, hurlé par des milliers de voix. La petite flamme
-            cachée de la nuit avait allumé un gigantesque incendie, elle avait gagné Ravenne tout
-            entière, elle flambait maintenant sur tout le peuple !</p>
-          <p>Dans une excitation intense, les nobles, les sénateurs, les bourgeois, les artisans se
-            battaient, confondus, pour approcher de la princesse.</p>
-          <p>Leurs pensées, leurs vœux se manifestaient avec une ardeur qui touchait au délire.</p>
-          <p>Le sacristain de San Felice s’était précipité dans le clocher et sonnait à toute volée.
-            Ce brave homme craignait que le chanoine ne lui reprochât ultérieurement d’avoir, en ce
-            jour de réjouissance publique, oublié de faire tinter le carillon d’honneur alors que,
-            sur les remparts, le canon se faisait entendre.</p>
-          <p>Le cortège était arrivé devant le palais Gambi, quand les cloches commencèrent leur
-            chant de fête.</p>
-          <p>Émue par ce son joyeux qui semblait purifier l’air, touchée par les ovations de la
-            foule et ne sachant où elle se trouvait, la princesse Anna ôta les mains de devant ses
-            yeux.</p>
-          <p>Elle vit la maison de son amant et aperçut la plaque de marbre qui décorait le mur.
-            Elle reconnut sa propre image et d’un coup d’œil lut l’inscription. À ce moment, le
-            soleil, à son déclin, frappait de biais la plaque de marbre et accentuait le creux
-            d’ombre des lettres fraîchement gravées. Cette lumière lui permit de voir soudain le
-            petit phallus dont Agostino avait enjolivé son œuvre et dont l’érection désignait les
-            fenêtres bien connues.</p>
-          <p>La princesse Anna poussa un léger cri, remit précipitamment ses mains devant ses yeux
-            et, courbée en avant sur sa selle, se prit à sangloter, il lui semblait que tous ses
-            vêtements avaient été arrachés de son corps et qu’elle était offerte, nue, aux regards
-            de la populace.</p>
-          <p>Elle revivait avec une effroyable précision les minutes passées auprès de son amant.
-            C’était comme si le lit qui avait abrité leurs amours eût été soudain traîné sur la
-            grand-place et qu’elle s’y éveillât, encore dans les bras de Franzesco, devant la foule
-            assemblée. Dans son épouvante, elle haïssait de toute la force de son âme le prince
-            Parabosco, son frère.</p>
-          <p>On avait saisi la bride de la blanche haquenée et pour rendre un particulier hommage à
-            la princesse, on l’avait arrêtée devant le palais Gambi. La foule entourait, toujours
-            plus dense, le cortège et criait à tue-tête : « Vive la Princesse Anna ! »</p>
-          <ab type="ornament">*</ab>
-          <p>À l’une des fenêtres de ses appartements, le duc se tenait immobile. Du regard il
-            embrassait toute la place. Il avait senti son cœur battre violemment quand la porte du
-            château s’était ouverte pour livrer passage à la princesse. Puis il avait entendu les
-            cris de joie, il avait vu le peuple entourer sa sœur, se presser, se bousculer pour
-            approcher d’elle, il avait vu les chapeaux se lever et s’agiter, les femmes se battre
-            pour baiser le bord de sa robe, il avait vu sa sœur fondre en larmes quand elle avait pu
-            contempler la plaque commémorative, il avait entendu le chant joyeux des cloches
-            s’harmonisant avec les ovations populaires.</p>
-          <p>Le visage de Parabosco avait pâli, puis s’était empourpré. Sa lèvre inférieure trembla
-            quelque peu. Puis il s’était calmé, son doigt avait erré dans sa moustache, pour cacher
-            un sourire. Il ne proférait pas une parole.</p>
-          <p>Gonzalvo, à ses côtés, gardait un complet silence, mais il se mordait la lèvre pour ne
-            pas crier sa joie.</p>
-          <ab type="ornament">*</ab>
-          <p>Les derniers rayons du soleil mettaient une grande lueur rouge dans le ciel et les
-            voiles gris du crépuscule commençaient à se tendre quand la princesse rentra au
-            Palais.</p>
-          <p>Le duc était toujours à la fenêtre et la foule déferlait toujours, acclamant maintenant
-            Parabosco. Agostino di Gardone, qui réapparaissait sur la place, satisfait d’avoir brûlé
-            sa poudre, vit avec orgueil l’effet produit par sa canonnade. Sa joie fut à son comble
-            quand il apprit la promenade triomphale de la princesse. Décidé à ne point laisser de
-            répit à ses concitoyens surexcités, il cria, au moment où il arrivait devant la plaque
-            commémorative qu’il avait élevée : « Montre-toi, Franzesco Gambi ! Ravenne veut te
-            voir !</p>
-          <p>Il n’en fallut pas davantage pour faire naître dans la foule l’impérieux désir
-            d’apercevoir le jeune porte-drapeau et tout le monde hurla : « Montre-toi, Franzesco
-            Gambi ! »</p>
-          <p>Franzesco avait en vain attendu le retour de son ami. Ce fut le fidèle serviteur Andrea
-            qui lui révéla la nature de cette plaque de marbre scellée, d’ordre grand-ducal, sur sa
-            maison.</p>
-          <p>La teneur de l’inscription provoqua chez lui un accès de fureur terrible. Il brisa tout
-            dans sa chambre. Les candélabres, les chaises, les assiettes précieuses, les vases, les
-            glaces, rien n’échappa à son bras dévastateur. Les fanfares, les cris, les salves de
-            canon avaient d’ailleurs contribué à l’exaspérer. Le fidèle Andrea avait réussi à lui
-            arracher son épée des mains et quand il eut tout détruit il finit par se calmer. Il se
-            prit à réfléchir. Puisque Geraldini n’était pas revenu, c’est que les choses allaient
-            bien mal. Il était néanmoins décidé à braver Parabosco. « Serait-il cent fois duc, qu’il
-            n’a pas le droit de commettre pareille infamie ! » répétait-il. Et, songeant au sort de
-            la princesse, il s’effrayait à l’extrême. « Dieu sait », disait-il, — c’était l’habitude
-            de Franzesco de dire « Dieu sait » en toutes occasions, — « Dieu sait comment Parabosco
-            la traite ?! » Il avait honte de cette plaque encastrée dans son mur comme s’il eût
-            écrit lui-même sur sa maison le secret de ses amours. Il se sentait déshonoré.
-            « Allons-y », cria-t-il finalement, et il fit apporter son uniforme. Dès qu’il ferait
-            sombre sur la place et que le peuple se serait dispersé il irait chez le duc. Il lui
-            offrirait tout : sa liberté, ses titres de noblesse, même sa vie, mais il fallait que
-            cette plaque disparût. Si le duc refusait, Franzesco avait la ferme intention de
-            détruire la nuit même ce marbre infamant. Adviendrait ensuite que pourrait !</p>
-          <p>Comme il finissait de se vêtir, son vieux domestique l’appela avec des exclamations de
-            stupeur à la fenêtre.</p>
-          <p>Caché derrière les rideaux, Franzesco vit la princesse sous ses fenêtres. Elle était
-            libre, pompeusement parée, et le peuple lui rendait un enthousiaste hommage. Était-ce en
-            rêve qu’il la voyait ainsi, était-ce en rêve qu’il entendait le carillon des clochers ?
-            Franzesco, dérouté, abasourdi, suivait des yeux le remous de la foule, sans comprendre.
-            Il avait d’ailleurs complètement renoncé à comprendre ce qui se passait. « Dieu sait ! »
-            répétait-il seulement.</p>
-          <p>Puis la princesse avait disparu, les portes du palais s’étaient refermées sur elle.
-            C’est à ce moment que Franzesco entendit son nom que l’on criait de la rue avec une
-            force croissante. Il se demandait ce qu’il devait faire, quand son domestique tira le
-            rideau à l’improviste et Franzesco se trouva exposé aux regards de la foule dans tout
-            l’éclat de sa tenue de gala. La rumeur sympathique qui salua cette apparition fut si
-            spontanée et chaude qu’il inclina instinctivement la tête pour remercier. Des milliers
-            de voix criaient : « Vive Franzesco Gambi ! vive le brave Franzesco Gambi ! » De nouveau
-            il inclina la tête et fit un geste de la main, puis il se mit à sourire, saluant
-            gaiement ceux-là même qu’il tenait un instant auparavant pour des créatures hostiles,
-            acharnées à se railler de lui.</p>
-          <p>La porte s’ouvrit et Filippo Geraldini entra en coup de vent. Il sauta au cou de
-            Franzesco. « Le duc… ah ! cher ami, comme je suis heureux… Parabosco te fait demander…
-            viens vite avec moi… Tu ne sais pas ce que j’ai fait pour toi… Tu ne l’oublieras pas,
-            j’en suis sûr… Viens… Gonzalvo aussi est ton ami… Sois le nôtre… Dépêche-toi… vite… Le
-            duc veut te parler avant que la fête commence. » Après ce déluge de paroles haletantes,
-            il se précipita vers la fenêtre, se pencha à tomber dehors et s’adressant à la foule lui
-            cria : « Je vous amène votre Franzesco ! nous arrivons de suite ! »</p>
-          <p>Franzesco Gambi traversa la place avec son ami. La nuit était déjà tombée, mais les
-            gens firent des acrobaties pour voir le visage de leur nouveau favori. Les mains se
-            tendaient vers lui. Tout le monde l’interpellait. Les vœux, les suppliques, les
-            compliments se confondaient. On voulut s’emparer de lui pour le porter en triomphe. Il
-            échappa difficilement à ces manifestations qu’Agostino avait provoquées. Il se contenta
-            de serrer avec effusion la main du sculpteur et se hâta, suivi du doux Geraldini, de
-            pénétrer dans le palais. Le peuple, toujours joyeux et le chant aux lèvres, fut lent à
-            se disperser. Les cloches s’étaient tues, la canonnade avait cessé, mais la rumeur de
-            fête flottait encore dans le crépuscule.</p>
-          <p>Il semblait que la plaque de marbre étincelant sur les murs nouveau à son cœur, mais
-            ayant levé les yeux sur le beau visage de Gambi, elle sentit qu’il lui était devenu
-            étranger. Elle vit dans ses clairs yeux bleus une flamme singulièrement victorieuse.
-            Tout, en lui, lui parut effronterie, intrigue, fatuité ! Il se tenait là, au pied du
-            trône, comme un laquais qui se permet une inconvenante familiarité. Sa fierté en fut
-            humiliée. Elle jeta sur son frère un rapide et angoissé coup d’œil. Elle vit son sourire
-            méprisant. Alors se détournant de Franzesco avec un geste brusque, elle sortit
-            précipitamment de la salle du trône. Le duc eut un court éclat de rire. Il contempla
-            Gambi qui, avec une mine déconcertée et déconfite, regardait autour de lui. Parabosco,
-            avec une tristesse affectée, lui dit : « Cela me cause une peine sincère, mais il semble
-            que la princesse ne désire point ce mariage. Que faire ? Pour vous, ajouta-t-il avec
-            empressement, il importe de faire quelque chose ! un homme comme vous ! » Il s’approcha
-            tout près de Gambi et avec une grande douceur : « Voyez-vous, je vous laisse le choix.
-            Examinez vous-même de quelle récompense vous êtes digne. Celle qui vous paraîtra juste
-            vous est dès maintenant accordée. »</p>
-          <p>Sur ce, le duc fit un signe et Franzesco tourna les talons. La fête allait commencer.
-            Parabosco fit dire à sa sœur qu’elle devait paraître à ses côtés. Lorsqu’elle parut,
-            resplendissante de tous les attraits de sa beauté et de tous les ornements de son rang,
-            ayant cependant sur son visage les signes de son récent chagrin, le duc lui prit
-            doucement la main et parlant avec bonté lui dit : « Oublions la peine que nous nous
-            sommes faite l’un à l’autre. Soyons seulement fermement attachés l’un à l’autre, c’est
-            la liberté. Car les autres…</p>
-          <p>… s’inclinent devant nous », acheva la princesse et, pour la première fois, elle
-            regarda son frère dans les yeux.</p>
-          <p>Puis la main dans la main, au son des fanfares et des orchestres, ils traversèrent les
-            salles illuminées et toute la cour s’inclina jusqu’à terre sur leur passage.</p>
-          <p>Parabosco quitta de bonne heure la salle de bal et, s’étant retiré dans ses
-            appartements, échangea son riche costume pour un vêtement plus sombre, il se hâta de
-            sortir par une porte dérobée du château et prit le chemin de San Vito di Felice.</p>
-          <p>Vittoria se tenait sur le pas de la porte avec son père. Parabosco, étonné, hésita,
-            mais Vittoria courut à sa rencontre : « Viens, mon bien-aimé, mon père sait tout. »</p>
-          <p>Le vieux maréchal-ferrant s’approcha, ôta son bonnet et d’un ton profondément
-            respectueux proféra : « S’il plaît à Votre Seigneurie d’entrer », puis, les précédant,
-            il ouvrit la porte de la chambre de sa fille.</p>
-          <p>Parabosco, soupçonneux, mal à l’aise, entra, mais sa main ne quittait pas la garde de
-            son poignard.</p>
-          <p>Vittoria tira le verrou et se jeta dans ses bras.</p>
-          <p>— Quelle drôle de tête tu fais ? Pourquoi cet air étonné ? demanda-t-elle tout en
-            délaçant avec une hâte joyeuse son corset : « Ta sœur le fait bien !! »</p>
-          <p>— « Oh !…alors », dit le duc.</p>
-        </div>
         <div>
           <head>Les Poèmes. <lb/>Corrado Zacchetti : <hi rend="i">Le Disciple</hi>, Rome,
             Typographia Diocleziana</head>
@@ -10425,7 +9079,7 @@
               Laterza, Bari. — Antonio Beltramelli : <hi rend="i">L’Alterna vicenda, Novelle</hi>,
               Treves, Milan. — Ciro-Alvi : <hi rend="i">Gloria di Re, Roman</hi>, Treves, Milan.
               — Mario Puccini : <hi rend="i">La Canzone della mia Follia</hi>, Beltrami, Bologne.
-              — Isanto Acclive : <hi rend="i">Pagine d’Arte drammatica</hi>, Ed. Abruzzese, Pescara.
+              — Isauti Acclive : <hi rend="i">Pagine d’Arte drammatica</hi>, Ed. Abruzzese, Pescara.
               — Giuseppe Carrieri : <hi rend="i">Fantasime</hi>, Teramo. — Virgilio Brocchi : <hi
                 rend="i">La Gironda</hi>, Treves, Milan. — Umberto Boggini : <hi rend="i"
               >Fedra</hi>, Soc. Comm. Libraria, Naples. — Aldo Palazzeschi : <hi rend="i"
