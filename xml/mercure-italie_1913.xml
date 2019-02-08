@@ -25,15 +25,15 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1913/</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1913/</idno>
         <idno type="tei"
-          >http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1913.xml</idno>
+          >http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1913.xml</idno>
         <idno type="html"
-          >http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1913.html</idno>
+          >http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1913.html</idno>
         <idno type="epub"
-          >http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1913.epub</idno>
+          >http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1913.epub</idno>
         <idno type="txt"
-          >http://obvil.paris-sorbonne.fr/corpus/mdf-italie/xml/mercure-italie_1913.txt</idno>
+          >http://obvil.sorbonne-universite.site/corpus/mdf-italie/xml/mercure-italie_1913.txt</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
