@@ -6,6 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Articles du <hi rend="i">Mercure de France</hi>, année 1903</title>
+        <author ref="https://data.bnf.fr/ark:/12148/cb11877250x">Mercure de France</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -33,15 +34,8 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1903.xml</idno>
-        <idno type="tei"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1903.xml</idno>
-        <idno type="html"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1903.html</idno>
-        <idno type="epub"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1903.epub</idno>
-        <idno type="txt"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1903.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/</idno>
+        <idno type="txt">http://obvil.sorbonne-universite.fr/corpus/mdf-italie/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
@@ -228,10 +222,10 @@
               nouvelles, de drames et de comédies, il faut donner un coup d’œil aux dernières
               publications. L’Italie possède des chefs-d’œuvre dont la majorité des Italiens ignore
               l’existence ; telles les <hi rend="i">Confessioni d’un ottuagenario</hi> d’Ippolito
-              Nievo, un auteur mort tragiquement avant d’atteindre sa trentième année ; tels ces
-              <hi rend="i">Miei Ricordi</hi> par Angelo Brofferio, que les éditeurs Streglio et C<hi rend="sup"
-                >ie</hi> de Turin viennent de faire paraître pour le centenaire de la naissance de
-              cet homme éminent.</p>
+              Nievo, un auteur mort tragiquement avant d’atteindre sa trentième année ; tels ces <hi
+                rend="i">Miei Ricordi</hi> par Angelo Brofferio, que les éditeurs Streglio et C<hi
+                rend="sup">ie</hi> de Turin viennent de faire paraître pour le centenaire de la
+              naissance de cet homme éminent.</p>
             <p>Angelo Brofferio, né le 6 décembre 1802 à Castelnuovo-Calcea (Piémont), n’était pas
               seulement un politicien et un avocat de premier ordre, mais notre littérature lui doit
               des poèmes, des comédies, des études admirables ; et ces Mémoires pleins de verve et
@@ -500,27 +494,27 @@
             la claque et la direction de notre Opéra ont réussi à faire bruyant sans espérer le
             rendre durable. Imperturbable et bénévole, il disserte d’une faconde napolitaine, où
             M. de Reszké, le Kaiser et M. Pedro Gailhard se mêlent à l’esthétique vériste et au
-            système wagnérien comme au savoureux macaroni national, le jus de tomate et le
-            parmesan. C’est tout à fait délicieux. On jurerait presque qu’il croit que c’est arrivé.
-            Et, au fond, qui sait ? La blague est un jeu quelquefois traître. Le plus malin peut
-            fort bien s’y mystifier soi-même avant les autres. Cela s’est vu ailleurs qu’à Tarascon.
-            Il paraît que la muse de M. Leoncavallo déploya ses premiers essors au café-concert. Il
-            doit y avoir bien longtemps. Aujourd’hui, dans certains de nos <hi rend="i"
-              >music-halls</hi>, on fait beaucoup mieux que <hi rend="i">Paillasses</hi>. C’est tout
-            au plus si les successeurs de Rigo y pourraient glaner quelque « Valse lente » ou
-            « bleue » propice aux digestions tout-parisiennes. Wagner introduisit la symphonie dans
-            l’opéra ; les véristes y semblent vouloir installer le laender. Leurs amoureux
-            soupirent, désespèrent et s’étreignent en cadence. Le stoïque Peau-Rouge riait en
-            mourant, ils expirent sur ou après un air de valse. Cette propension chorégraphique
-            n’est pas sans inconvénient chez des gens peu disposés à affronter la céphalalgie pour
-            inventer des thèmes inédits. Si, dans le chœur initial de sa <hi rend="i"
-              >Cavalleria</hi>, M. Mascagni ne fit guère que paraphraser une danse chantée du <hi
-              rend="i">Faust</hi> de Lassen (<hi rend="i">Der Schaefer putzte sich zum Tanz</hi>),
-            M. Leoncavallo intercale tout bonnement, dans son « chœur des cloches », un motif d’<hi
-              rend="i">Espana</hi> — non pas de Chabrier, grands Dieux ! — de M. Waldteufel. Il est
-            vrai que c’est une mélodie populaire, et M Leoncavallo, additionnant Louis XIV et
-            Bonaparte, peut prétendre l’avoir directement transportée d’Ibérie jusqu’en Calabre, en
-            dépit des Pyrénées et des Alpes, pour la plus grande gloire du « vérisme ».</p>
+            système wagnérien comme au savoureux macaroni national, le jus de tomate et le parmesan.
+            C’est tout à fait délicieux. On jurerait presque qu’il croit que c’est arrivé. Et, au
+            fond, qui sait ? La blague est un jeu quelquefois traître. Le plus malin peut fort bien
+            s’y mystifier soi-même avant les autres. Cela s’est vu ailleurs qu’à Tarascon. Il paraît
+            que la muse de M. Leoncavallo déploya ses premiers essors au café-concert. Il doit y
+            avoir bien longtemps. Aujourd’hui, dans certains de nos <hi rend="i">music-halls</hi>,
+            on fait beaucoup mieux que <hi rend="i">Paillasses</hi>. C’est tout au plus si les
+            successeurs de Rigo y pourraient glaner quelque « Valse lente » ou « bleue » propice aux
+            digestions tout-parisiennes. Wagner introduisit la symphonie dans l’opéra ; les véristes
+            y semblent vouloir installer le laender. Leurs amoureux soupirent, désespèrent et
+            s’étreignent en cadence. Le stoïque Peau-Rouge riait en mourant, ils expirent sur ou
+            après un air de valse. Cette propension chorégraphique n’est pas sans inconvénient chez
+            des gens peu disposés à affronter la céphalalgie pour inventer des thèmes inédits. Si,
+            dans le chœur initial de sa <hi rend="i">Cavalleria</hi>, M. Mascagni ne fit guère que
+            paraphraser une danse chantée du <hi rend="i">Faust</hi> de Lassen (<hi rend="i">Der
+              Schaefer putzte sich zum Tanz</hi>), M. Leoncavallo intercale tout bonnement, dans son
+            « chœur des cloches », un motif d’<hi rend="i">Espana</hi> — non pas de Chabrier, grands
+            Dieux ! — de M. Waldteufel. Il est vrai que c’est une mélodie populaire, et M
+            Leoncavallo, additionnant Louis XIV et Bonaparte, peut prétendre l’avoir directement
+            transportée d’Ibérie jusqu’en Calabre, en dépit des Pyrénées et des Alpes, pour la plus
+            grande gloire du « vérisme ».</p>
           <p>Peu de pièces, autant que <hi rend="i">Paillasses</hi>, ont abusé de la complaisance
             des reporters. Je ne sais plus où j’ai lu que c’est dans une réunion ultra-select,
             d’aristocratie ducale ou princière, sinon sérénissime, que M. de Reszké conçut le projet
@@ -711,8 +705,8 @@
             M. F. T. Marinetti a lu et analysé des poèmes de Baudelaire, Verlaine, Mallarmé, José
             Maria de Hérédia, Gustave Kahn, Henri de Régnier, Maurice Maeterlinck, Laurent Tailhade,
             Paul Fort, Stuart Merrill, Pierre Quillard et Remy de Gourmont.</p>
-          <p>La prochaine conférence-lecture de M. F. T. Marinetti sera consacrée aux œuvres de
-            Jean Moréas, Francis Vielé-Griffin et Émile Verhaeren.</p>
+          <p>La prochaine conférence-lecture de M. F. T. Marinetti sera consacrée aux œuvres de Jean
+            Moréas, Francis Vielé-Griffin et Émile Verhaeren.</p>
           <p>Ces séances de poésie française contemporaine sont de plus en plus goûtées par un
             public d’élite, et il faut louer M. Marinetti d’en avoir eu l’idée.</p>
         </div>

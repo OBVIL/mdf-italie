@@ -6,6 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Articles du <hi rend="i">Mercure de France</hi>, année 1908</title>
+        <author ref="https://data.bnf.fr/ark:/12148/cb11877250x">Mercure de France</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -33,35 +34,25 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1908/</idno>
-        <idno type="tei"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1908.xml</idno>
-        <idno type="html"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1908.html</idno>
-        <idno type="epub"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1908.epub</idno>
-        <idno type="txt"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1908.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/</idno>
+        <idno type="txt">http://obvil.sorbonne-universite.fr/corpus/mdf-italie/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire
-              d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé
-              OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété
-              intellectuelle sur les bases de données (L341-1) est mise à disposition
-              de la communauté scientifique internationale par l’OBVIL, selon les
-              termes de la licence Creative Commons : « Attribution - Pas
-              d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND
-              3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou
-              publication dérivée de cette ressource électroniques comportera le nom
-              de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté
-              scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette
-              ressource électronique, notamment en intégrant toutes les contributions
-              extérieures, la diffusion de versions modifiées de cette ressource n’est
-              pas souhaitable.</p>
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+              « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+              Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+              électronique, notamment en intégrant toutes les contributions extérieures, la
+              diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
@@ -6550,7 +6541,6 @@
                 Albizzi</hi> de l’ancienne collection Rodolphe Kann.</p>
           </div>
         </div>
-
         <div>
           <head>Lettres italiennes</head>
           <index>
@@ -8104,7 +8094,6 @@
             de Jérôme Aléandre » (intérêt varié, humanisme, questions religieuses, histoire du
                 <num>xvi<hi rend="sup">e</hi></num> siècle). […]</p>
         </div>
-
         <div>
           <head>Lettres néerlandaises. <lb/>Memento [extrait]</head>
           <index>

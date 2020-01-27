@@ -6,6 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Articles du <hi rend="i">Mercure de France</hi>, année 1910</title>
+        <author ref="https://data.bnf.fr/ark:/12148/cb11877250x">Mercure de France</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -29,15 +30,8 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1910/</idno>
-        <idno type="tei"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1910.xml</idno>
-        <idno type="html"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1910.html</idno>
-        <idno type="epub"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1910.epub</idno>
-        <idno type="txt"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1910.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/</idno>
+        <idno type="txt">http://obvil.sorbonne-universite.fr/corpus/mdf-italie/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
@@ -1083,9 +1077,9 @@
               descriptif, à la rigueur narratif, point épique, <hi rend="i">malgré</hi> l’exemple de
               l’Arioste et du Tasse. Dans la narration épique il y a un élément essentiel dont il
               faut toujours tenir compte, et qui place ce genre à l’écart de tous les autres, et
-              c’est l’élément rythmique qu’on pourrait appeler « de combat », profondément adéquat au
-              sentiment qui fait résonner chaque vers de la <hi rend="i">Chanson de Roland</hi> de
-              ces halètements et de ces cliquetis, dont la traduction de M. Passerini fait
+              c’est l’élément rythmique qu’on pourrait appeler « de combat », profondément adéquat
+              au sentiment qui fait résonner chaque vers de la <hi rend="i">Chanson de Roland</hi>
+              de ces halètements et de ces cliquetis, dont la traduction de M. Passerini fait
               absolument défaut. En un mot, cette traduction est trop « policée », et, par cela
               même, elle rappelle de trop près les grands modèles de la langue, Dante en premier
               lieu, pour que l’émotion qu’elle donne soit vraiment neuve.</p>
@@ -1252,10 +1246,10 @@
           <p>Mais, au <num>xviii<hi rend="sup">e</hi></num> siècle, le Juif disparut du théâtre
             italien. Si, à la fin de 1798 et au commencement de 1799, le peuple applaudit avec
             fureur <hi rend="i">Il matrimonio ebraico</hi>, qui tournait en ridicule les cérémonies
-            juives, et s’il faillit se porter à des violences sur les Israélites, ce fut surtout
-            par représailles contre des farces anticatholiques et contre le gouvernement français,
-            que Souvarov allait combattre. Mais bien avant l’arrivée de nos armées, la tolérance
-            était passée en fait dans les mœurs de l’Italie.</p>
+            juives, et s’il faillit se porter à des violences sur les Israélites, ce fut surtout par
+            représailles contre des farces anticatholiques et contre le gouvernement français, que
+            Souvarov allait combattre. Mais bien avant l’arrivée de nos armées, la tolérance était
+            passée en fait dans les mœurs de l’Italie.</p>
         </div>
         <div>
           <head>Lettres anglaises. <lb/>Lord Balcarres : <hi rend="i">The Evolution of Italian
@@ -2165,9 +2159,9 @@
             vers la cinquantaine et rencontrant Calsabigi, que le Chevalier Gluck s’avisera tout à
             coup d’esthétique. L’expérience demeurant indécise, dès le lendemain d’<hi rend="i"
               >Orfeo</hi> (1762), il retourne à ses opéras comiques ou italiens, aux divertissements
-            de cour commandés et rémunérés. On ne peut rêver réformateur moins entêté. Cependant
-              <hi rend="i">Orfeo</hi> réussissant tout de même peu à peu, Gluck revient à Calsabigi
-            et de la collaboration résulte <hi rend="i">Alceste</hi> (1767) qui, quoique sans éclat,
+            de cour commandés et rémunérés. On ne peut rêver réformateur moins entêté. Cependant <hi
+              rend="i">Orfeo</hi> réussissant tout de même peu à peu, Gluck revient à Calsabigi et
+            de la collaboration résulte <hi rend="i">Alceste</hi> (1767) qui, quoique sans éclat,
             réussit à son tour aisément auprès des insouciants Viennois. Il semble évidemment
             impossible que le musicien n’ait eu conscience du formidable essor de son génie dans ces
             deux ouvrages. Riche, célèbre, il pouvait désormais suivre sereinement sa voie, ne

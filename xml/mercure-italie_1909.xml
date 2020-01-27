@@ -6,6 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Articles du <hi rend="i">Mercure de France</hi>, année 1909</title>
+        <author ref="https://data.bnf.fr/ark:/12148/cb11877250x">Mercure de France</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -29,15 +30,8 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1909/</idno>
-        <idno type="tei"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1909.xml</idno>
-        <idno type="html"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1909.html</idno>
-        <idno type="epub"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1909.epub</idno>
-        <idno type="txt"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1909.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/</idno>
+        <idno type="txt">http://obvil.sorbonne-universite.fr/corpus/mdf-italie/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
@@ -5439,8 +5433,8 @@
             <p>J’avais pris la résolution de ne plus vous écrire, disait le serviteur au maître,
               dans sa lettre du 20 novembre, pensant que vous étiez déjà en route pour vous en venir
               à votre légation. Tous ceux qui arrivaient de la Cour n’apportaient pas d’autre
-              nouvelle que celle de la venue de Monseigneur le légat d’Avignon. Ce bruit est si
-              bien répandu que beaucoup de belles dames sont accourues des environs et qu’en leur
+              nouvelle que celle de la venue de Monseigneur le légat d’Avignon. Ce bruit est si bien
+              répandu que beaucoup de belles dames sont accourues des environs et qu’en leur
               honneur, voulant toujours comme un sot faire le magnifique, je me suis mis sur les
               bras une folle dépense en violons, torches, gâteaux et confitures ! Aussi je voudrais
               bien savoir si, oui ou non, vous venez par deçà, car, si vous ne venez pas, je dirai à
@@ -8005,8 +7999,8 @@
               Léoncavallo, Fogazzaro, Mathilde Sérao et Grazia Deledda, sans oublier l’histoire de
               M. Ferrero !</p>
             <p>Les musiciens et les écrivains ont eu plus de chance que les peintres. La peinture
-              italienne seule, sous le nom de divisionnisme, a tenté sans trop de succès l’assaut
-              de la métropole. Les autres industries s’y sont installées solidement. Mais il serait
+              italienne seule, sous le nom de divisionnisme, a tenté sans trop de succès l’assaut de
+              la métropole. Les autres industries s’y sont installées solidement. Mais il serait
               temps, sans doute, d’examiner attentivement les différentes marques, et de ne retenir
               que les plus « sérieuses », celles qui, au moins en littérature (car pour la musique
               les justiciers sont déjà nombreux, et, après le scandale de <hi rend="i">Pelléas et

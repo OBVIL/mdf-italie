@@ -6,6 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Articles du <hi rend="i">Mercure de France</hi>, année 1917</title>
+        <author ref="https://data.bnf.fr/ark:/12148/cb11877250x">Mercure de France</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -29,15 +30,8 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1917.xml</idno>
-        <idno type="tei"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1917.xml</idno>
-        <idno type="html"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1917.html</idno>
-        <idno type="epub"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1917.epub</idno>
-        <idno type="txt"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1917.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/</idno>
+        <idno type="txt">http://obvil.sorbonne-universite.fr/corpus/mdf-italie/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence

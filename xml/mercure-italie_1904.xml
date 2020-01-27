@@ -6,6 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Articles du <hi rend="i">Mercure de France</hi>, année 1904</title>
+        <author ref="https://data.bnf.fr/ark:/12148/cb11877250x">Mercure de France</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -33,15 +34,8 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1904/</idno>
-        <idno type="tei"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1904.xml</idno>
-        <idno type="html"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1904.html</idno>
-        <idno type="epub"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1904.epub</idno>
-        <idno type="txt"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1904.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/</idno>
+        <idno type="txt">http://obvil.sorbonne-universite.fr/corpus/mdf-italie/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
@@ -1516,22 +1510,22 @@
             analogies, celles surtout des sujets d’inspiration, plus significatives, par la parenté
             d’intelligence et de sensibilité, qui rapprochent deux écrivains de même race, mais de
             milieux différents ?</p>
-          <p>Nous choisirons comme terme de comparaison les <hi rend="i">Novelle della
-            Pescara</hi>, où les emprunts faits à Maupassant sont particulièrement nombreux ; ce
-            livre pose précisément une question de milieu assez piquante : il nous est donné comme
-            une sorte de chronique locale du pays où l’auteur a recueilli ses premières
-            impressions ; c’est à Pescara, dans la province de Chieti, au bord de l’Adriatique,
-            qu’il a vécu ses années de jeunesse ; c’est à ce sol qu’il tient par ses ancêtres, par
-            la formation de sa conscience et de son imagination, c’est à lui qu’il revient, avec la
-            nostalgie des premiers souvenirs, à travers son culte d’artiste voué à la nature. Toutes
-            les nouvelles de la Pescara ont pour cadre la province de Chieti, pour personnages de
-            grands seigneurs, des bourgeois, des paysans ou des pêcheurs de cette terre, pour
-            sujets, des aventures tragiques ou comiques, quelques-unes réelles, la plupart
-            imaginaires, qui se sont déroulées sur les rives du fleuve Pescara. Comment se fait-il
-            alors que des paysages normands s’évoquent parfois dans la vision de l’écrivain italien,
-            que des types du pays de Caux, que des traits de mœurs observés et des anecdotes
-            recueillies dans les environs de Rouen ou du Havre se soient prêtés à la singulière
-            transposition que leur fait subir G. d’Annunzio dans ses nouvelles pescaraises ?</p>
+          <p>Nous choisirons comme terme de comparaison les <hi rend="i">Novelle della Pescara</hi>,
+            où les emprunts faits à Maupassant sont particulièrement nombreux ; ce livre pose
+            précisément une question de milieu assez piquante : il nous est donné comme une sorte de
+            chronique locale du pays où l’auteur a recueilli ses premières impressions ; c’est à
+            Pescara, dans la province de Chieti, au bord de l’Adriatique, qu’il a vécu ses années de
+            jeunesse ; c’est à ce sol qu’il tient par ses ancêtres, par la formation de sa
+            conscience et de son imagination, c’est à lui qu’il revient, avec la nostalgie des
+            premiers souvenirs, à travers son culte d’artiste voué à la nature. Toutes les nouvelles
+            de la Pescara ont pour cadre la province de Chieti, pour personnages de grands
+            seigneurs, des bourgeois, des paysans ou des pêcheurs de cette terre, pour sujets, des
+            aventures tragiques ou comiques, quelques-unes réelles, la plupart imaginaires, qui se
+            sont déroulées sur les rives du fleuve Pescara. Comment se fait-il alors que des
+            paysages normands s’évoquent parfois dans la vision de l’écrivain italien, que des types
+            du pays de Caux, que des traits de mœurs observés et des anecdotes recueillies dans les
+            environs de Rouen ou du Havre se soient prêtés à la singulière transposition que leur
+            fait subir G. d’Annunzio dans ses nouvelles pescaraises ?</p>
           <div>
             <head>I</head>
             <p>Deux définitions sommaires ont été données du tempérament de Maupassant qui ne

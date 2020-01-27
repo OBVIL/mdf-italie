@@ -7,6 +7,7 @@
     <fileDesc>
       <titleStmt>
         <title>Articles du <hi rend="i">Mercure de France</hi>, année 1897</title>
+        <author ref="https://data.bnf.fr/ark:/12148/cb11877250x">Mercure de France</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -22,30 +23,25 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2018"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1897.xml</idno>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1897.html</idno>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1897.epub</idno>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1897.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire
-              d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé
-              OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété
-              intellectuelle sur les bases de données (L341-1) est mise à disposition
-              de la communauté scientifique internationale par l’OBVIL, selon les
-              termes de la licence Creative Commons : « Attribution - Pas
-              d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND
-              3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou
-              publication dérivée de cette ressource électroniques comportera le nom
-              de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté
-              scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette
-              ressource électronique, notamment en intégrant toutes les contributions
-              extérieures, la diffusion de versions modifiées de cette ressource n’est
-              pas souhaitable.</p></licence>
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+              « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+              Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+              électronique, notamment en intégrant toutes les contributions extérieures, la
+              diffusion de versions modifiées de cette ressource n’est pas
+            souhaitable.</p></licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -79,80 +75,177 @@
           <byline><hi rend="sc">Charles-Henry Hirsch</hi>.</byline>
           <bibl>Tome XXI, numéro 86, février 1897, p. 423-426 [426].</bibl>
           <p>[…]</p>
-          <p>[Concerts de l’Opéra.] M. Delmas a remporté un grand succès, et le plus mérité, dans le <hi rend="i">Méphistophélès</hi> de Boïto. Le librettiste ordinaire de Verdi serait un nègre d’ingratitude s’il ne se souvenait pas des formules d’<hi rend="i">Aïda</hi>, quant à son tour il se fait compositeur. Pour qui aime le clinquant et supporte l’emphase, le prologue du <hi rend="i">Mefistofele</hi> de Arrigo Boïto est un chef-d’œuvre. En l’écoutant l’autre jour, je prévoyais les orgues de Barbarie futurs…</p>
+          <p>[Concerts de l’Opéra.] M. Delmas a remporté un grand succès, et le plus mérité, dans le
+              <hi rend="i">Méphistophélès</hi> de Boïto. Le librettiste ordinaire de Verdi serait un
+            nègre d’ingratitude s’il ne se souvenait pas des formules d’<hi rend="i">Aïda</hi>,
+            quant à son tour il se fait compositeur. Pour qui aime le clinquant et supporte
+            l’emphase, le prologue du <hi rend="i">Mefistofele</hi> de Arrigo Boïto est un
+            chef-d’œuvre. En l’écoutant l’autre jour, je prévoyais les orgues de Barbarie
+            futurs…</p>
           <p>[…]</p>
         </div>
       </div>
       <div>
         <head>Tome XXI, numéro 87, mars 1897</head>
         <div>
-          <head>Roman. 
-<lb/>E.-A. Butti : <hi rend="i">L’Âme</hi>, traduit de l’italien par J. de Casamassimi, in-18, Ollendorff, 3.50</head>
+          <head>Roman. <lb/>E.-A. Butti : <hi rend="i">L’Âme</hi>, traduit de l’italien par J. de
+            Casamassimi, in-18, Ollendorff, 3.50</head>
           <index>
             <term type="id">article-1897-03_597</term>
             <term type="author">Rachilde (1860-1953)</term>
             <term type="signed">Rachilde</term>
             <term type="section">Roman</term>
-            <term type="title">E.-A. Butti : <hi rend="i">L’Âme</hi>, traduit de l’italien par J. de Casamassimi, in-18, Ollendorff, 3.50</term>
+            <term type="title">E.-A. Butti : <hi rend="i">L’Âme</hi>, traduit de l’italien par J. de
+              Casamassimi, in-18, Ollendorff, 3.50</term>
             <term type="date">1897-03</term>
             <term type="ref">Tome XXI, numéro 87, mars 1897, p. 595-599 [597]</term>
           </index>
           <byline><hi rend="sc">Rachilde</hi>.</byline>
           <bibl>Tome XXI, numéro 87, mars 1897, p. 595-599 [597].</bibl>
-          <p><hi rend="b">L’Âme</hi>, traduit de l’italien (A. Butti, par Casamassimi). Une histoire de revenant scientifiquement démontrée, c’est-à-dire, se passant de nos jours. Un vampire suçant le cerveau d’une jeune fille. Le fiancé <hi rend="i">humain</hi> en devient presque fou, mais il en découvre l’immortalité de l’âme. Conclusion morale un peu longue, peut-être parce que morale.</p>
+          <p><hi rend="b">L’Âme</hi>, traduit de l’italien (A. Butti, par Casamassimi). Une histoire
+            de revenant scientifiquement démontrée, c’est-à-dire, se passant de nos jours. Un
+            vampire suçant le cerveau d’une jeune fille. Le fiancé <hi rend="i">humain</hi> en
+            devient presque fou, mais il en découvre l’immortalité de l’âme. Conclusion morale un
+            peu longue, peut-être parce que morale.</p>
         </div>
       </div>
       <div>
         <head>Tome XXII, numéro 88, avril 1897</head>
         <div>
-          <head>Histoire de l’art, bibliophilie. 
-<lb/>Arsène Alexandre : <hi rend="i">Histoire populaire de la Peinture : École Italienne</hi>, illustrée de 250 gravures, in-4°, Paris, Henri Laurens, 10 fr.</head>
+          <head>Histoire de l’art, bibliophilie. <lb/>Arsène Alexandre : <hi rend="i">Histoire
+              populaire de la Peinture : École Italienne</hi>, illustrée de 250 gravures, in-4°,
+            Paris, Henri Laurens, 10 fr.</head>
           <index>
             <term type="id">article-1897-04_156</term>
             <term type="author">Gourmont, Remy de (1858-1915)</term>
             <term type="signed">R. de Bury</term>
             <term type="section">Histoire de l’art, bibliophilie</term>
-            <term type="title">Arsène Alexandre : <hi rend="i">Histoire populaire de la Peinture : École Italienne</hi>, illustrée de 250 gravures, in-4°, Paris, Henri Laurens, 10 fr.</term>
+            <term type="title">Arsène Alexandre : <hi rend="i">Histoire populaire de la Peinture :
+                École Italienne</hi>, illustrée de 250 gravures, in-4°, Paris, Henri Laurens,
+              10 fr.</term>
             <term type="date">1897-04</term>
             <term type="ref">Tome XXII, numéro 88, avril 1897, p. 155-157 [156-157]</term>
           </index>
           <byline><hi rend="sc">R. de Bury</hi> [Remy de Gourmont].</byline>
           <bibl>Tome XXII, numéro 88, avril 1897, p. 155-157 [156-157].</bibl>
-          <p>Ce n’est pas à eux, ni d’ailleurs au peuple, que s’adresse <hi rend="b">l’Histoire populaire de la peinture</hi>, aujourd’hui achevée par un tome explicatif des écoles italiennes. M. Alexandre qui nous a habitués à des jugements quelquefois un peu rapides, quoique souvent clairvoyants, sur l’art contemporain, nous apparaît, en ce gros travail, plus pondéré et fort grave, non sans hardiesse. Il ose remettre à leur place quelques primitifs non encore bien appréciés ; il ose diminuer Raphaël et même Michel-Ange, et cela à la fois par l’analyse de leurs origines et la critique directe de leurs œuvres. Le public sera étonné d’apprendre que la <hi rend="i">Transfiguration</hi> est une peinture déplorable ; mais il faudrait peut-être étonner davantage encore le public et lui détailler les infamies de cette composition baroque où tout semble calculé pour dégoûter, à la fois de l’art, de la religion, de la couleur, des visages et des gestes humains. Et la <hi rend="i">Vierge de Saint-Sixte</hi>, que le modelé du visage de la madone soit excellent, cela ne surélève pas beaucoup la valeur picturale ou mystique de ce tableau sérieux et froid. Tout le Raphaël admiré, le Raphaël de la période académique est, mais surtout fut, déplorable ; sous son influence prépondérante l’art s’est glacé dans une formule pas bien supérieure à celle des Byzantins, quoique plus compliquée ; influence pareille à celle de Racine sur la poésie française, qui eut pour conséquence un siècle entier de stérilité. M. Bouguereau, un jour qu’on lui demandait son opinion sur tels peintres nouveaux, répondit : « Si l’on admettait leurs principes, il faudrait se résigner à réinventer la peinture tous les siècles ! » Et même deux fois par siècle, comme la poésie, comme tout. Au bout de cinquante ans et souvent moins, la valeur émotive d’un poème ou d’un tableau est usée ; ce n’est qu’en suite d’un long repos dans l’oubli qu’elle reprendra passagèrement quelque force. Un très petit nombre d’hommes cultivés et affinés est capable de ressentir franchement la beauté des anciennes pages, écritures ou peintures. Au Louvre, les admirations des étrangers (qui seuls entrent là) vont aux œuvres vulgarisées par les chansons, les complaintes ou les romans, <hi rend="i">la Joconde, le Radeau, Atala</hi> ; les musées ne sont pour le public que des boutiques de curiosités. Une histoire de la peinture doit donc servir à donner à quelques-uns la raison de leurs émotions. C’est ce qu’a voulu M. Arsène Alexandre et ce qu’il a réussi en partie, car assez souvent le souci de réagir contre les opinions vulgaires l’entraîne à des rigorismes : « Le Sodoma peintre facile et médiocre… se fit une apparence d’originalité… Ses figures molles et soufflées… cette espèce d’écriture bâtarde… » Il est pourtant difficile de nier <hi rend="i">Saint Sébastien</hi> et surtout la douloureuse beauté de sa tête. M. Arsène Alexandre n’a sans doute pas prétendu, en tant de jugements prononcés sur tant d’œuvres et d’artistes divers, satisfaire également tous les critiques et lui-même ; il suffit que ces jugements soient sérieusement motivés et que l’on sente leur sincérité et leur logique. Le livre se tient, ce n’est pas une suite de monographies reliées artificiellement par des raccords, mais bien une histoire, savamment ordonnée et conduite avec sûreté de Cimabue à Canaletto.</p>
-          <p>Dernière critique, comme en note : avant Cimabue il y a Duccio, qui vraiment valait plus d’une ligne. Son <hi rend="i">Christ apparaissant à Sainte Madeleine</hi>, sa <hi rend="i">Barque de Saint Pierre</hi>, sa <hi rend="i">Descente de Croix</hi> sont parmi les grandes choses de la peinture ancienne — et je dis ancienne parce qu’on y voit moins l’influence de la tradition byzantine que celle de la tradition latine ; telle de ses fresques fait songer aux images pompéiennes. Duccio, fort et simple, est, à sa date, mystérieux.</p>
+          <p>Ce n’est pas à eux, ni d’ailleurs au peuple, que s’adresse <hi rend="b">l’Histoire
+              populaire de la peinture</hi>, aujourd’hui achevée par un tome explicatif des écoles
+            italiennes. M. Alexandre qui nous a habitués à des jugements quelquefois un peu rapides,
+            quoique souvent clairvoyants, sur l’art contemporain, nous apparaît, en ce gros travail,
+            plus pondéré et fort grave, non sans hardiesse. Il ose remettre à leur place quelques
+            primitifs non encore bien appréciés ; il ose diminuer Raphaël et même Michel-Ange, et
+            cela à la fois par l’analyse de leurs origines et la critique directe de leurs œuvres.
+            Le public sera étonné d’apprendre que la <hi rend="i">Transfiguration</hi> est une
+            peinture déplorable ; mais il faudrait peut-être étonner davantage encore le public et
+            lui détailler les infamies de cette composition baroque où tout semble calculé pour
+            dégoûter, à la fois de l’art, de la religion, de la couleur, des visages et des gestes
+            humains. Et la <hi rend="i">Vierge de Saint-Sixte</hi>, que le modelé du visage de la
+            madone soit excellent, cela ne surélève pas beaucoup la valeur picturale ou mystique de
+            ce tableau sérieux et froid. Tout le Raphaël admiré, le Raphaël de la période académique
+            est, mais surtout fut, déplorable ; sous son influence prépondérante l’art s’est glacé
+            dans une formule pas bien supérieure à celle des Byzantins, quoique plus compliquée ;
+            influence pareille à celle de Racine sur la poésie française, qui eut pour conséquence
+            un siècle entier de stérilité. M. Bouguereau, un jour qu’on lui demandait son opinion
+            sur tels peintres nouveaux, répondit : « Si l’on admettait leurs principes, il faudrait
+            se résigner à réinventer la peinture tous les siècles ! » Et même deux fois par siècle,
+            comme la poésie, comme tout. Au bout de cinquante ans et souvent moins, la valeur
+            émotive d’un poème ou d’un tableau est usée ; ce n’est qu’en suite d’un long repos dans
+            l’oubli qu’elle reprendra passagèrement quelque force. Un très petit nombre d’hommes
+            cultivés et affinés est capable de ressentir franchement la beauté des anciennes pages,
+            écritures ou peintures. Au Louvre, les admirations des étrangers (qui seuls entrent là)
+            vont aux œuvres vulgarisées par les chansons, les complaintes ou les romans, <hi
+              rend="i">la Joconde, le Radeau, Atala</hi> ; les musées ne sont pour le public que des
+            boutiques de curiosités. Une histoire de la peinture doit donc servir à donner à
+            quelques-uns la raison de leurs émotions. C’est ce qu’a voulu M. Arsène Alexandre et ce
+            qu’il a réussi en partie, car assez souvent le souci de réagir contre les opinions
+            vulgaires l’entraîne à des rigorismes : « Le Sodoma peintre facile et médiocre… se fit
+            une apparence d’originalité… Ses figures molles et soufflées… cette espèce d’écriture
+            bâtarde… » Il est pourtant difficile de nier <hi rend="i">Saint Sébastien</hi> et
+            surtout la douloureuse beauté de sa tête. M. Arsène Alexandre n’a sans doute pas
+            prétendu, en tant de jugements prononcés sur tant d’œuvres et d’artistes divers,
+            satisfaire également tous les critiques et lui-même ; il suffit que ces jugements soient
+            sérieusement motivés et que l’on sente leur sincérité et leur logique. Le livre se
+            tient, ce n’est pas une suite de monographies reliées artificiellement par des raccords,
+            mais bien une histoire, savamment ordonnée et conduite avec sûreté de Cimabue à
+            Canaletto.</p>
+          <p>Dernière critique, comme en note : avant Cimabue il y a Duccio, qui vraiment valait
+            plus d’une ligne. Son <hi rend="i">Christ apparaissant à Sainte Madeleine</hi>, sa <hi
+              rend="i">Barque de Saint Pierre</hi>, sa <hi rend="i">Descente de Croix</hi> sont
+            parmi les grandes choses de la peinture ancienne — et je dis ancienne parce qu’on y voit
+            moins l’influence de la tradition byzantine que celle de la tradition latine ; telle de
+            ses fresques fait songer aux images pompéiennes. Duccio, fort et simple, est, à sa date,
+            mystérieux.</p>
         </div>
         <div>
-          <head>Enquêtes et curiosités. 
-<lb/>Les Bains de Bade au <num>xv<hi rend="sup">e</hi></num> siècle, par Pogge, Florentin</head>
+          <head>Enquêtes et curiosités. <lb/>Les Bains de Bade au <num>xv<hi rend="sup"
+            >e</hi></num> siècle, par Pogge, Florentin</head>
           <index>
             <term type="id">article-1897-04_185</term>
             <term type="author">Dufay, Pierre (1864-1942)</term>
             <term type="signed">Pierre Dufay</term>
             <term type="section">Enquêtes et curiosités</term>
-            <term type="title">Les Bains de Bade au <num>xv<hi rend="sup">e</hi></num> siècle, par Pogge, Florentin</term>
+            <term type="title">Les Bains de Bade au <num>xv<hi rend="sup">e</hi></num> siècle, par
+              Pogge, Florentin</term>
             <term type="date">1897-04</term>
             <term type="ref">Tome XXII, numéro 88, avril 1897, p. 185-187</term>
           </index>
           <byline><hi rend="sc">Pierre Dufay</hi>.</byline>
           <bibl>Tome XXII, numéro 88, avril 1897, p. 185-187.</bibl>
-          <p>En mars 1896, l’<hi rend="i">Ermitage</hi> publiait, sous la signature de M. Élysée Pélagaud, la traduction d’une lettre de Pogge, contenant la description des bains de Bade, au <num>xv<hi rend="sup">e</hi></num> siècle, lettre qu’il donnait, sinon comme inédite, du moins comme n’ayant jamais été traduite.</p>
-          <p>Il y a lieu de s’étonner, quand il s’agit de Pogge et de la Renaissance italienne, que M. Pélagaud n’ait pas cru devoir consulter, tout au moins, le catalogue de ce tant bizarre éditeur, M. Isidore Liseux, mort récemment dans la misère ou presque, après avoir donné aux curieux de belles et soignées éditions des <hi rend="i">Ragionamenti</hi> de Pietro Aretino, du <hi rend="i">Manuel d’Érotologie classique</hi> de Forberg, cette amusante compilation d’un savant allemand, où toutes les sanies des civilisations grecque et romaine se trouvent classées et cataloguées avec la patience d’un enthomologiste et la naïveté d’un clerc ; et enfin de tous les petits conteurs italiens, sans oublier l’excellent texte, que l’on peut considérer comme définitif, des Dialogues de <hi rend="i">Luisa Sigea</hi>.</p>
-          <p>À vue seule de ce catalogue, le traducteur nouveau de cette lettre de Pogge se serait rendu compte qu’un autre l’avait traduite avant lui, et cette première traduction n’est nullement à dédaigner.</p>
-          <p>Après un tirage restreint fait par l’<hi rend="i">Académie des Bibliophiles</hi> (Paris, imprimerie Jouaust, 1868), la lettre de Pogge se présente sous la forme d’un coquet petit in-18, sur hollande, composé en caractères elzéviriens et donnant le texte entier en regard de la traduction française : <hi rend="i">Les Bains de Bade au <num>xv<hi rend="sup">e</hi></num> siècle, par</hi> <hi rend="sc">Pogge</hi>, <hi rend="i">Florentin, scène de mœurs de l’âge d’or. Traduit en français pour la première fois par</hi> <hi rend="sc">Antony Méray</hi><hi rend="i">. Texte latin en regard. Paris, Isidore Liseux</hi>, 5, <hi rend="i">rue Scribe.</hi> 1876.</p>
-          <p>Tandis que certains Liseux sont aujourd’hui devenus rares, celui-ci est assez commun, et ces dernières années se trouvait d’une façon courante sur les quais.</p>
-          <p>Il est à croire que les traductions ont été faites sur le même texte. M. Pélagaud, sans plus de références, indique l’édition de 1513, qui ne semble être autre, à vrai dire, que celle ainsi décrite par M. Antony Méray :</p>
+          <p>En mars 1896, l’<hi rend="i">Ermitage</hi> publiait, sous la signature de M. Élysée
+            Pélagaud, la traduction d’une lettre de Pogge, contenant la description des bains de
+            Bade, au <num>xv<hi rend="sup">e</hi></num> siècle, lettre qu’il donnait, sinon comme
+            inédite, du moins comme n’ayant jamais été traduite.</p>
+          <p>Il y a lieu de s’étonner, quand il s’agit de Pogge et de la Renaissance italienne, que
+            M. Pélagaud n’ait pas cru devoir consulter, tout au moins, le catalogue de ce tant
+            bizarre éditeur, M. Isidore Liseux, mort récemment dans la misère ou presque, après
+            avoir donné aux curieux de belles et soignées éditions des <hi rend="i"
+              >Ragionamenti</hi> de Pietro Aretino, du <hi rend="i">Manuel d’Érotologie
+              classique</hi> de Forberg, cette amusante compilation d’un savant allemand, où toutes
+            les sanies des civilisations grecque et romaine se trouvent classées et cataloguées avec
+            la patience d’un enthomologiste et la naïveté d’un clerc ; et enfin de tous les petits
+            conteurs italiens, sans oublier l’excellent texte, que l’on peut considérer comme
+            définitif, des Dialogues de <hi rend="i">Luisa Sigea</hi>.</p>
+          <p>À vue seule de ce catalogue, le traducteur nouveau de cette lettre de Pogge se serait
+            rendu compte qu’un autre l’avait traduite avant lui, et cette première traduction n’est
+            nullement à dédaigner.</p>
+          <p>Après un tirage restreint fait par l’<hi rend="i">Académie des Bibliophiles</hi>
+            (Paris, imprimerie Jouaust, 1868), la lettre de Pogge se présente sous la forme d’un
+            coquet petit in-18, sur hollande, composé en caractères elzéviriens et donnant le texte
+            entier en regard de la traduction française : <hi rend="i">Les Bains de Bade au
+                  <num>xv<hi rend="sup">e</hi></num> siècle, par</hi>
+            <hi rend="sc">Pogge</hi>, <hi rend="i">Florentin, scène de mœurs de l’âge d’or. Traduit
+              en français pour la première fois par</hi>
+            <hi rend="sc">Antony Méray</hi><hi rend="i">. Texte latin en regard. Paris, Isidore
+              Liseux</hi>, 5, <hi rend="i">rue Scribe.</hi> 1876.</p>
+          <p>Tandis que certains Liseux sont aujourd’hui devenus rares, celui-ci est assez commun,
+            et ces dernières années se trouvait d’une façon courante sur les quais.</p>
+          <p>Il est à croire que les traductions ont été faites sur le même texte. M. Pélagaud, sans
+            plus de références, indique l’édition de 1513, qui ne semble être autre, à vrai dire,
+            que celle ainsi décrite par M. Antony Méray :</p>
           <quote>
-            <p>« L’exemplaire des œuvres de Pogge où j’ai découvert cette lettre, très peu connue et non traduite en français, est un incunable à longues lignes : imprimé en caractères ronds, par Jehan Petit, à Paris, sans date, <hi rend="i">sub signo lilii aurei</hi>. Notre édition n’a été décrite ni par de Bure, ni par Brunet. Cette charmante description y est placée entre celle des ruines de Rome, <hi rend="i">De Ruina Romanæ Civitatis</hi>, et la lettre à Léonardo d’Arezzo sur le supplice de Jérôme de Prague, <hi rend="i">De Hieronimi hæretici obitu et supplicio</hi> ». Une traduction de cette seconde lettre a également été publiée par l’<hi rend="i">Ermitage</hi> (avril 1890).</p>
+            <p>« L’exemplaire des œuvres de Pogge où j’ai découvert cette lettre, très peu connue et
+              non traduite en français, est un incunable à longues lignes : imprimé en caractères
+              ronds, par Jehan Petit, à Paris, sans date, <hi rend="i">sub signo lilii aurei</hi>.
+              Notre édition n’a été décrite ni par de Bure, ni par Brunet. Cette charmante
+              description y est placée entre celle des ruines de Rome, <hi rend="i">De Ruina Romanæ
+                Civitatis</hi>, et la lettre à Léonardo d’Arezzo sur le supplice de Jérôme de
+              Prague, <hi rend="i">De Hieronimi hæretici obitu et supplicio</hi> ». Une traduction
+              de cette seconde lettre a également été publiée par l’<hi rend="i">Ermitage</hi>
+              (avril 1890).</p>
           </quote>
-          <p>Bien que cette édition soit mentionnée comme sans date, il est permis, par son <hi rend="i">lis d’or</hi>, d’en fixer l’impression à 1513, l’enseigne de Jean Petit ayant été précédemment (1509) : Au Lion d’argent.</p>
-          <p>Je regrette de ne pouvoir, de crainte d’allonger outre mesure cette notice bibliographique, citer quelques passages de l’introduction charmante dont M. Antony Méray avait, il y a vingt ans, fait précéder sa traduction de la lettre de Pogge sur les Bains de Bade.</p>
+          <p>Bien que cette édition soit mentionnée comme sans date, il est permis, par son <hi
+              rend="i">lis d’or</hi>, d’en fixer l’impression à 1513, l’enseigne de Jean Petit ayant
+            été précédemment (1509) : Au Lion d’argent.</p>
+          <p>Je regrette de ne pouvoir, de crainte d’allonger outre mesure cette notice
+            bibliographique, citer quelques passages de l’introduction charmante dont M. Antony
+            Méray avait, il y a vingt ans, fait précéder sa traduction de la lettre de Pogge sur les
+            Bains de Bade.</p>
         </div>
       </div>
       <div>
         <head>Tome XXIII, numéro 91, juillet 1897</head>
         <div>
-          <head>Épilogues. 
-<lb/>Le Blason des Anglais [extrait]</head>
+          <head>Épilogues. <lb/>Le Blason des Anglais [extrait]</head>
           <index>
             <term type="id">article-1897-07_139</term>
             <term type="author">Gourmont, Remy de (1858-1915)</term>
@@ -164,7 +257,15 @@
           </index>
           <byline><hi rend="sc">Remy de Gourmont</hi>.</byline>
           <bibl>Tome XXIII, numéro 91, juillet 1897, p. 137-141 [139].</bibl>
-          <p>[…] L’Anglais a une mauvaise réputation, parmi le peuple. C’est le seul étranger, avec les Grecs, sur lequel il y ait dans les proverbes unanimité d’injures. Sur toutes les côtes de France l’Anglais est tantôt un ogre, tantôt un jocrisse ; il a longtemps gardé ce dernier caractère dans les basses chansons comiques et les vaudevilles. Aujourd’hui, à Paris, pour le gamin des rues tout étranger est <hi rend="i">a priori</hi> un Anglais ; en général, on le déteste et on le raille, — mais non en face, car il est bon payeur. Grâce aux journaux, l’Allemand et l’Italien (depuis peu) se partagent la vieille haine populaire, mais, comme le répétait déjà si volontiers Robert Wace il y a un peu plus de sept siècles (la langue française n’est pas toute jeune) :</p>
+          <p>[…] L’Anglais a une mauvaise réputation, parmi le peuple. C’est le seul étranger, avec
+            les Grecs, sur lequel il y ait dans les proverbes unanimité d’injures. Sur toutes les
+            côtes de France l’Anglais est tantôt un ogre, tantôt un jocrisse ; il a longtemps gardé
+            ce dernier caractère dans les basses chansons comiques et les vaudevilles. Aujourd’hui,
+            à Paris, pour le gamin des rues tout étranger est <hi rend="i">a priori</hi> un
+            Anglais ; en général, on le déteste et on le raille, — mais non en face, car il est bon
+            payeur. Grâce aux journaux, l’Allemand et l’Italien (depuis peu) se partagent la vieille
+            haine populaire, mais, comme le répétait déjà si volontiers Robert Wace il y a un peu
+            plus de sept siècles (la langue française n’est pas toute jeune) :</p>
           <p>E li Engleis bien se deffendent.</p>
         </div>
         <div>
@@ -187,21 +288,107 @@
               <term type="author">Zanoni, A.</term>
               <term type="signed">Zanoni</term>
               <term type="section">Lettres italiennes</term>
-              <term type="title">I. Luigi Donati : <hi rend="i">Le Ballate d’amore et di dolore</hi>, in-12, Milan, Galli, L. 2. — Salvatore Farina : <hi rend="i">Vanitas : Madonnina Bianca</hi>, in-18, Milan, Galli, L. 3. — Enrico Corradini : <hi rend="i">La Gioa</hi>, pet. in-8°, Florence, Paggi. — E. A. Butti : <hi rend="i">L’Incantesimo</hi>, in-18, Milan, Treves, L. 4. — Luciano Zuccoli : <hi rend="i">Roberta</hi>, in-18, Milan, Brigola, L. 3.50. — Laura Gropallo : <hi rend="i">In Hora Mortis</hi>, in-18, Milan, Brigola, L. 3.50. — Luigi Capuana : <hi rend="i">Fausto Bragia e altre novelle</hi>, in-18, Catane, Giannotta L. 2. — Pietro Guastavano, <hi rend="i">Vibrazioni</hi>, in-8°, Gênes, R. Stab. Sordo-Muti : L. 4. — Ugo Ojetti, <hi rend="i">L’opera morale ed artistica di Antonio Fogazzaro</hi> : in-8°, Rome, Forzani. — <hi rend="i">Emporium</hi>, rivista mensile, Bergame. — <hi rend="i">La Scena illustrata</hi>, rivista quindicinale, Florence</term>
+              <term type="title">I. Luigi Donati : <hi rend="i">Le Ballate d’amore et di
+                dolore</hi>, in-12, Milan, Galli, L. 2. — Salvatore Farina : <hi rend="i">Vanitas :
+                  Madonnina Bianca</hi>, in-18, Milan, Galli, L. 3. — Enrico Corradini : <hi
+                  rend="i">La Gioa</hi>, pet. in-8°, Florence, Paggi. — E. A. Butti : <hi rend="i"
+                  >L’Incantesimo</hi>, in-18, Milan, Treves, L. 4. — Luciano Zuccoli : <hi rend="i"
+                  >Roberta</hi>, in-18, Milan, Brigola, L. 3.50. — Laura Gropallo : <hi rend="i">In
+                  Hora Mortis</hi>, in-18, Milan, Brigola, L. 3.50. — Luigi Capuana : <hi rend="i"
+                  >Fausto Bragia e altre novelle</hi>, in-18, Catane, Giannotta L. 2. — Pietro
+                Guastavano, <hi rend="i">Vibrazioni</hi>, in-8°, Gênes, R. Stab. Sordo-Muti : L. 4.
+                — Ugo Ojetti, <hi rend="i">L’opera morale ed artistica di Antonio Fogazzaro</hi> :
+                in-8°, Rome, Forzani. — <hi rend="i">Emporium</hi>, rivista mensile, Bergame. — <hi
+                  rend="i">La Scena illustrata</hi>, rivista quindicinale, Florence</term>
               <term type="date">1897-07</term>
               <term type="ref">Tome XXIII, numéro 91, juillet 1897, p. 171-175 [172-174]</term>
             </index>
             <argument>
-              <p>Luigi Donati : <hi rend="i">Le Ballate d’amore et di dolore</hi>, in-12, Milan, Galli, L. 2. — Salvatore Farina : <hi rend="i">Vanitas : Madonnina Bianca</hi>, in-18, Milan, Galli, L. 3. — Enrico Corradini : <hi rend="i">La Gioa</hi>, pet. in-8°, Florence, Paggi. — E. A. Butti : <hi rend="i">L’Incantesimo</hi>, in-18, Milan, Treves, L. 4. — Luciano Zuccoli : <hi rend="i">Roberta</hi>, in-18, Milan, Brigola, L. 3.50. — Laura Gropallo : <hi rend="i">In Hora Mortis</hi>, in-18, Milan, Brigola, L. 3.50. — Luigi Capuana : <hi rend="i">Fausto Bragia e altre novelle</hi>, in-18, Catane, Giannotta L. 2. — Pietro Guastavano, <hi rend="i">Vibrazioni</hi>, in-8°, Gênes, R. Stab. Sordo-Muti : L. 4. — Ugo Ojetti, <hi rend="i">L’opera morale ed artistica di Antonio Fogazzaro</hi> : in-8°, Rome, Forzani. — <hi rend="i">Emporium</hi>, rivista mensile, Bergame. — <hi rend="i">La Scena illustrata</hi>, rivista quindicinale, Florence.</p>
+              <p>Luigi Donati : <hi rend="i">Le Ballate d’amore et di dolore</hi>, in-12, Milan,
+                Galli, L. 2. — Salvatore Farina : <hi rend="i">Vanitas : Madonnina Bianca</hi>,
+                in-18, Milan, Galli, L. 3. — Enrico Corradini : <hi rend="i">La Gioa</hi>, pet.
+                in-8°, Florence, Paggi. — E. A. Butti : <hi rend="i">L’Incantesimo</hi>, in-18,
+                Milan, Treves, L. 4. — Luciano Zuccoli : <hi rend="i">Roberta</hi>, in-18, Milan,
+                Brigola, L. 3.50. — Laura Gropallo : <hi rend="i">In Hora Mortis</hi>, in-18, Milan,
+                Brigola, L. 3.50. — Luigi Capuana : <hi rend="i">Fausto Bragia e altre novelle</hi>,
+                in-18, Catane, Giannotta L. 2. — Pietro Guastavano, <hi rend="i">Vibrazioni</hi>,
+                in-8°, Gênes, R. Stab. Sordo-Muti : L. 4. — Ugo Ojetti, <hi rend="i">L’opera morale
+                  ed artistica di Antonio Fogazzaro</hi> : in-8°, Rome, Forzani. — <hi rend="i"
+                  >Emporium</hi>, rivista mensile, Bergame. — <hi rend="i">La Scena illustrata</hi>,
+                rivista quindicinale, Florence.</p>
             </argument>
-            <p>C’est un charmant petit volume que celui de M. Donati, <hi rend="b">Les Ballades d’amour et de douleur</hi>. Après la couverture qui est jolie, on trouve une préface de M. Lucini et on est forcé de la lire, parce qu’elle est pleine d’idées agréables et rédigée en excellent italien. Les Ballades, toutes en la forme italienne traditionnelle<note place="bottom">Si heureusement transposée en français par M. Pierre de Nolhac. Voir les Essais métriques dans son beau recueil de vers, <hi rend="i">Paysages de France et d’Italie</hi> (1894).</note>, sont de poésie tendre, sensuelle ou philosophique ; le vers y supporte bien ses chaînes rigoureuses et, malgré quelques artifices, paraît pur, sans surcharge d’épithètes ; je l’aimerais mieux sinon « libre », du moins un peu plus libre et moins soucieux de rivaliser avec l’ingéniosité des trécentistes.</p>
-            <p><hi rend="b">Madonnina Bianca</hi> témoigne déjà par son titre du goût de M. S. Farina pour les diminutifs, les histoires simples et cordiales. Il observe avec soin et fait parfaitement vivre ses personnages ; si ses procédés sont quelquefois un peu factices, le résultat n’en est pas moins atteint et la popularité de la plupart de ses romans dit combien ils ont été goûtés par le rare public italien. Celui dont il s’agit aura le même succès mérité.</p>
-            <p>Première partie d’une « Trilogie romantique », la <hi rend="b">Joie</hi> est l’histoire d’un homme qui s’est trop analysé, qui a trop réfléchi, et qui se trouve en désaccord avec l’ordinaire mélodie vitale. N’étant pas heureux, il souffre du bonheur d’autrui, dont l’évidence le surprend et l’irrite. Il s’en suit une tragédie et ayant tout ruiné autour de lui, il s’en va. Le héros de ce livre, Vittore Rodia, au lieu de se plier à la vie, voudrait plier la vie à ses principes ; c’est un logicien qui s’indigne que la même quantité de vin pur soit versée dans les humbles gobelets et dans les larges cratères, et qu’à un homme qui peut comprendre tout et jouir de tout, la nature offre les mêmes banalités qu’au commun des humains. Ce caractère est peut-être un peu trop « romantique » en effet ; nous le comprendrons mieux sans doute par la suite. Œuvre en somme remarquable.</p>
-            <p>Le <hi rend="b">Charme</hi>, de M. Butti, appartient au genre sombre ; l’amour y est exalté, mais comme le frère de la mort. Nous n’avons pas dans ce premier volume la conclusion définitive de l’auteur. L’amour est vainqueur de l’action, mais provisoirement. Ce roman intéressant, quoique écrit avec une redondance quelquefois fatigante, met l’auteur hors de pair : ou commence à citer son nom en même temps que ceux de Fogazzaro et de d’Annunzio.</p>
-            <p>Moins touffu, <hi rend="b">Roberta</hi> est aussi un livre de moins hautes visées. C’est une histoire mélancolique où il y a de jolies pages. Les nouvelles et la scène symbolique réunies sous le titre de <hi rend="b">In hora mortis</hi>, maigre de l’inexpérience et de la gaucherie, témoignent d’une certaine ingéniosité.</p>
-            <p>La gloire de M. Capuana sera sans doute peu augmentée par <hi rend="b">Fausto Bragia</hi>, histoire d’un empoisonnement par ricochet au moyen de bacilles charbonneux volés dans un laboratoire. L’empoisonnement réduit à une forte colique, c’était un vaudeville.</p>
-            <p>L’Institut Royal des Sourds-Muets, de Gênes, a droit, au contraire, à quelques éloges pour la netteté et la correction du volume de vers appelé <hi rend="b">Vibrations</hi>. N’était la couverture, qui est <hi rend="i">spaventosa</hi> (l’abjecte simili-gravure a conquis l’Italie, qui tient sans doute à déshonorer l’Art avec une fougue particulière), le tome serait irréprochable, quoique un peu lourd ; les vers de M. Guastavino sont pleins de bonnes intentions.</p>
-            <p>Les premières lignes de l’étude de M. Ojetti sur <hi rend="b">Fogazzaro</hi> sont à citer : <quote>« En chacune des pages de l’œuvre de Fogazzaro on sent la présence de l’auteur. Il semble qu’entre les lignes, en chaque blanc, ou derrière le lacis des paroles, deux yeux profonds vous regardent, vous invitent à méditer, deux yeux profonds qui ont sondé, avec anxiété les ténèbres et aussi la pleine lumière du soleil. Vous n’êtes pas seul avec un livre qui vous raconte objectivement des faits vus ou inventés avec tranquillité, avec art : vous êtes en présence d’une autre âme. »</quote> Quand on sent cette présence, c’est que l’écrivain est doué d’assez de génie, d’assez de force pour s’extérioriser ; on la sent dans les plus froids, dans les plus volontairement clos, aussi bien que dans les plus accueillants et dans les plus chaleureux, dans Goethe et dans Lamartine, dans Villiers et dans Flaubert. Fogazzaro est très haut, il vit dans la sérénité. Son but a été d’unir l’art à la morale, — laquelle en soi n’est qu’une vanité, et d’ordonner ainsi une conception de la vie plus harmonieuse et plus pure. C’est un idéaliste ; il sait que la nature n’est que le vêtement et le prétexte de l’idée. Malheureusement, Fogazzaro n’est pas un génie complet : il y a des défaillances dans son style et il a cédé, pour des vues pittoresques, à la fâcheuse tentation de transcrire des dialogues en dialectes, en patois, — au lieu de les transposer ; c’est grave. Rien ne pourrait justifier en France une telle aberration. Mais en Italie, si l’italien est lu et compris dans la classe moyenne, il n’est que rarement et difficilement parlé ; quant aux paysans et aux ouvriers, ils ignorent quasi jusqu’à l’existence de la langue que manie si bien M. Carducci. L’italien est en Italie ce qu’était le latin dans l’Europe du <num>xiii<hi rend="sup">e</hi></num> siècle, la langue nécessaire mais non la langue familière : les dialectes y vivent toujours et même littérairement.</p>
+            <p>C’est un charmant petit volume que celui de M. Donati, <hi rend="b">Les Ballades
+                d’amour et de douleur</hi>. Après la couverture qui est jolie, on trouve une préface
+              de M. Lucini et on est forcé de la lire, parce qu’elle est pleine d’idées agréables et
+              rédigée en excellent italien. Les Ballades, toutes en la forme italienne
+                traditionnelle<note place="bottom">Si heureusement transposée en français par
+                M. Pierre de Nolhac. Voir les Essais métriques dans son beau recueil de vers, <hi
+                  rend="i">Paysages de France et d’Italie</hi> (1894).</note>, sont de poésie
+              tendre, sensuelle ou philosophique ; le vers y supporte bien ses chaînes rigoureuses
+              et, malgré quelques artifices, paraît pur, sans surcharge d’épithètes ; je l’aimerais
+              mieux sinon « libre », du moins un peu plus libre et moins soucieux de rivaliser avec
+              l’ingéniosité des trécentistes.</p>
+            <p><hi rend="b">Madonnina Bianca</hi> témoigne déjà par son titre du goût de
+              M. S. Farina pour les diminutifs, les histoires simples et cordiales. Il observe avec
+              soin et fait parfaitement vivre ses personnages ; si ses procédés sont quelquefois un
+              peu factices, le résultat n’en est pas moins atteint et la popularité de la plupart de
+              ses romans dit combien ils ont été goûtés par le rare public italien. Celui dont il
+              s’agit aura le même succès mérité.</p>
+            <p>Première partie d’une « Trilogie romantique », la <hi rend="b">Joie</hi> est
+              l’histoire d’un homme qui s’est trop analysé, qui a trop réfléchi, et qui se trouve en
+              désaccord avec l’ordinaire mélodie vitale. N’étant pas heureux, il souffre du bonheur
+              d’autrui, dont l’évidence le surprend et l’irrite. Il s’en suit une tragédie et ayant
+              tout ruiné autour de lui, il s’en va. Le héros de ce livre, Vittore Rodia, au lieu de
+              se plier à la vie, voudrait plier la vie à ses principes ; c’est un logicien qui
+              s’indigne que la même quantité de vin pur soit versée dans les humbles gobelets et
+              dans les larges cratères, et qu’à un homme qui peut comprendre tout et jouir de tout,
+              la nature offre les mêmes banalités qu’au commun des humains. Ce caractère est
+              peut-être un peu trop « romantique » en effet ; nous le comprendrons mieux sans doute
+              par la suite. Œuvre en somme remarquable.</p>
+            <p>Le <hi rend="b">Charme</hi>, de M. Butti, appartient au genre sombre ; l’amour y est
+              exalté, mais comme le frère de la mort. Nous n’avons pas dans ce premier volume la
+              conclusion définitive de l’auteur. L’amour est vainqueur de l’action, mais
+              provisoirement. Ce roman intéressant, quoique écrit avec une redondance quelquefois
+              fatigante, met l’auteur hors de pair : ou commence à citer son nom en même temps que
+              ceux de Fogazzaro et de d’Annunzio.</p>
+            <p>Moins touffu, <hi rend="b">Roberta</hi> est aussi un livre de moins hautes visées.
+              C’est une histoire mélancolique où il y a de jolies pages. Les nouvelles et la scène
+              symbolique réunies sous le titre de <hi rend="b">In hora mortis</hi>, maigre de
+              l’inexpérience et de la gaucherie, témoignent d’une certaine ingéniosité.</p>
+            <p>La gloire de M. Capuana sera sans doute peu augmentée par <hi rend="b">Fausto
+                Bragia</hi>, histoire d’un empoisonnement par ricochet au moyen de bacilles
+              charbonneux volés dans un laboratoire. L’empoisonnement réduit à une forte colique,
+              c’était un vaudeville.</p>
+            <p>L’Institut Royal des Sourds-Muets, de Gênes, a droit, au contraire, à quelques éloges
+              pour la netteté et la correction du volume de vers appelé <hi rend="b"
+              >Vibrations</hi>. N’était la couverture, qui est <hi rend="i">spaventosa</hi>
+              (l’abjecte simili-gravure a conquis l’Italie, qui tient sans doute à déshonorer l’Art
+              avec une fougue particulière), le tome serait irréprochable, quoique un peu lourd ;
+              les vers de M. Guastavino sont pleins de bonnes intentions.</p>
+            <p>Les premières lignes de l’étude de M. Ojetti sur <hi rend="b">Fogazzaro</hi> sont à
+              citer : <quote>« En chacune des pages de l’œuvre de Fogazzaro on sent la présence de
+                l’auteur. Il semble qu’entre les lignes, en chaque blanc, ou derrière le lacis des
+                paroles, deux yeux profonds vous regardent, vous invitent à méditer, deux yeux
+                profonds qui ont sondé, avec anxiété les ténèbres et aussi la pleine lumière du
+                soleil. Vous n’êtes pas seul avec un livre qui vous raconte objectivement des faits
+                vus ou inventés avec tranquillité, avec art : vous êtes en présence d’une autre
+                âme. »</quote> Quand on sent cette présence, c’est que l’écrivain est doué d’assez
+              de génie, d’assez de force pour s’extérioriser ; on la sent dans les plus froids, dans
+              les plus volontairement clos, aussi bien que dans les plus accueillants et dans les
+              plus chaleureux, dans Goethe et dans Lamartine, dans Villiers et dans Flaubert.
+              Fogazzaro est très haut, il vit dans la sérénité. Son but a été d’unir l’art à la
+              morale, — laquelle en soi n’est qu’une vanité, et d’ordonner ainsi une conception de
+              la vie plus harmonieuse et plus pure. C’est un idéaliste ; il sait que la nature n’est
+              que le vêtement et le prétexte de l’idée. Malheureusement, Fogazzaro n’est pas un
+              génie complet : il y a des défaillances dans son style et il a cédé, pour des vues
+              pittoresques, à la fâcheuse tentation de transcrire des dialogues en dialectes, en
+              patois, — au lieu de les transposer ; c’est grave. Rien ne pourrait justifier en
+              France une telle aberration. Mais en Italie, si l’italien est lu et compris dans la
+              classe moyenne, il n’est que rarement et difficilement parlé ; quant aux paysans et
+              aux ouvriers, ils ignorent quasi jusqu’à l’existence de la langue que manie si bien
+              M. Carducci. L’italien est en Italie ce qu’était le latin dans l’Europe du
+                  <num>xiii<hi rend="sup">e</hi></num> siècle, la langue nécessaire mais non la
+              langue familière : les dialectes y vivent toujours et même littérairement.</p>
           </div>
           <div>
             <head>II</head>
@@ -210,14 +397,54 @@
               <term type="author">Zanoni, A.</term>
               <term type="signed">Zanoni</term>
               <term type="section">Lettres italiennes</term>
-              <term type="title">II. Ugo Ojetti : <hi rend="i">L’avvenire della letteratura in Italia</hi>, in-16, Rome, Società edit. Dante Alighieri, L. 1. — D. Gnoli : <hi rend="i">Nazionalità e arte</hi>, in-8°, Rome, Forzani. — <hi rend="i">Articles</hi> de Giosuè Carducci et Giovanni Pascoli dans la <hi rend="i">Vita Italiana</hi>. 16 mars et 1<hi rend="sup">er</hi> mai ; de Ugo Ojetti dans la <hi rend="i">Revue de Paris</hi>, 15 février 1896 et dans le <hi rend="i">Marzocco</hi>, 28 février et 28 mars 1897 ; de Ricardo Forster, de Barzellotti, de Luigi Capuana, de Angiolo Orvieto, de Adolfo Albertazzi, de Mario Morasso, etc.</term>
+              <term type="title">II. Ugo Ojetti : <hi rend="i">L’avvenire della letteratura in
+                  Italia</hi>, in-16, Rome, Società edit. Dante Alighieri, L. 1. — D. Gnoli : <hi
+                  rend="i">Nazionalità e arte</hi>, in-8°, Rome, Forzani. — <hi rend="i"
+                  >Articles</hi> de Giosuè Carducci et Giovanni Pascoli dans la <hi rend="i">Vita
+                  Italiana</hi>. 16 mars et 1<hi rend="sup">er</hi> mai ; de Ugo Ojetti dans la <hi
+                  rend="i">Revue de Paris</hi>, 15 février 1896 et dans le <hi rend="i"
+                  >Marzocco</hi>, 28 février et 28 mars 1897 ; de Ricardo Forster, de Barzellotti,
+                de Luigi Capuana, de Angiolo Orvieto, de Adolfo Albertazzi, de Mario Morasso,
+                etc.</term>
               <term type="date">1897-07</term>
               <term type="ref">Tome XXIII, numéro 91, juillet 1897, p. 171-175 [174]</term>
             </index>
             <argument>
-              <p>Ugo Ojetti : <hi rend="i">L’avvenire della letteratura in Italia</hi>, in-16, Rome, Società edit. Dante Alighieri, L. 1. — D. Gnoli : <hi rend="i">Nazionalità e arte</hi>, in-8°, Rome, Forzani. — <hi rend="i">Articles</hi> de Giosuè Carducci et Giovanni Pascoli dans la <hi rend="i">Vita Italiana</hi>. 16 mars et 1<hi rend="sup">er</hi> mai ; de Ugo Ojetti dans la <hi rend="i">Revue de Paris</hi>, 15 février 1896 et dans le <hi rend="i">Marzocco</hi>, 28 février et 28 mars 1897 ; de Ricardo Forster, de Barzellotti, de Luigi Capuana, de Angiolo Orvieto, de Adolfo Albertazzi, de Mario Morasso, etc.</p>
+              <p>Ugo Ojetti : <hi rend="i">L’avvenire della letteratura in Italia</hi>, in-16, Rome,
+                Società edit. Dante Alighieri, L. 1. — D. Gnoli : <hi rend="i">Nazionalità e
+                  arte</hi>, in-8°, Rome, Forzani. — <hi rend="i">Articles</hi> de Giosuè Carducci
+                et Giovanni Pascoli dans la <hi rend="i">Vita Italiana</hi>. 16 mars et 1<hi
+                  rend="sup">er</hi> mai ; de Ugo Ojetti dans la <hi rend="i">Revue de Paris</hi>,
+                15 février 1896 et dans le <hi rend="i">Marzocco</hi>, 28 février et 28 mars 1897 ;
+                de Ricardo Forster, de Barzellotti, de Luigi Capuana, de Angiolo Orvieto, de Adolfo
+                Albertazzi, de Mario Morasso, etc.</p>
             </argument>
-            <p>Alors quand la littérature d’Italie n’est pas provinciale ou particulariste, elle devient internationale. Elle s’adresse à Naples, à Rome, à Venise, à Milan ; jamais à l’Italie entière ; ce qui est compris à Messine ne peut l’être à Turin. Ne pouvant conquérir chez eux un large public homogène, les écrivains italiens songent à l’Europe : ils écrivent pour Paris. Leur littérature — si l’on excepte Fogazzaro, Verga, la Serao — ressemble un peu à ces vins savants où les uns goûtent et les autres déplorent la totale absence de la saveur du terroir. On sent, en Italie, le défaut non seulement d’un grand centre littéraire, mais aussi même de cénacles et même de coteries ; pas d’écoles, partant pas de querelles, pas d’émulation, pas de critique des idées, pas de souci de continuer ou de violer la tradition. Une littérature dont l’individualisme sans principes se développe trop loin de la critique et des rivalités, s’engourdit et meurt d’autophagie. Il y a cependant eu une discussion intéressante et précisément sur ce sujet : Y a-t-il aujourd’hui une littérature italienne ? M. Ojetti a parlé le premier ; puis M. Carducci ; puis d’autres. Le vieux poète a été battu, malgré sa belle plaidoirie, et M. Ojetti a profité de sa victoire pour soulever aussi la question de l’idéalisme en art. « L’art, dit-il, n’est pas national, ne peut être volontairement national. L’art est individuel… L’écrivain n’a pas à se préoccuper de l’Italie plus que du Groenland. Si par son génie il produit une œuvre qui soit la gloire de sa patrie, qui en devienne le miroir symbolique, tant mieux. Mais il n’a pas à poursuivre un tel but. » Il est bien évident que l’art a son but en soi ; ce but atteint, l’artiste ne doit avoir souci d’aucune des conséquences de son œuvre, bonnes ou mauvaises. M. Ojetti dit bien : l’art ne doit être <hi rend="i">volontairement</hi> ni moral, ni patriotique, ni utile, ni immoral, ni frivole, ni anarchiste ; il peut être tout cela <hi rend="i">involontairement</hi> sans cesser d’être de l’art. C’est pourquoi un écrivain doit suivre son génie, aveuglément, sans raisonner, comme un chien suit son maître.</p>
+            <p>Alors quand la littérature d’Italie n’est pas provinciale ou particulariste, elle
+              devient internationale. Elle s’adresse à Naples, à Rome, à Venise, à Milan ; jamais à
+              l’Italie entière ; ce qui est compris à Messine ne peut l’être à Turin. Ne pouvant
+              conquérir chez eux un large public homogène, les écrivains italiens songent à
+              l’Europe : ils écrivent pour Paris. Leur littérature — si l’on excepte Fogazzaro,
+              Verga, la Serao — ressemble un peu à ces vins savants où les uns goûtent et les autres
+              déplorent la totale absence de la saveur du terroir. On sent, en Italie, le défaut non
+              seulement d’un grand centre littéraire, mais aussi même de cénacles et même de
+              coteries ; pas d’écoles, partant pas de querelles, pas d’émulation, pas de critique
+              des idées, pas de souci de continuer ou de violer la tradition. Une littérature dont
+              l’individualisme sans principes se développe trop loin de la critique et des
+              rivalités, s’engourdit et meurt d’autophagie. Il y a cependant eu une discussion
+              intéressante et précisément sur ce sujet : Y a-t-il aujourd’hui une littérature
+              italienne ? M. Ojetti a parlé le premier ; puis M. Carducci ; puis d’autres. Le vieux
+              poète a été battu, malgré sa belle plaidoirie, et M. Ojetti a profité de sa victoire
+              pour soulever aussi la question de l’idéalisme en art. « L’art, dit-il, n’est pas
+              national, ne peut être volontairement national. L’art est individuel… L’écrivain n’a
+              pas à se préoccuper de l’Italie plus que du Groenland. Si par son génie il produit une
+              œuvre qui soit la gloire de sa patrie, qui en devienne le miroir symbolique, tant
+              mieux. Mais il n’a pas à poursuivre un tel but. » Il est bien évident que l’art a son
+              but en soi ; ce but atteint, l’artiste ne doit avoir souci d’aucune des conséquences
+              de son œuvre, bonnes ou mauvaises. M. Ojetti dit bien : l’art ne doit être <hi
+                rend="i">volontairement</hi> ni moral, ni patriotique, ni utile, ni immoral, ni
+              frivole, ni anarchiste ; il peut être tout cela <hi rend="i">involontairement</hi>
+              sans cesser d’être de l’art. C’est pourquoi un écrivain doit suivre son génie,
+              aveuglément, sans raisonner, comme un chien suit son maître.</p>
           </div>
           <div>
             <head>P.-S. — À propos de la <hi rend="i">Nichina</hi></head>
@@ -230,27 +457,50 @@
               <term type="date">1897-07</term>
               <term type="ref">Tome XXIII, numéro 91, juillet 1897, p. 171-175 [174-175]</term>
             </index>
-            <p>Au dernier moment nous recevons de Venise, à propos de la <hi rend="i">Nichina</hi><note resp="editor" place="bottom">[NdE] Hugues Rebell, <hi rend="i">La Nichina : mémoires inédits de Lorenzo Vendramin</hi>, Paris, Société du Mercure de France, 1897. Roman sur une courtisane vénitienne paru en feuilleton dans le <hi rend="i">Mercure de France</hi>, d’août à décembre 1896 ; recensé par Rachilde dans le numéro 91, juillet 1897, p. 145-147.</note>, une lettre dont on nous permet de donner au public quelques paragraphes :</p>
+            <p>Au dernier moment nous recevons de Venise, à propos de la <hi rend="i"
+                >Nichina</hi><note resp="editor" place="bottom">[NdE] Hugues Rebell, <hi rend="i">La
+                  Nichina : mémoires inédits de Lorenzo Vendramin</hi>, Paris, Société du Mercure de
+                France, 1897. Roman sur une courtisane vénitienne paru en feuilleton dans le <hi
+                  rend="i">Mercure de France</hi>, d’août à décembre 1896 ; recensé par Rachilde
+                dans le numéro 91, juillet 1897, p. 145-147.</note>, une lettre dont on nous permet
+              de donner au public quelques paragraphes :</p>
             <quote>
-            <p>« Ce roman intéresse beaucoup les vieux Vénitiens qui, comme moi, aiment chaque pierre de la cité dogaresse ; mais ils sont choqués par certaines inexactitudes. Aussi, en ce qui touche aux mœurs des courtisanes, si votre Théophile Gautier a dit :</p>
-            <quote>
-              <l rend="i">Au soleil tirant sans vergogne</l>
-              <l rend="i">Le drap de la blonde qui dort,</l>
-              <l rend="i">Comme Philippe de Bourgogne</l>
-              <l rend="i">Vous trouveriez la toison d’or…</l>
-              <l rend="i">Aussi j’aime tes courtisanes.</l>
-             <l rend="i">Amant du vrai, grand Titien…</l>
+              <p>« Ce roman intéresse beaucoup les vieux Vénitiens qui, comme moi, aiment chaque
+                pierre de la cité dogaresse ; mais ils sont choqués par certaines inexactitudes.
+                Aussi, en ce qui touche aux mœurs des courtisanes, si votre Théophile Gautier a
+                dit :</p>
+              <quote>
+                <l rend="i">Au soleil tirant sans vergogne</l>
+                <l rend="i">Le drap de la blonde qui dort,</l>
+                <l rend="i">Comme Philippe de Bourgogne</l>
+                <l rend="i">Vous trouveriez la toison d’or…</l>
+                <l rend="i">Aussi j’aime tes courtisanes.</l>
+                <l rend="i">Amant du vrai, grand Titien…</l>
               </quote>
-              <p rend="noindent">il s’est trompé. Les femmes qui, dans les tableaux de notre Vecellio, étalent bravement</p>
+              <p rend="noindent">il s’est trompé. Les femmes qui, dans les tableaux de notre
+                Vecellio, étalent bravement</p>
               <quote>
                 <l rend="i">Sous une courtine pourprée…</l>
-              <l rend="i">Dans sa pâleur mate et dorée</l>
-              <l rend="i">Un corps vivace où rien ne ment,</l>
+                <l rend="i">Dans sa pâleur mate et dorée</l>
+                <l rend="i">Un corps vivace où rien ne ment,</l>
               </quote>
-              <p rend="noindent">ne sont pas des courtisanes, mais de libres et nobles dames qui faisaient l’amour selon leur bon plaisir, non par métier. Comme les courtisanes grecques dont elles avaient la tradition, nos admirables <hi rend="i">cortigiane</hi> de jadis se tenaient le corps aussi net et poli qu’un marbre et, quoique cela puisse contrarier nos goûts moins raffinés, il aurait été impossible, et malhonnête, de louer leurs charmes en proférant ce vers de Virgile : <quote><hi rend="i">Muscosi fontes et somno mollior berba</hi></quote>.</p>
-            <p>Voici d’ailleurs, choisi parmi tous les textes que je pourrais vous citer — non compris les sonnets de Baffo — un passage du <hi rend="i">Corriero Svaligiato</hi><note place="bottom"><hi rend="i">Continuazione del ecc.</hi> In Villafranca, 1671. <hi rend="i">Lettera che rifrisce la qualità delle Cortigiane di Venetia</hi>.</note> qui lèvera tous vos doutes :</p>
-            <quote>
-                <p>« Queste mai non s’incontrano con un pelo di barba, esercitandosi con molto studio la cura di lavare ogni ruvidezza, da cui possa offendersi la delicatezza d’un tanto gusto. È ammirabile la loro sollicitudine in purgare le strade, in guisa che da frequente concorso non vengono corrose, nè allordate. »</p>
+              <p rend="noindent">ne sont pas des courtisanes, mais de libres et nobles dames qui
+                faisaient l’amour selon leur bon plaisir, non par métier. Comme les courtisanes
+                grecques dont elles avaient la tradition, nos admirables <hi rend="i"
+                  >cortigiane</hi> de jadis se tenaient le corps aussi net et poli qu’un marbre et,
+                quoique cela puisse contrarier nos goûts moins raffinés, il aurait été impossible,
+                et malhonnête, de louer leurs charmes en proférant ce vers de Virgile : <quote><hi
+                    rend="i">Muscosi fontes et somno mollior berba</hi></quote>.</p>
+              <p>Voici d’ailleurs, choisi parmi tous les textes que je pourrais vous citer — non
+                compris les sonnets de Baffo — un passage du <hi rend="i">Corriero
+                  Svaligiato</hi><note place="bottom"><hi rend="i">Continuazione del ecc.</hi> In
+                  Villafranca, 1671. <hi rend="i">Lettera che rifrisce la qualità delle Cortigiane
+                    di Venetia</hi>.</note> qui lèvera tous vos doutes :</p>
+              <quote>
+                <p>« Queste mai non s’incontrano con un pelo di barba, esercitandosi con molto
+                  studio la cura di lavare ogni ruvidezza, da cui possa offendersi la delicatezza
+                  d’un tanto gusto. È ammirabile la loro sollicitudine in purgare le strade, in
+                  guisa che da frequente concorso non vengono corrose, nè allordate. »</p>
               </quote>
             </quote>
           </div>
@@ -259,8 +509,7 @@
       <div>
         <head>Tome XXIII, numéro 93, septembre 1897</head>
         <div>
-          <head>Journaux et revues. 
-<lb/>Memento [extrait]</head>
+          <head>Journaux et revues. <lb/>Memento [extrait]</head>
           <index>
             <term type="id">article-1897-09_552</term>
             <term type="author">Gourmont, Remy de (1858-1915)</term>
@@ -273,16 +522,21 @@
           <byline><hi rend="sc">R. de Bury</hi> [Remy de Gourmont].</byline>
           <bibl>Tome XXIII, numéro 93, septembre 1897, p. 545-554 [552].</bibl>
           <p>[…]</p>
-          <p><hi rend="b">Le Temps</hi> (7 août). — <hi rend="i">La jeune Europe</hi>, par Thomas Emery. — Critique du récent livre de Guillaume Ferrero ; le jeune sociologue italien nous informe qu’en France dans quatre-vingt-dix-neuf mariages sur cent l’homme seul aime sa femme, tandis qu’à la femme son mari est parfaitement indifférent. Supériorités anglo-saxonne, allemande, scandinave, etc. etc.</p>
-          <p><hi rend="b">Revue hebdomadaire</hi> (7 août). — <hi rend="i">Neuf mois de captivité chez Ménélick</hi>, par Giovanni Gamerra, ex-commandant du 1<hi rend="sup">er</hi> bataillon indigène.</p>
+          <p><hi rend="b">Le Temps</hi> (7 août). — <hi rend="i">La jeune Europe</hi>, par Thomas
+            Emery. — Critique du récent livre de Guillaume Ferrero ; le jeune sociologue italien
+            nous informe qu’en France dans quatre-vingt-dix-neuf mariages sur cent l’homme seul aime
+            sa femme, tandis qu’à la femme son mari est parfaitement indifférent. Supériorités
+            anglo-saxonne, allemande, scandinave, etc. etc.</p>
+          <p><hi rend="b">Revue hebdomadaire</hi> (7 août). — <hi rend="i">Neuf mois de captivité
+              chez Ménélick</hi>, par Giovanni Gamerra, ex-commandant du 1<hi rend="sup"
+            >er</hi> bataillon indigène.</p>
           <p>[…]</p>
         </div>
       </div>
       <div>
         <head>Tome XXIV, numéro 94, octobre 1897</head>
         <div>
-          <head>Les Revues. 
-<lb/>Memento [extrait]</head>
+          <head>Les Revues. <lb/>Memento [extrait]</head>
           <index>
             <term type="id">article-1897-10_267</term>
             <term type="author">Souza, Robert de (1864-1946)</term>
@@ -294,11 +548,11 @@
           </index>
           <byline><hi rend="sc">Robert de Souza</hi>.</byline>
           <bibl>Tome XXIV, numéro 94, octobre 1897, p. 263-268 [267].</bibl>
-          <p><hi rend="b">L’Ermitage</hi> (septembre). — <hi rend="i">Le pessimisme de Léopardi</hi>, par Camille Bos. […]</p>
+          <p><hi rend="b">L’Ermitage</hi> (septembre). — <hi rend="i">Le pessimisme de
+            Léopardi</hi>, par Camille Bos. […]</p>
         </div>
         <div>
-          <head>Les Journaux. 
-<lb/>Memento [extrait]</head>
+          <head>Les Journaux. <lb/>Memento [extrait]</head>
           <index>
             <term type="id">article-1897-10_277</term>
             <term type="author">Gourmont, Remy de (1858-1915)</term>
@@ -311,7 +565,12 @@
           <byline><hi rend="sc">R. de Bury</hi> [Remy de Gourmont].</byline>
           <bibl>Tome XXIV, numéro 94, octobre 1897, p. 268-278 [277].</bibl>
           <p>[…]</p>
-          <p><hi rend="b">Figaro</hi> (16 Sept. et suiv. ). — En trois beaux chapitres, M. Anatole France résume ses impressions d’un voyage dans l’Italie du Sud et sur les deux rivages de l’Adriatique, <hi rend="i">De Naples à Pola</hi> : Naples — Pompéi — Raguse. Sur les Napolitains : <quote>« Ils aiment la vie. À l’opposé des peuples avides qui la préparent sans cesse et ne la vivent point, ils la prennent telle qu’elle leur vient et ils en jouissent. »</quote></p>
+          <p><hi rend="b">Figaro</hi> (16 Sept. et suiv. ). — En trois beaux chapitres, M. Anatole
+            France résume ses impressions d’un voyage dans l’Italie du Sud et sur les deux rivages
+            de l’Adriatique, <hi rend="i">De Naples à Pola</hi> : Naples — Pompéi — Raguse. Sur les
+            Napolitains : <quote>« Ils aiment la vie. À l’opposé des peuples avides qui la préparent
+              sans cesse et ne la vivent point, ils la prennent telle qu’elle leur vient et ils en
+              jouissent. »</quote></p>
           <p>[…]</p>
         </div>
         <div>
@@ -328,17 +587,28 @@
           <byline><hi rend="sc">Zanoni</hi> [A. Zanoni].</byline>
           <bibl>Tome XXIV, numéro 94, octobre 1897, p. 300-302.</bibl>
           <div>
-            <head>Pierre de Bouchaud : <hi rend="i">La Pastorale dans le Tasse</hi>, A. Lemerre</head>
+            <head>Pierre de Bouchaud : <hi rend="i">La Pastorale dans le Tasse</hi>,
+              A. Lemerre</head>
             <index>
               <term type="id">article-1897-10_300a</term>
               <term type="author">Zanoni, A.</term>
               <term type="signed">Zanoni</term>
               <term type="section">Lettres italiennes</term>
-              <term type="title">Pierre de Bouchaud : <hi rend="i">La Pastorale dans le Tasse</hi>, A. Lemerre</term>
+              <term type="title">Pierre de Bouchaud : <hi rend="i">La Pastorale dans le Tasse</hi>,
+                A. Lemerre</term>
               <term type="date">1897-10</term>
               <term type="ref">Tome XXIV, numéro 94, octobre 1897, p. 300-302 [300]</term>
             </index>
-            <p>M. de Bouchaud étudie avec beaucoup de soin et de savoir l’origine de la pastorale italienne et l’influence de l’<hi rend="i">Aminta</hi> sur toutes les littératures de l’Europe au <num>xvii<hi rend="sup">e</hi></num> siècle. En l’an 1700 l’Italie n’avait pas produit, imitations de l’œuvre du Tasse, moins de deux cents drames pastoraux ; en Angleterre, en Espagne, en France, Spencer, Shakespeare, Milton, Cervantès, Honoré d’Urfé furent touchés par le génie du Tasse, écrivirent des pastorales : l’<hi rend="i">Astrée</hi> est une longue et très belle transposition de l’<hi rend="i">Aminta</hi>, <quote>« ce tableau de l’âme et de la nature humaine à leur printemps »</quote>. M. de Bouchaud a écrit une charmante dissertation sur un sujet charmant, <hi rend="b">La Pastorale</hi>.</p>
+            <p>M. de Bouchaud étudie avec beaucoup de soin et de savoir l’origine de la pastorale
+              italienne et l’influence de l’<hi rend="i">Aminta</hi> sur toutes les littératures de
+              l’Europe au <num>xvii<hi rend="sup">e</hi></num> siècle. En l’an 1700 l’Italie n’avait
+              pas produit, imitations de l’œuvre du Tasse, moins de deux cents drames pastoraux ; en
+              Angleterre, en Espagne, en France, Spencer, Shakespeare, Milton, Cervantès, Honoré
+              d’Urfé furent touchés par le génie du Tasse, écrivirent des pastorales : l’<hi
+                rend="i">Astrée</hi> est une longue et très belle transposition de l’<hi rend="i"
+                >Aminta</hi>, <quote>« ce tableau de l’âme et de la nature humaine à leur
+                printemps »</quote>. M. de Bouchaud a écrit une charmante dissertation sur un sujet
+              charmant, <hi rend="b">La Pastorale</hi>.</p>
           </div>
           <div>
             <head>Ugo Ojetti : <hi rend="i">L’Onesta Viltà</hi>, Rome, Enrico Voghera, L. 1</head>
@@ -347,11 +617,22 @@
               <term type="author">Zanoni, A.</term>
               <term type="signed">Zanoni</term>
               <term type="section">Lettres italiennes</term>
-              <term type="title">Pierre de Bouchaud : <hi rend="i">La Pastorale dans le Tasse</hi>, A. Lemerre</term>
+              <term type="title">Pierre de Bouchaud : <hi rend="i">La Pastorale dans le Tasse</hi>,
+                A. Lemerre</term>
               <term type="date">1897-10</term>
               <term type="ref">Tome XXIV, numéro 94, octobre 1897, p. 300-302 [300-301]</term>
             </index>
-            <p>En un agréable petit volume de la collection « Margherita », imitation d’une collection française (même caractère microscopique, gravurettes, format de carnet), M. Ugo Ojetti publie deux nouvelles, écrites en un style élégant, simple et net. Ce sont des histoires d’amour : la seconde, la <hi rend="i">Rose rouge</hi>, ornée de délicieuses descriptions ; la première, tragique, un suicide final rachetant une trahison d’amitié. Le sujet choisi sans doute exprès parmi les ordinaires drames passionnels est renouvelé par la finesse de l’analyse et l’observation que l’on sent personnelle et neuve. Quoique la forme soit celle du récit, de la confession, l’auteur est resté dans le ton de la littérature objective, — analysant une situation donnée avec le désintéressement de l’observateur. Je n’aime pas beaucoup le titre <hi rend="b">L’Onesta Viltà</hi>, trop explicatif.</p>
+            <p>En un agréable petit volume de la collection « Margherita », imitation d’une
+              collection française (même caractère microscopique, gravurettes, format de carnet),
+              M. Ugo Ojetti publie deux nouvelles, écrites en un style élégant, simple et net. Ce
+              sont des histoires d’amour : la seconde, la <hi rend="i">Rose rouge</hi>, ornée de
+              délicieuses descriptions ; la première, tragique, un suicide final rachetant une
+              trahison d’amitié. Le sujet choisi sans doute exprès parmi les ordinaires drames
+              passionnels est renouvelé par la finesse de l’analyse et l’observation que l’on sent
+              personnelle et neuve. Quoique la forme soit celle du récit, de la confession, l’auteur
+              est resté dans le ton de la littérature objective, — analysant une situation donnée
+              avec le désintéressement de l’observateur. Je n’aime pas beaucoup le titre <hi
+                rend="b">L’Onesta Viltà</hi>, trop explicatif.</p>
           </div>
           <div>
             <head>Memento</head>
@@ -364,49 +645,132 @@
               <term type="date">1897-10</term>
               <term type="ref">Tome XXIV, numéro 94, octobre 1897, p. 300-302 [301-302]</term>
             </index>
-            <p><hi rend="b">Pietro e Paola</hi>, <hi rend="i">con seguito di bei tipi novella critica</hi>, par Alberto Cantoni, Florence, Barbèra. — Roman où l’on traite : du féminisme littéraire en Europe, du dilettantisme artistique, de l’éclectisme philosophique, etc., en somme de beaucoup trop de choses.</p>
-            <p><hi rend="b">Fior’ brumali</hi>, <hi rend="i">versi</hi>, par Quaglino Romolo, Milan, Sonzogno.</p>
-            <p><hi rend="b">Il Marzocco</hi> (25 juillet). — Étude, par Diego Garoglio, sur les <hi rend="i">Poèmes</hi> de Giovanni Pascoli, le plus beau recueil de vers paru cette année en Italie, et dont les deux qualités maîtresses sont la sérénité de la pensée et la perfection plastique. Le mot « virgilien » a été écrit à propos de M. Pascoli. Nous nous sentons, dit M. Garoglio, en présence d’un grand artiste qui, nourri de Virgile et de tous les classiques, interprète cependant la nature avec une profonde originalité ; on sent que les choses ont eu sur lui une influence directe et immédiate. — (5 septembre) : M. Luciano Zuccoli massacre avec entrain et avec esprit la prétendue école des critiques « scientistes », de ceux pour qui tout phénomène de littérature et d’art est une monstruosité pathologique, de ceux qui ont découvert, d’après certains vers de la Divine Comédie que Dante était épileptique, — et naturellement « dégénéré supérieur ». Épileptique ou épileptoïde, car on adoucit par ce joli petit suffixe ce que telles appréciations auraient d’un peu lourd. Le mot <hi rend="i">fou</hi> se prêtant mal aux flexions, l’italien nous donna <hi rend="i">mattoïde</hi>, — les mattoïdes, les quasi-fous, selon M. Nordau à peu près tous les écrivains et les artistes d’aujourd’hui et de tous les temps. M. Lombroso, l’inventeur de ces drôleries, a donné la mesure de son génie critique en appréciant M. Dubut de Laforêt tel qu’un grand écrivain et un rare penseur. L’auteur du « Gaga » est l’étalon avec quoi il mesure la hauteur, la largeur et la profondeur des autres intelligences. Jugeons, à notre tour, M. Lombroso d’après ce critère.</p>
-            <p><hi rend="b">La Vita italiana</hi> (1<hi rend="sup">er</hi> juillet). — <hi rend="i">Saint Sébastien dans l’art</hi> (illustré). — (1<hi rend="sup">er</hi> septembre) : <hi rend="i">Il Messo del Cielo</hi>, par Giovanni Pascoli, commentaire du vers de Dante :</p>
+            <p><hi rend="b">Pietro e Paola</hi>, <hi rend="i">con seguito di bei tipi novella
+                critica</hi>, par Alberto Cantoni, Florence, Barbèra. — Roman où l’on traite : du
+              féminisme littéraire en Europe, du dilettantisme artistique, de l’éclectisme
+              philosophique, etc., en somme de beaucoup trop de choses.</p>
+            <p><hi rend="b">Fior’ brumali</hi>, <hi rend="i">versi</hi>, par Quaglino Romolo, Milan,
+              Sonzogno.</p>
+            <p><hi rend="b">Il Marzocco</hi> (25 juillet). — Étude, par Diego Garoglio, sur les <hi
+                rend="i">Poèmes</hi> de Giovanni Pascoli, le plus beau recueil de vers paru cette
+              année en Italie, et dont les deux qualités maîtresses sont la sérénité de la pensée et
+              la perfection plastique. Le mot « virgilien » a été écrit à propos de M. Pascoli. Nous
+              nous sentons, dit M. Garoglio, en présence d’un grand artiste qui, nourri de Virgile
+              et de tous les classiques, interprète cependant la nature avec une profonde
+              originalité ; on sent que les choses ont eu sur lui une influence directe et
+              immédiate. — (5 septembre) : M. Luciano Zuccoli massacre avec entrain et avec esprit
+              la prétendue école des critiques « scientistes », de ceux pour qui tout phénomène de
+              littérature et d’art est une monstruosité pathologique, de ceux qui ont découvert,
+              d’après certains vers de la Divine Comédie que Dante était épileptique, — et
+              naturellement « dégénéré supérieur ». Épileptique ou épileptoïde, car on adoucit par
+              ce joli petit suffixe ce que telles appréciations auraient d’un peu lourd. Le mot <hi
+                rend="i">fou</hi> se prêtant mal aux flexions, l’italien nous donna <hi rend="i"
+                >mattoïde</hi>, — les mattoïdes, les quasi-fous, selon M. Nordau à peu près tous les
+              écrivains et les artistes d’aujourd’hui et de tous les temps. M. Lombroso, l’inventeur
+              de ces drôleries, a donné la mesure de son génie critique en appréciant M. Dubut de
+              Laforêt tel qu’un grand écrivain et un rare penseur. L’auteur du « Gaga » est l’étalon
+              avec quoi il mesure la hauteur, la largeur et la profondeur des autres intelligences.
+              Jugeons, à notre tour, M. Lombroso d’après ce critère.</p>
+            <p><hi rend="b">La Vita italiana</hi> (1<hi rend="sup">er</hi> juillet). — <hi rend="i"
+                >Saint Sébastien dans l’art</hi> (illustré). — (1<hi rend="sup">er</hi> septembre) :
+                <hi rend="i">Il Messo del Cielo</hi>, par Giovanni Pascoli, commentaire du vers de
+              Dante :</p>
             <quote>
               <l>… ben m’accorsi ch’egli era del ciel messo.</l>
             </quote>
-            <p>Cet envoyé est Énée, <quote>« qui seul avec la Sibylle, était descendu en Enfer pour aller chercher l’âme de son père Anchise »</quote> <hi rend="i">(Convivio</hi>, IV, 20).</p>
+            <p>Cet envoyé est Énée, <quote>« qui seul avec la Sibylle, était descendu en Enfer pour
+                aller chercher l’âme de son père Anchise »</quote>
+              <hi rend="i">(Convivio</hi>, IV, 20).</p>
           </div>
         </div>
       </div>
       <div>
         <head>Tome XXIV, numéro 95, novembre 1897</head>
         <div>
-          <head>Romania, folklore. 
-<lb/><hi rend="i">I Fioretti. Les Petites Fleurs de la vie du petit pauvre de Jésus-Christ, saint François d’Assise</hi>, traduction d’Arnold Goffin, Bruxelles, Société Belge de Librairie, 1.25</head>
+          <head>Romania, folklore. <lb/><hi rend="i">I Fioretti. Les Petites Fleurs de la vie du
+              petit pauvre de Jésus-Christ, saint François d’Assise</hi>, traduction d’Arnold
+            Goffin, Bruxelles, Société Belge de Librairie, 1.25</head>
           <index>
             <term type="id">article-1897-11_589</term>
             <term type="author">Gourmont, Remy de (1858-1915)</term>
             <term type="signed">J. Drexelius</term>
             <term type="section">Romania, folklore</term>
-            <term type="title"><hi rend="i">I Fioretti. Les Petites Fleurs de la vie du petit pauvre de Jésus-Christ, saint François d’Assise</hi>, traduction d’Arnold Goffin, Bruxelles, Société Belge de Librairie, 1.25</term>
+            <term type="title"><hi rend="i">I Fioretti. Les Petites Fleurs de la vie du petit pauvre
+                de Jésus-Christ, saint François d’Assise</hi>, traduction d’Arnold Goffin,
+              Bruxelles, Société Belge de Librairie, 1.25</term>
             <term type="date">1897-11</term>
             <term type="ref">Tome XXIV, numéro 95, novembre 1897, p. 589-592 [589-591]</term>
           </index>
           <byline><hi rend="sc">J. Drexelius</hi> [Remy de Gourmont].</byline>
           <bibl>Tome XXIV, numéro 95, novembre 1897, p. 589-592 [589-591].</bibl>
-          <p>Malgré ce qu’il y a de mièvre et d’enfantin en ces petits récits, et peut-être pour cela, les <hi rend="b">Fioretti</hi> ont gardé leur parfum de fleurs ombriennes. Il n’est pas bien certain que François d’Assise n’ait été que le simple et le candide dont les légendes ont conservé le souvenir. C’était aussi un homme d’une volonté admirable et d’une originalité farouche ; il n’y a peut-être pas eu une autre créature humaine aussi personnelle, aussi différente du troupeau que ce saint qui, méprisant tout ce qui n’était pas l’amour pur et la charité absolue, vécut tel qu’un pauvre pour vivre libre. Le jour où François, fils d’un riche marchand, se mit tout nu sur la place d’Assise, résolu à ne garder rien de la fortune paternelle, pas même un lambeau d’étoffe, à ne plus vivre que du travail et pour la charité, en ce jour-là, mémorable parmi les grands jours de l’humanité, il dut y avoir quelque rumeur dans les régions de la Logique : un homme mettait d’accord, jusqu’à l’extrême, jusqu’à l’absurde, sa vie et sa croyance. Quelle leçon et comme cela apprend à sourire des gens qui s’apitoient confortablement sur la misère du peuple, des journalistes qui pleurent sur les pauvres, à trente sous la ligne, et des romanciers qui, du fond d’un château, annoncent aux reporters à genoux l’avènement de la justice sociale !</p>
-          <p>L’épisode du loup de Gubbio donne bien la réelle physionomie de saint François dont la douceur était profonde, quelques fois ironique à force de bonté et de sincérité. Il y avait une fois un loup gros et cruel qui ravageait la contrée, égorgeait les agneaux et les chevrettes. François, que le peuple vint consulter, prit son bâton et entra dans la forêt. Il rencontra le loup et lui dit : <quote>« Viens ici, frère Loup, je te commande de la part du Christ que tu ne fasses mal à moi ni à personne. »</quote> Le loup le suivit, se coucha à ses pieds, devant tout le peuple, et François dit encore : <quote>« Frère Loup, tu fais beaucoup de dommages de ce côtés, et tout le monde crie et murmure contre toi ; il faut faire la paix ; tu n’offenseras plus les hommes et les hommes te pardonneront. »</quote> Le Loup fit des signes de soumission et François dit encore : <quote>« Frère Loup, puisqu’il te plaît de faire et de tenir cette paix, je te promets que je te ferai donner des aliments, de sorte que tu ne pâtiras plus de la faim : parce que je sais bien que c’est pour la faim que tu as fait tout ce mal. »</quote> Et il est convenu que le Loup bien nourri ne fera plus aucun mal et qu’il vivra comme un ami parmi les hommes. Cet apologue est admirable. Il semble la traduction de faits véritables : François, aux environs du couvent de Monte-Casale, faisait porter des vivres aux brigands pour leur éviter le péché de vol et de pillage, car, disait-il, s’ils avaient de quoi manger et passer la vie, ils ne songeraient point à se faire voleurs. C’est tout à fait injustement qu’on a identifié pour la règle et pour les mœurs les premiers disciples de saint François avec les frères mendiants (des quatre obédiences — les quatre mendiants) qui plus tard pullulèrent. Saint François ordonna au contraire à chacun de vivre du travail de ses mains, mais de n’accepter en échange d’un labeur que la stricte nourriture, le lit le plus humble, et jamais d’argent ; la quête, c’était la part des pauvres.</p>
-          <p>Dans les <hi rend="i">Fioretti</hi>, si parfaitement retraduits par M. Arnold Goffin, on ne trouvera que la vie légendaire de François d’Assise et de ses disciples ; elle est charmante, mais bien moins belle que leur vie réelle, qui ne fut pas seulement de rêves et d’extases, mais de luttes même sociales et de charité héroïque. Cette vie, il faut la chercher dans le livre admirable que publia, il y a trois ans, M. Paul Sabatier<note place="bottom"><hi rend="i">Vie de Saint François d’Assise</hi>, Paris, librairie Fischbacher, 1894, in-8.</note>.</p>
-          <p>Bien que de confession protestante, M. Sabatier a compris saint François et il l’a aimé. On peut même dire qu’il l’a fait connaître, bien que, en définitive, le saint François historique ne diffère que par l’intensité du saint François légendaire. Le petit pauvre qui mourut sur la cendre en se faisant chanter le Cantique du Soleil</p>
+          <p>Malgré ce qu’il y a de mièvre et d’enfantin en ces petits récits, et peut-être pour
+            cela, les <hi rend="b">Fioretti</hi> ont gardé leur parfum de fleurs ombriennes. Il
+            n’est pas bien certain que François d’Assise n’ait été que le simple et le candide dont
+            les légendes ont conservé le souvenir. C’était aussi un homme d’une volonté admirable et
+            d’une originalité farouche ; il n’y a peut-être pas eu une autre créature humaine aussi
+            personnelle, aussi différente du troupeau que ce saint qui, méprisant tout ce qui
+            n’était pas l’amour pur et la charité absolue, vécut tel qu’un pauvre pour vivre libre.
+            Le jour où François, fils d’un riche marchand, se mit tout nu sur la place d’Assise,
+            résolu à ne garder rien de la fortune paternelle, pas même un lambeau d’étoffe, à ne
+            plus vivre que du travail et pour la charité, en ce jour-là, mémorable parmi les grands
+            jours de l’humanité, il dut y avoir quelque rumeur dans les régions de la Logique : un
+            homme mettait d’accord, jusqu’à l’extrême, jusqu’à l’absurde, sa vie et sa croyance.
+            Quelle leçon et comme cela apprend à sourire des gens qui s’apitoient confortablement
+            sur la misère du peuple, des journalistes qui pleurent sur les pauvres, à trente sous la
+            ligne, et des romanciers qui, du fond d’un château, annoncent aux reporters à genoux
+            l’avènement de la justice sociale !</p>
+          <p>L’épisode du loup de Gubbio donne bien la réelle physionomie de saint François dont la
+            douceur était profonde, quelques fois ironique à force de bonté et de sincérité. Il y
+            avait une fois un loup gros et cruel qui ravageait la contrée, égorgeait les agneaux et
+            les chevrettes. François, que le peuple vint consulter, prit son bâton et entra dans la
+            forêt. Il rencontra le loup et lui dit : <quote>« Viens ici, frère Loup, je te commande
+              de la part du Christ que tu ne fasses mal à moi ni à personne. »</quote> Le loup le
+            suivit, se coucha à ses pieds, devant tout le peuple, et François dit encore :
+              <quote>« Frère Loup, tu fais beaucoup de dommages de ce côtés, et tout le monde crie
+              et murmure contre toi ; il faut faire la paix ; tu n’offenseras plus les hommes et les
+              hommes te pardonneront. »</quote> Le Loup fit des signes de soumission et François dit
+            encore : <quote>« Frère Loup, puisqu’il te plaît de faire et de tenir cette paix, je te
+              promets que je te ferai donner des aliments, de sorte que tu ne pâtiras plus de la
+              faim : parce que je sais bien que c’est pour la faim que tu as fait tout ce
+              mal. »</quote> Et il est convenu que le Loup bien nourri ne fera plus aucun mal et
+            qu’il vivra comme un ami parmi les hommes. Cet apologue est admirable. Il semble la
+            traduction de faits véritables : François, aux environs du couvent de Monte-Casale,
+            faisait porter des vivres aux brigands pour leur éviter le péché de vol et de pillage,
+            car, disait-il, s’ils avaient de quoi manger et passer la vie, ils ne songeraient point
+            à se faire voleurs. C’est tout à fait injustement qu’on a identifié pour la règle et
+            pour les mœurs les premiers disciples de saint François avec les frères mendiants (des
+            quatre obédiences — les quatre mendiants) qui plus tard pullulèrent. Saint François
+            ordonna au contraire à chacun de vivre du travail de ses mains, mais de n’accepter en
+            échange d’un labeur que la stricte nourriture, le lit le plus humble, et jamais
+            d’argent ; la quête, c’était la part des pauvres.</p>
+          <p>Dans les <hi rend="i">Fioretti</hi>, si parfaitement retraduits par M. Arnold Goffin,
+            on ne trouvera que la vie légendaire de François d’Assise et de ses disciples ; elle est
+            charmante, mais bien moins belle que leur vie réelle, qui ne fut pas seulement de rêves
+            et d’extases, mais de luttes même sociales et de charité héroïque. Cette vie, il faut la
+            chercher dans le livre admirable que publia, il y a trois ans, M. Paul Sabatier<note
+              place="bottom"><hi rend="i">Vie de Saint François d’Assise</hi>, Paris, librairie
+              Fischbacher, 1894, in-8.</note>.</p>
+          <p>Bien que de confession protestante, M. Sabatier a compris saint François et il l’a
+            aimé. On peut même dire qu’il l’a fait connaître, bien que, en définitive, le saint
+            François historique ne diffère que par l’intensité du saint François légendaire. Le
+            petit pauvre qui mourut sur la cendre en se faisant chanter le Cantique du Soleil</p>
           <quote>
             <l rend="i">Laudato sie, mi signore, cum tucte le tue creature</l>
             <l rend="i">Spetialmente messor lo frate Sole…</l>
           </quote>
-          <p rend="noindent">pendant qu’un volier d’alouettes venait se poser sur le chaume de sa cellule, apparaît certainement tel qu’une des figures originales de l’humanité. C’était l’opinion de Renan qu’il fut après Jésus la plus pure incarnation du Divin. Un biographe très sévère ne relèverait pas une tache dans cette vie si commentée, pourtant, et si souvent travestie. Les Protestants de la Renaissance qui voulurent le ridiculiser ne purent le salir : et c’est un des leurs qui, vaincu par la grâce de ce génie, a écrit son panégyrique en écrivant son histoire.</p>
+          <p rend="noindent">pendant qu’un volier d’alouettes venait se poser sur le chaume de sa
+            cellule, apparaît certainement tel qu’une des figures originales de l’humanité. C’était
+            l’opinion de Renan qu’il fut après Jésus la plus pure incarnation du Divin. Un biographe
+            très sévère ne relèverait pas une tache dans cette vie si commentée, pourtant, et si
+            souvent travestie. Les Protestants de la Renaissance qui voulurent le ridiculiser ne
+            purent le salir : et c’est un des leurs qui, vaincu par la grâce de ce génie, a écrit
+            son panégyrique en écrivant son histoire.</p>
         </div>
       </div>
       <div>
         <head>Tome XXIV, numéro 96, décembre 1897</head>
         <div>
-          <head>Les Revues. 
-<lb/>Memento [extrait]</head>
+          <head>Les Revues. <lb/>Memento [extrait]</head>
           <index>
             <term type="id">article-1897-12_899</term>
             <term type="author">Souza, Robert de (1864-1946)</term>
@@ -419,14 +783,35 @@
           <byline><hi rend="sc">Robert de Souza</hi>.</byline>
           <bibl>Tome XXIV, numéro 96, décembre 1897, p. 893-900 [899-900].</bibl>
           <p>[…]</p>
-          <p>— 3° <hi rend="b">Anthologie-Revue de France et d’Italie</hi>, recueil mensuel de littérature et d’art ; — direction et rédaction, 19 via Pontaccio, à Milan. À Paris, 17, rue Guénégaud. Directeur Édouard Sansot-Orland.</p>
+          <p>— 3° <hi rend="b">Anthologie-Revue de France et d’Italie</hi>, recueil mensuel de
+            littérature et d’art ; — direction et rédaction, 19 via Pontaccio, à Milan. À Paris, 17,
+            rue Guénégaud. Directeur Édouard Sansot-Orland.</p>
           <quote>
-            <p>« Étant donné qu’en Italie on professe pour la langue et la littérature françaises un goût très marqué ; que la plupart de ceux qui les cultivent sont, le plus souvent, mal renseignés ou mal guidés dans le choix de leurs modèles ; que, parmi les jeunes écrivains dont s’honore la France, rares sont ceux qui jouissent en Italie d’une notoriété suffisante et relative à leur valeur incontestable ; sachant, d’autre part, l’ignorance accoutumée où vivent la majeure partie des Français du mouvement littéraire et artistique qui se produit en dehors de leurs frontières ; et désireux que le génie italien, en ses diverses manifestations, soit, de l’autre côté des Alpes, apprécié comme il le mérite ; nous avons pour ces motifs réunis, fondé l’<hi rend="i">Anthologie-Revue</hi>, de France et d’Italie, qui aura pour mission d’établir et d’entretenir entre les deux pays, dans le domaine artistique, un courant d’estime et de sympathie réciproques. »</p>
+            <p>« Étant donné qu’en Italie on professe pour la langue et la littérature françaises un
+              goût très marqué ; que la plupart de ceux qui les cultivent sont, le plus souvent, mal
+              renseignés ou mal guidés dans le choix de leurs modèles ; que, parmi les jeunes
+              écrivains dont s’honore la France, rares sont ceux qui jouissent en Italie d’une
+              notoriété suffisante et relative à leur valeur incontestable ; sachant, d’autre part,
+              l’ignorance accoutumée où vivent la majeure partie des Français du mouvement
+              littéraire et artistique qui se produit en dehors de leurs frontières ; et désireux
+              que le génie italien, en ses diverses manifestations, soit, de l’autre côté des Alpes,
+              apprécié comme il le mérite ; nous avons pour ces motifs réunis, fondé l’<hi rend="i"
+                >Anthologie-Revue</hi>, de France et d’Italie, qui aura pour mission d’établir et
+              d’entretenir entre les deux pays, dans le domaine artistique, un courant d’estime et
+              de sympathie réciproques. »</p>
           </quote>
           <p>[…]</p>
         </div>
         <div>
-          <head>Lettres italiennes<note place="bottom">M. Luciano Zùccoli, qui signera désormais cette rubrique, en lui donnant le développement qui lui convient, est un des jeunes écrivains italiens les plus connus, parmi les Pascoli, Ojetti, Corradini. et autres, poètes, romanciers, critiques, pratiquant et détendant une littérature d’art et d’idée. Il est très apprécié en Allemagne : le théâtre de Munich joue en ce moment deux de ses pièces, <hi rend="i">La Protégée</hi> et <hi rend="i">l’Ouragan</hi>. — M. Zùccoli écrivant directement en français, on ne sera pas surpris de quelques italianismes ; peut-être même en sera-t-on charmé » — <hi rend="sc">Zanoni</hi>.</note></head>
+          <head>Lettres italiennes<note place="bottom">M. Luciano Zùccoli, qui signera désormais
+              cette rubrique, en lui donnant le développement qui lui convient, est un des jeunes
+              écrivains italiens les plus connus, parmi les Pascoli, Ojetti, Corradini. et autres,
+              poètes, romanciers, critiques, pratiquant et détendant une littérature d’art et
+              d’idée. Il est très apprécié en Allemagne : le théâtre de Munich joue en ce moment
+              deux de ses pièces, <hi rend="i">La Protégée</hi> et <hi rend="i">l’Ouragan</hi>.
+              — M. Zùccoli écrivant directement en français, on ne sera pas surpris de quelques
+              italianismes ; peut-être même en sera-t-on charmé » — <hi rend="sc"
+              >Zanoni</hi>.</note></head>
           <index>
             <term type="id">article-1897-12_949</term>
             <term type="author">Zùccoli, Luciano (1868-1929)</term>
@@ -449,12 +834,54 @@
               <term type="date">1897-12</term>
               <term type="ref">Tome XXIV, numéro 96, décembre 1897, p. 949-955 [949-951]</term>
             </index>
-            <p>M. Domenico Oliva est entré à la Chambre aux dernières élections. L’histoire nous dira si c’est un bien pour la politique italienne ; mais en attendant, cela ne me paraît pas un mal pour sa carrière d’homme de lettres. M. Oliva publie, — ou mieux, publiait, — au <hi rend="i">Corriere della Sera</hi> de Milan des articles sur la littérature contemporaine ; sans paraître trop profond, ce qui aurait bouleversé les lecteurs paisibles du journal, il les tenait au courant des publications, il donnait des abrégés et des jugements objectifs, et il avait réussi à s’entourer d’un public nombreux et intelligent. C’est un diplomate de la critique ; je ne peux me rappeler une seule brusquerie dans son style ou dans ses jugements ; de cette manière, il ne compte d’ennemis que les ennemis des auteurs qu’il n’a pas assez fouettés au nom de l’art Mais depuis que les électeurs de Parme l’ont envoyé à la Chambre, ces aimables causeries littéraires de M. Oliva se sont faites de plus en plus rares ; et on dirait que le volume qu’il vient de publier chez l’éditeur G. Marco de Milan a surtout pour but de renouer des relations cordiales avec ses lecteurs habituels.</p>
-            <p>Dans ces <hi rend="b">Note letterarie</hi>, l’auteur nous présente donc divers de ses meilleurs Essais, qu’on lit très couramment, pour ce bienheureux défaut de profondeur que nous remarquions à propos de ses articles. Je n’oserais pas dire que tous les chapitres du livre soient assez développés : il me semble, au contraire, que plusieurs ne marquent pas entièrement la pensée de M. Oliva, lequel n’a pas su prévoir que les lecteurs d’un livre ne peuvent pas s’en tenir aux à peu près qui suffisent aux lecteurs d’un journal.</p>
-            <p>L’auteur donne, par exemple, un résumé de la philosophie de Frédéric Nietzsche. Il faut remarquer, en passant, que nous avons maintenant en Italie toute une floraison d’études sur cet argument ; et, quoique les œuvres du malheureux philosophe ne soient pas encore traduites en italien, les vulgarisateurs de ses idées se multiplient et dressent un tableau presque complet de cette philosophie étrange et géniale.</p>
-            <p>M. Oliva se borne à résumer <hi rend="i">Zarathustra</hi> ; son style prend alors une allure très vive ; mais en comparaison du sujet, le chapitre ne me semble pas suffisant, et il laisse le lecteur légèrement désappointé. Il fallait dire quelque chose de l’homme, de sa vie, de ses œuvres. On sait qu’entre la vie de Frédéric Nietzsche et ses théories il n’y a pas trop de cohérence ; sa vie était pure, simple, dévouée, amoureuse ; sa philosophie, égoïste, cruelle, puissante, formidable. M. Oliva n’a pas cherché à tirer de là pour son essai un contraste lumineux, qui aurait tenté un artiste.</p>
-            <p>Le chapitre le plus complet de cette première série d’études littéraires est dédié à Hippolyte Taine, pour lequel l’auteur a une admiration presque sans borne, qu’il justifie, d’ailleurs, en considérant sa vie, son œuvre, les jugements qu’on a portés sur lui en Italie, et en donnant un précis très exact des idées critiques et philosophiques du Maître. Il déclare, enfin, ne pas pouvoir accepter le Taine que M. Paul Bourget nous a présenté dans un de ses <hi rend="i">Essais de Psychologie</hi> et qui ferait croire, — dit M. Oliva — <quote>« à un terrible missionnaire du rien, à un critique destructeur, imaginé par le sentimentalisme féminin de cet aimable romancier »</quote>.</p>
-            <p>Je signale simplement les autres parties du volume : des études sur Giordano Bruno, sur le Tasse considéré comme homme et poète moderne, sur Ferdinand Lassalle (dont M. Oliva nous raconte avec esprit les trois amours, y compris le dernier pour mademoiselle Hélène de Dœnnigy, qui a été la cause du duel avec M. de Rakowitz et de la mort de Lassalle), des études sur Giacomo Leopardi, etc.</p>
+            <p>M. Domenico Oliva est entré à la Chambre aux dernières élections. L’histoire nous
+              dira si c’est un bien pour la politique italienne ; mais en attendant, cela ne me
+              paraît pas un mal pour sa carrière d’homme de lettres. M. Oliva publie, — ou mieux,
+              publiait, — au <hi rend="i">Corriere della Sera</hi> de Milan des articles sur la
+              littérature contemporaine ; sans paraître trop profond, ce qui aurait bouleversé les
+              lecteurs paisibles du journal, il les tenait au courant des publications, il donnait
+              des abrégés et des jugements objectifs, et il avait réussi à s’entourer d’un public
+              nombreux et intelligent. C’est un diplomate de la critique ; je ne peux me rappeler
+              une seule brusquerie dans son style ou dans ses jugements ; de cette manière, il ne
+              compte d’ennemis que les ennemis des auteurs qu’il n’a pas assez fouettés au nom de
+              l’art Mais depuis que les électeurs de Parme l’ont envoyé à la Chambre, ces aimables
+              causeries littéraires de M. Oliva se sont faites de plus en plus rares ; et on dirait
+              que le volume qu’il vient de publier chez l’éditeur G. Marco de Milan a surtout pour
+              but de renouer des relations cordiales avec ses lecteurs habituels.</p>
+            <p>Dans ces <hi rend="b">Note letterarie</hi>, l’auteur nous présente donc divers de ses
+              meilleurs Essais, qu’on lit très couramment, pour ce bienheureux défaut de profondeur
+              que nous remarquions à propos de ses articles. Je n’oserais pas dire que tous les
+              chapitres du livre soient assez développés : il me semble, au contraire, que plusieurs
+              ne marquent pas entièrement la pensée de M. Oliva, lequel n’a pas su prévoir que les
+              lecteurs d’un livre ne peuvent pas s’en tenir aux à peu près qui suffisent aux
+              lecteurs d’un journal.</p>
+            <p>L’auteur donne, par exemple, un résumé de la philosophie de Frédéric Nietzsche. Il
+              faut remarquer, en passant, que nous avons maintenant en Italie toute une floraison
+              d’études sur cet argument ; et, quoique les œuvres du malheureux philosophe ne soient
+              pas encore traduites en italien, les vulgarisateurs de ses idées se multiplient et
+              dressent un tableau presque complet de cette philosophie étrange et géniale.</p>
+            <p>M. Oliva se borne à résumer <hi rend="i">Zarathustra</hi> ; son style prend alors une
+              allure très vive ; mais en comparaison du sujet, le chapitre ne me semble pas
+              suffisant, et il laisse le lecteur légèrement désappointé. Il fallait dire quelque
+              chose de l’homme, de sa vie, de ses œuvres. On sait qu’entre la vie de Frédéric
+              Nietzsche et ses théories il n’y a pas trop de cohérence ; sa vie était pure, simple,
+              dévouée, amoureuse ; sa philosophie, égoïste, cruelle, puissante, formidable. M. Oliva
+              n’a pas cherché à tirer de là pour son essai un contraste lumineux, qui aurait tenté
+              un artiste.</p>
+            <p>Le chapitre le plus complet de cette première série d’études littéraires est dédié à
+              Hippolyte Taine, pour lequel l’auteur a une admiration presque sans borne, qu’il
+              justifie, d’ailleurs, en considérant sa vie, son œuvre, les jugements qu’on a portés
+              sur lui en Italie, et en donnant un précis très exact des idées critiques et
+              philosophiques du Maître. Il déclare, enfin, ne pas pouvoir accepter le Taine que
+              M. Paul Bourget nous a présenté dans un de ses <hi rend="i">Essais de Psychologie</hi>
+              et qui ferait croire, — dit M. Oliva — <quote>« à un terrible missionnaire du rien, à
+                un critique destructeur, imaginé par le sentimentalisme féminin de cet aimable
+                romancier »</quote>.</p>
+            <p>Je signale simplement les autres parties du volume : des études sur Giordano Bruno,
+              sur le Tasse considéré comme homme et poète moderne, sur Ferdinand Lassalle (dont
+              M. Oliva nous raconte avec esprit les trois amours, y compris le dernier pour
+              mademoiselle Hélène de Dœnnigy, qui a été la cause du duel avec M. de Rakowitz et de
+              la mort de Lassalle), des études sur Giacomo Leopardi, etc.</p>
           </div>
           <div>
             <head>Luigi Capuana : <hi rend="i">Gli « Isms » contemporanei</hi></head>
@@ -467,7 +894,23 @@
               <term type="date">1897-12</term>
               <term type="ref">Tome XXIV, numéro 96, décembre 1897, p. 949-955 [951]</term>
             </index>
-            <p>Mais surtout nous devons savoir gré à M. Oliva de nous avoir épargné l’excès des discussions ; ce système mélancolique a été, au contraire, adopté par M. Luigi Capuana dans <hi rend="b">Gli « Ismi » contemporanei</hi> (les « Ismes » contemporains) : vérisme, symbolisme, idéalisme, etc. Au lieu d’ébaucher des croquis et des portraits, M. Capuana fait de la critique proprement dite, ce qui est moins amusant, peut-être. En Italie, comme dans tous les pays du monde, je suppose, la discussion méthodique et plate est toujours un peu oisive ; on peut trouver de bonnes raisons pour admirer les naturalistes, par exemple, comme on peut en trouver d’excellentes pour ne les admirer pas, M. Capuana n’est plus un jeune, mais s’il conserve toute la vivacité méridionale, il manque de nouveauté d’argumentation, de coup d’œil, de foi et de scepticisme tout ensemble. Juger d’art et d’intentions littéraires avec le simple bon sens, c’est vraiment se fermer la voie à exprimer des idées moins communes. Son livre fait soupçonner que l’auteur est resté en arrière du mouvement artistique actuel et du tour particulier des esprits. Il caresse généralement des médiocrités, dans ce livre et dans ses articles : à part quelques écrivains devenus désormais internationaux, on ne trouve guère ici que M. E. A. Butti et M. Corradini, à propos desquels nous puissions avoir le désir de connaître la pensée de M. Capuana.</p>
+            <p>Mais surtout nous devons savoir gré à M. Oliva de nous avoir épargné l’excès des
+              discussions ; ce système mélancolique a été, au contraire, adopté par M. Luigi Capuana
+              dans <hi rend="b">Gli « Ismi » contemporanei</hi> (les « Ismes » contemporains) :
+              vérisme, symbolisme, idéalisme, etc. Au lieu d’ébaucher des croquis et des portraits,
+              M. Capuana fait de la critique proprement dite, ce qui est moins amusant, peut-être.
+              En Italie, comme dans tous les pays du monde, je suppose, la discussion méthodique et
+              plate est toujours un peu oisive ; on peut trouver de bonnes raisons pour admirer les
+              naturalistes, par exemple, comme on peut en trouver d’excellentes pour ne les admirer
+              pas, M. Capuana n’est plus un jeune, mais s’il conserve toute la vivacité méridionale,
+              il manque de nouveauté d’argumentation, de coup d’œil, de foi et de scepticisme tout
+              ensemble. Juger d’art et d’intentions littéraires avec le simple bon sens, c’est
+              vraiment se fermer la voie à exprimer des idées moins communes. Son livre fait
+              soupçonner que l’auteur est resté en arrière du mouvement artistique actuel et du tour
+              particulier des esprits. Il caresse généralement des médiocrités, dans ce livre et
+              dans ses articles : à part quelques écrivains devenus désormais internationaux, on ne
+              trouve guère ici que M. E. A. Butti et M. Corradini, à propos desquels nous puissions
+              avoir le désir de connaître la pensée de M. Capuana.</p>
           </div>
           <div>
             <head>Ugo Ojetti : <hi rend="i">L’arte moderna a Venezia</hi></head>
@@ -480,7 +923,25 @@
               <term type="date">1897-12</term>
               <term type="ref">Tome XXIV, numéro 96, décembre 1897, p. 949-955 [951-952]</term>
             </index>
-            <p>J’exprime donc l’humble opinion que si M. Capuana revenait à ses travaux ordinaires, romans, nouvelles, pièces de théâtre, il s’en trouverait bien. Il ne sait entraîner, ni par la magie du style, ni par la force de l’idée ; il est bien loin, par exemple, d’être capable de composer un livre tout à fait captivant, — quoiqu’il s’agisse encore de critique, — comme celui que vient de nous donner M. Ugo Ojetti, <hi rend="b">L’Arte Moderna a Venezia</hi> (Roma, E. Voghera édit., 1897). Pour les critiques de l’Exposition de Venise on a établi des prix ; je ne sais pas si M. Ojetti est parmi les concurrents ; on ne voit pas cette préoccupation dans son œuvre. Il donne son impression sur les peintres italiens et étrangers qui ont figuré à cette Exposition ; il sait varier la forme de cette impression, il fait des parenthèses, il amuse, il plaît. C’est tout. Le lecteur ne lui demande pas de détruire une école ou de démolir un artiste qui fait fausse route ; l’artiste à son tour ne croit pas, d’avance, à toute critique ; si elle est flatteuse, il l’accepte et il passe ; si elle est contraire, il a tout un vocabulaire spirituel et méprisant pour s’en défendre. C’est peut-être pour cela que M. Ojetti n’a pas voulu oublier, même dans un livre de critique, qu’il est aussi un charmant conteur. On peut ne pas admettre ses opinions, mais, le livre fermé, on demeure son ami : M. Ojetti vous a donné une heure de distraction, il s’est montré homme d’esprit et de goût. C’est, d’autre part, un tableau complet de cette Exposition importante.</p>
+            <p>J’exprime donc l’humble opinion que si M. Capuana revenait à ses travaux ordinaires,
+              romans, nouvelles, pièces de théâtre, il s’en trouverait bien. Il ne sait entraîner,
+              ni par la magie du style, ni par la force de l’idée ; il est bien loin, par exemple,
+              d’être capable de composer un livre tout à fait captivant, — quoiqu’il s’agisse encore
+              de critique, — comme celui que vient de nous donner M. Ugo Ojetti, <hi rend="b">L’Arte
+                Moderna a Venezia</hi> (Roma, E. Voghera édit., 1897). Pour les critiques de
+              l’Exposition de Venise on a établi des prix ; je ne sais pas si M. Ojetti est parmi
+              les concurrents ; on ne voit pas cette préoccupation dans son œuvre. Il donne son
+              impression sur les peintres italiens et étrangers qui ont figuré à cette Exposition ;
+              il sait varier la forme de cette impression, il fait des parenthèses, il amuse, il
+              plaît. C’est tout. Le lecteur ne lui demande pas de détruire une école ou de démolir
+              un artiste qui fait fausse route ; l’artiste à son tour ne croit pas, d’avance, à
+              toute critique ; si elle est flatteuse, il l’accepte et il passe ; si elle est
+              contraire, il a tout un vocabulaire spirituel et méprisant pour s’en défendre. C’est
+              peut-être pour cela que M. Ojetti n’a pas voulu oublier, même dans un livre de
+              critique, qu’il est aussi un charmant conteur. On peut ne pas admettre ses opinions,
+              mais, le livre fermé, on demeure son ami : M. Ojetti vous a donné une heure de
+              distraction, il s’est montré homme d’esprit et de goût. C’est, d’autre part, un
+              tableau complet de cette Exposition importante.</p>
           </div>
           <div>
             <head>Vittorio Pica : <hi rend="i">L’arte mondiale a Venezia</hi></head>
@@ -493,20 +954,53 @@
               <term type="date">1897-12</term>
               <term type="ref">Tome XXIV, numéro 96, décembre 1897, p. 949-955 [952]</term>
             </index>
-            <p>Comme si j’étais de la commission qui doit décerner les prix aux concurrents, je me suis amusé à comparer le recueil de M. Ojetti avec celui que M. Vittorio Pica vient de publier sur le même sujet, chez l’éditeur Pierro, de Naples. Je ne décernerai pas mon prix à l’un plutôt qu’à l’autre ; tous les deux se recommandent par des mérites spéciaux, et par des mérites communs : par exemple l’indépendance du jugement. M. Pica a peut-être moins de style et moins d’attrait littéraire que M. Ojetti ; il est moins entraînant, mais il abonde en comparaisons, en confrontations, il est plus analytique. Tandis que M. Ojetti a considéré la peinture, même en dehors de la peinture, comme la manifestation d’une pensée générale, d’un sentiment, comme une des expressions de tout le mouvement artistique moderne, M. Vittorio Pica, plus fidèle aux règles, cherche avant tout et après tout le peintre dans le peintre. Je crois avoir ébauché le caractère de ces deux livres intéressants ; ce qui n’empêche que M. Pica et M. Ojetti se retrouvent souvent dans la même conclusion ; phénomène désespérant pour les peintres qui, repoussés par l’un, ne peuvent pas se consoler dans les bras de l’autre !</p>
+            <p>Comme si j’étais de la commission qui doit décerner les prix aux concurrents, je me
+              suis amusé à comparer le recueil de M. Ojetti avec celui que M. Vittorio Pica vient de
+              publier sur le même sujet, chez l’éditeur Pierro, de Naples. Je ne décernerai pas mon
+              prix à l’un plutôt qu’à l’autre ; tous les deux se recommandent par des mérites
+              spéciaux, et par des mérites communs : par exemple l’indépendance du jugement. M. Pica
+              a peut-être moins de style et moins d’attrait littéraire que M. Ojetti ; il est moins
+              entraînant, mais il abonde en comparaisons, en confrontations, il est plus analytique.
+              Tandis que M. Ojetti a considéré la peinture, même en dehors de la peinture, comme la
+              manifestation d’une pensée générale, d’un sentiment, comme une des expressions de tout
+              le mouvement artistique moderne, M. Vittorio Pica, plus fidèle aux règles, cherche
+              avant tout et après tout le peintre dans le peintre. Je crois avoir ébauché le
+              caractère de ces deux livres intéressants ; ce qui n’empêche que M. Pica et M. Ojetti
+              se retrouvent souvent dans la même conclusion ; phénomène désespérant pour les
+              peintres qui, repoussés par l’un, ne peuvent pas se consoler dans les bras de
+              l’autre !</p>
           </div>
           <div>
-            <head>Casimiro Varese : <hi rend="i">Vita e scritti di Roberto Hamerling, e la sua tragedia tradotta « Danton et Robespierre »</hi></head>
+            <head>Casimiro Varese : <hi rend="i">Vita e scritti di Roberto Hamerling, e la sua
+                tragedia tradotta « Danton et Robespierre »</hi></head>
             <index>
               <term type="id">article-1897-12_952b</term>
               <term type="author">Zùccoli, Luciano (1868-1929)</term>
               <term type="signed">Luciano Zùccoli</term>
               <term type="section">Lettres italiennes</term>
-              <term type="title">Casimiro Varese : <hi rend="i">Vita e scritti di Roberto Hamerling, e la sua tragedia tradotta « Danton et Robespierre »</hi></term>
+              <term type="title">Casimiro Varese : <hi rend="i">Vita e scritti di Roberto Hamerling,
+                  e la sua tragedia tradotta « Danton et Robespierre »</hi></term>
               <term type="date">1897-12</term>
               <term type="ref">Tome XXIV, numéro 96, décembre 1897, p. 949-955 [952-953]</term>
             </index>
-            <p>Puisque nous parlons des œuvres où la patience tient le rôle de la fantaisie, il serait injuste de ne pas mentionner le travail soigné et élégant de M. Casimiro Varese. La Maison éditrice Galli de Milan vient de publier sa <hi rend="b">Vita e Scritti di Roberto Hamerling e la sua tragedia tradotta : Danton e Robespierre</hi>. J’ai dit d’avance que ce travail de M. Casimiro Varese est très soigné : la biographie qu’il donne de Robert Hamerling est scrupuleuse, minutieuse, abondante. Quoique la vie du grand poète autrichien n’offre pas d’aventures fort remarquables, mais tout un développement idéologique, pas trop facile à suivre et à rendre. M. Casimiro Varese est, d’ailleurs, un spécialiste du genre ; il a traduit autrefois Bürger, Goethe, Klopstock, Grillparzer, Lessing ; mais jamais il n’avait atteint à cette élégance, à cette souplesse de forme. Sa traduction de la tragédie <hi rend="i">Danton et Robespierre</hi> a une valeur littéraire indéniable, et on la lit avec plaisir, sans ces brusques sursauts, que les traductions donnent en général aux amateurs de style. Ce n’est pas le cas de s’arrêter à la tragédie et d’en résumer l’argument ; on la considère désormais tel qu’un chef-d’œuvre ; elle est puissante, et les personnages y atteignent des proportions plus grandes que nature, selon la bonne règle de la tragédie classique. Mais il faut cependant encore noter le succès que Robespierre, ce héros de l’occasion et de la confusion, obtient chez les dramaturges.</p>
+            <p>Puisque nous parlons des œuvres où la patience tient le rôle de la fantaisie, il
+              serait injuste de ne pas mentionner le travail soigné et élégant de M. Casimiro
+              Varese. La Maison éditrice Galli de Milan vient de publier sa <hi rend="b">Vita e
+                Scritti di Roberto Hamerling e la sua tragedia tradotta : Danton e Robespierre</hi>.
+              J’ai dit d’avance que ce travail de M. Casimiro Varese est très soigné : la biographie
+              qu’il donne de Robert Hamerling est scrupuleuse, minutieuse, abondante. Quoique la vie
+              du grand poète autrichien n’offre pas d’aventures fort remarquables, mais tout un
+              développement idéologique, pas trop facile à suivre et à rendre. M. Casimiro Varese
+              est, d’ailleurs, un spécialiste du genre ; il a traduit autrefois Bürger, Goethe,
+              Klopstock, Grillparzer, Lessing ; mais jamais il n’avait atteint à cette élégance, à
+              cette souplesse de forme. Sa traduction de la tragédie <hi rend="i">Danton et
+                Robespierre</hi> a une valeur littéraire indéniable, et on la lit avec plaisir, sans
+              ces brusques sursauts, que les traductions donnent en général aux amateurs de style.
+              Ce n’est pas le cas de s’arrêter à la tragédie et d’en résumer l’argument ; on la
+              considère désormais tel qu’un chef-d’œuvre ; elle est puissante, et les personnages y
+              atteignent des proportions plus grandes que nature, selon la bonne règle de la
+              tragédie classique. Mais il faut cependant encore noter le succès que Robespierre, ce
+              héros de l’occasion et de la confusion, obtient chez les dramaturges.</p>
           </div>
           <div>
             <head>Domenico Oliva : <hi rend="i">Robespierre</hi></head>
@@ -519,7 +1013,19 @@
               <term type="date">1897-12</term>
               <term type="ref">Tome XXIV, numéro 96, décembre 1897, p. 949-955 [953]</term>
             </index>
-            <p>M. Domenico Oliva, par exemple, que j’ai à tort considéré jusqu’ici simplement comme critique, a écrit un drame du plus haut intérêt sur ce sujet. (Domenico Oliva : <hi rend="b">Robespierre</hi>, drame en cinq actes ; Milan, maison Galli, édit.) La révolution de Thermidor y tient la plus grande place, mais le personnage de Robespierre y joue un rôle scrupuleusement historique. On ne sent pas, dans ce drame, l’approche de l’Empire ; Robespierre ne prêche pas, ne prévoit pas : c’est le démagogue et non le prophète menaçant. Nous avons ici, enfin, le drame humain, tandis que Robert Hamerling nous donne la tragédie formidable et quelque peu trop subjective. Après tout, on ne peut pas instituer une comparaison ; les thèmes seuls ont voulu ce rapprochement entre une tragédie et un drame, qui n’ont pas de communes intentions, ni politiques, ni artistiques. M. Oliva, surtout, n’a pas voulu imposer son opinion personnelle ; il a fait d’un morceau d’histoire une pièce de théâtre et il n’a pas ajouté une ligne aux figures trop connues de la Révolution. Son drame est beau.</p>
+            <p>M. Domenico Oliva, par exemple, que j’ai à tort considéré jusqu’ici simplement comme
+              critique, a écrit un drame du plus haut intérêt sur ce sujet. (Domenico Oliva : <hi
+                rend="b">Robespierre</hi>, drame en cinq actes ; Milan, maison Galli, édit.) La
+              révolution de Thermidor y tient la plus grande place, mais le personnage de
+              Robespierre y joue un rôle scrupuleusement historique. On ne sent pas, dans ce drame,
+              l’approche de l’Empire ; Robespierre ne prêche pas, ne prévoit pas : c’est le
+              démagogue et non le prophète menaçant. Nous avons ici, enfin, le drame humain, tandis
+              que Robert Hamerling nous donne la tragédie formidable et quelque peu trop subjective.
+              Après tout, on ne peut pas instituer une comparaison ; les thèmes seuls ont voulu ce
+              rapprochement entre une tragédie et un drame, qui n’ont pas de communes intentions, ni
+              politiques, ni artistiques. M. Oliva, surtout, n’a pas voulu imposer son opinion
+              personnelle ; il a fait d’un morceau d’histoire une pièce de théâtre et il n’a pas
+              ajouté une ligne aux figures trop connues de la Révolution. Son drame est beau.</p>
           </div>
           <div>
             <head>Alessandro D’Ancona : <hi rend="i">Federico Confalonieri</hi></head>
@@ -528,12 +1034,27 @@
               <term type="author">Zùccoli, Luciano (1868-1929)</term>
               <term type="signed">Luciano Zùccoli</term>
               <term type="section">Lettres italiennes</term>
-              <term type="title">Alessandro D’Ancona : <hi rend="i">Federico Confalonieri</hi></term>
+              <term type="title">Alessandro D’Ancona : <hi rend="i">Federico
+                Confalonieri</hi></term>
               <term type="date">1897-12</term>
               <term type="ref">Tome XXIV, numéro 96, décembre 1897, p. 949-955 [953-954]</term>
             </index>
-            <p>Mais si nous voulons jouir avec passion d’événements politiques terribles, il nous faut suivre M. Alessandro D’Ancona, dont la maison éditrice Treves de Milan, en continuant ses traditions de bon goût, vient de publier un volume qui a pour titre ce nom cher aux italiens : <hi rend="b">Federico Confalonieri</hi>.</p>
-            <p>Le livre de M. D’Ancona est précieux. Cet érudit devient un artiste lorsqu’il nous parle du Comte Confalonieri. Celui-ci, beau, élégant, riche, autoritaire, tient dans l’histoire des conspirations pour la renaissance politique italienne la part la plus importante. Entouré d’envieux, son nom n’est pas arrivé à nous sans le soupçon malin de quelque tache ; mais M. D’Ancona le défend victorieusement ; il suit le Comte Confalonieri dans toutes ses aventures et mésaventures politiques, dans ses exils, dans les prisons du Spielberg, jusqu’à sa mort ; on ne peut pas être un biographe plus amoureux, plus diligent. Et M. D’Ancona a ajouté à la part narrative un recueil de documents presque tous inédits, qui éclairent d’une manière lumineuse la période historique dans laquelle brille la figure de Confalonieri. Le livre, à peine paru, a déjà obtenu un grand succès dans tous les publics, comme il arrive aux œuvres sérieuses et méditées.</p>
+            <p>Mais si nous voulons jouir avec passion d’événements politiques terribles, il nous
+              faut suivre M. Alessandro D’Ancona, dont la maison éditrice Treves de Milan, en
+              continuant ses traditions de bon goût, vient de publier un volume qui a pour titre ce
+              nom cher aux italiens : <hi rend="b">Federico Confalonieri</hi>.</p>
+            <p>Le livre de M. D’Ancona est précieux. Cet érudit devient un artiste lorsqu’il nous
+              parle du Comte Confalonieri. Celui-ci, beau, élégant, riche, autoritaire, tient dans
+              l’histoire des conspirations pour la renaissance politique italienne la part la plus
+              importante. Entouré d’envieux, son nom n’est pas arrivé à nous sans le soupçon malin
+              de quelque tache ; mais M. D’Ancona le défend victorieusement ; il suit le Comte
+              Confalonieri dans toutes ses aventures et mésaventures politiques, dans ses exils,
+              dans les prisons du Spielberg, jusqu’à sa mort ; on ne peut pas être un biographe plus
+              amoureux, plus diligent. Et M. D’Ancona a ajouté à la part narrative un recueil de
+              documents presque tous inédits, qui éclairent d’une manière lumineuse la période
+              historique dans laquelle brille la figure de Confalonieri. Le livre, à peine paru, a
+              déjà obtenu un grand succès dans tous les publics, comme il arrive aux œuvres
+              sérieuses et méditées.</p>
           </div>
           <div>
             <head>Marginalia</head>
@@ -548,9 +1069,27 @@
                 <term type="date">1897-12</term>
                 <term type="ref">Tome XXIV, numéro 96, décembre 1897, p. 949-955 [954]</term>
               </index>
-              <p>Nous allons avoir en Italie, aux portes de Rome, sur les bords enchanteurs du lac d’Albano, un Théâtre Tragique. M. Gabriele d’Annunzio a été l’initiateur du projet ; M. Gordon Bennett, le propriétaire du <hi rend="i">New-York Herald</hi>, est entré dans la société par actions qu’on a créée dans ce but. Nous remarquons, parmi les noms des adhérents, ceux de M. le Comte Primoli, de Mme la Comtesse Pasolini, de la Princesse de Wagram, de la Comtesse de Vogüé, de la Comtesse de Béarn, de la Princesse Pia di Savoja, de la marquise d’Aramon, etc. Mme Eleonora Duse sera à la tête de la compagnie dramatique, qui donnera sa première le 21 mars 1899, à la naissance du Printemps. On jouera <hi rend="i">Persofone</hi>, tragédie ancienne, de M. Gabriele d’Annunzio. Les représentations ont le but discutable de faire renaître la tragédie ; et l’auteur de l’<hi rend="i">Enfant de volupté</hi> a traduit pour son théâtre, en prose rythmique, l’<hi rend="i">Agamemnon</hi> d’Eschyle, et l’<hi rend="i">Antigone</hi> de Sophocle. Si les poètes modernes ne répondent pas à son appel, M. d’Annunzio se propose d’écrire lui-même quatre tragédies par an, et de les faire jouer au Théâtre des Muses.</p>
-              <p>On voit que la tragédie coûte peu de fatigue, mais on voit en même temps que nous marchons à grands pas à la Renaissance du classicisme le plus pur.</p>
-              <p>Nous ne pourrions passer sous silence que l’idée de M. d’Annunzio, en réveillant d’un côté tous les enthousiasmes intellectuels, a donné matière aux épigrammes les plus spirituelles de la presse sceptique. Rien n’est parfait : la tragédie même fait sourire, en ces temps de malveillance !</p>
+              <p>Nous allons avoir en Italie, aux portes de Rome, sur les bords enchanteurs du lac
+                d’Albano, un Théâtre Tragique. M. Gabriele d’Annunzio a été l’initiateur du projet ;
+                M. Gordon Bennett, le propriétaire du <hi rend="i">New-York Herald</hi>, est entré
+                dans la société par actions qu’on a créée dans ce but. Nous remarquons, parmi les
+                noms des adhérents, ceux de M. le Comte Primoli, de Mme la Comtesse Pasolini, de la
+                Princesse de Wagram, de la Comtesse de Vogüé, de la Comtesse de Béarn, de la
+                Princesse Pia di Savoja, de la marquise d’Aramon, etc. Mme Eleonora Duse sera à la
+                tête de la compagnie dramatique, qui donnera sa première le 21 mars 1899, à la
+                naissance du Printemps. On jouera <hi rend="i">Persofone</hi>, tragédie ancienne, de
+                M. Gabriele d’Annunzio. Les représentations ont le but discutable de faire renaître
+                la tragédie ; et l’auteur de l’<hi rend="i">Enfant de volupté</hi> a traduit pour
+                son théâtre, en prose rythmique, l’<hi rend="i">Agamemnon</hi> d’Eschyle, et l’<hi
+                  rend="i">Antigone</hi> de Sophocle. Si les poètes modernes ne répondent pas à son
+                appel, M. d’Annunzio se propose d’écrire lui-même quatre tragédies par an, et de les
+                faire jouer au Théâtre des Muses.</p>
+              <p>On voit que la tragédie coûte peu de fatigue, mais on voit en même temps que nous
+                marchons à grands pas à la Renaissance du classicisme le plus pur.</p>
+              <p>Nous ne pourrions passer sous silence que l’idée de M. d’Annunzio, en réveillant
+                d’un côté tous les enthousiasmes intellectuels, a donné matière aux épigrammes les
+                plus spirituelles de la presse sceptique. Rien n’est parfait : la tragédie même fait
+                sourire, en ces temps de malveillance !</p>
             </div>
             <div>
               <head>Les manuscrits de Giacomo Leopardi</head>
@@ -563,8 +1102,22 @@
                 <term type="date">1897-12</term>
                 <term type="ref">Tome XXIV, numéro 96, décembre 1897, p. 949-955 [954-955]</term>
               </index>
-              <p>On peut bien parler de conquête à propos des manuscrits de Giacomo Leopardi. Le grand poète de Recanati, en mourant, avait laissé ces papiers précieux à son meilleur ami. M. A. Ranieri, qui, à son tour, en faisait un legs à la Bibliothèque Nationale de Naples, à la condition que cette dernière n’entrât en possession des manuscrits qu’à la mort des deux femmes de chambre de M. Ranieri, usufruitières de ses biens, complètement illettrées. Les deux dames respectables, plus amies des prêtres que la grande littérature, enfermèrent les documents parmi leurs frusques et s’opposèrent résolument à toute publication. C’est seulement après un long débat et grâce à une ruse légale, que le Gouvernement italien a pu reconquérir les papiers de Giacomo Leopardi et les confier à une commission d’hommes de lettres et d’érudits qui en surveilleront l’édition.</p>
-              <p>Si ces documents ne présentent pas l’intérêt de travaux littéraires inédits, ils auront toutefois, paraît-il, une grande importance relativement à la vie privée du grand poète de la douleur. On parle aussi d’un poème satirique trouvé parmi les papiers : il va sans dire que les éditeurs se disputent la publication de ces friandises inattendues.</p>
+              <p>On peut bien parler de conquête à propos des manuscrits de Giacomo Leopardi. Le
+                grand poète de Recanati, en mourant, avait laissé ces papiers précieux à son
+                meilleur ami. M. A. Ranieri, qui, à son tour, en faisait un legs à la Bibliothèque
+                Nationale de Naples, à la condition que cette dernière n’entrât en possession des
+                manuscrits qu’à la mort des deux femmes de chambre de M. Ranieri, usufruitières de
+                ses biens, complètement illettrées. Les deux dames respectables, plus amies des
+                prêtres que la grande littérature, enfermèrent les documents parmi leurs frusques et
+                s’opposèrent résolument à toute publication. C’est seulement après un long débat et
+                grâce à une ruse légale, que le Gouvernement italien a pu reconquérir les papiers de
+                Giacomo Leopardi et les confier à une commission d’hommes de lettres et d’érudits
+                qui en surveilleront l’édition.</p>
+              <p>Si ces documents ne présentent pas l’intérêt de travaux littéraires inédits, ils
+                auront toutefois, paraît-il, une grande importance relativement à la vie privée du
+                grand poète de la douleur. On parle aussi d’un poème satirique trouvé parmi les
+                papiers : il va sans dire que les éditeurs se disputent la publication de ces
+                friandises inattendues.</p>
             </div>
             <div>
               <head>[Eleonora Duse]</head>
@@ -577,7 +1130,15 @@
                 <term type="date">1897-12</term>
                 <term type="ref">Tome XXIV, numéro 96, décembre 1897, p. 949-955 [955]</term>
               </index>
-              <p><hi rend="b">Mme Eleonora Duse</hi> a commencé son tour artistique en Italie. Elle provoque partout un grand enthousiasme, mêlé toutefois à quelque peu de surprise. Voilà six ans que Mme Duse ne jouait plus dans sa patrie ; et le public et la critique remarquent en elle un changement, que personne ne sait définir. C’est de la perfection sans doute ; mais il ne manque pas de critiques pour oser préférer à la Duse actuelle la Duse de 1891, lorsqu’elle était moins parfaite. Ils font des différences très subtiles entre la grande actrice de jadis et la grande tragédienne de maintenant : son art, enfin, a changé. Ce qui n’empêche que c’est toujours du grand art.</p>
+              <p><hi rend="b">Mme Eleonora Duse</hi> a commencé son tour artistique en Italie. Elle
+                provoque partout un grand enthousiasme, mêlé toutefois à quelque peu de surprise.
+                Voilà six ans que Mme Duse ne jouait plus dans sa patrie ; et le public et la
+                critique remarquent en elle un changement, que personne ne sait définir. C’est de la
+                perfection sans doute ; mais il ne manque pas de critiques pour oser préférer à la
+                Duse actuelle la Duse de 1891, lorsqu’elle était moins parfaite. Ils font des
+                différences très subtiles entre la grande actrice de jadis et la grande tragédienne
+                de maintenant : son art, enfin, a changé. Ce qui n’empêche que c’est toujours du
+                grand art.</p>
             </div>
           </div>
           <div>
@@ -591,7 +1152,21 @@
               <term type="date">1897-12</term>
               <term type="ref">Tome XXIV, numéro 96, décembre 1897, p. 949-955 [955]</term>
             </index>
-            <p>Luigi Capuana : <hi rend="i">Gli « Ismi » contemporanei</hi>, Catane, N. Giannotta. — Edmondo De Amicis : <hi rend="i">Le Tre Capitali</hi>, Catane, N. Giannotta. — Matilde Serao : <hi rend="i">Storia d’una monaca</hi>, Catane, N. Giannotta. — Giovanni Verga : <hi rend="i">Una peccatrice</hi>, Catane, N. Giannotta. — Alberto Cantoni : <hi rend="i">Pietro e Paola con seguito di bei Tipi</hi>, Florence, G. Barbera. — Renato Fucini : <hi rend="i">All’aria aperta</hi>,  Florence, R. Bemporad e Figlio. — Ernesto Zenuti : <hi rend="i">Vita Olandese</hi>, Florence, R. Bemporad e Figlio. — Casimiro Vareje : <hi rend="i">Vita e Scritti di Roberto Hamerling e la stia tragedia tradotta : Danton e Robespierre</hi>, con ritratto del poeta, Milan, Casa editrice Galli. — Avancinio, Avancini : <hi rend="i">L’Idolo Infranto</hi>, romanzo, Milan, Casa editrice Galli. — Domenico Oliva : <hi rend="i">Note letterarie</hi>, Milan, G. Marco. — Domenico Oliva : <hi rend="i">Robespierre</hi>, dramma in cinque atti, Milan, Casa Galli. — Ugo Ojetti : <hi rend="i">L’Arte moderna a Venezia</hi>, Rome, Enrico Voguera. — Alessandro D’Ancona : <hi rend="i">Federico Confalonieri</hi>, Milan, Treves.</p>
+            <p>Luigi Capuana : <hi rend="i">Gli « Ismi » contemporanei</hi>, Catane, N. Giannotta.
+              — Edmondo De Amicis : <hi rend="i">Le Tre Capitali</hi>, Catane, N. Giannotta.
+              — Matilde Serao : <hi rend="i">Storia d’una monaca</hi>, Catane, N. Giannotta.
+              — Giovanni Verga : <hi rend="i">Una peccatrice</hi>, Catane, N. Giannotta. — Alberto
+              Cantoni : <hi rend="i">Pietro e Paola con seguito di bei Tipi</hi>, Florence,
+              G. Barbera. — Renato Fucini : <hi rend="i">All’aria aperta</hi>,  Florence,
+              R. Bemporad e Figlio. — Ernesto Zenuti : <hi rend="i">Vita Olandese</hi>, Florence,
+              R. Bemporad e Figlio. — Casimiro Vareje : <hi rend="i">Vita e Scritti di Roberto
+                Hamerling e la stia tragedia tradotta : Danton e Robespierre</hi>, con ritratto del
+              poeta, Milan, Casa editrice Galli. — Avancinio, Avancini : <hi rend="i">L’Idolo
+                Infranto</hi>, romanzo, Milan, Casa editrice Galli. — Domenico Oliva : <hi rend="i"
+                >Note letterarie</hi>, Milan, G. Marco. — Domenico Oliva : <hi rend="i"
+                >Robespierre</hi>, dramma in cinque atti, Milan, Casa Galli. — Ugo Ojetti : <hi
+                rend="i">L’Arte moderna a Venezia</hi>, Rome, Enrico Voguera. — Alessandro
+              D’Ancona : <hi rend="i">Federico Confalonieri</hi>, Milan, Treves.</p>
           </div>
         </div>
       </div>

@@ -6,6 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Articles du <hi rend="i">Mercure de France</hi>, année 1907</title>
+        <author ref="https://data.bnf.fr/ark:/12148/cb11877250x">Mercure de France</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -33,15 +34,8 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1907/</idno>
-        <idno type="tei"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1907.xml</idno>
-        <idno type="html"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1907.html</idno>
-        <idno type="epub"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1907.epub</idno>
-        <idno type="txt"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1907.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/</idno>
+        <idno type="txt">http://obvil.sorbonne-universite.fr/corpus/mdf-italie/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
@@ -2660,8 +2654,8 @@
           <p>La noblesse humaine, si l’on considère la multitude de ses fruits, surpasse celle des
             anges, quoique dans son unité la noblesse angélique soit plus divine.</p>
           <p>Comme la couleur <hi rend="i">pers</hi> vient de la noire, la vertu descend de la
-            noblesse. Le <hi rend="i">pers</hi>, mélange de pourpre et de noir, ressemble à la vertu, mélange de
-            noblesse et de passion.</p>
+            noblesse. Le <hi rend="i">pers</hi>, mélange de pourpre et de noir, ressemble à la
+            vertu, mélange de noblesse et de passion.</p>
           <p>Nul ne peut se prétendre noble, quelle que soit sa race, s’il ne possède les fruits de
             la vraie noblesse morale. Celui qui les possède est semblable aux dieux. Car de même
             qu’il y a des hommes bestiaux, il y en a d’autres nobles et divins.</p>
@@ -3455,7 +3449,7 @@
               historiques, relativement récentes, d’état de la pensée et de pathologie de l’esprit
               religieux (résumées par quelques-uns dans ce mot : cléricalisme), se dessine déjà, si
               nous ne nous trompons, un vigoureux mouvement de reconstitution.</p>
-            </div>
+          </div>
           <div>
             <head>M. Antonio Fogazzaro. Sénateur, Homme de lettres (Italie)</head>
             <index>
@@ -6079,10 +6073,10 @@
             de Georges Maniakès nous remémorent les guerres du <num>xvi<hi rend="sup"
             >e</hi></num> siècle. Palerme, au contraire, vit par le souvenir de la domination
             normande. C’est la chapelle Palatine, Saint-Jean des Ermites, San Cataldo, la Martorana,
-            la Ziza et la Cuba, le dôme de Cefalù, San Spirito et la cathédrale qu’il faut
-            compléter avec le dôme et le cloître de Monréale, œuvre d’un art précieux, dans lequel
-            on reconnaît, unie aux influences normandes, la décoration pour ainsi dire géométrique
-            et en broderie des monuments arabes. Mais né d’une volonté royale et d’une intention
+            la Ziza et la Cuba, le dôme de Cefalù, San Spirito et la cathédrale qu’il faut compléter
+            avec le dôme et le cloître de Monréale, œuvre d’un art précieux, dans lequel on
+            reconnaît, unie aux influences normandes, la décoration pour ainsi dire géométrique et
+            en broderie des monuments arabes. Mais né d’une volonté royale et d’une intention
             politique, cet art ne devint jamais un art national et, malgré un éclat incomparable, il
             dura peu et se transforma vite. C’est au même ciseau que nous devons le candélabre
             pascal de la chapelle Palatine, les délicats chapiteaux du vestibule de la Ziza et ceux
@@ -10901,9 +10895,9 @@
               sens s’éveillèrent, mais mon cœur resta calme, tranquille, réglé comme auparavant.
               J’avais le désir de l’amour, mais non le pouvoir d’aimer. Je sentis alors que je
               n’aimerais jamais, que je ne pourrais jamais connaître les égarements et les ardeurs
-              de la passion. Je sentis alors que je pourrais posséder des femmes, que je pourrais
-              me faire aimer d’elles, mais que je ne réussirais pas une seule minute à agiter mon
-              cœur ou à troubler mon âme. Dans les premiers temps, je ne voulus pas croire à
+              de la passion. Je sentis alors que je pourrais posséder des femmes, que je pourrais me
+              faire aimer d’elles, mais que je ne réussirais pas une seule minute à agiter mon cœur
+              ou à troubler mon âme. Dans les premiers temps, je ne voulus pas croire à
               l’impossibilité où j’étais d’aimer et je cherchai par tous les moyens à démentir mes
               premières expériences. Car je croyais à la beauté et à la grandeur de l’amour et je ne
               voulais pas que les femmes fussent pour moi seulement un jeu et un divertissement. Je
@@ -11452,8 +11446,8 @@
               rapprochons les jugements de Voltaire, sur le Dante notamment et sur Goldoni, tels que
               nous les donne Casanova, de ceux que nous rencontrons dans la <hi rend="i"
                 >Correspondance</hi>, dans les lettres de 1760-1761 à Algarotti et à Albergati
-              Capaccelli, nous sommes frappés par une curieuse analogie aussi bien dans les idées que
-              dans les formules. Le théâtre de Goldoni passionnait Voltaire à cette époque de sa
+              Capaccelli, nous sommes frappés par une curieuse analogie aussi bien dans les idées
+              que dans les formules. Le théâtre de Goldoni passionnait Voltaire à cette époque de sa
               vie : il fait le sujet des longues lettres qu’il échange avec le marquis Albergati
               Capaccelli, poète dramatique, un de ses meilleurs amis d’outre-monts. Aussi, dans sa
               conversation avec Casanova, le nom seul d’Albergati suffit-il à évoquer celui de
@@ -11481,25 +11475,25 @@
               >Mémoires</hi>.</p>
             <p>Il est cependant encore un point sur lequel nous désirons appeler l’attention : le
               5 septembre 1760, exactement onze jours après la dernière visite de Casanova, Voltaire
-              écrit à Albergati Capaccelli : <quote>« <hi rend="i">Je suis dans mon lit depuis quinze
-                  jours</hi>, Monsieur. Vieillesse et maladie sont deux fort sottes choses pour un
-                homme qui aime comme moi le travail et le plaisir. »</quote> Ici le témoignage de
-              Casanova semble en contradiction formelle avec celui de Voltaire ; mais ce n’est
-              qu’une apparence : Casanova prétend avoir été reçu aux Délices pendant quatre jours,
-              du 21 au 24 août 1760, et il ne nous dit nullement que Voltaire était malade au point
-              de garder le lit ; au contraire, à l’en croire, son hôte lui aurait fait lui-même les
-              honneurs de sa propriété et l’aurait traité tous les jours à sa table. Mais lorsque
-              Voltaire s’adresse à son correspondant, auquel il n’a pas écrit depuis plus d’un mois,
-              n’est-il pas excusable de forcer un peu le compte des jours, pour justifier en partie
-              son silence ? Aussi bien connaissons-nous tous la valeur réelle de cette expression :
-                <hi rend="i">quinze jours</hi>. Ce qui reste exact, c’est que la santé de Voltaire
-              était à cette époque fort ébranlée. Or, le texte de Casanova n’est pas du tout en
-              contradiction avec ce fait : il signale la présence aux Délices du médecin Tronchin,
-              avec lequel il se rencontra le 22 août ; le 23 août, Casanova dîna comme d’habitude
-              aux Délices, mais, ce jour-là, il y fut reçu par M<hi rend="sup">me</hi> Denis ;
-              Voltaire ne dîna pas avec eux et ne parut que le soir, à cinq heures : rien ne nous
-              empêche de supposer qu’un accès du mal dont il souffrait alors l’avait retenu à la
-              chambre, et même au lit.</p>
+              écrit à Albergati Capaccelli : <quote>« <hi rend="i">Je suis dans mon lit depuis
+                  quinze jours</hi>, Monsieur. Vieillesse et maladie sont deux fort sottes choses
+                pour un homme qui aime comme moi le travail et le plaisir. »</quote> Ici le
+              témoignage de Casanova semble en contradiction formelle avec celui de Voltaire ; mais
+              ce n’est qu’une apparence : Casanova prétend avoir été reçu aux Délices pendant quatre
+              jours, du 21 au 24 août 1760, et il ne nous dit nullement que Voltaire était malade au
+              point de garder le lit ; au contraire, à l’en croire, son hôte lui aurait fait
+              lui-même les honneurs de sa propriété et l’aurait traité tous les jours à sa table.
+              Mais lorsque Voltaire s’adresse à son correspondant, auquel il n’a pas écrit depuis
+              plus d’un mois, n’est-il pas excusable de forcer un peu le compte des jours, pour
+              justifier en partie son silence ? Aussi bien connaissons-nous tous la valeur réelle de
+              cette expression : <hi rend="i">quinze jours</hi>. Ce qui reste exact, c’est que la
+              santé de Voltaire était à cette époque fort ébranlée. Or, le texte de Casanova n’est
+              pas du tout en contradiction avec ce fait : il signale la présence aux Délices du
+              médecin Tronchin, avec lequel il se rencontra le 22 août ; le 23 août, Casanova dîna
+              comme d’habitude aux Délices, mais, ce jour-là, il y fut reçu par M<hi rend="sup"
+                >me</hi> Denis ; Voltaire ne dîna pas avec eux et ne parut que le soir, à cinq
+              heures : rien ne nous empêche de supposer qu’un accès du mal dont il souffrait alors
+              l’avait retenu à la chambre, et même au lit.</p>
             <p>Il semble donc qu’on puisse accorder une confiance suffisante au chapitre des <hi
                 rend="i">Mémoires</hi> où Casanova raconte ses visites chez Voltaire. Sans doute, il
               faudra faire sur le texte, sur les détails et le ton du dialogue, les réserves

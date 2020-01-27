@@ -7,6 +7,7 @@
     <fileDesc>
       <titleStmt>
         <title>Articles du <hi rend="i">Mercure de France</hi>, année 1918</title>
+        <author ref="https://data.bnf.fr/ark:/12148/cb11877250x">Mercure de France</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -22,30 +23,24 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2018"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1918.xml</idno>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1918.html</idno>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1918.epub</idno>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1918.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire
-              d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé
-              OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété
-              intellectuelle sur les bases de données (L341-1) est mise à disposition
-              de la communauté scientifique internationale par l’OBVIL, selon les
-              termes de la licence Creative Commons : « Attribution - Pas
-              d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND
-              3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou
-              publication dérivée de cette ressource électroniques comportera le nom
-              de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté
-              scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette
-              ressource électronique, notamment en intégrant toutes les contributions
-              extérieures, la diffusion de versions modifiées de cette ressource n’est
-              pas souhaitable.</p>
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+              « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+              Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+              électronique, notamment en intégrant toutes les contributions extérieures, la
+              diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
@@ -2448,8 +2443,8 @@
             <p>Je défends la cause que je crois juste et je supporte les conséquences de mon
               attitude : les plus légères sont de m’exposer aux calomnies et aux insinuations des
               gens dont la guerre a obscurci la conscience.</p>
-            <label type="salute" rend="n">Veuillez agréer, Monsieur le Directeur, l’expression de mes
-              sentiments distingués.</label>
+            <label type="salute" rend="n">Veuillez agréer, Monsieur le Directeur, l’expression de
+              mes sentiments distingués.</label>
             <p rend="right">JACQUES MESNIL.</p>
           </quote>
         </div>
@@ -6047,31 +6042,31 @@
             péninsule, permet d’entretenir des craintes sérieuses pour l’avenir de la dite
             entente.</p>
           <p>Dans un fort judicieux article dans la <hi rend="i">Revue des Nations Latines</hi> du
-            16 octobre dernier<note place="bottom"><hi rend="i">Per un nuovo
-                umanismo</hi>, p. 183 <hi rend="i">seq.</hi> L’auteur s’élève, dans
-              cet article, contre la déviation de méthodes qui s’est produite, depuis 1916, au sein
-              du groupement <hi rend="i">Attene e Roma</hi>, lequel se propose de promouvoir la
-              renaissance des études classiques en Italie. Voir à ce sujet la brochure du professeur
-              Ettore Romagnoli : <hi rend="i">L’aurora classica boreale</hi>, parue l’an dernier à
-              Bologne chez Zanichelli. Voir aussi notre article : <hi rend="i">Corpus Scriptorum
-                Latinorum</hi> dans la <hi rend="i">Revue de l’Enseignement des Langues
-                Vivantes</hi>, de mars 1917, p. 110 <hi rend="i">seq.</hi>, et notre écho ici même
-                (<hi rend="i">Mercure</hi> du 16 juin 1917, p. 766).</note>, M. Armando Tartarini
-            s’est demandé d’où venait que les peuples latins, et plus spécialement les Italiens,
-            eussent perdu <quote>« toute communication avec les régions spirituelles de nos vieux
-              ancêtres, qui nous transmirent en héritage les formes essentielles de notre esprit et
-              de notre langue »</quote>. Sa réponse est la suivante : <quote>« Ce processus
-              d’amnésie historique qui peu à peu s’est manifesté parmi nous, est certainement un
-              effet partiel des méthodes germaniques introduites dans nos études et nos écoles, et
-              qui ont entraîné la haine pour les grecs et les latins, en desséchant les jardins de
-              notre latinité humaniste… »</quote> Selon ce garant informé, il n’est besoin, pour
-            reprendre les contacts interrompus, que <quote>« de rétablir les communications coupées
-              par le pédantesque “scientisme” philologique allemand »</quote> ; de se réconcilier,
-            en un mot, avec les grands classiques de l’antiquité, étudiés, non plus à la façon
-            purement formelle et « critique de textes » des éditeurs de Teubner et de leurs
-            épigones, mais aussi et surtout du point de vue de la « substantifique moelle », à peu
-            près complètement négligé par l’école des glossateurs de l’école philologique teutonne.
-            Ici encore, il convient de citer notre autorité :</p>
+            16 octobre dernier<note place="bottom"><hi rend="i">Per un nuovo umanismo</hi>, p. 183
+                <hi rend="i">seq.</hi> L’auteur s’élève, dans cet article, contre la déviation de
+              méthodes qui s’est produite, depuis 1916, au sein du groupement <hi rend="i">Attene e
+                Roma</hi>, lequel se propose de promouvoir la renaissance des études classiques en
+              Italie. Voir à ce sujet la brochure du professeur Ettore Romagnoli : <hi rend="i"
+                >L’aurora classica boreale</hi>, parue l’an dernier à Bologne chez Zanichelli. Voir
+              aussi notre article : <hi rend="i">Corpus Scriptorum Latinorum</hi> dans la <hi
+                rend="i">Revue de l’Enseignement des Langues Vivantes</hi>, de mars 1917, p. 110 <hi
+                rend="i">seq.</hi>, et notre écho ici même (<hi rend="i">Mercure</hi> du
+              16 juin 1917, p. 766).</note>, M. Armando Tartarini s’est demandé d’où venait que les
+            peuples latins, et plus spécialement les Italiens, eussent perdu <quote>« toute
+              communication avec les régions spirituelles de nos vieux ancêtres, qui nous
+              transmirent en héritage les formes essentielles de notre esprit et de notre
+              langue »</quote>. Sa réponse est la suivante : <quote>« Ce processus d’amnésie
+              historique qui peu à peu s’est manifesté parmi nous, est certainement un effet partiel
+              des méthodes germaniques introduites dans nos études et nos écoles, et qui ont
+              entraîné la haine pour les grecs et les latins, en desséchant les jardins de notre
+              latinité humaniste… »</quote> Selon ce garant informé, il n’est besoin, pour reprendre
+            les contacts interrompus, que <quote>« de rétablir les communications coupées par le
+              pédantesque “scientisme” philologique allemand »</quote> ; de se réconcilier, en un
+            mot, avec les grands classiques de l’antiquité, étudiés, non plus à la façon purement
+            formelle et « critique de textes » des éditeurs de Teubner et de leurs épigones, mais
+            aussi et surtout du point de vue de la « substantifique moelle », à peu près
+            complètement négligé par l’école des glossateurs de l’école philologique teutonne. Ici
+            encore, il convient de citer notre autorité :</p>
           <quote>
             <p>Les philologues — écrit M. Armando Tartarini — de chez nous, par la mesquine phobie
               de paraître rhéteurs et de déplaire aux « maîtres » tudesques, se sont réduits à la
@@ -6241,9 +6236,9 @@
               Comédie</hi> dont la <hi rend="i">Dédicace</hi>, imprimée en gros caractères,
             disait :</p>
           <quote>
-            <p rend="sc">al professore — carlo witte — che per gli studi spedi o
-              promossi — fece dante cittadino di germania — e se stesso d’italia — eugenio camerini
-              — intitola questo volume — come ad auspice illustre ed acclamato maestro.</p>
+            <p rend="sc">al professore — carlo witte — che per gli studi spedi o promossi — fece
+              dante cittadino di germania — e se stesso d’italia — eugenio camerini — intitola
+              questo volume — come ad auspice illustre ed acclamato maestro.</p>
           </quote>
           <p>Ce Dante « citoyen de l’Allemagne » par la vertu de Karl Witte nous rappelle que, dans
             l’une des anciennes éditions de la <hi rend="i">Storia della Letteratura italiana</hi>

@@ -7,6 +7,7 @@
     <fileDesc>
       <titleStmt>
         <title>Articles du <hi rend="i">Mercure de France</hi>, année 1891</title>
+        <author ref="https://data.bnf.fr/ark:/12148/cb11877250x">Mercure de France</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -22,30 +23,24 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2018"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1891.xml</idno>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1891.html</idno>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1891.epub</idno>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1891.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire
-              d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé
-              OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété
-              intellectuelle sur les bases de données (L341-1) est mise à disposition
-              de la communauté scientifique internationale par l’OBVIL, selon les
-              termes de la licence Creative Commons : « Attribution - Pas
-              d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND
-              3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou
-              publication dérivée de cette ressource électroniques comportera le nom
-              de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté
-              scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette
-              ressource électronique, notamment en intégrant toutes les contributions
-              extérieures, la diffusion de versions modifiées de cette ressource n’est
-              pas souhaitable.</p>
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+              « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+              Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+              électronique, notamment en intégrant toutes les contributions extérieures, la
+              diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
@@ -109,8 +104,8 @@
             <term type="author">Gourmont, Remy de (1858-1915)</term>
             <term type="signed">R. G.</term>
             <term type="section">Les Livres</term>
-            <term type="title">title : De l’Authenticité des Annales et des Histoires de Tacite,
-              par P. Hochart (Thorin) </term>
+            <term type="title">title : De l’Authenticité des Annales et des Histoires de Tacite, par
+              P. Hochart (Thorin) </term>
             <term type="date">1891-02</term>
             <term type="ref">Tome II, numéro 14, février 1891, p. 123-125 [124-125]</term>
           </index>
@@ -119,19 +114,18 @@
           <p> En ce livre d’une bonne et curieuse érudition, il est démontré que les œuvres de
             Tacite furent fabriquées de toutes pièces, à la Renaissance, par un latinisant habile et
             astucieux. Tromper à ce point la postérité, nous faire prendre jusqu’à la fin des
-            siècles pour <quote>« le témoin indigné de la vertu offensée »</quote> les
-            élucubrations factices d’un ingénieux truqueur, — ce rôle, paraît-il, tenta Pogge,
-            l’auteur des <hi rend="i">Facéties</hi>. M. Hochart donne quelques preuves qu’on a
-            discutées, mais non réfutées. Sans parler de la date des plus anciens manuscrits de
-            Tacite (au commencement du <num>xv<hi rend="sup">e</hi></num> siècle on n’en connaissait
-            aucun, et ceux que l’on connut étaient d’une écriture contemporaine), il y des détails
-            assez typiques : Ammien Marcelin est le seul auteur ancien qui avec Tacite mentionne
-            Ninive, et Pogge est le premier à avoir eu en main un manuscrit d’Ammien Marcelin ;
-            Tacite, qui connaissait certainement le golfe de Jaïes, n’aurait pas commis en le
-            décrivant les grossières erreurs qui lui sont attribuées, — tandis que c’est
-            vraisemblable de la part de Pogge qui ne le visita jamais, etc. Enfin il y a l’autorité
-            de M. Hochart, lequel étudie spécialement les temps historiques qui sont le sujet du
-            pseudo-Tacite.</p>
+            siècles pour <quote>« le témoin indigné de la vertu offensée »</quote> les élucubrations
+            factices d’un ingénieux truqueur, — ce rôle, paraît-il, tenta Pogge, l’auteur des <hi
+              rend="i">Facéties</hi>. M. Hochart donne quelques preuves qu’on a discutées, mais non
+            réfutées. Sans parler de la date des plus anciens manuscrits de Tacite (au commencement
+            du <num>xv<hi rend="sup">e</hi></num> siècle on n’en connaissait aucun, et ceux que l’on
+            connut étaient d’une écriture contemporaine), il y des détails assez typiques : Ammien
+            Marcelin est le seul auteur ancien qui avec Tacite mentionne Ninive, et Pogge est le
+            premier à avoir eu en main un manuscrit d’Ammien Marcelin ; Tacite, qui connaissait
+            certainement le golfe de Jaïes, n’aurait pas commis en le décrivant les grossières
+            erreurs qui lui sont attribuées, — tandis que c’est vraisemblable de la part de Pogge
+            qui ne le visita jamais, etc. Enfin il y a l’autorité de M. Hochart, lequel étudie
+            spécialement les temps historiques qui sont le sujet du pseudo-Tacite.</p>
         </div>
       </div>
       <div>
@@ -334,8 +328,8 @@
               <term type="ref">Tome II, numéro 17, mai 1891, p. 307</term>
             </index>
             <p><hi rend="sc">M Antonio Zaccaria</hi> vient de faire paraître à Faenza une
-                brochure<hi rend="i"> In Memoria di sua altezza reale il principe
-                Amedeo di Savoia, duca d’Aosta</hi>.</p>
+                brochure<hi rend="i"> In Memoria di sua altezza reale il principe Amedeo di Savoia,
+                duca d’Aosta</hi>.</p>
           </div>
         </div>
       </div>
@@ -390,9 +384,9 @@
               <term type="date">1891-07</term>
               <term type="ref">Tome II, numéro 19, juillet 1891, p. 58</term>
             </index>
-            <p><hi rend="i">La Signora di Challant</hi>, drame, par Giuseppe Giacosa.
-              Écrit pour Sarah Bernhardt, qui devait le jouer en français, et pour M<hi rend="sup"
-                >lle</hi> Duse, qui devait le jouer en italien, ce drame est toujours inédit et
+            <p><hi rend="i">La Signora di Challant</hi>, drame, par Giuseppe Giacosa. Écrit pour
+              Sarah Bernhardt, qui devait le jouer en français, et pour M<hi rend="sup"
+              >lle</hi> Duse, qui devait le jouer en italien, ce drame est toujours inédit et
               l’auteur vient d’en donner quelques lectures publiques. Le thème de la <hi rend="i"
                 >Dame de Challant</hi> est emprunté à la quatrième nouvelle de Bandello : c’est
               l’histoire de cette Bianca Maria, veuve d’Hermès Visconti, puis femme de René, comte
@@ -441,12 +435,12 @@
               <l rend="i">…                                 Sei tu</l>
               <l rend="i">Che preghi una notte pacata</l>
               <l rend="i">All’ombre che vengono giù ?</l>
-              </quote>
-              <quote>
+            </quote>
+            <quote>
               <p>« … Es-tu celle qui aspire à plus d’intensité de vie, qui évoque la danse des
                 Heures vers son ultime jeunesse, et qui demande une nuit d’amour aux ombres
                 descendantes ?</p>
-                <p/>
+              <p/>
               <l rend="i">E chiami la danza dell’Ore.</l>
               <l rend="i">Sull’ultima tua gioventù,</l>
               <l rend="i">E preghi una notte d’amore</l>
@@ -694,10 +688,10 @@
           <byline>R. G. [Remy de Gourmont]</byline>
           <bibl>Tome III, numéro 22, septembre 1891, p. 249-252 [249-250].</bibl>
           <p>[…]</p>
-          <p><hi rend="b">Gazzetta Letteraria</hi> (Turin). — <hi
-              rend="i">Il Bello e il Giudizio estetico</hi>, par G. Lavini : incapacité de la
-            science à définir le beau (22 août) ; <hi rend="i">Giorgio Eliot, la sua
-              vita e i suoi romanzi</hi>, par G. Depanis (5 septembre).</p>
+          <p><hi rend="b">Gazzetta Letteraria</hi> (Turin). — <hi rend="i">Il Bello e il Giudizio
+              estetico</hi>, par G. Lavini : incapacité de la science à définir le beau (22 août) ;
+              <hi rend="i">Giorgio Eliot, la sua vita e i suoi romanzi</hi>, par G. Depanis
+            (5 septembre).</p>
           <p><hi rend="b">Cronaca d’Arte</hi> (Milan). — Une belle gravure d’après une tête d’étude
             du peintre Andrea Gastaldi, mort à Turin il y a deux ans (30 août).</p>
           <p><hi rend="b">Critica Sociale</hi> (Milan). — <hi rend="i">La « vita » delle

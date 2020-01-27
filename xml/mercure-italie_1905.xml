@@ -6,6 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Articles du <hi rend="i">Mercure de France</hi>, année 1905</title>
+        <author ref="https://data.bnf.fr/ark:/12148/cb11877250x">Mercure de France</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -33,15 +34,8 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1905/</idno>
-        <idno type="tei"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1905.xml</idno>
-        <idno type="html"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1905.html</idno>
-        <idno type="epub"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1905.epub</idno>
-        <idno type="txt"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1905.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/</idno>
+        <idno type="txt">http://obvil.sorbonne-universite.fr/corpus/mdf-italie/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
@@ -1418,8 +1412,8 @@
             fais pas attention à ses discours.</p>
           <p>— Que pourrait-il me dire ? — demanda Antine avec mépris, les yeux perdus dans la nuit.
             — Il ne pourra rien me dire, et, s’il me parle, je le laisserai chanter. Je le connais
-            bien, cet homme-là ! Quand j’étais enfant, il m’envoyait chercher des
-            baies d’ellébore pour ses sorcelleries.</p>
+            bien, cet homme-là ! Quand j’étais enfant, il m’envoyait chercher des baies d’ellébore
+            pour ses sorcelleries.</p>
           <p>— Dieu nous protège ! Le laisser dire, non, ce serait un acte d’orgueil, parce qu’après
             tout, mon enfant, tu dois te rappeler que tu es le fils d’un berger ; réponds-lui, oui,
             mais ne fais pas ce qu’il te dira. Ne va pas chercher des baies d’ellébore, mon
@@ -1527,16 +1521,16 @@
             occupés à traire les vaches, et ils attendaient le séminariste, envahis d’une joie
             profonde. Zio Félix surtout se sentait heureux : il souriait sans savoir pourquoi, il
             pensait au jour où Antine dirait sa première messe, et il lui semblait être l’homme le
-            plus content du monde. Il parlait avec les vaches, avec Minnai, avec les jeunes
-            taureaux encore enfermés dans l’étable, avec le lait, qui jaillissait peu abondant des
-            mamelles épuisées des vaches pleines, avec le vase de cuivre, enfin avec tout ce qui lui
-            passait sous la main. Et rien ne lui répondait, — pas même le petit Minnai, qui, lui,
-            pourtant, réussissait à le comprendre au mouvement de ses lèvres, — mais il entendait
-            une voix intérieure répondre à toutes ses paroles, et cette voix intérieure chantait et
-            priait à la fois, rendant grâce au Seigneur. Puis, il entendit la voix d’Antine qui
-            montait du fleuve. Lui aussi chantait, et sa voix, pour Zio Félix, semblait emplir de
-            vie et de joie toute la <hi rend="i">tanca</hi>, animant le silence lumineux du paysage
-            fluvial, dans cette pure matinée d’août.</p>
+            plus content du monde. Il parlait avec les vaches, avec Minnai, avec les jeunes taureaux
+            encore enfermés dans l’étable, avec le lait, qui jaillissait peu abondant des mamelles
+            épuisées des vaches pleines, avec le vase de cuivre, enfin avec tout ce qui lui passait
+            sous la main. Et rien ne lui répondait, — pas même le petit Minnai, qui, lui, pourtant,
+            réussissait à le comprendre au mouvement de ses lèvres, — mais il entendait une voix
+            intérieure répondre à toutes ses paroles, et cette voix intérieure chantait et priait à
+            la fois, rendant grâce au Seigneur. Puis, il entendit la voix d’Antine qui montait du
+            fleuve. Lui aussi chantait, et sa voix, pour Zio Félix, semblait emplir de vie et de
+            joie toute la <hi rend="i">tanca</hi>, animant le silence lumineux du paysage fluvial,
+            dans cette pure matinée d’août.</p>
           <p>Antine vint à la bergerie, but du lait, joua avec Minnai, enfin se montra bien plus gai
             que la veille.</p>
           <p>Zio Félix le regardait, enchanté. Alors commença une vie heureuse pour les Nurroi et

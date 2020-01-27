@@ -6,6 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Articles du <hi rend="i">Mercure de France</hi>, année 1912</title>
+        <author ref="https://data.bnf.fr/ark:/12148/cb11877250x">Mercure de France</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -29,15 +30,8 @@
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1912/</idno>
-        <idno type="tei"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1912.xml</idno>
-        <idno type="html"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1912.html</idno>
-        <idno type="epub"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1912.epub</idno>
-        <idno type="txt"
-          >http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1912.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/</idno>
+        <idno type="txt">http://obvil.sorbonne-universite.fr/corpus/mdf-italie/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
@@ -854,9 +848,9 @@
             agréable, par contre les fresques ont conservé une ampleur de métier et un pouvoir de
             séduction incomparables. Celles du couvent de Monte Oliveto, entre autres le fragment
             des <hi rend="i">Courtisanes</hi> (1505), celles de la Farnésine et mieux encore celles
-            de l’Oratoire San Bernardino à Sienne (1518) comptent parmi les plus
-            belles peintures murales du commencement du <num>xvi<hi rend="sup">e</hi></num> siècle :
-            les reproductions qui accompagnent l’étude très détaillée de M. Gielly permettent
+            de l’Oratoire San Bernardino à Sienne (1518) comptent parmi les plus belles peintures
+            murales du commencement du <num>xvi<hi rend="sup">e</hi></num> siècle : les
+            reproductions qui accompagnent l’étude très détaillée de M. Gielly permettent
             suffisamment d’en juger.</p>
         </div>
       </div>
@@ -3176,10 +3170,10 @@
             du reste. Cette histoire de Florence, et de Dante dans Florence et hors de Florence, est
             si peu rédigée en façon de thème ou de dissertation ! Veut-on un portrait de Dante au
             moment de son accession à la carrière politique, comme <quote>« membre du Conseil
-              spécial du capitaine du peuple durant le semestre qui va du 1<hi rend="sup">er</hi> novembre 1295 au
-              30 avril 1296 »</quote> ? Il y a l’immense poète Dante, le héros Dante. Au demeurant,
-            l’homme Dante, dans sa vie de citoyen et de magistrat, se silhouette à peu près
-            ainsi :</p>
+              spécial du capitaine du peuple durant le semestre qui va du 1<hi rend="sup"
+              >er</hi> novembre 1295 au 30 avril 1296 »</quote> ? Il y a l’immense poète Dante, le
+            héros Dante. Au demeurant, l’homme Dante, dans sa vie de citoyen et de magistrat, se
+            silhouette à peu près ainsi :</p>
           <quote>
             <p>Ce petit homme noir, qui affectait la gravité du penseur, se tenait penché, « un peu
               bossu », et « comme une demi-arche de pont », regardait posément, cherchait l’autorité
@@ -8901,8 +8895,8 @@
             <p>Mais j’ai signalé ici même, lors de la mort de ce grand poète, les luttes
               « régionales » qui divisèrent jadis les partis « littéraires » en carducciens les
               écrivains septentrionaux de la péninsule) et en rapisardiens (les écrivains
-              méridionaux et siciliens). Les étudiants milanais semblent perpétuer même après la mort
-              du poète l’hostilité qu’il endura si fièrement toute sa vie. Mais ils auraient pu
+              méridionaux et siciliens). Les étudiants milanais semblent perpétuer même après la
+              mort du poète l’hostilité qu’il endura si fièrement toute sa vie. Mais ils auraient pu
               choisir, au moins, pour le remplacer, un autre poète : Marradi, par exemple !</p>
           </div>
         </div>
@@ -9844,8 +9838,8 @@
             </index>
             <p>[…]</p>
             <p>Les Alpes italiennes, longtemps ignorées des touristes, s’efforcent aujourd’hui de
-              rattraper les distances. À Courmayeur, on a installé au pied du Mont-Blanc, près
-              du glacier de la Brenva, un hideux guignol de gigantesques bonshommes en bois
+              rattraper les distances. À Courmayeur, on a installé au pied du Mont-Blanc, près du
+              glacier de la Brenva, un hideux guignol de gigantesques bonshommes en bois
               peinturlurés qui font la joie des <hi rend="i">villegianti</hi> italiens. Un écrivain
               lombard a protesté cet été contre la façon dont on a abîmé Macugnaga, dans le <hi
                 rend="i">Proverbano</hi>, l’organe des hôteliers du lac Majeur, qui ont eu le

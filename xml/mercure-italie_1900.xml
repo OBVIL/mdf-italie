@@ -7,6 +7,7 @@
     <fileDesc>
       <titleStmt>
         <title>Articles du <hi rend="i">Mercure de France</hi>, année 1900</title>
+        <author ref="https://data.bnf.fr/ark:/12148/cb11877250x">Mercure de France</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -21,30 +22,24 @@
       </editionStmt>
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1900.xml</idno>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1900.html</idno>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1900.epub</idno>
-        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/xml/mercure-italie_1900.txt</idno>
+        <idno>http://obvil.sorbonne-universite.fr/corpus/mdf-italie/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire
-              d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé
-              OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété
-              intellectuelle sur les bases de données (L341-1) est mise à disposition
-              de la communauté scientifique internationale par l’OBVIL, selon les
-              termes de la licence Creative Commons : « Attribution - Pas
-              d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND
-              3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou
-              publication dérivée de cette ressource électroniques comportera le nom
-              de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté
-              scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette
-              ressource électronique, notamment en intégrant toutes les contributions
-              extérieures, la diffusion de versions modifiées de cette ressource n’est
-              pas souhaitable.</p>
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+              « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+              Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+              électronique, notamment en intégrant toutes les contributions extérieures, la
+              diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
@@ -1749,15 +1744,15 @@
                 <l>Or d’une corde d’une toise</l>
                 <l>Saura mon col que mon cul poise.</l>
               </quote>
-              <p>qui est une preuve curieuse de l’indifférence des criminels en face
-                du supplice. Dans son Grand Testament il dépeint la vie des prostituées et se
-                dépeint lui-même comme entremetteur, avec d’ignobles détails dont la morale au fond
-                est celle-ci :</p>
+              <p>qui est une preuve curieuse de l’indifférence des criminels en face du supplice.
+                Dans son Grand Testament il dépeint la vie des prostituées et se dépeint lui-même
+                comme entremetteur, avec d’ignobles détails dont la morale au fond est
+                celle-ci :</p>
               <quote>
                 <l>Il n’est trésor que de vivre à son aise</l>
               </quote>
-              <p>mais qui pour nous sont précieux pour montrer la complète analogie
-                entre la prostitution et le crime :</p>
+              <p>mais qui pour nous sont précieux pour montrer la complète analogie entre la
+                prostitution et le crime :</p>
               <quote>
                 <l>Je suis paillard, la paillarde me duit :</l>
                 <l>L’ung vaut l’autre : c’est à mlau chat mau rat ;</l>
@@ -3819,14 +3814,13 @@
             étendu déjà, mais fait des traditions mourantes de Lebrun, de Jouvenet, de Rigaud, des
             audaces peu pénétrées de Watteau et de Chardin, de la grâce trop absorbée de Boucher. Il
             faut, pour la trouver dans ses premières œuvres, la chercher patiemment la précieuse
-            indication, la promesse d’où va germer l’enchantement et la joie, — le
-            soleil d’Italie aidant, et aussi des hasards heureux, à son retour. La genèse de
-            Fragonard sera longue, son inquiétude, ses incertitudes se prolongeront : son esprit
-            mobile et primesautier y aidera, — et peut-être, une certaine indifférence, une
-            répugnance secrète à accepter les idées reçues. Ce n’est que tard qu’il trouvera sa
-            voie : c’est la plus périlleuse qui soit, il y faut plus de génie qu’en aucune autre. Il
-            y réussira merveilleusement, et dans aucune école aucun peintre ne sera capable de l’y
-            égaler.</p>
+            indication, la promesse d’où va germer l’enchantement et la joie, — le soleil d’Italie
+            aidant, et aussi des hasards heureux, à son retour. La genèse de Fragonard sera longue,
+            son inquiétude, ses incertitudes se prolongeront : son esprit mobile et primesautier y
+            aidera, — et peut-être, une certaine indifférence, une répugnance secrète à accepter les
+            idées reçues. Ce n’est que tard qu’il trouvera sa voie : c’est la plus périlleuse qui
+            soit, il y faut plus de génie qu’en aucune autre. Il y réussira merveilleusement, et
+            dans aucune école aucun peintre ne sera capable de l’y égaler.</p>
           <p/>
           <p>Le 24 novembre 1756, Natoire écrivait à Marigny :</p>
           <quote>
