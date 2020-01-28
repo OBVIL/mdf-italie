@@ -115,7 +115,11 @@ else if ( $base->search ) {
 }
 // pas de livre demandé, montrer un rapport général
 else {
-  readfile( "doc/presentation.html" );
+
+  if ( file_exists( $f="doc/presentation.html" ) ) {
+    readfile( "doc/presentation.html" );
+  }
+
   $base->biblio( array("no", "date", "creator", "title") );
 }
             ?>
