@@ -41,13 +41,13 @@ tr.xml-diplo td { background: url( "<?= $basehref ?>fond.png" ); }
         <h1>
           <?php
 if ( !$path && $base->search ) echo '<a href="'.$basehref.'">'.$conf['title'].'</a>';
-else if ( !$path ) echo '<a href="http://obvil.paris-sorbonne.fr/projets/la-presence-de-la-litterature-italienne-dans-le-mercure-de-france-1890-1918">Projet : '.$conf['title'].'</a>';
+else if ( !$path ) echo '<a href="http://132.227.201.10:8086/projets/la-presence-de-la-litterature-italienne-dans-le-mercure-de-france-1890-1918">Projet : '.$conf['title'].'</a>';
 else {
   echo '<a href="'.$basehref.'?'.$_COOKIE['lastsearch'].'">'.$conf['title'].'</a>';
 }
           ?>
         </h1>
-        <a class="logo" href="http://obvil.paris-sorbonne.fr/"><img class="logo" src="<?php echo $basehref; ?>../theme/img/logo-obvil.png" alt="OBVIL"></a>
+        <a class="logo" href="http://132.227.201.10:8086/"><img class="logo" src="<?php echo $basehref; ?>../theme/img/logo-obvil.png" alt="OBVIL"></a>
       </header>
       <div id="contenu">
         <aside id="aside">
